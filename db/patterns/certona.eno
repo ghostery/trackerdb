@@ -1,0 +1,18 @@
+name: Certona
+category: advertising
+website_url: http://www.certona.com/products/recommendation.php
+organization: certona
+
+--- domains
+certona.net
+res-x.com
+--- domains
+
+--- filters
+/\/resxcls[ax][0-9a-z_]*\.js/
+/resonance5050.js
+||certona.net^
+||res-x.com^
+--- filters
+
+ghostery_id: 283

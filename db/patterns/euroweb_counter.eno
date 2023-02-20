@@ -1,0 +1,14 @@
+name: Euroweb Counter
+category: advertising
+website_url: http://www.euroweb.de/
+organization: euroweb
+
+--- domains
+tracker.euroweb.net
+--- domains
+
+--- filters
+||tracker.euroweb.net^
+--- filters
+
+ghostery_id: 1147

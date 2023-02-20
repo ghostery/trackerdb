@@ -1,0 +1,14 @@
+name: Advolution
+category: advertising
+website_url: http://www.advolution.de
+organization: advolution
+
+--- domains
+advolution.de
+--- domains
+
+--- filters
+||advolution.de^
+--- filters
+
+ghostery_id: 1929

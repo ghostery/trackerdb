@@ -1,0 +1,15 @@
+name: Wirtualna Polska
+category: advertising
+website_url: https://www.wp.pl/
+organization: wp
+
+--- domains
+wp.pl
+wpimg.pl
+--- domains
+
+--- filters
+||adv.wp.pl^
+--- filters
+
+ghostery_id: 2823

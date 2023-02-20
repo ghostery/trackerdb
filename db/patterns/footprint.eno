@@ -1,0 +1,15 @@
+name: Footprint
+category: advertising
+website_url: http://www.footprintlive.com/
+organization: opentracker
+
+--- domains
+footprintlive.com
+--- domains
+
+--- filters
+||img.footprintlive.com^
+||script.footprintlive.com^
+--- filters
+
+ghostery_id: 619

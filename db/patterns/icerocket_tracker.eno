@@ -1,0 +1,14 @@
+name: IceRocket Tracker
+category: social_media
+website_url: http://tracker.icerocket.com/
+organization: meltwater_icerocket
+
+--- domains
+tracker.icerocket.com
+--- domains
+
+--- filters
+||tracker.icerocket.com/services/collector.js
+--- filters
+
+ghostery_id: 953

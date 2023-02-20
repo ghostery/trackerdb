@@ -1,0 +1,14 @@
+name: RhythmOne
+category: advertising
+website_url: http://www.adconductor.com/
+organization: rhythmone
+
+--- domains
+addesktop.com
+--- domains
+
+--- filters
+||addesktop.com^
+--- filters
+
+ghostery_id: 1344

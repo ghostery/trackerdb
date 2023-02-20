@@ -1,0 +1,17 @@
+name: Bebi Media
+category: advertising
+website_url: https://www.bebi.com/
+organization: bebi_media
+
+--- domains
+bebi.com
+--- domains
+
+--- filters
+||bebi.com/public/js/bebi_v1.js
+||go.bebi.com/w/1.1/
+||redir.bebi.com^
+||st.bebi.com/bebi_v3.js
+--- filters
+
+ghostery_id: 2244

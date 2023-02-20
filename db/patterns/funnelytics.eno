@@ -1,0 +1,14 @@
+name: Funnelytics
+category: site_analytics
+website_url: 
+organization: funnelytics
+
+--- domains
+track.funnelytics.io
+--- domains
+
+--- filters
+||track.funnelytics.io/trackers
+--- filters
+
+ghostery_id: 3233

@@ -1,0 +1,14 @@
+name: AdJug
+category: advertising
+website_url: http://www.adjug.com/
+organization: adjug
+
+--- domains
+adjug.com
+--- domains
+
+--- filters
+||adjug.com^
+--- filters
+
+ghostery_id: 682

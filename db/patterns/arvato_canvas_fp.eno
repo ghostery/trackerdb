@@ -1,0 +1,14 @@
+name: Arvato Canvas FP
+category: site_analytics
+website_url: 
+organization: arvato
+
+--- domains
+cya2.net
+--- domains
+
+--- filters
+||cya2.net/js/stat
+--- filters
+
+ghostery_id: 2668

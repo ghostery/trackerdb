@@ -1,0 +1,14 @@
+name: PolyAd
+category: advertising
+website_url: http://polyad.net
+organization: polyad
+
+--- domains
+polyad.net
+--- domains
+
+--- filters
+||polyad.net^
+--- filters
+
+ghostery_id: 1183

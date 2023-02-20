@@ -1,0 +1,16 @@
+name: Zmags
+category: site_analytics
+website_url: https://zmags.com/
+organization: zmags
+
+--- domains
+zmags.com
+--- domains
+
+--- filters
+||c.zmags.com/a/p/p.js
+||p.zmags.com^
+||statsd.zmags.com^
+--- filters
+
+ghostery_id: 2943

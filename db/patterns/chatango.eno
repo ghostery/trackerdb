@@ -1,0 +1,14 @@
+name: Chatango
+category: customer_interaction
+website_url: http://www.chatango.com/
+organization: chatango
+
+--- domains
+chatango.com
+--- domains
+
+--- filters
+||chatango.com^
+--- filters
+
+ghostery_id: 1653

@@ -1,0 +1,14 @@
+name: Google Trusted Stores
+category: site_analytics
+website_url: 
+organization: google
+
+--- domains
+googlecommerce.com
+--- domains
+
+--- filters
+||googlecommerce.com/trustedstores/gtmp_compiled.js
+--- filters
+
+ghostery_id: 2968

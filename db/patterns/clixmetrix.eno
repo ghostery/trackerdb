@@ -1,0 +1,14 @@
+name: ClixMetrix
+category: advertising
+website_url: http://www.clixmetrix.com/
+organization: clixmedia
+
+--- domains
+clixmetrix.com
+--- domains
+
+--- filters
+||clixmetrix.com^
+--- filters
+
+ghostery_id: 231

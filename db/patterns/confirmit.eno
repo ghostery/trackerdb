@@ -1,0 +1,14 @@
+name: Confirmit
+category: advertising
+website_url: http://confirmit.com/
+organization: confirmit
+
+--- domains
+confirmit.com
+--- domains
+
+--- filters
+||confirmit.com^
+--- filters
+
+ghostery_id: 1557

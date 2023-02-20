@@ -1,0 +1,14 @@
+name: AdOperator
+category: advertising
+website_url: http://www.adoperator.com/start/
+organization: adoperator
+
+--- domains
+adoperator.com
+--- domains
+
+--- filters
+||adoperator.com^
+--- filters
+
+ghostery_id: 999

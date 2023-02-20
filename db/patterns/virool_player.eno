@@ -1,0 +1,14 @@
+name: Virool Player
+category: advertising
+website_url: 
+organization: virool
+
+--- domains
+ssp.virool.com
+--- domains
+
+--- filters
+||ssp.virool.com/rubicon/player.js
+--- filters
+
+ghostery_id: 2896

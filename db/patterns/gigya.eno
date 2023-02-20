@@ -1,0 +1,23 @@
+name: Gigya
+category: site_analytics
+website_url: 
+organization: sap
+
+--- domains
+analytics.gigyahosting1.com
+gigcount.com
+gigya.com
+--- domains
+
+--- filters
+/js/gigya-sharebar.min.js
+||analytics.gigyahosting1.com/gigya-analytics.js
+||cdn.gigya.com/js
+||cdns.gigya.com^
+||cdns.us1.gigya.com^
+||cdns2.gigya.com^
+||gigya.com/js/gigyagaintegration.js
+||gscounters.us1.gigya.com^
+--- filters
+
+ghostery_id: 2746

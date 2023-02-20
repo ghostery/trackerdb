@@ -1,0 +1,16 @@
+name: Affiliation France
+category: advertising
+website_url: http://www.affiliation-france.com/
+organization: affiliation-france
+
+--- domains
+affiliation-france.com
+--- domains
+
+--- filters
+||affiliation-france.com/bans
+||affiliation-france.com/pooltag
+||affiliation-france.com/scripts
+--- filters
+
+ghostery_id: 1975

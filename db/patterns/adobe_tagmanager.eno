@@ -1,0 +1,15 @@
+name: Adobe TagManager
+category: advertising
+website_url: https://www.adobe.com/
+organization: adobe
+
+--- domains
+adobetag.com
+--- domains
+
+--- filters
+||adobetag.com^
+||s3.amazonaws.com/searchdiscovery-satellite-production
+--- filters
+
+ghostery_id: 1377

@@ -1,0 +1,10 @@
+name: Azure CDN
+category: cdn
+website_url: 
+organization: microsoft
+
+--- domains
+azureedge.net
+--- domains
+
+ghostery_id: 3380

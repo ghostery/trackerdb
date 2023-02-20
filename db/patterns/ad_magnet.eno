@@ -1,0 +1,16 @@
+name: Ad Magnet
+category: advertising
+website_url: http://www.admagnet.com/
+organization: ad_magnet
+
+--- domains
+admagnet.net
+amimg.net
+--- domains
+
+--- filters
+||admagnet.net^
+||amimg.net^
+--- filters
+
+ghostery_id: 1258

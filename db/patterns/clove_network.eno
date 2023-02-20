@@ -1,0 +1,15 @@
+name: Clove Network
+category: advertising
+website_url: http://www.clovenetwork.com/
+organization: clove_network
+
+--- domains
+clovenetwork.com
+--- domains
+
+--- filters
+||ad.clovenetwork.com^
+||ads.clovenetwork.com^
+--- filters
+
+ghostery_id: 857

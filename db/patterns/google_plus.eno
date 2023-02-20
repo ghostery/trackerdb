@@ -1,0 +1,14 @@
+name: Google+ Platform
+category: social_media
+website_url: http://www.google.com/+1/button/
+organization: google
+alias: google
+
+--- filters
+||plus.google.com/js/client:plusone.js^
+||google.com/_/+1/fastbutton^
+||apis.google.com/js/platform.js
+||apis.google.com/js/plusone.js
+--- filters
+
+ghostery_id: 615

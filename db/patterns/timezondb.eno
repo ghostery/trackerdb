@@ -1,0 +1,14 @@
+name: TimezonDB
+category: advertising
+website_url: 
+organization: timezonedb
+
+--- domains
+vip.timezonedb.com
+--- domains
+
+--- filters
+||vip.timezonedb.com/v2/get-time-zone
+--- filters
+
+ghostery_id: 3110

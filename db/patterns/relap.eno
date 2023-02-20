@@ -1,0 +1,14 @@
+name: Relap
+category: advertising
+website_url: https://relap.io/
+organization: relap
+
+--- domains
+relap.io
+--- domains
+
+--- filters
+||relap.io/api/v6/head.js
+--- filters
+
+ghostery_id: 3023

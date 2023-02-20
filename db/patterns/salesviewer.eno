@@ -1,0 +1,14 @@
+name: SalesViewer
+category: site_analytics
+website_url: 
+organization: salesviewer
+
+--- domains
+salesviewer.com
+--- domains
+
+--- filters
+||salesviewer.com/tracker
+--- filters
+
+ghostery_id: 2692

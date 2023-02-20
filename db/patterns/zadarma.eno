@@ -1,0 +1,15 @@
+name: Zadarma
+category: customer_interaction
+website_url: 
+organization: zadarma
+
+--- domains
+api.zadarma.com
+--- domains
+
+--- filters
+||api.zadarma.com^
+||my.zadarma.com/callbackwidget/js/main.min.js
+--- filters
+
+ghostery_id: 3172

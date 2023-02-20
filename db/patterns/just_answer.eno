@@ -1,0 +1,14 @@
+name: Just Answer
+category: customer_interaction
+website_url: 
+organization: just_answer
+
+--- domains
+components.justanswer.com
+--- domains
+
+--- filters
+||components.justanswer.com/js/
+--- filters
+
+ghostery_id: 3250

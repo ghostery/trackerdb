@@ -1,0 +1,14 @@
+name: Clickky
+category: advertising
+website_url: http://www.clickky.biz/
+organization: clickky
+
+--- domains
+clickky.biz
+--- domains
+
+--- filters
+||clickky.biz^
+--- filters
+
+ghostery_id: 2028

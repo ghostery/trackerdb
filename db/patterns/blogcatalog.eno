@@ -1,0 +1,14 @@
+name: BlogCatalog
+category: customer_interaction
+website_url: http://www.blogcatalog.com/
+organization: blogcatalog
+
+--- domains
+www.blogcatalog.com
+--- domains
+
+--- filters
+||www.blogcatalog.com/w/recent.php
+--- filters
+
+ghostery_id: 81

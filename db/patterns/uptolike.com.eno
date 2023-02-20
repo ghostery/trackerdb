@@ -1,0 +1,14 @@
+name: Uptolike
+category: social_media
+website_url: https://www.uptolike.com/
+organization: uptolike
+
+--- domains
+uptolike.com
+--- domains
+
+--- filters
+||uptolike.com^
+--- filters
+
+ghostery_id: 2010

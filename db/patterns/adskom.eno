@@ -1,0 +1,16 @@
+name: ADSKOM
+category: advertising
+website_url: http://adskom.com/
+organization: adskom
+
+--- domains
+ssp.adskom.com
+--- domains
+
+--- filters
+||ssp.adskom.com/ads
+||ssp.adskom.com/ak-dcopriv.js
+||ssp.adskom.com/vads
+--- filters
+
+ghostery_id: 2136

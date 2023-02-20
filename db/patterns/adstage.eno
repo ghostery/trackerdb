@@ -1,0 +1,14 @@
+name: AdStage
+category: advertising
+website_url: http://www.adstage.io/
+organization: adstage
+
+--- domains
+adstage-analytics.herokuapp.com
+--- domains
+
+--- filters
+||adstage-analytics.herokuapp.com^
+--- filters
+
+ghostery_id: 1804

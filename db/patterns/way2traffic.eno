@@ -1,0 +1,14 @@
+name: Way2traffic
+category: advertising
+website_url: http://www.way2traffic.com/
+organization: way2traffic
+
+--- domains
+way2traffic.com
+--- domains
+
+--- filters
+||way2traffic.com^
+--- filters
+
+ghostery_id: 1200

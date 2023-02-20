@@ -1,0 +1,14 @@
+name: Movable Media
+category: advertising
+website_url: http://www.movablemedia.com/
+organization: movable_media
+
+--- domains
+mvb.me
+--- domains
+
+--- filters
+||mvb.me^
+--- filters
+
+ghostery_id: 1086

@@ -1,0 +1,14 @@
+name: Streak
+category: customer_interaction
+website_url: http://www.streak.com/
+organization: streak
+
+--- domains
+mailfoogae.appspot.com
+--- domains
+
+--- filters
+||mailfoogae.appspot.com/t
+--- filters
+
+ghostery_id: 2023

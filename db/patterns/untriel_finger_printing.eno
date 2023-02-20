@@ -1,0 +1,14 @@
+name: Untriel Finger Printing
+category: site_analytics
+website_url: 
+organization: untriel
+
+--- domains
+src.kitcode.net
+--- domains
+
+--- filters
+||src.kitcode.net/fp2.js
+--- filters
+
+ghostery_id: 2674

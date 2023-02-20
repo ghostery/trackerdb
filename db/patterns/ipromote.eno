@@ -1,0 +1,14 @@
+name: iPromote
+category: advertising
+website_url: http://www.ipromote.com/
+organization: ipromote
+
+--- domains
+ipromote.com
+--- domains
+
+--- filters
+||ipromote.com^
+--- filters
+
+ghostery_id: 1301

@@ -1,0 +1,15 @@
+name: Adtarget.me
+category: advertising
+website_url: http://www.adtarget.me/
+organization: adtarget.me
+
+--- domains
+adtarget.me
+--- domains
+
+--- filters
+||static-trackers.adtarget.me^
+||trackers.adtarget.me^
+--- filters
+
+ghostery_id: 2158

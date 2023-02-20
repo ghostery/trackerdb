@@ -1,0 +1,14 @@
+name: Affiliator
+category: advertising
+website_url: http://www.affiliator.com/
+organization: affiliator
+
+--- domains
+affiliator.com
+--- domains
+
+--- filters
+||affiliator.com^
+--- filters
+
+ghostery_id: 1385

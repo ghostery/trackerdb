@@ -1,0 +1,15 @@
+name: Usemax
+category: advertising
+website_url: http://www.usemax.de
+organization: usemax
+
+--- domains
+usemax.de
+usemaxserver.de
+--- domains
+
+--- filters
+||usemax.de^
+--- filters
+
+ghostery_id: 1414

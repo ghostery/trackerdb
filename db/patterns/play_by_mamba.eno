@@ -1,0 +1,14 @@
+name: Play by Mamba
+category: advertising
+website_url: http://play.mamba.ru/
+organization: mamba
+
+--- domains
+loveadvert.ru
+--- domains
+
+--- filters
+||loveadvert.ru^
+--- filters
+
+ghostery_id: 1317

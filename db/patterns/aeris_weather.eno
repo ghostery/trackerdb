@@ -1,0 +1,15 @@
+name: Aeris Weather
+category: customer_interaction
+website_url: https://www.aerisweather.com/
+organization: aerisweather
+
+--- domains
+aerisapi.com
+aerisweather.com
+--- domains
+
+--- filters
+||api.aerisapi.com^
+--- filters
+
+ghostery_id: 1601

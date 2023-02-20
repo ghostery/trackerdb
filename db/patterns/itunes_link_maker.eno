@@ -1,0 +1,15 @@
+name: iTunes Link Maker
+category: advertising
+website_url: https://www.apple.com/
+organization: apple
+
+--- domains
+apple.com
+autolinkmaker.itunes.apple.com
+--- domains
+
+--- filters
+||autolinkmaker.itunes.apple.com^
+--- filters
+
+ghostery_id: 2027

@@ -1,0 +1,14 @@
+name: Foursquare Widget
+category: advertising
+website_url: https://foursquare.com/
+organization: foursquare
+
+--- domains
+platform.foursquare.com
+--- domains
+
+--- filters
+||platform.foursquare.com/js/widgets.js
+--- filters
+
+ghostery_id: 1041

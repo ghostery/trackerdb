@@ -1,0 +1,14 @@
+name: Avazu Network
+category: advertising
+website_url: http://www.avazudsp.net/
+organization: avazu_network
+
+--- domains
+ads.avazu.net
+--- domains
+
+--- filters
+||ads.avazu.net^
+--- filters
+
+ghostery_id: 1057

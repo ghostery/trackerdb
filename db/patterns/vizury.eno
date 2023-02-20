@@ -1,0 +1,14 @@
+name: Vizury
+category: advertising
+website_url: http://www.vizury.com/website/
+organization: vizury
+
+--- domains
+vizury.com
+--- domains
+
+--- filters
+||vizury.com^
+--- filters
+
+ghostery_id: 1260

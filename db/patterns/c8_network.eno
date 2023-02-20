@@ -1,0 +1,14 @@
+name: C8 Network
+category: advertising
+website_url: http://c8.net.ua/
+organization: c8_network
+
+--- domains
+c8.net.ua
+--- domains
+
+--- filters
+||c8.net.ua^
+--- filters
+
+ghostery_id: 1282

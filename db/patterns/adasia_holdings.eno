@@ -1,0 +1,15 @@
+name: AdAsia Holdings
+category: advertising
+website_url: 
+organization: adasia_holdings
+
+--- domains
+adnetwork.adasiaholdings.com
+--- domains
+
+--- filters
+||adnetwork.adasiaholdings.com^
+||cdn.adasiaholdings.com/tag/aan_jw_126.js
+--- filters
+
+ghostery_id: 3126

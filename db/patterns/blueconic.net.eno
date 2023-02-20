@@ -1,0 +1,14 @@
+name: BlueConic Plugin
+category: site_analytics
+website_url: https://www.blueconic.com/
+organization: blueconic
+
+--- domains
+blueconic.net
+--- domains
+
+--- filters
+||blueconic.net^
+--- filters
+
+ghostery_id: 2873

@@ -1,0 +1,20 @@
+name: Rubicon
+category: advertising
+website_url: http://rubiconproject.com/
+organization: rubicon_project
+
+--- domains
+dpclk.com
+mobsmith.com
+nearbyad.com
+rubiconproject.com
+--- domains
+
+--- filters
+||cm.dpclk.com^
+||mobsmith.com^
+||nearbyad.com^
+||rubiconproject.com^
+--- filters
+
+ghostery_id: 60

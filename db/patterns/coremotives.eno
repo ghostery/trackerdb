@@ -1,0 +1,14 @@
+name: CoreMotives
+category: advertising
+website_url: http://coremotives.com/
+organization: coremotives
+
+--- domains
+coremotives.com
+--- domains
+
+--- filters
+||coremotives.com^
+--- filters
+
+ghostery_id: 817

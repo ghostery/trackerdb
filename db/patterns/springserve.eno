@@ -1,0 +1,16 @@
+name: SpringServe
+category: advertising
+website_url: 
+organization: springserve
+
+--- domains
+springserve.com
+--- domains
+
+--- filters
+||dmp.springserve.com/px
+||pubsqrd.com^
+||vid.springserve.com/vast
+--- filters
+
+ghostery_id: 2754

@@ -1,0 +1,14 @@
+name: TrafficForce
+category: advertising
+website_url: http://www.trafficforce.com/
+organization: trafficforce
+
+--- domains
+trafficforce.com
+--- domains
+
+--- filters
+||trafficforce.com^
+--- filters
+
+ghostery_id: 2089

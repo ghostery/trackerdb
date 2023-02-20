@@ -1,0 +1,14 @@
+name: Tapad
+category: advertising
+website_url: http://www.tapad.com/
+organization: telenor
+
+--- domains
+tapad.com
+--- domains
+
+--- filters
+||tapad.com^
+--- filters
+
+ghostery_id: 1176

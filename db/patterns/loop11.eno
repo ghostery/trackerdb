@@ -1,0 +1,14 @@
+name: Loop11
+category: site_analytics
+website_url: 
+organization: 360i
+
+--- domains
+loop11.com
+--- domains
+
+--- filters
+||cdn.loop11.com^
+--- filters
+
+ghostery_id: 2314

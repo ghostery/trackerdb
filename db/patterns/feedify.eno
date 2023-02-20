@@ -1,0 +1,14 @@
+name: Feedify
+category: social_media
+website_url: http://feedify.de/
+organization: feedify
+
+--- domains
+feedify.de
+--- domains
+
+--- filters
+||feedify.de^
+--- filters
+
+ghostery_id: 2218

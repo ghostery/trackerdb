@@ -1,0 +1,14 @@
+name: Vidora
+category: audio_video_player
+website_url: 
+organization: vidora
+
+--- domains
+assets.vidora.com
+--- domains
+
+--- filters
+||assets.vidora.com/js/
+--- filters
+
+ghostery_id: 2362

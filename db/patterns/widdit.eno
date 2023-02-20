@@ -1,0 +1,15 @@
+name: Widdit
+category: customer_interaction
+website_url: http://www.predictad.com/
+organization: widdit
+
+--- domains
+predictad.com
+--- domains
+
+--- filters
+||predictad.com/scripts/molosky/
+||predictad.com/scripts/publishers/
+--- filters
+
+ghostery_id: 320

@@ -1,0 +1,15 @@
+name: SlimCutMedia
+category: site_analytics
+website_url: 
+organization: slimcutmedia
+
+--- domains
+freeskreen.com
+--- domains
+
+--- filters
+||sb.freeskreen.com/publisher/script.js
+||static.freeskreen.com/publisher/2233/freeskreen.min.js
+--- filters
+
+ghostery_id: 2905

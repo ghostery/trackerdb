@@ -1,0 +1,14 @@
+name: Intent
+category: advertising
+website_url: https://intent.com/
+organization: intent_media
+
+--- domains
+intentmedia.net
+--- domains
+
+--- filters
+||intentmedia.net^
+--- filters
+
+ghostery_id: 733

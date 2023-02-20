@@ -1,0 +1,15 @@
+name: Topsy
+category: advertising
+website_url: http://topsy.com/
+organization: topsy
+
+--- domains
+topsy.com
+--- domains
+
+--- filters
+||cdn.topsy.com^
+||otter.topsy.com^
+--- filters
+
+ghostery_id: 664

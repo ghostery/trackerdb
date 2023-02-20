@@ -1,0 +1,14 @@
+name: City Spark
+category: advertising
+website_url: 
+organization: city_spark
+
+--- domains
+p.cityspark.com
+--- domains
+
+--- filters
+||p.cityspark.com/api/widgets/widgetinfo
+--- filters
+
+ghostery_id: 3105

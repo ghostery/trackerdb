@@ -1,0 +1,14 @@
+name: JW Player Ad Solutions
+category: advertising
+website_url: http://www.longtailvideo.com/adsolution/
+organization: jw_player
+
+--- domains
+ltassrv.com
+--- domains
+
+--- filters
+||ltassrv.com^
+--- filters
+
+ghostery_id: 765

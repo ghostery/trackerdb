@@ -1,0 +1,14 @@
+name: Coull
+category: advertising
+website_url: http://coull.com/
+organization: coull
+
+--- domains
+coull.com
+--- domains
+
+--- filters
+||coull.com^
+--- filters
+
+ghostery_id: 1819

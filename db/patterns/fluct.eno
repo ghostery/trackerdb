@@ -1,0 +1,14 @@
+name: Fluct
+category: advertising
+website_url: https://corp.fluct.jp/
+organization: fluct
+
+--- domains
+adingo.jp
+--- domains
+
+--- filters
+||adingo.jp^
+--- filters
+
+ghostery_id: 924

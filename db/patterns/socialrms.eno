@@ -1,0 +1,14 @@
+name: SocialRMS
+category: social_media
+website_url: http://socialinterface.com/socialrms/
+organization: socialinterface
+
+--- domains
+ratevoice.com
+--- domains
+
+--- filters
+||ratevoice.com^
+--- filters
+
+ghostery_id: 824

@@ -1,0 +1,16 @@
+name: SaleCycle
+category: advertising
+website_url: http://www.salecycle.com/
+organization: salecycle
+
+--- domains
+d16fk4ms6rqz1v.cloudfront.net
+salecycle.com
+--- domains
+
+--- filters
+||app.salecycle.com^
+||d16fk4ms6rqz1v.cloudfront.net^
+--- filters
+
+ghostery_id: 1130

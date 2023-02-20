@@ -1,0 +1,16 @@
+name: Connexity
+category: advertising
+website_url: http://www.connexity.com
+organization: shopzilla
+
+--- domains
+connexity.net
+cxt.ms
+--- domains
+
+--- filters
+||connexity.net^
+||cxt.ms^
+--- filters
+
+ghostery_id: 1293

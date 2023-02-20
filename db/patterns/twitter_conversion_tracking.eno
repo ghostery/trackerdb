@@ -1,0 +1,11 @@
+name: Twitter Conversion Tracking
+category: advertising
+website_url: 
+organization: twitter
+alias: twitter
+
+--- filters
+||t.co/i/adsct
+--- filters
+
+ghostery_id: 3013

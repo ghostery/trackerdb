@@ -1,0 +1,14 @@
+name: Allin
+category: site_analytics
+website_url: 
+organization: allin
+
+--- domains
+i.btg360.com.br
+--- domains
+
+--- filters
+||i.btg360.com.br/btg360-2.0.1.min.js
+--- filters
+
+ghostery_id: 2637

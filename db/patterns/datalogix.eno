@@ -1,0 +1,15 @@
+name: Datalogix
+category: advertising
+website_url: https://www.oracle.com/corporate/acquisitions/datalogix/
+organization: oracle
+
+--- domains
+inextaction.net
+nexac.com
+--- domains
+
+--- filters
+||nexac.com^
+--- filters
+
+ghostery_id: 175

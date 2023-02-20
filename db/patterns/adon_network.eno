@@ -1,0 +1,36 @@
+name: AdOn Network
+category: advertising
+website_url: http://www.adonnetwork.com/
+organization: adon_network
+
+--- domains
+adcde.com
+addlvr.com
+adfeedstrk.com
+adtrgt.com
+bannertgt.com
+cptgt.com
+cpvfeed.com
+cpvtgt.com
+mygeek.com
+popcde.com
+sdfje.com
+urtbk.com
+--- domains
+
+--- filters
+||adcde.com^
+||addlvr.com^
+||adfeedstrk.com^
+||adtrgt.com^
+||bannertgt.com^
+||cptgt.com^
+||cpvfeed.com^
+||cpvtgt.com^
+||mygeek.com^
+||popcde.com^
+||sdfje.com^
+||urtbk.com^
+--- filters
+
+ghostery_id: 800

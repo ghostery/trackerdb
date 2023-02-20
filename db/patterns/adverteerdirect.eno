@@ -1,0 +1,14 @@
+name: Adverteerdirect
+category: advertising
+website_url: http://www.adverteerdirect.nl/
+organization: adverteerdirect
+
+--- domains
+ad.adverteerdirect.nl
+--- domains
+
+--- filters
+||ad.adverteerdirect.nl^
+--- filters
+
+ghostery_id: 960

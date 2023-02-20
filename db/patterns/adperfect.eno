@@ -1,0 +1,14 @@
+name: AdPerfect
+category: advertising
+website_url: http://www.adperfect.com/
+organization: adperfect
+
+--- domains
+adperfect.com
+--- domains
+
+--- filters
+||adperfect.com^
+--- filters
+
+ghostery_id: 1888

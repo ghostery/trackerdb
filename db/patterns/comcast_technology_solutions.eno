@@ -1,0 +1,14 @@
+name: Comcast Technology Solutions
+category: audio_video_player
+website_url: 
+organization: comcast_technology_solutions
+
+--- domains
+pdk.theplatform.com
+--- domains
+
+--- filters
+||pdk.theplatform.com/current/pdk/js/plugins/freewheel.js
+--- filters
+
+ghostery_id: 2658

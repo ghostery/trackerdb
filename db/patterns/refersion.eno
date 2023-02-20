@@ -1,0 +1,14 @@
+name: Refersion
+category: advertising
+website_url: https://www.refersion.com/
+organization: refersion
+
+--- domains
+refersion.com
+--- domains
+
+--- filters
+||refersion.com^
+--- filters
+
+ghostery_id: 2098

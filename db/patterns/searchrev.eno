@@ -1,0 +1,14 @@
+name: SearchRev
+category: advertising
+website_url: http://www.searchrev.com/
+organization: searchrev
+
+--- domains
+srtk.net
+--- domains
+
+--- filters
+||srtk.net/www/delivery/
+--- filters
+
+ghostery_id: 338

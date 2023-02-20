@@ -1,0 +1,14 @@
+name: Forter
+category: advertising
+website_url: https://www.forter.com/
+organization: forter
+
+--- domains
+forter.com
+--- domains
+
+--- filters
+||cdn4.forter.com/script.js
+--- filters
+
+ghostery_id: 3200

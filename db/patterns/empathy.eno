@@ -1,0 +1,14 @@
+name: Empathy
+category: advertising
+website_url: http://www.colbenson.com
+organization: empathy
+
+--- domains
+colbenson.es
+--- domains
+
+--- filters
+||colbenson.es^
+--- filters
+
+ghostery_id: 1523

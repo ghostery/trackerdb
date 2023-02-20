@@ -1,0 +1,14 @@
+name: iPerceptions
+category: customer_interaction
+website_url: http://www.iperceptions.com/
+organization: iperceptions
+
+--- domains
+iperceptions.com
+--- domains
+
+--- filters
+||iperceptions.com^
+--- filters
+
+ghostery_id: 220

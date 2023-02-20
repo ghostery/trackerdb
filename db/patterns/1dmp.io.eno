@@ -1,0 +1,14 @@
+name: 1DMP
+category: advertising
+website_url: https://1dmp.io/
+organization: 1dmp
+
+--- domains
+1dmp.io
+--- domains
+
+--- filters
+||sync.1dmp.io/pixel.gif
+--- filters
+
+ghostery_id: 3104

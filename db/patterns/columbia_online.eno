@@ -1,0 +1,14 @@
+name: Columbia Online
+category: advertising
+website_url: 
+organization: columbia_online
+
+--- domains
+static.clmbtech.com
+--- domains
+
+--- filters
+||static.clmbtech.com/ad/commons/js/colombia_v2.js
+--- filters
+
+ghostery_id: 3179

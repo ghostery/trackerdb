@@ -1,0 +1,16 @@
+name: Press+
+category: advertising
+website_url: http://www.mypressplus.com/
+organization: press+
+
+--- domains
+ppjol.com
+ppjol.net
+--- domains
+
+--- filters
+||ppjol.com^
+||ppjol.net^
+--- filters
+
+ghostery_id: 1090

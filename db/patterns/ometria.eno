@@ -1,0 +1,14 @@
+name: Ometria
+category: advertising
+website_url: http://www.ometria.com/
+organization: ometria
+
+--- domains
+ometria.com
+--- domains
+
+--- filters
+||ometria.com^
+--- filters
+
+ghostery_id: 1590

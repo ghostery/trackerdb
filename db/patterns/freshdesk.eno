@@ -1,0 +1,17 @@
+name: Freshdesk
+category: customer_interaction
+website_url: http://www.freshdesk.com
+organization: freshdesk
+
+--- domains
+d36mpcpuzc4ztk.cloudfront.net
+freshdesk.com
+--- domains
+
+--- filters
+||chat.freshdesk.com/cookietest
+||d36mpcpuzc4ztk.cloudfront.net^
+||freshdesk.com/widget/freshwidget.js
+--- filters
+
+ghostery_id: 1092

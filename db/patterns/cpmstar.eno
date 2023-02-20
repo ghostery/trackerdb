@@ -1,0 +1,14 @@
+name: CPMStar
+category: advertising
+website_url: http://www.cpmstar.com
+organization: cpmstar
+
+--- domains
+cpmstar.com
+--- domains
+
+--- filters
+||cpmstar.com^
+--- filters
+
+ghostery_id: 411

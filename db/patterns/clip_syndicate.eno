@@ -1,0 +1,14 @@
+name: Clip Syndicate
+category: advertising
+website_url: http://www.clipsyndicate.com/
+organization: clip_syndicate
+
+--- domains
+eplayer.clipsyndicate.com
+--- domains
+
+--- filters
+||eplayer.clipsyndicate.com^
+--- filters
+
+ghostery_id: 611

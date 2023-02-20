@@ -1,0 +1,14 @@
+name: CivicScience
+category: site_analytics
+website_url: https://civicscience.com/
+organization: civicscience
+
+--- domains
+civicscience.com
+--- domains
+
+--- filters
+||civicscience.com/widget/jspoll
+--- filters
+
+ghostery_id: 945

@@ -1,0 +1,14 @@
+name: etag
+category: advertising
+website_url: 
+organization: etag
+
+--- domains
+teste-s3-maycon.s3.amazonaws.com
+--- domains
+
+--- filters
+||teste-s3-maycon.s3.amazonaws.com/tag.js
+--- filters
+
+ghostery_id: 3270

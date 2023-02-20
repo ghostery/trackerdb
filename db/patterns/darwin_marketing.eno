@@ -1,0 +1,14 @@
+name: Darwin Marketing
+category: advertising
+website_url: http://www.darwinmarketing.com/
+organization: darwin_marketing
+
+--- domains
+dmclick.cn
+--- domains
+
+--- filters
+||dmclick.cn^
+--- filters
+
+ghostery_id: 1877

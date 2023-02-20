@@ -1,0 +1,14 @@
+name: Sportsbet Affiliates
+category: advertising
+website_url: http://www.sportsbetaffiliates.com.au/
+organization: sportsbet_affiliates
+
+--- domains
+sportsbetaffiliates.com.au
+--- domains
+
+--- filters
+||sportsbetaffiliates.com.au^
+--- filters
+
+ghostery_id: 1870

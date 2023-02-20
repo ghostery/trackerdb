@@ -1,0 +1,14 @@
+name: Pozvonim
+category: advertising
+website_url: 
+organization: pozvonim
+
+--- domains
+api.pozvonim.com
+--- domains
+
+--- filters
+||api.pozvonim.com^
+--- filters
+
+ghostery_id: 2920

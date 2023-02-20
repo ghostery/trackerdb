@@ -1,0 +1,14 @@
+name: Target 2 Sell
+category: advertising
+website_url: 
+organization: target_2_sell
+
+--- domains
+target2sell.com
+--- domains
+
+--- filters
+||target2sell.com/t2s.min.js
+--- filters
+
+ghostery_id: 2437

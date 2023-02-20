@@ -1,0 +1,14 @@
+name: Etarget
+category: advertising
+website_url: http://etargetnet.com/
+organization: etarget
+
+--- domains
+etargetnet.com
+--- domains
+
+--- filters
+||etargetnet.com^
+--- filters
+
+ghostery_id: 1008

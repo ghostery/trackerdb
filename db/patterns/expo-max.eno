@@ -1,0 +1,14 @@
+name: expo-MAX
+category: advertising
+website_url: http://expo-max.com/
+organization: expo-max
+
+--- domains
+expo-max.com
+--- domains
+
+--- filters
+||expo-max.com^
+--- filters
+
+ghostery_id: 639

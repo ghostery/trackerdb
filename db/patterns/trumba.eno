@@ -1,0 +1,14 @@
+name: Trumba
+category: advertising
+website_url: http://www.trumba.com
+organization: trumba
+
+--- domains
+trumba.com
+--- domains
+
+--- filters
+||trumba.com/scripts/spuds.js
+--- filters
+
+ghostery_id: 478

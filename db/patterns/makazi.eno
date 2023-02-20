@@ -1,0 +1,14 @@
+name: Makazi
+category: advertising
+website_url: 
+organization: makazi_group
+
+--- domains
+makazi.com
+--- domains
+
+--- filters
+||makazi.com^
+--- filters
+
+ghostery_id: 3065

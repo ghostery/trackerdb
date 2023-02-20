@@ -1,0 +1,14 @@
+name: FreakOut
+category: advertising
+website_url: https://www.fout.co.jp/
+organization: freakout
+
+--- domains
+fout.jp
+--- domains
+
+--- filters
+||fout.jp^
+--- filters
+
+ghostery_id: 685

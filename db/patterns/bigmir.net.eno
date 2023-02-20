@@ -1,0 +1,14 @@
+name: bigmir
+category: site_analytics
+website_url: https://www.bigmir.net/
+organization: bigmir-internet
+
+--- domains
+bigmir.net
+--- domains
+
+--- filters
+||c.bigmir.net^
+--- filters
+
+ghostery_id: 555

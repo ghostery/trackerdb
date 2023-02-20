@@ -1,0 +1,14 @@
+name: Res-meter
+category: site_analytics
+website_url: http://respublica.al/res-meter
+organization: respublica
+
+--- domains
+resmeter.respublica.al
+--- domains
+
+--- filters
+||resmeter.respublica.al^
+--- filters
+
+ghostery_id: 2206

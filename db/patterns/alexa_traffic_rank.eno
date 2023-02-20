@@ -1,0 +1,16 @@
+name: Alexa Traffic Rank
+category: advertising
+website_url: http://www.alexa.com/
+organization: amazon_associates
+
+--- domains
+alexa.com
+--- domains
+
+--- filters
+||widgets.alexa.com/traffic/javascript/
+||xslt.alexa.com/site_stats/js/s/
+||xslt.alexa.com/site_stats/js/t/
+--- filters
+
+ghostery_id: 83

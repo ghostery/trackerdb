@@ -1,0 +1,14 @@
+name: Smart Content
+category: advertising
+website_url: http://www.getsmartcontent.com
+organization: get_smart_content
+
+--- domains
+getsmartcontent.com
+--- domains
+
+--- filters
+||getsmartcontent.com^
+--- filters
+
+ghostery_id: 1220

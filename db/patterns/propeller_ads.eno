@@ -1,0 +1,24 @@
+name: Propeller Ads
+category: advertising
+website_url: http://www.propellerads.com/
+organization: propeller_ads
+
+--- domains
+oclaserver.com
+onclasrv.com
+onclickads.net
+onclkds.com
+propellerads.com
+propellerpops.com
+--- domains
+
+--- filters
+||deloton.com/apu.php
+||oclaserver.com^
+||onclickads.net^
+||onclkds.com^
+||propellerads.com^
+||propellerpops.com^
+--- filters
+
+ghostery_id: 1702

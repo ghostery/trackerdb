@@ -1,0 +1,14 @@
+name: MoPub
+category: advertising
+website_url: https://www.mopub.com/
+organization: twitter
+
+--- domains
+mopub.com
+--- domains
+
+--- filters
+||ads.mopub.com^
+--- filters
+
+ghostery_id: 2086

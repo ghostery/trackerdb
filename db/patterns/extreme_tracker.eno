@@ -1,0 +1,14 @@
+name: eXTReMe Tracker
+category: site_analytics
+website_url: http://www.extremetracking.com/
+organization: extreme_digital
+
+--- domains
+extreme-dm.com
+--- domains
+
+--- filters
+||extreme-dm.com^
+--- filters
+
+ghostery_id: 155

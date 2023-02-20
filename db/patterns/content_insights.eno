@@ -1,0 +1,14 @@
+name: Content Insights
+category: site_analytics
+website_url: 
+organization: content_insights
+
+--- domains
+ingestion.contentinsights.com
+--- domains
+
+--- filters
+||ingestion.contentinsights.com^
+--- filters
+
+ghostery_id: 3235

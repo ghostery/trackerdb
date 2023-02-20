@@ -1,0 +1,15 @@
+name: mbr targeting
+category: advertising
+website_url: https://mbr-targeting.com/
+organization: stroer
+
+--- domains
+m6r.eu
+--- domains
+
+--- filters
+||cdn.m6r.eu/sync
+||tracking.m6r.eu^
+--- filters
+
+ghostery_id: 3203

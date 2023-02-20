@@ -1,0 +1,14 @@
+name: Avant Metrics
+category: site_analytics
+website_url: 
+organization: avantlink
+
+--- domains
+avmws.com
+--- domains
+
+--- filters
+||avmws.com^
+--- filters
+
+ghostery_id: 3005

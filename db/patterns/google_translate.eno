@@ -1,0 +1,14 @@
+name: Google Translate
+category: customer_interaction
+website_url: https://translate.google.com/manager
+organization: google
+
+--- domains
+translate.google.com
+--- domains
+
+--- filters
+||translate.google.com/translate_a/element.js
+--- filters
+
+ghostery_id: 2184

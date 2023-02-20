@@ -1,0 +1,14 @@
+name: Hacker News Button
+category: social_media
+website_url: http://news.ycombinator.com/
+organization: hacker_news
+
+--- domains
+hnbutton.appspot.com
+--- domains
+
+--- filters
+||hnbutton.appspot.com^
+--- filters
+
+ghostery_id: 1418

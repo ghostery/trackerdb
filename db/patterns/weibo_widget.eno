@@ -1,0 +1,14 @@
+name: Weibo Widget
+category: advertising
+website_url: http://www.sina.com/
+organization: sina
+
+--- domains
+widget.weibo.com
+--- domains
+
+--- filters
+||widget.weibo.com^
+--- filters
+
+ghostery_id: 1574

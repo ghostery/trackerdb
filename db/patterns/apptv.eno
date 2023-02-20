@@ -1,0 +1,16 @@
+name: appTV
+category: advertising
+website_url: http://www.apptv.com/
+organization: apptv
+
+--- domains
+adne.tv
+readserver.net
+--- domains
+
+--- filters
+||adne.tv^
+||readserver.net^
+--- filters
+
+ghostery_id: 1987

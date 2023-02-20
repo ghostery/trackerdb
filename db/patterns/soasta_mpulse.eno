@@ -1,0 +1,18 @@
+name: SOASTA mPulse
+category: site_analytics
+website_url: http://www.soasta.com/
+organization: akamai
+
+--- domains
+go-mpulse.net
+mpstat.us
+tiaa-cref.org
+--- domains
+
+--- filters
+||go-mpulse.net^
+||mpstat.us^
+||tiaa-cref.org/public/js/boomerang.js
+--- filters
+
+ghostery_id: 1610

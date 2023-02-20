@@ -1,0 +1,11 @@
+name: Outbrain Amplify
+category: advertising
+website_url: 
+organization: outbrain
+alias: outbrain
+
+--- filters
+||amplify.outbrain.com/cp/obtp.js
+--- filters
+
+ghostery_id: 3100

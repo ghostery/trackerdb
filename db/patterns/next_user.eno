@@ -1,0 +1,14 @@
+name: Next User
+category: advertising
+website_url: 
+organization: next_user
+
+--- domains
+track.nextuser.com
+--- domains
+
+--- filters
+||track.nextuser.com/nu.js
+--- filters
+
+ghostery_id: 2878

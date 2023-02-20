@@ -1,0 +1,14 @@
+name: Sophus3
+category: advertising
+website_url: http://www.sophus3.com/
+organization: sophus3
+
+--- domains
+sophus3.com
+--- domains
+
+--- filters
+||sophus3.com^
+--- filters
+
+ghostery_id: 714

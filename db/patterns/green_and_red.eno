@@ -1,0 +1,16 @@
+name: Green and Red
+category: advertising
+website_url: http://www.green-red.com/
+organization: green_&_red_technologies
+
+--- domains
+gandrad.org
+green-red.com
+--- domains
+
+--- filters
+||gandrad.org^
+||green-red.com^
+--- filters
+
+ghostery_id: 1954

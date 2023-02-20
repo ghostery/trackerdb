@@ -1,0 +1,14 @@
+name: Australia.gov
+category: advertising
+website_url: 
+organization: australian_government
+
+--- domains
+advertising.gov.au
+--- domains
+
+--- filters
+||advertising.gov.au/ad/bom/www/
+--- filters
+
+ghostery_id: 2906

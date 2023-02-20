@@ -1,0 +1,15 @@
+name: Lazada
+category: advertising
+website_url: 
+organization: lazada
+
+--- domains
+ph-live.slatic.net
+--- domains
+
+--- filters
+||ph-live.slatic.net/original
+||tracker.lazada.com.my/pt_my
+--- filters
+
+ghostery_id: 3081

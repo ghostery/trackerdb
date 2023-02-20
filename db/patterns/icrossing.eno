@@ -1,0 +1,15 @@
+name: iCrossing
+category: advertising
+website_url: http://www.icrossing.com/
+organization: hearst
+
+--- domains
+ic-live.com
+--- domains
+
+--- filters
+||ic-live.com^
+||sptag3.com^
+--- filters
+
+ghostery_id: 408

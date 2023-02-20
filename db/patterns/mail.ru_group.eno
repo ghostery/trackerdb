@@ -1,0 +1,23 @@
+name: Mail.Ru Group
+category: social_media
+website_url: http://mail.ru/
+organization: megafon
+
+--- domains
+imgsmail.ru
+mail.ru
+mradx.net
+odnoklassniki.ru
+ok.ru
+--- domains
+
+--- filters
+||connect.mail.ru/js/loader.js
+||connect.mail.ru/share
+||connect.ok.ru^
+||stg.odnoklassniki.ru/share/odkl_share.js
+||top-fwz1.mail.ru/js/code.js
+||top-fwz1.mail.ru/tracker
+--- filters
+
+ghostery_id: 869

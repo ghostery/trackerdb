@@ -1,0 +1,26 @@
+name: Say Media
+category: advertising
+website_url: http://www.saymedia.com/
+organization: say_media
+
+--- domains
+ads.saymedia.com
+--- domains
+
+--- filters
+||amconf.videoegg.com/siteconf/
+||amconf.videoegg.com/eap/
+||amconf.videoegg.com/alternates/
+||amconf.videoegg.com/ads/
+||core.videoegg.com/siteconf/
+||core.videoegg.com/eap/
+||core.videoegg.com/alternates/
+||core.videoegg.com/ads/
+||adcontent.videoegg.com/siteconf/
+||adcontent.videoegg.com/eap/
+||adcontent.videoegg.com/alternates/
+||adcontent.videoegg.com/ads/
+||ads.saymedia.com^
+--- filters
+
+ghostery_id: 546

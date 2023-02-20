@@ -1,0 +1,14 @@
+name: 500friends
+category: customer_interaction
+website_url: http://500friends.com/
+organization: 500friends
+
+--- domains
+d3aa0ztdn3oibi.cloudfront.net
+--- domains
+
+--- filters
+||d3aa0ztdn3oibi.cloudfront.net^
+--- filters
+
+ghostery_id: 1620

@@ -1,0 +1,14 @@
+name: Eye Newton
+category: customer_interaction
+website_url: 
+organization: eyenewton
+
+--- domains
+eyenewton.ru
+--- domains
+
+--- filters
+||eyenewton.ru/scripts/callback.min.js
+--- filters
+
+ghostery_id: 3019

@@ -1,0 +1,14 @@
+name: SAPO Ads
+category: advertising
+website_url: http://www.sapo.pt/
+organization: sapo
+
+--- domains
+js.sl.pt
+--- domains
+
+--- filters
+||js.sl.pt/snippets/sas.js
+--- filters
+
+ghostery_id: 1733

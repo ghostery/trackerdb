@@ -1,0 +1,14 @@
+name: Avenseo
+category: advertising
+website_url: http://avenseo.com
+organization: avenseo
+
+--- domains
+avenseo.com
+--- domains
+
+--- filters
+||avenseo.com^
+--- filters
+
+ghostery_id: 1624

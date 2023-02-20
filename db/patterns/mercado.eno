@@ -1,0 +1,20 @@
+name: Mercado
+category: advertising
+website_url: https://www.mercadolivre.com.br/
+organization: mercado_livre
+
+--- domains
+mercadoclics.com
+mercadolivre.com.br
+mlstatic.com
+--- domains
+
+--- filters
+||advertising.mercadolivre.com.br^
+||analytics.mlstatic.com^
+||mercadoads.mercadolivre.com.br/main
+||mercadoclics.com^
+||mercadolivre.com.br/jm/ml.track.me
+--- filters
+
+ghostery_id: 2567

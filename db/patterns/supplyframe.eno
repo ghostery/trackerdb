@@ -1,0 +1,16 @@
+name: SupplyFrame
+category: advertising
+website_url: 
+organization: supplyframe
+
+--- domains
+supplyframe.com
+--- domains
+
+--- filters
+||ads.supplyframe.com^
+||analytics.supplyframe.com^
+||fake-entry_images.ads.supplyframe.com^
+--- filters
+
+ghostery_id: 2334

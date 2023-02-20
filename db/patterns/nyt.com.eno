@@ -1,0 +1,17 @@
+name: The New York Times
+category: misc
+website_url: https://www.nytimes.com/
+organization: the_new_york_times
+
+--- domains
+nyt.com
+nytimes.com
+--- domains
+
+--- filters
+||int.nyt.com/newsgraphics
+||nytimes.com/adx/bin/adxrun.html
+||up.nytimes.com^
+--- filters
+
+ghostery_id: 1129

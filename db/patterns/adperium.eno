@@ -1,0 +1,16 @@
+name: AdPerium
+category: advertising
+website_url: http://www.adperium.com/
+organization: adperium
+
+--- domains
+adperium.com
+--- domains
+
+--- filters
+||adperium.com^
+||adtgs.com/layer
+||adtgs.com/pop
+--- filters
+
+ghostery_id: 583

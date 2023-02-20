@@ -1,0 +1,16 @@
+name: RedLotus
+category: advertising
+website_url: http://triggit.com/
+organization: redlotus
+
+--- domains
+pixelinteractivemedia.com
+triggit.com
+--- domains
+
+--- filters
+||pixelinteractivemedia.com^
+||triggit.com^
+--- filters
+
+ghostery_id: 99

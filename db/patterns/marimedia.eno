@@ -1,0 +1,20 @@
+name: Marimedia
+category: advertising
+website_url: http://www.marimedia.net/
+organization: tremor_video
+
+--- domains
+mmadsgadget.com
+qadabra.com
+qadserve.com
+qadservice.com
+--- domains
+
+--- filters
+||mmadsgadget.com^
+||qadabra.com^
+||qadserve.com^
+||qadservice.com^
+--- filters
+
+ghostery_id: 1701

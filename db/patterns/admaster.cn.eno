@@ -1,0 +1,16 @@
+name: AdMaster.cn
+category: advertising
+website_url: http://www.admaster.com.cn/
+organization: admaster
+
+--- domains
+admaster.com.cn
+admasterapi.com
+--- domains
+
+--- filters
+||admaster.com.cn^
+||admasterapi.com^
+--- filters
+
+ghostery_id: 1897

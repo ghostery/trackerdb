@@ -1,0 +1,14 @@
+name: Admatrix
+category: advertising
+website_url: 
+organization: admatrix
+
+--- domains
+lib-3pas.admatrix.jp
+--- domains
+
+--- filters
+||lib-3pas.admatrix.jp/3pas/js/admatrixanalyze.min.js
+--- filters
+
+ghostery_id: 2964

@@ -1,0 +1,16 @@
+name: Moat
+category: advertising
+website_url: http://www.moat.com/
+organization: oracle
+
+--- domains
+moatads.com
+moatpixel.com
+--- domains
+
+--- filters
+||moatads.com^
+||moatpixel.com^
+--- filters
+
+ghostery_id: 1453

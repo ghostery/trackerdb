@@ -1,0 +1,14 @@
+name: Instant Check Mate
+category: customer_interaction
+website_url: 
+organization: instant_check_mate
+
+--- domains
+tcgtrkr.com
+--- domains
+
+--- filters
+||tcgtrkr.com^
+--- filters
+
+ghostery_id: 2329

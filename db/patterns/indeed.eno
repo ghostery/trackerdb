@@ -1,0 +1,16 @@
+name: Indeed
+category: advertising
+website_url: http://www.indeed.com/
+organization: indeed
+
+--- domains
+indeed.com
+--- domains
+
+--- filters
+||indeed.com/ads/
+||indeed.com/p/jobs
+||indeed.com/pagead/conv
+--- filters
+
+ghostery_id: 2140

@@ -1,0 +1,16 @@
+name: Yengo
+category: advertising
+website_url: http://www.yengo.com/
+organization: yengo
+
+--- domains
+yengo.com
+yengointernational.com
+--- domains
+
+--- filters
+||yengo.com^
+||yengointernational.com^
+--- filters
+
+ghostery_id: 1835

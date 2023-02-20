@@ -1,0 +1,14 @@
+name: AdSniper
+category: advertising
+website_url: http://ad-sniper.com/
+organization: adsniper
+
+--- domains
+adsniper.ru
+--- domains
+
+--- filters
+||adsniper.ru^
+--- filters
+
+ghostery_id: 2003

@@ -1,0 +1,14 @@
+name: Teads
+category: advertising
+website_url: http://teads.tv/
+organization: teads
+
+--- domains
+teads.tv
+--- domains
+
+--- filters
+||teads.tv^
+--- filters
+
+ghostery_id: 1494

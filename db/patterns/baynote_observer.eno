@@ -1,0 +1,17 @@
+name: Baynote Observer
+category: advertising
+website_url: http://www.baynote.com/
+organization: baynote
+
+--- domains
+baynote.net
+--- domains
+
+--- filters
+/baynote(-observer)?([0-9]+)\.js/
+/baynote-observer.js
+/baynote.js
+||baynote.net^
+--- filters
+
+ghostery_id: 98

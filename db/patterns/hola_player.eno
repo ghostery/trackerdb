@@ -1,0 +1,14 @@
+name: Hola Player
+category: audio_video_player
+website_url: 
+organization: hola_cdn
+
+--- domains
+h-cdn.com
+--- domains
+
+--- filters
+||player.h-cdn.com/loader.js
+--- filters
+
+ghostery_id: 2937

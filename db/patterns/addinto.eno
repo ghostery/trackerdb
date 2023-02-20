@@ -1,0 +1,15 @@
+name: AddInto
+category: customer_interaction
+website_url: http://www.addinto.com/
+organization: addinto
+
+--- domains
+addinto.com
+--- domains
+
+--- filters
+||addinto.com/ai/ai2_bkmk.js
+||addinto.com/logos/
+--- filters
+
+ghostery_id: 2168

@@ -1,0 +1,14 @@
+name: ePrice
+category: advertising
+website_url: http://banzaiadv.it/
+organization: eprice
+
+--- domains
+banzaiadv.it
+--- domains
+
+--- filters
+||banzaiadv.it^
+--- filters
+
+ghostery_id: 1180

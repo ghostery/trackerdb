@@ -1,0 +1,14 @@
+name: Media.net
+category: advertising
+website_url: http://www.media.net/
+organization: media.net
+
+--- domains
+media.net
+--- domains
+
+--- filters
+||media.net^
+--- filters
+
+ghostery_id: 1643

@@ -1,0 +1,16 @@
+name: ADMAN
+category: advertising
+website_url: http://www.adman.gr/
+organization: adman
+
+--- domains
+adman.gr
+adman.in.gr
+--- domains
+
+--- filters
+||adman.gr^
+||adman.in.gr^
+--- filters
+
+ghostery_id: 1049

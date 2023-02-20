@@ -1,0 +1,16 @@
+name: Khoros
+category: social_media
+website_url: http://www.massrelevance.com/
+organization: khoros
+
+--- domains
+massrelevance.com
+tweetriver.com
+--- domains
+
+--- filters
+||massrelevance.com^
+||tweetriver.com^
+--- filters
+
+ghostery_id: 1482

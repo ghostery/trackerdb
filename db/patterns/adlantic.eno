@@ -1,0 +1,14 @@
+name: AdLantic
+category: advertising
+website_url: http://www.adlantic.nl/
+organization: adlantic_online_advertising
+
+--- domains
+ad-serverparc.nl
+--- domains
+
+--- filters
+||ad-serverparc.nl^
+--- filters
+
+ghostery_id: 2000

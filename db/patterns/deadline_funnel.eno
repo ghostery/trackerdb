@@ -1,0 +1,14 @@
+name: Deadline Funnel
+category: site_analytics
+website_url: 
+organization: deadline_funnel
+
+--- domains
+deadlinefunnel.com
+--- domains
+
+--- filters
+||deadlinefunnel.com^
+--- filters
+
+ghostery_id: 2982

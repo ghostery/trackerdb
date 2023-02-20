@@ -1,0 +1,17 @@
+name: Clearstream.TV
+category: advertising
+website_url: http://clearstream.tv/
+organization: clearstream.tv
+
+--- domains
+tag.clrstm.com
+--- domains
+
+--- filters
+||tag.clrstm.com^
+||track.clrstm.com^
+||video.clrstm.com^
+||view.clrstm.com^
+--- filters
+
+ghostery_id: 2162

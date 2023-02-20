@@ -1,0 +1,16 @@
+name: Performancing Metrics
+category: site_analytics
+website_url: http://pmetrics.performancing.com
+organization: performancing
+
+--- domains
+performancing.com
+--- domains
+
+--- filters
+||pmetrics.performancing.com/js^
+||pmetrics.performancing.com/in.php^
+||pmetrics.performancing.com/*.js^
+--- filters
+
+ghostery_id: 382

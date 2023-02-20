@@ -1,0 +1,20 @@
+name: iovation
+category: essential
+website_url: 
+organization: iovation
+
+--- domains
+iesnare.com
+iovation.com
+--- domains
+
+--- filters
+||ci-mpsnare.iovation.com/script/logo.js
+||ci-mpsnare.iovation.com/snare.js
+||iesnare.com/e/iovation_sync.xgi
+||iesnare.com/script/
+||iesnare.com/snare.js
+||iesnare.com^
+--- filters
+
+ghostery_id: 2264

@@ -1,0 +1,14 @@
+name: Admeo
+category: advertising
+website_url: 
+organization: admeo.ru
+
+--- domains
+admeo.ru
+--- domains
+
+--- filters
+||admeo.ru^
+--- filters
+
+ghostery_id: 2560

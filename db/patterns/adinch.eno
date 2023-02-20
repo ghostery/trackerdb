@@ -1,0 +1,14 @@
+name: Adinch
+category: advertising
+website_url: http://adinch.com/
+organization: adinch
+
+--- domains
+adinch.com
+--- domains
+
+--- filters
+||adinch.com^
+--- filters
+
+ghostery_id: 1305

@@ -1,0 +1,14 @@
+name: ClickBank ProAds
+category: advertising
+website_url: http://www.cbproads.com/
+organization: clickbank_proads
+
+--- domains
+cbproads.com
+--- domains
+
+--- filters
+||cbproads.com^
+--- filters
+
+ghostery_id: 834

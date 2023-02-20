@@ -1,0 +1,14 @@
+name: Contaxe
+category: essential
+website_url: http://www.contaxe.com/
+organization: contaxe
+
+--- domains
+contaxe.com
+--- domains
+
+--- filters
+||contaxe.com/go
+--- filters
+
+ghostery_id: 547

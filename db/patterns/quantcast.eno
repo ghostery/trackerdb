@@ -1,0 +1,18 @@
+name: Quantcast
+category: advertising
+website_url: http://www.quantcast.com/
+organization: quantcast
+
+--- domains
+quantcast.com
+quantserve.com
+--- domains
+
+--- filters
+/quant.js
+||quantserve.com^
+||secure.quantserve.com^
+||widget.quantcast.com^
+--- filters
+
+ghostery_id: 16

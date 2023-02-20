@@ -1,0 +1,16 @@
+name: Twitter for Business
+category: advertising
+website_url: https://business.twitter.com/
+organization: twitter
+
+--- domains
+tellapart.com
+--- domains
+
+--- filters
+||sslt.tellapart.com^
+||t.tellapart.com^
+||tellapart.com/crumb
+--- filters
+
+ghostery_id: 401

@@ -1,0 +1,14 @@
+name: Sub2
+category: advertising
+website_url: http://www.sub2tech.com/
+organization: sub2
+
+--- domains
+sub2tech.com
+--- domains
+
+--- filters
+||sub2tech.com^
+--- filters
+
+ghostery_id: 2018

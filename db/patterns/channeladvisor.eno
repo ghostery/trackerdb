@@ -1,0 +1,16 @@
+name: ChannelAdvisor
+category: advertising
+website_url: http://www.channeladvisor.com/
+organization: channeladvisor
+
+--- domains
+channeladvisor.com
+searchmarketing.com
+--- domains
+
+--- filters
+||searchmarketing.com^
+||t.channeladvisor.com^
+--- filters
+
+ghostery_id: 294

@@ -1,0 +1,14 @@
+name: CertainSource
+category: advertising
+website_url: http://www.ewaydirect.com
+organization: certainsource
+
+--- domains
+link.ixs1.net
+--- domains
+
+--- filters
+||link.ixs1.net/s/at
+--- filters
+
+ghostery_id: 415

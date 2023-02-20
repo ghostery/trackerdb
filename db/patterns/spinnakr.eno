@@ -1,0 +1,14 @@
+name: Spinnakr
+category: site_analytics
+website_url: http://spinnakr.com/
+organization: spinnakr
+
+--- domains
+spn.ee
+--- domains
+
+--- filters
+||spn.ee^
+--- filters
+
+ghostery_id: 1833

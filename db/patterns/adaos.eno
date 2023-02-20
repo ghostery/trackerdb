@@ -1,0 +1,14 @@
+name: ADAOS
+category: advertising
+website_url: http://www.24-interactive.com
+organization: 24_interactive
+
+--- domains
+adaos-ads.net
+--- domains
+
+--- filters
+||adaos-ads.net^
+--- filters
+
+ghostery_id: 1194

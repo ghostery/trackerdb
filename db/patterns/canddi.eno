@@ -1,0 +1,15 @@
+name: CANDDI
+category: site_analytics
+website_url: 
+organization: canddi
+
+--- domains
+canddi.com
+--- domains
+
+--- filters
+||cdns.canddi.com^
+||i.canddi.com^
+--- filters
+
+ghostery_id: 2464

@@ -1,0 +1,14 @@
+name: AkaNe
+category: advertising
+website_url: 
+organization: akane
+
+--- domains
+adn-d.sp.gmossp-sp.jp
+--- domains
+
+--- filters
+||adn-d.sp.gmossp-sp.jp/rt/beacon.gif
+--- filters
+
+ghostery_id: 2384

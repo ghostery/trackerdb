@@ -1,0 +1,16 @@
+name: Wykop
+category: social_media
+website_url: http://www.wykop.pl
+organization: wykop
+
+--- domains
+imgwykop.pl
+wykop.pl
+--- domains
+
+--- filters
+||imgwykop.pl/static/wykoppl/img/tools/wykop_
+||wykop.pl/dataprovider/diggerwidget/
+--- filters
+
+ghostery_id: 1959

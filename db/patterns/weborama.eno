@@ -1,0 +1,20 @@
+name: Weborama
+category: advertising
+website_url: https://weborama.com/
+organization: weborama
+
+--- domains
+adrcdn.com
+adrcntr.com
+weborama.com
+weborama.fr
+--- domains
+
+--- filters
+||adrcdn.com^
+||adrcntr.com^
+||dx.bigsea.weborama.com/collect
+||weborama.fr^
+--- filters
+
+ghostery_id: 532

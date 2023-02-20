@@ -1,0 +1,15 @@
+name: Profitshare
+category: site_analytics
+website_url: https://profitshare.ro/
+organization: profitshare
+
+--- domains
+profitshare.ro
+--- domains
+
+--- filters
+||profitshare.ro/advertiseri/emag
+||profitshare.ro/tgt/js/
+--- filters
+
+ghostery_id: 2633

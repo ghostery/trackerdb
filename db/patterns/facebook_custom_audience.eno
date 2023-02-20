@@ -1,0 +1,12 @@
+name: Facebook Custom Audience
+category: advertising
+website_url: https://www.facebook.com
+organization: facebook
+alias: facebook
+
+--- filters
+||facebook.com/tr
+||liverail.com^
+--- filters
+
+ghostery_id: 2148

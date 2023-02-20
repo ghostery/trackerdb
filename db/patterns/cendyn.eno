@@ -1,0 +1,14 @@
+name: Cendyn
+category: advertising
+website_url: 
+organization: cendyn
+
+--- domains
+cendyn.adtrack.calls.net
+--- domains
+
+--- filters
+||cendyn.adtrack.calls.net/euinc/getnumdata.js
+--- filters
+
+ghostery_id: 2720

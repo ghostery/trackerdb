@@ -1,0 +1,14 @@
+name: Reevoo
+category: advertising
+website_url: https://www.reevoo.com/en/
+organization: reevoo
+
+--- domains
+reevoo.com
+--- domains
+
+--- filters
+||reevoo.com^
+--- filters
+
+ghostery_id: 2222

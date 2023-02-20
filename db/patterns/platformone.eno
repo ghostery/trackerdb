@@ -1,0 +1,15 @@
+name: Platform One
+category: advertising
+website_url: https://www.platform-one.co.jp/
+organization: daconsortium
+
+--- domains
+impact-ad.jp
+--- domains
+
+--- filters
+||aw.dw.impact-ad.jp/ut/rep
+||impact-ad.jp^
+--- filters
+
+ghostery_id: 3210

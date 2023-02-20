@@ -1,0 +1,14 @@
+name: Federated Media
+category: advertising
+website_url: http://www.federatedmedia.net/
+organization: hyfn
+
+--- domains
+fmpub.net
+--- domains
+
+--- filters
+||fmpub.net^
+--- filters
+
+ghostery_id: 31

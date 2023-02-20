@@ -1,0 +1,14 @@
+name: Nakanohito
+category: advertising
+website_url: http://nakanohito.jp/
+organization: userinsight
+
+--- domains
+nakanohito.jp
+--- domains
+
+--- filters
+||nakanohito.jp^
+--- filters
+
+ghostery_id: 705

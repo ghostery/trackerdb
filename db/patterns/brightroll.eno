@@ -1,0 +1,15 @@
+name: BrightRoll
+category: advertising
+website_url: http://www.brightroll.com/
+organization: verizon
+
+--- domains
+btrll.com
+--- domains
+
+--- filters
+||btrll.com^
+||cache.btrll.com^
+--- filters
+
+ghostery_id: 500

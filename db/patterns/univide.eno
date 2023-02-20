@@ -1,0 +1,14 @@
+name: Univide
+category: advertising
+website_url: 
+organization: oracle
+
+--- domains
+univide.com
+--- domains
+
+--- filters
+||univide.com^
+--- filters
+
+ghostery_id: 2743

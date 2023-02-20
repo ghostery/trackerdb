@@ -1,0 +1,14 @@
+name: ChatWing
+category: customer_interaction
+website_url: http://chatwing.com/
+organization: chatwing
+
+--- domains
+chatwing.com
+--- domains
+
+--- filters
+||chatwing.com^
+--- filters
+
+ghostery_id: 1449

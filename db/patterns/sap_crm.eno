@@ -1,0 +1,23 @@
+name: SAP CRM
+category: site_analytics
+website_url: https://www.sap.com/products/crm.html
+organization: sap
+
+--- domains
+d13im3ek7neeqp.cloudfront.net
+d28ethi6slcjbm.cloudfront.net
+d2uevgmgh16uk4.cloudfront.net
+d3m83gvgzupli.cloudfront.net
+saas.seewhy.com
+--- domains
+
+--- filters
+||d13im3ek7neeqp.cloudfront.net^
+||d28ethi6slcjbm.cloudfront.net^
+||d2uevgmgh16uk4.cloudfront.net^
+||d3m83gvgzupli.cloudfront.net/webevent/browse.js
+||d3m83gvgzupli.cloudfront.net^
+||saas.seewhy.com^
+--- filters
+
+ghostery_id: 2130

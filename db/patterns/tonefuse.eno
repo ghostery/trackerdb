@@ -1,0 +1,14 @@
+name: ToneFuse
+category: advertising
+website_url: http://www.tonefuse.com/
+organization: tonefuse
+
+--- domains
+srv.clickfuse.com
+--- domains
+
+--- filters
+||srv.clickfuse.com^
+--- filters
+
+ghostery_id: 617

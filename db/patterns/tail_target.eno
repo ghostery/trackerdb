@@ -1,0 +1,14 @@
+name: Tail
+category: site_analytics
+website_url: https://www.tail.digital/
+organization: tail.digital
+
+--- domains
+tailtarget.com
+--- domains
+
+--- filters
+||tailtarget.com^
+--- filters
+
+ghostery_id: 2101

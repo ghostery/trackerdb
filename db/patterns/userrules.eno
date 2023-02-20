@@ -1,0 +1,14 @@
+name: UserRules
+category: customer_interaction
+website_url: http://www.userrules.com/
+organization: userrules_software
+
+--- domains
+dtkm4pd19nw6z.cloudfront.net
+--- domains
+
+--- filters
+||dtkm4pd19nw6z.cloudfront.net^
+--- filters
+
+ghostery_id: 1785

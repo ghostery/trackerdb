@@ -1,0 +1,16 @@
+name: Motigo Webstats
+category: social_media
+website_url: http://webstats.motigo.com/
+organization: motigo
+
+--- domains
+nedstatbasic.net
+webstats.motigo.com
+--- domains
+
+--- filters
+||nedstatbasic.net^
+||webstats.motigo.com^
+--- filters
+
+ghostery_id: 818

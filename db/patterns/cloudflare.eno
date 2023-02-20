@@ -1,0 +1,11 @@
+name: CloudFlare
+category: cdn
+website_url: https://www.cloudflare.com/
+organization: cloudflare
+
+--- domains
+cloudflare.com
+cloudflare.net
+--- domains
+
+ghostery_id: 3458

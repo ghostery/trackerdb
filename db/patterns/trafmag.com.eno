@@ -1,0 +1,14 @@
+name: TrafMag
+category: advertising
+website_url: https://trafmag.com/
+organization: trafmag
+
+--- domains
+trafmag.com
+--- domains
+
+--- filters
+||trafmag.com^
+--- filters
+
+ghostery_id: 1858

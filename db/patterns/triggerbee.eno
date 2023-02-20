@@ -1,0 +1,15 @@
+name: Triggerbee
+category: customer_interaction
+website_url: 
+organization: triggerbee
+
+--- domains
+t.myvisitors.se
+--- domains
+
+--- filters
+||t.myvisitors.se/js/
+||t.myvisitors.se/t
+--- filters
+
+ghostery_id: 2391

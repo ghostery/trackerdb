@@ -1,0 +1,14 @@
+name: RSSPump
+category: customer_interaction
+website_url: http://www.rsspump.com
+organization: rsspump
+
+--- domains
+rsspump.com
+--- domains
+
+--- filters
+||rsspump.com^
+--- filters
+
+ghostery_id: 1161

@@ -1,0 +1,19 @@
+name: Flashtalking
+category: advertising
+website_url: http://www.flashtalking.com/
+organization: flashtalking
+
+--- domains
+flashtalking.com
+--- domains
+
+--- filters
+||a.flashtalking.com^
+||cdn.flashtalking.com^
+||fdz.flashtalking.com^
+||flashtalking.com^
+||servedby.flashtalking.com^
+||stat.flashtalking.com^
+--- filters
+
+ghostery_id: 495

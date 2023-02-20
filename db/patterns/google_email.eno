@@ -1,0 +1,14 @@
+name: Google Email
+category: email
+website_url: http://www.google.com
+organization: google
+
+--- domains
+mail-ads.google.com
+--- domains
+
+--- filters
+||mail-ads.google.com^
+--- filters
+
+ghostery_id: 4048

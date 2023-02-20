@@ -1,0 +1,14 @@
+name: De Persgroep
+category: advertising
+website_url: 
+organization: de_persgroep
+
+--- domains
+statslogger.rocket.persgroep.cloud
+--- domains
+
+--- filters
+||statslogger.rocket.persgroep.cloud/statistics.js
+--- filters
+
+ghostery_id: 3301

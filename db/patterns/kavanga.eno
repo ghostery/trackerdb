@@ -1,0 +1,14 @@
+name: Kavanga
+category: advertising
+website_url: http://kavanga.ru/
+organization: kavanga
+
+--- domains
+kavanga.ru
+--- domains
+
+--- filters
+||kavanga.ru^
+--- filters
+
+ghostery_id: 1166

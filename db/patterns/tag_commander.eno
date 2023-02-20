@@ -1,0 +1,16 @@
+name: Commanders Act
+category: essential
+website_url: https://www.commandersact.com/en/
+organization: tag_commander
+
+--- domains
+commander1.com
+tagcommander.com
+--- domains
+
+--- filters
+||commander1.com^
+||tagcommander.com^
+--- filters
+
+ghostery_id: 1586

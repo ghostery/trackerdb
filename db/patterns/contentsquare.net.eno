@@ -1,0 +1,14 @@
+name: ContentSquare
+category: advertising
+website_url: https://www.contentsquare.com/
+organization: content_square
+
+--- domains
+contentsquare.net
+--- domains
+
+--- filters
+||t.contentsquare.net/uxa/*.js^
+--- filters
+
+ghostery_id: 3295

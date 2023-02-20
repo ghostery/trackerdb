@@ -1,0 +1,14 @@
+name: Search123
+category: advertising
+website_url: http://www.search123.com/
+organization: search123
+
+--- domains
+search123.uk.com
+--- domains
+
+--- filters
+||search123.uk.com^
+--- filters
+
+ghostery_id: 1796

@@ -1,0 +1,14 @@
+name: InternetAudioAds
+category: audio_video_player
+website_url: http://www.internetaudioads.com/
+organization: internetaudioads
+
+--- domains
+voice2page.com
+--- domains
+
+--- filters
+||voice2page.com/naa_1x1.js
+--- filters
+
+ghostery_id: 445

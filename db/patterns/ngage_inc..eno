@@ -1,0 +1,14 @@
+name: NGage INC.
+category: site_analytics
+website_url: 
+organization: nginx
+
+--- domains
+ads.ngageinc.com
+--- domains
+
+--- filters
+||ads.ngageinc.com/index_ci.php
+--- filters
+
+ghostery_id: 2339

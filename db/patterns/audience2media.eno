@@ -1,0 +1,14 @@
+name: Audience2Media
+category: advertising
+website_url: http://www.audience2media.com/
+organization: audience2media
+
+--- domains
+ads.audience2media.com
+--- domains
+
+--- filters
+||ads.audience2media.com^
+--- filters
+
+ghostery_id: 1469

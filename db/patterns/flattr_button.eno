@@ -1,0 +1,15 @@
+name: Flattr Button
+category: social_media
+website_url: http://flattr.com/
+organization: flattr
+
+--- domains
+flattr.com
+--- domains
+
+--- filters
+||api.flattr.com/*/load.js^
+||api.flattr.com/button
+--- filters
+
+ghostery_id: 908

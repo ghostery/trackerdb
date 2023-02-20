@@ -1,0 +1,14 @@
+name: Aerify Media
+category: advertising
+website_url: http://aerifymedia.com/
+organization: aerify_media
+
+--- domains
+amxdt.com
+--- domains
+
+--- filters
+||amxdt.com^
+--- filters
+
+ghostery_id: 1513

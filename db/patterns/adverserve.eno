@@ -1,0 +1,14 @@
+name: adverServe
+category: advertising
+website_url: http://www.adverserve.com/
+organization: adverserve
+
+--- domains
+adverserve.net
+--- domains
+
+--- filters
+||adverserve.net^
+--- filters
+
+ghostery_id: 1683

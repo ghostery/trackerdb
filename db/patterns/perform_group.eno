@@ -1,0 +1,14 @@
+name: Perform Group
+category: essential
+website_url: http://www.performgroup.co.uk/
+organization: perform_group
+
+--- domains
+performgroup.com
+--- domains
+
+--- filters
+||performgroup.com^
+--- filters
+
+ghostery_id: 1255

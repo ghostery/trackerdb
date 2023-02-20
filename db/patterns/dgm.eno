@@ -1,0 +1,16 @@
+name: dgm
+category: advertising
+website_url: http://www.dgm-au.com/
+organization: apd
+
+--- domains
+dgm-au.com
+s2d6.com
+--- domains
+
+--- filters
+||dgm-au.com^
+||s2d6.com^
+--- filters
+
+ghostery_id: 1447

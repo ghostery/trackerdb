@@ -1,0 +1,14 @@
+name: Adclerks
+category: advertising
+website_url: 
+organization: adclerks
+
+--- domains
+swift.adclerks.com
+--- domains
+
+--- filters
+||swift.adclerks.com/www/delivery/asyncjs.php
+--- filters
+
+ghostery_id: 2966

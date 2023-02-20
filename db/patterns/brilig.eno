@@ -1,0 +1,14 @@
+name: Brilig
+category: advertising
+website_url: http://www.brilig.com/
+organization: dentsu_aegis_network
+
+--- domains
+p.brilig.com
+--- domains
+
+--- filters
+||p.brilig.com/contact/bct
+--- filters
+
+ghostery_id: 511

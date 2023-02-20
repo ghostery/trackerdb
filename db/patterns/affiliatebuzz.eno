@@ -1,0 +1,14 @@
+name: AffiliateBuzz
+category: advertising
+website_url: http://www.affiliatebuzz.com/
+organization: affiliatebuzz
+
+--- domains
+ads.affbuzzads.com
+--- domains
+
+--- filters
+||ads.affbuzzads.com^
+--- filters
+
+ghostery_id: 394

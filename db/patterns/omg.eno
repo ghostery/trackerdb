@@ -1,0 +1,14 @@
+name: OMG
+category: social_media
+website_url: http://uk.omgpm.com/
+organization: optimise_media
+
+--- domains
+omgpm.com
+--- domains
+
+--- filters
+||omgpm.com^
+--- filters
+
+ghostery_id: 928

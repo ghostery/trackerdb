@@ -1,0 +1,26 @@
+name: Free Counter
+category: site_analytics
+website_url: http://www.statcounterfree.com/
+organization: free_counter
+
+--- domains
+besucherstatistiken.com
+compteurdevisite.com
+contadorvisitasgratis.com
+contatoreaccessi.com
+freecounterstat.com
+statcounterfree.com
+webcontadores.com
+--- domains
+
+--- filters
+||besucherstatistiken.com/private/counter.js
+||compteurdevisite.com/private/counter.js
+||contadorvisitasgratis.com/private/counter.js
+||contatoreaccessi.com/private/counter.js
+||freecounterstat.com/private/counter.js
+||statcounterfree.com/private/counter.js
+||webcontadores.com/private/counter.js
+--- filters
+
+ghostery_id: 2161

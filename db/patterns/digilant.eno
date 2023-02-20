@@ -1,0 +1,14 @@
+name: Digilant
+category: advertising
+website_url: https://www.digilant.com/
+organization: digilant
+
+--- domains
+wtp101.com
+--- domains
+
+--- filters
+||wtp101.com^
+--- filters
+
+ghostery_id: 493

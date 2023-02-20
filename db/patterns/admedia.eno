@@ -1,0 +1,14 @@
+name: AdMedia
+category: advertising
+website_url: http://admedia.com/
+organization: admedia
+
+--- domains
+admedia.com
+--- domains
+
+--- filters
+||admedia.com^
+--- filters
+
+ghostery_id: 647

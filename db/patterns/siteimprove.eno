@@ -1,0 +1,14 @@
+name: Siteimprove
+category: site_analytics
+website_url: http://siteimprove.com
+organization: siteimprove
+
+--- domains
+siteimprove.com
+--- domains
+
+--- filters
+||siteimprove.com/js/
+--- filters
+
+ghostery_id: 966

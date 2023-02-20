@@ -1,0 +1,16 @@
+name: Undertone
+category: advertising
+website_url: https://www.undertone.com/
+organization: perion
+
+--- domains
+undertone.com
+--- domains
+
+--- filters
+||ads.undertone.com^
+||cdn.undertone.com/js/ajs.js
+||undertone.com^
+--- filters
+
+ghostery_id: 386

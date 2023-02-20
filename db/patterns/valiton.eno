@@ -1,0 +1,14 @@
+name: Valiton
+category: advertising
+website_url: https://www.valiton.com/
+organization: hubert_burda_media
+
+--- domains
+vinsight.de
+--- domains
+
+--- filters
+||vinsight.de^
+--- filters
+
+ghostery_id: 1751

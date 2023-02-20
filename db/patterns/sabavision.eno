@@ -1,0 +1,17 @@
+name: SabaVision
+category: advertising
+website_url: 
+organization: sabavision
+
+--- domains
+camp.sabavision.com
+--- domains
+
+--- filters
+||api.sabavision.com/pox/app.5e9cc9244c9f0b97d5e8.bundle.js
+||camp.sabavision.com/showcamp.php
+||sabavision.com/resource.php
+||zoomg.camp.sabavision.com/advert
+--- filters
+
+ghostery_id: 2726

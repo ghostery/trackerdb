@@ -1,0 +1,16 @@
+name: Opta
+category: site_analytics
+website_url: http://www.optasports.de/
+organization: opta_sports
+
+--- domains
+opta.net
+--- domains
+
+--- filters
+||widget.cloud.opta.net/data/tz/europe-zurich.js
+||widget.cloud.opta.net/v3/bin/subscriptions_3.js
+||widget.cloud.opta.net/v3/v3.opta-widgets.js
+--- filters
+
+ghostery_id: 3189

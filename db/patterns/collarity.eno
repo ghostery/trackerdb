@@ -1,0 +1,14 @@
+name: Collarity
+category: advertising
+website_url: http://www.collarity.com/
+organization: collarity
+
+--- domains
+service.collarity.com
+--- domains
+
+--- filters
+||service.collarity.com^
+--- filters
+
+ghostery_id: 131

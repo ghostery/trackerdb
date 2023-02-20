@@ -1,0 +1,20 @@
+name: AdLabs
+category: advertising
+website_url: https://www.adlabs.ru/
+organization: adlabs
+
+--- domains
+adlabs.ru
+clickiocdn.com
+luxup.ru
+mixmarket.biz
+--- domains
+
+--- filters
+||adlabs.ru^
+||luxup.ru^
+||mixmarket.biz^
+||s.clickiocdn.com/t
+--- filters
+
+ghostery_id: 1167

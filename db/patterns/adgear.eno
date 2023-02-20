@@ -1,0 +1,16 @@
+name: AdGear
+category: advertising
+website_url: http://adgear.com/
+organization: samsung
+
+--- domains
+adgear.com
+adgrx.com
+--- domains
+
+--- filters
+||adgear.com^
+||adgrx.com^
+--- filters
+
+ghostery_id: 391

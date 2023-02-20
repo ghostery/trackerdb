@@ -1,0 +1,14 @@
+name: Intergi
+category: advertising
+website_url: http://www.intergi.com/
+organization: intergi_entertainment
+
+--- domains
+ads.intergi.com
+--- domains
+
+--- filters
+||ads.intergi.com^
+--- filters
+
+ghostery_id: 827

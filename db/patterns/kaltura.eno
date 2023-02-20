@@ -1,0 +1,14 @@
+name: Kaltura
+category: audio_video_player
+website_url: http://corp.kaltura.com/
+organization: kaltura
+
+--- domains
+kaltura.com
+--- domains
+
+--- filters
+||kaltura.com^
+--- filters
+
+ghostery_id: 1394

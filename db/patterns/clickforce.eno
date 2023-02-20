@@ -1,0 +1,14 @@
+name: ClickForce
+category: advertising
+website_url: http://www.clickforce.com.tw/
+organization: clickforce
+
+--- domains
+doublemax.net
+--- domains
+
+--- filters
+||doublemax.net^
+--- filters
+
+ghostery_id: 1735

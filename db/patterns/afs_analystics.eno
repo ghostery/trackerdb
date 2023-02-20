@@ -1,0 +1,14 @@
+name: AFS Analystics
+category: site_analytics
+website_url: 
+organization: afs_analytics
+
+--- domains
+afsanalytics.com
+--- domains
+
+--- filters
+||afsanalytics.com/cgi-bin/afstracka.cg
+--- filters
+
+ghostery_id: 2393

@@ -1,0 +1,14 @@
+name: Pulse Insights
+category: site_analytics
+website_url: http://pulseinsights.com/
+organization: pulse_insights
+
+--- domains
+pulseinsights.com
+--- domains
+
+--- filters
+||pulseinsights.com^
+--- filters
+
+ghostery_id: 2220

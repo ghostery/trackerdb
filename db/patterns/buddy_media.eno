@@ -1,0 +1,15 @@
+name: Buddy Media
+category: social_media
+website_url: http://www.salesforce.com/
+organization: salesforce
+
+--- domains
+brighteroption.com
+--- domains
+
+--- filters
+||brighteroption.com^
+||conversion.buddymedia.com^
+--- filters
+
+ghostery_id: 1410

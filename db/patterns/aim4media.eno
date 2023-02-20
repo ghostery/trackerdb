@@ -1,0 +1,14 @@
+name: Aim4Media
+category: advertising
+website_url: http://aim4media.com
+organization: aim4media
+
+--- domains
+aim4media.com
+--- domains
+
+--- filters
+||aim4media.com^
+--- filters
+
+ghostery_id: 2014

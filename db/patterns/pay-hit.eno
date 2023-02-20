@@ -1,0 +1,14 @@
+name: Pay-Hit
+category: advertising
+website_url: http://pay-hit.com/
+organization: pay-hit
+
+--- domains
+pay-hit.com
+--- domains
+
+--- filters
+||pay-hit.com^
+--- filters
+
+ghostery_id: 2009

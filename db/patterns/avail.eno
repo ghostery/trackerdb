@@ -1,0 +1,14 @@
+name: Avail
+category: advertising
+website_url: http://avail.com
+organization: richrelevance
+
+--- domains
+avail.net
+--- domains
+
+--- filters
+||avail.net^
+--- filters
+
+ghostery_id: 1559

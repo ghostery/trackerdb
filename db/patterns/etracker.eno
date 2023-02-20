@@ -1,0 +1,19 @@
+name: etracker
+category: site_analytics
+website_url: http://www.etracker.com/en/
+organization: etracker_gmbh
+
+--- domains
+etracker.com
+etracker.de
+sedotracker.com
+--- domains
+
+--- filters
+||code.etracker.com^
+||etracker.de^
+||sedotracker.com^
+||static.etracker.com/code/e.js
+--- filters
+
+ghostery_id: 186

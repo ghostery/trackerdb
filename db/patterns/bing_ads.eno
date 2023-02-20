@@ -1,0 +1,21 @@
+name: Bing Ads
+category: advertising
+website_url: https://bingads.microsoft.com/
+organization: microsoft
+
+--- domains
+bat.r.msn.com
+bing.com
+bing.net
+--- domains
+
+--- filters
+||ads.msn.com/library/dap.js
+||ads1.msn.com/library/dap.js
+||adsyndication.msn.com/delivery/getads.js
+||bat.bing.com^
+||bat.r.msn.com^
+||flex.msn.com/mstag/
+--- filters
+
+ghostery_id: 67

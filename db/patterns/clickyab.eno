@@ -1,0 +1,15 @@
+name: Clickyab
+category: advertising
+website_url: 
+organization: clickyab
+
+--- domains
+clickyab.com
+--- domains
+
+--- filters
+||a.clickyab.com/show.js
+||static.clickyab.com/ad/
+--- filters
+
+ghostery_id: 3029

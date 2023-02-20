@@ -1,0 +1,14 @@
+name: Commerce Sciences
+category: advertising
+website_url: http://commercesciences.com/
+organization: commerce_sciences
+
+--- domains
+cdn-cs.com
+--- domains
+
+--- filters
+||cdn-cs.com^
+--- filters
+
+ghostery_id: 1635

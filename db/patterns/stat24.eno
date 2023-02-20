@@ -1,0 +1,14 @@
+name: Stat24
+category: site_analytics
+website_url: http://www.stat24.com/en/
+organization: stat24
+
+--- domains
+hit.stat24.com
+--- domains
+
+--- filters
+||hit.stat24.com^
+--- filters
+
+ghostery_id: 1022

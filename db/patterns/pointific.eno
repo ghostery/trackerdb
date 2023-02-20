@@ -1,0 +1,14 @@
+name: Pointific
+category: site_analytics
+website_url: 
+organization: pontiflex
+
+--- domains
+pointificsecure.com
+--- domains
+
+--- filters
+||pointificsecure.com/p.ashx
+--- filters
+
+ghostery_id: 2709

@@ -1,0 +1,16 @@
+name: Kitara Media
+category: advertising
+website_url: http://www.kitaramedia.com/
+organization: kitara_media
+
+--- domains
+ad.103092804.com
+kmdisplay.com
+--- domains
+
+--- filters
+||ad.103092804.com^
+||kmdisplay.com^
+--- filters
+
+ghostery_id: 632

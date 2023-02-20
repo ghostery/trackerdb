@@ -1,0 +1,14 @@
+name: BannerPlay
+category: advertising
+website_url: http://www.bannerplay.com/
+organization: bannerplay
+
+--- domains
+bannerplay.com
+--- domains
+
+--- filters
+||bannerplay.com^
+--- filters
+
+ghostery_id: 2065

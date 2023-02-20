@@ -1,0 +1,14 @@
+name: SheerID
+category: advertising
+website_url: 
+organization: sheerid
+
+--- domains
+services.sheerid.com
+--- domains
+
+--- filters
+||services.sheerid.com/jsapi/sheerid.js
+--- filters
+
+ghostery_id: 2415

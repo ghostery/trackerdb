@@ -1,0 +1,14 @@
+name: adzly
+category: advertising
+website_url: http://www.adzly.com/
+organization: adzly
+
+--- domains
+adzly.com
+--- domains
+
+--- filters
+||adzly.com/adserve
+--- filters
+
+ghostery_id: 822

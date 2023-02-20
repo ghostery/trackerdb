@@ -1,0 +1,14 @@
+name: Bisnode
+category: advertising
+website_url: http://www.esendra.fi/
+organization: bisnode
+
+--- domains
+esendra.fi
+--- domains
+
+--- filters
+||esendra.fi^
+--- filters
+
+ghostery_id: 1370

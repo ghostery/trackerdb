@@ -1,0 +1,14 @@
+name: Kickfactory
+category: advertising
+website_url: 
+organization: kickfactory
+
+--- domains
+ping.kickfactory.com
+--- domains
+
+--- filters
+||ping.kickfactory.com/ping
+--- filters
+
+ghostery_id: 2370

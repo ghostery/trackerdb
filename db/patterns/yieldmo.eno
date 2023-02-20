@@ -1,0 +1,14 @@
+name: Yieldmo
+category: advertising
+website_url: https://www.yieldmo.com/
+organization: yieldmo
+
+--- domains
+yieldmo.com
+--- domains
+
+--- filters
+||yieldmo.com^
+--- filters
+
+ghostery_id: 1823

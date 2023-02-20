@@ -1,0 +1,14 @@
+name: Smart Device Media
+category: advertising
+website_url: http://www.smartdevicemedia.com/
+organization: smart_device_media
+
+--- domains
+smartdevicemedia.com
+--- domains
+
+--- filters
+||smartdevicemedia.com^
+--- filters
+
+ghostery_id: 1456

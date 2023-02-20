@@ -1,0 +1,14 @@
+name: Usocial
+category: social_media
+website_url: 
+organization: usocial
+
+--- domains
+usocial.pro
+--- domains
+
+--- filters
+||usocial.pro/usocial/usocial.js
+--- filters
+
+ghostery_id: 3048

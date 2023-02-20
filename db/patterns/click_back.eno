@@ -1,0 +1,14 @@
+name: Click Back
+category: advertising
+website_url: 
+organization: clickback
+
+--- domains
+software.clickback.com
+--- domains
+
+--- filters
+||software.clickback.com/scripts/cbintegrations.js
+--- filters
+
+ghostery_id: 2432

@@ -1,0 +1,16 @@
+name: Geeen
+category: site_analytics
+website_url: 
+organization: geeen
+
+--- domains
+gntm.geeen.co.jp
+lpomax.net
+--- domains
+
+--- filters
+||gntm.geeen.co.jp/onetag/
+||lpomax.net/efocube/js/efocube.js
+--- filters
+
+ghostery_id: 3142

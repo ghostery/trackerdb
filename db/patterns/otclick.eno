@@ -1,0 +1,14 @@
+name: otClick
+category: advertising
+website_url: http://otclick-adv.ru/
+organization: otclick
+
+--- domains
+otclick-adv.ru
+--- domains
+
+--- filters
+||otclick-adv.ru^
+--- filters
+
+ghostery_id: 1652

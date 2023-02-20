@@ -1,0 +1,14 @@
+name: AvantLink
+category: advertising
+website_url: http://www.avantlink.com/
+organization: avantlink
+
+--- domains
+avantlink.com
+--- domains
+
+--- filters
+||avantlink.com^
+--- filters
+
+ghostery_id: 799

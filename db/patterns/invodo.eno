@@ -1,0 +1,14 @@
+name: Invodo
+category: site_analytics
+website_url: 
+organization: invodo
+
+--- domains
+invodo.com
+--- domains
+
+--- filters
+||invodo.com^
+--- filters
+
+ghostery_id: 2319

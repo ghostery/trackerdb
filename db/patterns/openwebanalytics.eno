@@ -1,0 +1,14 @@
+name: Open Web Analytics
+category: site_analytics
+website_url: http://www.openwebanalytics.com/
+organization: open_web_analytics
+
+--- domains
+openwebanalytics.com
+--- domains
+
+--- filters
+/owa.tracker-combined-min.js
+--- filters
+
+ghostery_id: 1187

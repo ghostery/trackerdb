@@ -1,0 +1,16 @@
+name: Hybrid.ai
+category: advertising
+website_url: https://hybrid.ai/
+organization: hybrid_adtech
+
+--- domains
+hybrid.ai
+targetix.net
+--- domains
+
+--- filters
+||ads.targetix.net^
+||st.targetix.net/script/publisherssp
+--- filters
+
+ghostery_id: 968

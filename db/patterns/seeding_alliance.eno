@@ -1,0 +1,18 @@
+name: Seeding Alliance
+category: advertising
+website_url: http://seeding-alliance.de
+organization: stroer
+
+--- domains
+bacontent.de
+nativendo.de
+--- domains
+
+--- filters
+||bacontent.de/assets/js
+||c.nativendo.de/assets/js/loader.js
+||d.nativendo.de/d/
+||t.nativendo.de/t/
+--- filters
+
+ghostery_id: 3207

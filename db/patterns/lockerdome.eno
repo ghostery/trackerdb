@@ -1,0 +1,14 @@
+name: LockerDome
+category: social_media
+website_url: 
+organization: lockerdome
+
+--- domains
+cdn2.lockerdome.com
+--- domains
+
+--- filters
+||cdn2.lockerdome.com/_js/ajs.js
+--- filters
+
+ghostery_id: 2285

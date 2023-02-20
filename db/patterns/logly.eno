@@ -1,0 +1,14 @@
+name: logly
+category: site_analytics
+website_url: http://logly.co.jp/
+organization: logly
+
+--- domains
+logly.co.jp
+--- domains
+
+--- filters
+||logly.co.jp^
+--- filters
+
+ghostery_id: 1815

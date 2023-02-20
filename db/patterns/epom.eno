@@ -1,0 +1,18 @@
+name: Epom
+category: advertising
+website_url: http://epom.com/
+organization: epom
+
+--- domains
+adshost1.com
+adshost2.com
+epom.com
+--- domains
+
+--- filters
+||adshost1.com^
+||adshost2.com^
+||epom.com^
+--- filters
+
+ghostery_id: 1569

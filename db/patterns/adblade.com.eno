@@ -1,0 +1,14 @@
+name: Adblade
+category: advertising
+website_url: https://adblade.com/
+organization: adblade
+
+--- domains
+adblade.com
+--- domains
+
+--- filters
+||adblade.com^
+--- filters
+
+ghostery_id: 385

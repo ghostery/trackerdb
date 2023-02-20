@@ -1,0 +1,14 @@
+name: Banner Connect
+category: advertising
+website_url: http://www.bannerconnect.net/
+organization: bannerconnect
+
+--- domains
+bannerconnect.net
+--- domains
+
+--- filters
+||bannerconnect.net^
+--- filters
+
+ghostery_id: 1127

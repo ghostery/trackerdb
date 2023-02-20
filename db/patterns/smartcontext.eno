@@ -1,0 +1,14 @@
+name: SmartContext
+category: advertising
+website_url: http://smartcontext.pl/
+organization: smartcontext
+
+--- domains
+smartcontext.pl
+--- domains
+
+--- filters
+||smartcontext.pl^
+--- filters
+
+ghostery_id: 1021

@@ -1,0 +1,17 @@
+name: Salesforce DMP
+category: advertising
+website_url: https://www.salesforce.com/products/marketing-cloud/data-management/?mc=DMP
+organization: salesforce
+
+--- domains
+krxd.net
+--- domains
+
+--- filters
+||apiservices.krxd.net^
+||beacon.krxd.net^
+||cdn.krxd.net^
+||usermatch.krxd.net^
+--- filters
+
+ghostery_id: 378

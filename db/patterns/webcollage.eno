@@ -1,0 +1,17 @@
+name: Webcollage
+category: customer_interaction
+website_url: 
+organization: webcollage
+
+--- domains
+webcollage.net
+--- domains
+
+--- filters
+||content.webcollage.net^
+||media.webcollage.net^
+||rel.webcollag.net^
+||webcollage.net/smart-button
+--- filters
+
+ghostery_id: 2261

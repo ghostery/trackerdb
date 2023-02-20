@@ -1,0 +1,14 @@
+name: Smowtion
+category: advertising
+website_url: http://www.smowtion.com/
+organization: smowtion
+
+--- domains
+smowtion.com
+--- domains
+
+--- filters
+||smowtion.com^
+--- filters
+
+ghostery_id: 597

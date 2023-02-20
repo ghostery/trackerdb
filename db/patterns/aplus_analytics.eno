@@ -1,0 +1,14 @@
+name: Aplus Analytics
+category: site_analytics
+website_url: https://ww.deluxe.com/
+organization: deluxe
+
+--- domains
+carrierzone.com
+--- domains
+
+--- filters
+||carrierzone.com/app/count
+--- filters
+
+ghostery_id: 1753

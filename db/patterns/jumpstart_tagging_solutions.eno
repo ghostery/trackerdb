@@ -1,0 +1,14 @@
+name: Jumpstart Tagging Solutions
+category: site_analytics
+website_url: 
+organization: hearst
+
+--- domains
+jumpstarttaggingsolutions.com
+--- domains
+
+--- filters
+||jumpstarttaggingsolutions.com/tags/
+--- filters
+
+ghostery_id: 2382

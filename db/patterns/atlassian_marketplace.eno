@@ -1,0 +1,11 @@
+name: Atlassian Marketplace
+category: cdn
+website_url: https://marketplace.atlassian.com/
+organization: atlassian
+
+--- domains
+d1xfq2052q7thw.cloudfront.net
+marketplace.atlassian.com
+--- domains
+
+ghostery_id: 3373

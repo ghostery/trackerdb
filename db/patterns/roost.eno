@@ -1,0 +1,15 @@
+name: Roost
+category: site_analytics
+website_url: http://roost.me/
+organization: roost
+
+--- domains
+get.roost.me
+--- domains
+
+--- filters
+/wp-content/plugins/roost-for-bloggers^
+||get.roost.me/js/
+--- filters
+
+ghostery_id: 2057

@@ -1,0 +1,17 @@
+name: minute.ly
+category: audio_video_player
+website_url: 
+organization: minute.ly
+
+--- domains
+snackly.co
+snippet.minute.ly
+--- domains
+
+--- filters
+||snackly.co^
+||snippet.minute.ly/mi-time-prod.js
+||snippet.minute.ly/mi-ynet-prod.js
+--- filters
+
+ghostery_id: 2462

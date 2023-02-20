@@ -1,0 +1,16 @@
+name: NetBooster Group
+category: advertising
+website_url: http://www.netbooster.com/
+organization: netbooster_group
+
+--- domains
+bbtrack.net
+netbooster.com
+--- domains
+
+--- filters
+||bbtrack.net^
+||netbooster.com^
+--- filters
+
+ghostery_id: 1625

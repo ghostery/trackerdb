@@ -1,0 +1,16 @@
+name: Innity
+category: advertising
+website_url: http://www.innity.com/
+organization: innity
+
+--- domains
+innity.com
+innity.net
+--- domains
+
+--- filters
+||innity.com^
+||innity.net^
+--- filters
+
+ghostery_id: 941

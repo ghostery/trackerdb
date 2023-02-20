@@ -1,0 +1,14 @@
+name: Adrecord
+category: advertising
+website_url: http://www.adrecord.com/
+organization: adrecord
+
+--- domains
+adrecord.com
+--- domains
+
+--- filters
+||adrecord.com^
+--- filters
+
+ghostery_id: 1401

@@ -1,0 +1,16 @@
+name: Impression Desk
+category: advertising
+website_url: https://impressiondesk.com/
+organization: infectious_media
+
+--- domains
+impdesk.com
+impressiondesk.com
+--- domains
+
+--- filters
+||impdesk.com^
+||impressiondesk.com^
+--- filters
+
+ghostery_id: 641

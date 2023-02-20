@@ -1,0 +1,21 @@
+name: InternetBrands
+category: social_media
+website_url: http://www.internetbrands.com/
+organization: internet_brands
+
+--- domains
+ibpxl.com
+ibsrv.net
+--- domains
+
+--- filters
+||ibpxl.com^
+||ibsrv.net/ads
+||ibsrv.net/forumsponsor
+||ibsrv.net/linkshare
+||ibsrv.net/sponsor
+||ibsrv.net/sponsors
+||static.ibsrv.net/travel/issearchvisitor.min.js
+--- filters
+
+ghostery_id: 381

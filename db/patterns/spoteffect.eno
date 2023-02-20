@@ -1,0 +1,14 @@
+name: Spoteffect
+category: site_analytics
+website_url: 
+organization: spoteffect
+
+--- domains
+spoteffects.net
+--- domains
+
+--- filters
+||trck.spoteffects.net/analytics/spef.min.js
+--- filters
+
+ghostery_id: 2783

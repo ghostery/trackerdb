@@ -1,0 +1,14 @@
+name: Recreativ
+category: advertising
+website_url: http://recreativ.ru/
+organization: recreativ
+
+--- domains
+recreativ.ru
+--- domains
+
+--- filters
+||recreativ.ru^
+--- filters
+
+ghostery_id: 1315

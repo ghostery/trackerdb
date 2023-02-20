@@ -1,0 +1,14 @@
+name: ClickDimensions
+category: advertising
+website_url: http://www.clickdimensions.com/
+organization: clickdimensions
+
+--- domains
+analytics.clickdimensions.com
+--- domains
+
+--- filters
+||analytics.clickdimensions.com^
+--- filters
+
+ghostery_id: 803

@@ -1,0 +1,14 @@
+name: Callibri
+category: advertising
+website_url: 
+organization: callibri
+
+--- domains
+callibri.ru
+--- domains
+
+--- filters
+||callibri.ru/api/module/js/v1/callibri.js
+--- filters
+
+ghostery_id: 2861

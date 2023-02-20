@@ -1,0 +1,14 @@
+name: Channel Intelligence
+category: advertising
+website_url: http://www.channelintelligence.com/
+organization: google
+
+--- domains
+channelintelligence.com
+--- domains
+
+--- filters
+||channelintelligence.com^
+--- filters
+
+ghostery_id: 270

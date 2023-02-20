@@ -1,0 +1,14 @@
+name: Yabuka
+category: advertising
+website_url: http://www.yabuka.com/
+organization: yabuka
+
+--- domains
+yabuka.com
+--- domains
+
+--- filters
+||yabuka.com^
+--- filters
+
+ghostery_id: 1151

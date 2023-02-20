@@ -1,0 +1,16 @@
+name: Adgile
+category: advertising
+website_url: http://www.adgile.com/
+organization: adgile_media
+
+--- domains
+ad.adgile.com
+ad.antventure.com
+--- domains
+
+--- filters
+||ad.adgile.com^
+||ad.antventure.com^
+--- filters
+
+ghostery_id: 1725

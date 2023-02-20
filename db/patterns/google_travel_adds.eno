@@ -1,0 +1,14 @@
+name: Google Travel Adds
+category: advertising
+website_url: 
+organization: google
+
+--- domains
+googletraveladservices.com
+--- domains
+
+--- filters
+||googletraveladservices.com^
+--- filters
+
+ghostery_id: 2316

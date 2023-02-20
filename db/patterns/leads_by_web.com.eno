@@ -1,0 +1,14 @@
+name: Leads by Web.com
+category: advertising
+website_url: http://www.leadsbyweb.com
+organization: web.com_group
+
+--- domains
+scorecard.wspisp.net
+--- domains
+
+--- filters
+||scorecard.wspisp.net^
+--- filters
+
+ghostery_id: 2117

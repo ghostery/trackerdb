@@ -1,0 +1,14 @@
+name: Kauli
+category: advertising
+website_url: http://kau.li/
+organization: kauli
+
+--- domains
+kau.li
+--- domains
+
+--- filters
+||kau.li^
+--- filters
+
+ghostery_id: 923

@@ -1,0 +1,15 @@
+name: Dstillery
+category: advertising
+website_url: https://dstillery.com/
+organization: dstillery
+
+--- domains
+m6d.com
+media6degrees.com
+--- domains
+
+--- filters
+||media6degrees.com^
+--- filters
+
+ghostery_id: 147

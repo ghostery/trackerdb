@@ -1,0 +1,16 @@
+name: Warner Media
+category: site_analytics
+website_url: https://www.warnermedia.com/
+organization: turner
+
+--- domains
+ngtv.io
+turner.com
+warnermedia.com
+--- domains
+
+--- filters
+||geo.ngtv.io/locate
+--- filters
+
+ghostery_id: 3922

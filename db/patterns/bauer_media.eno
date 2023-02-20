@@ -1,0 +1,14 @@
+name: Bauer Media
+category: advertising
+website_url: 
+organization: bauer_media
+
+--- domains
+bauernative.com
+--- domains
+
+--- filters
+||cdn.bauernative.com/nativendo.js
+--- filters
+
+ghostery_id: 2911

@@ -1,0 +1,14 @@
+name: ConversionRuler
+category: advertising
+website_url: http://www.conversionruler.com/
+organization: market_ruler
+
+--- domains
+conversionruler.com
+--- domains
+
+--- filters
+||conversionruler.com/bin/
+--- filters
+
+ghostery_id: 61

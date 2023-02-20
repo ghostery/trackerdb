@@ -1,0 +1,16 @@
+name: TraceMyIP
+category: advertising
+website_url: http://www.tracemyip.org/
+organization: tracemyip
+
+--- domains
+ipnoid.com
+tracemyip.org
+--- domains
+
+--- filters
+||ipnoid.com/tracker/
+||tracemyip.org/tracker/
+--- filters
+
+ghostery_id: 830

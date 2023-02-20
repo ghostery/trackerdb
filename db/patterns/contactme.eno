@@ -1,0 +1,16 @@
+name: ContactMe
+category: advertising
+website_url: http://www.contactme.com
+organization: contactme
+
+--- domains
+d1uwd25yvxu96k.cloudfront.net
+static.contactme.com
+--- domains
+
+--- filters
+||d1uwd25yvxu96k.cloudfront.net^
+||static.contactme.com^
+--- filters
+
+ghostery_id: 2116

@@ -1,0 +1,14 @@
+name: Pheedo
+category: advertising
+website_url: http://pheedo.com/
+organization: pheedo
+
+--- domains
+ads.pheedo.com
+--- domains
+
+--- filters
+||ads.pheedo.com^
+--- filters
+
+ghostery_id: 551

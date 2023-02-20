@@ -1,0 +1,15 @@
+name: Gittip
+category: customer_interaction
+website_url: https://www.gittip.com/
+organization: gittip
+
+--- domains
+gittip.com
+--- domains
+
+--- filters
+||gittip.com^
+||netdna-ssl.net/js/gittip-widget.js
+--- filters
+
+ghostery_id: 1837

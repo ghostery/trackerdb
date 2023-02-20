@@ -1,0 +1,14 @@
+name: adXion
+category: advertising
+website_url: http://www.adxion.com
+organization: adxion
+
+--- domains
+adxion.com
+--- domains
+
+--- filters
+||adxion.com^
+--- filters
+
+ghostery_id: 1251

@@ -1,0 +1,14 @@
+name: Pricespider
+category: advertising
+website_url: 
+organization: price_spider
+
+--- domains
+cdn.pricespider.com
+--- domains
+
+--- filters
+||cdn.pricespider.com/1/lib/ps-widget.js
+--- filters
+
+ghostery_id: 2565

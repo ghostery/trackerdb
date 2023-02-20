@@ -1,0 +1,14 @@
+name: Image Advantage
+category: advertising
+website_url: http://www.worthathousandwords.com/
+organization: image_advantage
+
+--- domains
+worthathousandwords.com
+--- domains
+
+--- filters
+||worthathousandwords.com^
+--- filters
+
+ghostery_id: 1679

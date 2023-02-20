@@ -1,0 +1,21 @@
+name: Adap.tv
+category: advertising
+website_url: http://www.adap.tv/
+organization: verizon
+
+--- domains
+adap.tv
+--- domains
+
+--- filters
+||ads.adap.tv^
+||log.adap.tv^
+||qlog.adap.tv^
+||redir.adap.tv^
+||segments.adap.tv^
+||set.adap.tv^
+||sync.adap.tv^
+||u-ads.adap.tv^
+--- filters
+
+ghostery_id: 573

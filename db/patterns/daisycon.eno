@@ -1,0 +1,14 @@
+name: Daisycon
+category: advertising
+website_url: http://www.daisycon.com
+organization: daisycon
+
+--- domains
+ds1.nl
+--- domains
+
+--- filters
+||ds1.nl^
+--- filters
+
+ghostery_id: 1440

@@ -1,0 +1,16 @@
+name: Cross Pixel
+category: advertising
+website_url: http://crosspixel.net/
+organization: cross_pixel
+
+--- domains
+crosspixel.net
+crsspxl.com
+--- domains
+
+--- filters
+||crosspixel.net^
+||crsspxl.com^
+--- filters
+
+ghostery_id: 732

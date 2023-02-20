@@ -1,0 +1,15 @@
+name: TweetMeme
+category: social_media
+website_url: http://tweetmeme.com/
+organization: tweetmeme
+
+--- domains
+tweetmeme.com
+--- domains
+
+--- filters
+||tweetmeme.com/i/scripts/button.js
+||zulu.tweetmeme.com/button_ajax.js
+--- filters
+
+ghostery_id: 245

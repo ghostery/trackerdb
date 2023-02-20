@@ -1,0 +1,14 @@
+name: OpinionBar
+category: customer_interaction
+website_url: http://www.metrixlab.com
+organization: metrixlab
+
+--- domains
+opinionbar.com
+--- domains
+
+--- filters
+||opinionbar.com^
+--- filters
+
+ghostery_id: 1673

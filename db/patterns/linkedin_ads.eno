@@ -1,0 +1,16 @@
+name: LinkedIn Ads
+category: advertising
+website_url: http://www.linkedin.com/
+organization: microsoft
+
+--- domains
+ads.linkedin.com
+--- domains
+
+--- filters
+||ads.linkedin.com/collect
+||imp2.ads.linkedin.com^
+||linkedin.com/csp/
+--- filters
+
+ghostery_id: 1485

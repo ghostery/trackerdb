@@ -1,0 +1,14 @@
+name: IPFingerprint
+category: site_analytics
+website_url: http://www.ipfingerprint.com/
+organization: ipfingerprint
+
+--- domains
+dust.ipfingerprint.com
+--- domains
+
+--- filters
+||dust.ipfingerprint.com^
+--- filters
+
+ghostery_id: 1787

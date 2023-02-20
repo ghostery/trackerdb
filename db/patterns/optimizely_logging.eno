@@ -1,0 +1,12 @@
+name: Optimizely Logging
+category: site_analytics
+website_url: 
+organization: optimizely
+alias: optimizely
+
+--- filters
+||log.optimizely.com/event
+||logx.optimizely.com/log/event
+--- filters
+
+ghostery_id: 3097

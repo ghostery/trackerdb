@@ -1,0 +1,15 @@
+name: Jeeng Widgets
+category: advertising
+website_url: 
+organization: jeeng
+
+--- domains
+api.jeeng.com
+--- domains
+
+--- filters
+||api.jeeng.com/widgets
+||widget.jeeng.com^
+--- filters
+
+ghostery_id: 3122

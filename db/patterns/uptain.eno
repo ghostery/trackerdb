@@ -1,0 +1,14 @@
+name: Uptain
+category: site_analytics
+website_url: 
+organization: uptain
+
+--- domains
+app.uptain.de
+--- domains
+
+--- filters
+||app.uptain.de/js/uptain.js
+--- filters
+
+ghostery_id: 2840

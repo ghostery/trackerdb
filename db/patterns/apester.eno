@@ -1,0 +1,15 @@
+name: Apester
+category: advertising
+website_url: http://apester.com/
+organization: apester
+
+--- domains
+apester.com
+--- domains
+
+--- filters
+||display.apester.com/injected-units
+||static.apester.com/js/sdk
+--- filters
+
+ghostery_id: 2930

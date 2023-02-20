@@ -1,0 +1,14 @@
+name: RaiseNow
+category: site_analytics
+website_url: 
+organization: raisenow
+
+--- domains
+widget.raisenow.com
+--- domains
+
+--- filters
+||widget.raisenow.com/widgets/ela/moaz-q8tch/js/dds-init-widget-de.js
+--- filters
+
+ghostery_id: 3187

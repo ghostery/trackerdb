@@ -1,0 +1,14 @@
+name: Airpush
+category: advertising
+website_url: 
+organization: airpush
+
+--- domains
+ab.airpush.com
+--- domains
+
+--- filters
+||ab.airpush.com/apportal/client/airpush.js
+--- filters
+
+ghostery_id: 2478

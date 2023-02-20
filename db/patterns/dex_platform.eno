@@ -1,0 +1,14 @@
+name: DEX Platform
+category: advertising
+website_url: http://blueadvertise.com/
+organization: dex_platform
+
+--- domains
+my.blueadvertise.com
+--- domains
+
+--- filters
+||my.blueadvertise.com^
+--- filters
+
+ghostery_id: 1956

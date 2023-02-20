@@ -1,0 +1,14 @@
+name: Live800
+category: customer_interaction
+website_url: 
+organization: live800
+
+--- domains
+live800.com
+--- domains
+
+--- filters
+||live800.com/live800/chatclient/staticbutton.js
+--- filters
+
+ghostery_id: 2389

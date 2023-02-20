@@ -1,0 +1,20 @@
+name: ScoreCard Research Beacon
+category: site_analytics
+website_url: https://www.scorecardresearch.com/
+organization: comscore
+
+--- domains
+scorecardresearch.com
+scoreresearch.com
+scrsrch.com
+securestudies.com
+--- domains
+
+--- filters
+||scorecardresearch.com^
+||scoreresearch.com^
+||scrsrch.com^
+||securestudies.com^
+--- filters
+
+ghostery_id: 187

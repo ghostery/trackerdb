@@ -1,0 +1,14 @@
+name: Conversive
+category: advertising
+website_url: http://www.conversive.nl/
+organization: conversive
+
+--- domains
+ant.conversive.nl
+--- domains
+
+--- filters
+||ant.conversive.nl^
+--- filters
+
+ghostery_id: 905

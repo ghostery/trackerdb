@@ -1,0 +1,14 @@
+name: Browser-Statistik
+category: site_analytics
+website_url: http://www.browser-statistik.de/
+organization: browser-statistik
+
+--- domains
+browser-statistik.de
+--- domains
+
+--- filters
+||browser-statistik.de/browser.png
+--- filters
+
+ghostery_id: 2169

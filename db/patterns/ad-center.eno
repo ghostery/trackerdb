@@ -1,0 +1,14 @@
+name: Ad-Center
+category: site_analytics
+website_url: 
+organization: ad-center
+
+--- domains
+ads.ad-center.com
+--- domains
+
+--- filters
+||ads.ad-center.com/smart_ad/display
+--- filters
+
+ghostery_id: 2272

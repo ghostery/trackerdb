@@ -1,0 +1,14 @@
+name: Adless
+category: advertising
+website_url: 
+organization: adless
+
+--- domains
+cdn.adless.io
+--- domains
+
+--- filters
+||cdn.adless.io^
+--- filters
+
+ghostery_id: 3159

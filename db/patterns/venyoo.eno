@@ -1,0 +1,15 @@
+name: Venyoo
+category: customer_interaction
+website_url: 
+organization: venyoo
+
+--- domains
+api.venyoo.ru
+--- domains
+
+--- filters
+||api.venyoo.ru/wnew.js
+||static.venyoo.ru/widget/js/placeholders.jquery.min.js
+--- filters
+
+ghostery_id: 2534

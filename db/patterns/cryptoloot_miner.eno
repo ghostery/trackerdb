@@ -1,0 +1,14 @@
+name: CryptoLoot Miner
+category: advertising
+website_url: 
+organization: cryptoloot
+
+--- domains
+cryptoloot.pro
+--- domains
+
+--- filters
+||cryptoloot.pro/lib/crlt.js
+--- filters
+
+ghostery_id: 3165

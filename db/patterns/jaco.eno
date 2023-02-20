@@ -1,0 +1,14 @@
+name: Jaco
+category: site_analytics
+website_url: 
+organization: walkme
+
+--- domains
+getjaco.com
+--- domains
+
+--- filters
+||recorder-assets.getjaco.com/recorder_v2.js
+--- filters
+
+ghostery_id: 3151

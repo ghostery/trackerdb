@@ -1,0 +1,11 @@
+name: Outbrain Analytics
+category: site_analytics
+website_url: 
+organization: outbrain
+alias: outbrain
+
+--- filters
+||rva.outbrain.com/analytics-v1.js
+--- filters
+
+ghostery_id: 2887

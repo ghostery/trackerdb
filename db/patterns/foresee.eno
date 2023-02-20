@@ -1,0 +1,21 @@
+name: ForeSee
+category: essential
+website_url: https://www.foresee.com/
+organization: foresee_results
+
+--- domains
+4seeresults.com
+foresee.com
+--- domains
+
+--- filters
+/sites/all/libraries/foresee/foresee-surveydef.js
+foresee-alive
+foresee-analytics
+foresee-trigger
+foresee/foresee-alive.js
+||gateway.foresee.com^
+||replaycontroller.4seeresults.com^
+--- filters
+
+ghostery_id: 265

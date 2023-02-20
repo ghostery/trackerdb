@@ -1,0 +1,14 @@
+name: Advertlets
+category: advertising
+website_url: http://www.advertlets.com/
+organization: advertlets
+
+--- domains
+advertlets.com
+--- domains
+
+--- filters
+||advertlets.com^
+--- filters
+
+ghostery_id: 1426

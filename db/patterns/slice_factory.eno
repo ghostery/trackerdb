@@ -1,0 +1,14 @@
+name: Slice Factory
+category: customer_interaction
+website_url: http://www.slicefactory.com/
+organization: slice_factory
+
+--- domains
+builder.extensionfactory.com
+--- domains
+
+--- filters
+||builder.extensionfactory.com^
+--- filters
+
+ghostery_id: 845

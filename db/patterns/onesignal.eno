@@ -1,0 +1,16 @@
+name: OneSignal
+category: essential
+website_url: https://onesignal.com/
+organization: onesignal
+
+--- domains
+onesignal.com
+os.tc
+--- domains
+
+--- filters
+||cdn.onesignal.com/sdks/onesignalsdk.js
+||onesignal.com/api/v1/sync
+--- filters
+
+ghostery_id: 2498

@@ -1,0 +1,14 @@
+name: Creafi
+category: advertising
+website_url: http://www.creafi.com/en/home/
+organization: crazy4media
+
+--- domains
+creafi-online-media.com
+--- domains
+
+--- filters
+||creafi-online-media.com^
+--- filters
+
+ghostery_id: 1134

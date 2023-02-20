@@ -1,0 +1,14 @@
+name: Adelphic
+category: site_analytics
+website_url: 
+organization: adelphic
+
+--- domains
+ipredictive.com
+--- domains
+
+--- filters
+||ad.ipredictive.com/d/track/cvt/pixe
+--- filters
+
+ghostery_id: 2533

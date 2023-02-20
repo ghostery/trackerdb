@@ -1,0 +1,14 @@
+name: TwitterCounter
+category: site_analytics
+website_url: http://twittercounter.com/
+organization: twitter_counter
+
+--- domains
+twittercounter.com
+--- domains
+
+--- filters
+||twittercounter.com^
+--- filters
+
+ghostery_id: 119

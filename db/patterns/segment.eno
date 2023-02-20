@@ -1,0 +1,20 @@
+name: Segment
+category: site_analytics
+website_url: https://segment.io/
+organization: segment
+
+--- domains
+d2dq2ahtl5zl1z.cloudfront.net
+d47xnnr8b1rki.cloudfront.net
+segment.com
+segment.io
+--- domains
+
+--- filters
+||d2dq2ahtl5zl1z.cloudfront.net^
+||d47xnnr8b1rki.cloudfront.net^
+||segment.com^
+||segment.io^
+--- filters
+
+ghostery_id: 933

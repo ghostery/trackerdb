@@ -1,0 +1,17 @@
+name: ExoClick
+category: pornvertising
+website_url: http://exoclick.com/
+organization: exoclick
+
+--- domains
+exdynsrv.com
+exoclick.com
+exosrv.com
+--- domains
+
+--- filters
+||exoclick.com^
+||syndication.exdynsrv.com^
+--- filters
+
+ghostery_id: 702

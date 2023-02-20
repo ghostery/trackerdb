@@ -1,0 +1,15 @@
+name: Kalooga
+category: advertising
+website_url: https://www.kalooga.com/
+organization: kalooga
+
+--- domains
+kaloo.ga
+--- domains
+
+--- filters
+||geo.kaloo.ga/json
+||publishing.kaloo.ga/acct
+--- filters
+
+ghostery_id: 2990

@@ -1,0 +1,16 @@
+name: Amplitude
+category: site_analytics
+website_url: https://amplitude.com/
+organization: amplitude
+
+--- domains
+amplitude.com
+d24n15hnbwhuhn.cloudfront.net
+--- domains
+
+--- filters
+||api.amplitude.com^
+||d24n15hnbwhuhn.cloudfront.net^
+--- filters
+
+ghostery_id: 2175

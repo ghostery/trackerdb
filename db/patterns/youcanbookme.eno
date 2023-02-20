@@ -1,0 +1,16 @@
+name: YouCanBookMe
+category: customer_interaction
+website_url: 
+organization: youcanbookme
+
+--- domains
+api.youcanbook.me
+youcanbook.me
+--- domains
+
+--- filters
+||api.youcanbook.me^
+||youcanbook.me/resources/scripts/
+--- filters
+
+ghostery_id: 3174

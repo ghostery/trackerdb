@@ -1,0 +1,14 @@
+name: Spotify Embed
+category: audio_video_player
+website_url: https://www.spotify.com
+organization: spotify
+
+--- domains
+embed.spotify.com
+--- domains
+
+--- filters
+||embed.spotify.com^
+--- filters
+
+ghostery_id: 1067

@@ -1,0 +1,14 @@
+name: StackAdapt
+category: advertising
+website_url: 
+organization: stackadapt
+
+--- domains
+stackadapt.com
+--- domains
+
+--- filters
+||tags.srv.stackadapt.com/events.js
+--- filters
+
+ghostery_id: 2774

@@ -1,0 +1,18 @@
+name: Sailthru Horizon
+category: advertising
+website_url: https://www.sailthru.com
+organization: sailthru
+
+--- domains
+sail-horizon.com
+sail-personalize.com
+sailthru.com
+--- domains
+
+--- filters
+||ak.sail-horizon.com/onsite/personalize.v0.0.4.min.js
+||cdn.sailthru.com^
+||sail-horizon.com^
+--- filters
+
+ghostery_id: 983

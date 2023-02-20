@@ -1,0 +1,14 @@
+name: AdServerPub
+category: advertising
+website_url: http://www.adserverpub.com/
+organization: adserverpub
+
+--- domains
+adserverpub.com
+--- domains
+
+--- filters
+||adserverpub.com^
+--- filters
+
+ghostery_id: 907

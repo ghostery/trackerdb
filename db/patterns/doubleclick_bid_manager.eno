@@ -1,0 +1,12 @@
+name: DoubleClick Bid Manager
+category: advertising
+website_url: http://www.invitemedia.com
+organization: google
+alias: doubleclick
+
+--- filters
+||bid.g.doubleclick.net/xbbe
+||invitemedia.com^
+--- filters
+
+ghostery_id: 318

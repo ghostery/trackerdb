@@ -1,0 +1,14 @@
+name: Fit Analytics
+category: site_analytics
+website_url: 
+organization: fit_analytics
+
+--- domains
+fitanalytics.com
+--- domains
+
+--- filters
+||fitanalytics.com/widget.js
+--- filters
+
+ghostery_id: 2693

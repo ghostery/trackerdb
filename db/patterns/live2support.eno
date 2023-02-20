@@ -1,0 +1,14 @@
+name: Live2Support
+category: customer_interaction
+website_url: http://www.live2support.com/
+organization: live2support
+
+--- domains
+live2support.com
+--- domains
+
+--- filters
+||live2support.com^
+--- filters
+
+ghostery_id: 1950

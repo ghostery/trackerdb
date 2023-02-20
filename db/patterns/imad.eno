@@ -1,0 +1,14 @@
+name: imad
+category: advertising
+website_url: http://www.imad.co.kr/
+organization: i'mad_republic
+
+--- domains
+adv.imadrep.co.kr
+--- domains
+
+--- filters
+||adv.imadrep.co.kr^
+--- filters
+
+ghostery_id: 2021

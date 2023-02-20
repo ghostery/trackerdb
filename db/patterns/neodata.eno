@@ -1,0 +1,14 @@
+name: Neodata
+category: advertising
+website_url: http://neodatagroup.com/
+organization: neodata
+
+--- domains
+neodatagroup.com
+--- domains
+
+--- filters
+||neodatagroup.com^
+--- filters
+
+ghostery_id: 1014

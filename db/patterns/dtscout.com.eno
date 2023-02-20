@@ -1,0 +1,14 @@
+name: DTScout
+category: advertising
+website_url: http://www.dtscout.com/
+organization: dtscout
+
+--- domains
+dtscout.com
+--- domains
+
+--- filters
+||e.dtscout.com/e/
+--- filters
+
+ghostery_id: 3103

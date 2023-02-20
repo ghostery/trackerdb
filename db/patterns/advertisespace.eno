@@ -1,0 +1,14 @@
+name: AdvertiseSpace
+category: advertising
+website_url: http://www.advertisespace.com/
+organization: advertisespace
+
+--- domains
+advertisespace.com
+--- domains
+
+--- filters
+||advertisespace.com^
+--- filters
+
+ghostery_id: 603

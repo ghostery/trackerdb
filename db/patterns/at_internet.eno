@@ -1,0 +1,19 @@
+name: AT Internet
+category: site_analytics
+website_url: http://www.xiti.com/
+organization: at_internet
+
+--- domains
+ati-host.net
+aticdn.net
+xiti.com
+--- domains
+
+--- filters
+/xtcore.js
+||ati-host.net^
+||logc257.at.pagesjaunes.fr/hit.xiti
+||xiti.com^
+--- filters
+
+ghostery_id: 50

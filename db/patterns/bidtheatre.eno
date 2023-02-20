@@ -1,0 +1,14 @@
+name: BidTheatre
+category: advertising
+website_url: http://www.bidtheatre.com/
+organization: bidtheatre
+
+--- domains
+bidtheatre.com
+--- domains
+
+--- filters
+||adsby.bidtheatre.com^
+--- filters
+
+ghostery_id: 2102

@@ -1,0 +1,15 @@
+name: Content Exchange
+category: site_analytics
+website_url: https://www.contentexchange.me/
+organization: i.r.v.
+
+--- domains
+contentexchange.me
+--- domains
+
+--- filters
+||adria.contentexchange.me/static/tracker.js
+||tracker.adria.contentexchange.me/in/
+--- filters
+
+ghostery_id: 2628

@@ -1,0 +1,14 @@
+name: Agora
+category: advertising
+website_url: https://www.agora.pl/
+organization: agora_sa
+
+--- domains
+adview.pl
+--- domains
+
+--- filters
+||adview.pl^
+--- filters
+
+ghostery_id: 1747

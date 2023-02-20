@@ -1,0 +1,12 @@
+name: Facebook Beacon
+category: social_media
+website_url: http://www.facebook.com/beacon/faq.php
+organization: facebook
+alias: facebook
+
+--- filters
+||facebook.com/brandlift.php
+||facebook.com/v2.0/brandlift.php
+--- filters
+
+ghostery_id: 204

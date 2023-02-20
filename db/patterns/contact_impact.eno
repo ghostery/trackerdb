@@ -1,0 +1,17 @@
+name: Contact Impact
+category: advertising
+website_url: https://www.contactimpact.de/
+organization: axel_springer
+
+--- domains
+adrolays.de
+c-i.as
+df-srv.de
+--- domains
+
+--- filters
+||adrolays.de^
+||df-srv.de^
+--- filters
+
+ghostery_id: 2976

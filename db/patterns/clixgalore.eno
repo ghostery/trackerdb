@@ -1,0 +1,14 @@
+name: clixGalore
+category: advertising
+website_url: http://www.clixgalore.com/
+organization: clixgalore
+
+--- domains
+www.is1.clixgalore.com
+--- domains
+
+--- filters
+||www.is1.clixgalore.com^
+--- filters
+
+ghostery_id: 949

@@ -1,0 +1,23 @@
+name: Akamai Technologies
+category: cdn
+website_url: https://www.akamai.com/
+organization: akamai
+
+--- domains
+abmr.net
+akamai.net
+akamaihd.net
+akamaized.net
+akstat.io
+edgekey.net
+edgesuite.net
+imiclk.com
+--- domains
+
+--- filters
+||abmr.net^
+||designbloxlive.com^
+||imiclk.com^
+--- filters
+
+ghostery_id: 2263

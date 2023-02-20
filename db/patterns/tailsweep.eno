@@ -1,0 +1,14 @@
+name: Tailsweep
+category: advertising
+website_url: http://www.tailsweep.se/
+organization: tailsweep
+
+--- domains
+tailsweep.com
+--- domains
+
+--- filters
+||tailsweep.com^
+--- filters
+
+ghostery_id: 661

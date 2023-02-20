@@ -1,0 +1,14 @@
+name: Mindset Media
+category: advertising
+website_url: http://www.mindset-media.com/
+organization: google
+
+--- domains
+mmismm.com
+--- domains
+
+--- filters
+||mmismm.com^
+--- filters
+
+ghostery_id: 168

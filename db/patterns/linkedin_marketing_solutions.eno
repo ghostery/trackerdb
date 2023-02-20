@@ -1,0 +1,15 @@
+name: LinkedIn Marketing Solutions
+category: advertising
+website_url: https://business.linkedin.com/marketing-solutions
+organization: microsoft
+
+--- domains
+bizographics.com
+--- domains
+
+--- filters
+||ad.bizo.com/pixel
+||bizographics.com^
+--- filters
+
+ghostery_id: 179

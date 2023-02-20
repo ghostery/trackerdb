@@ -1,0 +1,14 @@
+name: RTBmarkt
+category: advertising
+website_url: http://www.rtbmarkt.de/en/home/
+organization: rtbmarkt
+
+--- domains
+rvty.net
+--- domains
+
+--- filters
+||rvty.net^
+--- filters
+
+ghostery_id: 1196

@@ -1,0 +1,14 @@
+name: eClick
+category: advertising
+website_url: http://eclick.vn
+organization: eclick
+
+--- domains
+eclick.vn
+--- domains
+
+--- filters
+||eclick.vn^
+--- filters
+
+ghostery_id: 1236

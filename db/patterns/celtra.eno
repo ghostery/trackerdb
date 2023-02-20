@@ -1,0 +1,14 @@
+name: Celtra
+category: audio_video_player
+website_url: http://www.celtra.com/
+organization: celtra
+
+--- domains
+celtra.com
+--- domains
+
+--- filters
+||celtra.com^
+--- filters
+
+ghostery_id: 2112

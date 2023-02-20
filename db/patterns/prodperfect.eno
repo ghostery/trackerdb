@@ -1,0 +1,15 @@
+name: ProdPerfect
+category: site_analytics
+website_url: https://prodperfect.com/
+organization: prodperfect
+
+--- domains
+prodperfect.com
+--- domains
+
+--- filters
+||datapipe.prodperfect.com^
+||trackinglibrary.prodperfect.com^
+--- filters
+
+ghostery_id: 4033

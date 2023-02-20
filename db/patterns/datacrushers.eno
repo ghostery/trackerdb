@@ -1,0 +1,15 @@
+name: Datacrushers
+category: site_analytics
+website_url: https://www.datacrushers.com/
+organization: datacrushers
+
+--- domains
+abandonaid.com
+datacrushers.com
+--- domains
+
+--- filters
+||s3.amazonaws.com/aascript*/abandonaid*.js^
+--- filters
+
+ghostery_id: 2147

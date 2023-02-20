@@ -1,0 +1,16 @@
+name: Leadpages
+category: site_analytics
+website_url: 
+organization: leadpages
+
+--- domains
+my.leadpages.net
+--- domains
+
+--- filters
+||my.leadpages.net/leadbox
+||my.leadpages.net/static/all/js/can-i-show.js
+||thinkific.leadpages.net/leadbox/
+--- filters
+
+ghostery_id: 2576

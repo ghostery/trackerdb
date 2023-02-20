@@ -1,0 +1,16 @@
+name: JumpTime
+category: site_analytics
+website_url: http://www.jumptime.com/
+organization: openx
+
+--- domains
+jump-time.net
+jumptime.com
+--- domains
+
+--- filters
+||jump-time.net^
+||jumptime.com^
+--- filters
+
+ghostery_id: 1045

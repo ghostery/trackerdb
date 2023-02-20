@@ -1,0 +1,14 @@
+name: Tawk
+category: customer_interaction
+website_url: 
+organization: tawk
+
+--- domains
+tawk.to
+--- domains
+
+--- filters
+||embed.tawk.to^
+--- filters
+
+ghostery_id: 2417

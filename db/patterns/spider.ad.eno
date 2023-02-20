@@ -1,0 +1,14 @@
+name: Spider.Ad
+category: advertising
+website_url: http://spider.ad/
+organization: spider.ad
+
+--- domains
+spider.ad
+--- domains
+
+--- filters
+||spider.ad^
+--- filters
+
+ghostery_id: 1571

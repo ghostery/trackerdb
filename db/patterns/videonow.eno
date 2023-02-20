@@ -1,0 +1,14 @@
+name: VideoNow
+category: advertising
+website_url: https://videonow.ru/
+organization: videonow
+
+--- domains
+videonow.ru
+--- domains
+
+--- filters
+||videonow.ru/v2/*/vn_module.js^
+--- filters
+
+ghostery_id: 3033

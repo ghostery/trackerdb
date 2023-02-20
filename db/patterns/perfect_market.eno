@@ -1,0 +1,14 @@
+name: Perfect Market
+category: advertising
+website_url: http://perfectmarket.com/
+organization: perfect_market
+
+--- domains
+perfectmarket.com
+--- domains
+
+--- filters
+||perfectmarket.com^
+--- filters
+
+ghostery_id: 1691

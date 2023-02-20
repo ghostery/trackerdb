@@ -1,0 +1,14 @@
+name: Filament.io
+category: advertising
+website_url: 
+organization: sharethis
+
+--- domains
+filamentapp.s3.amazonaws.com
+--- domains
+
+--- filters
+||filamentapp.s3.amazonaws.com^
+--- filters
+
+ghostery_id: 2549

@@ -1,0 +1,14 @@
+name: ZERO.kz
+category: site_analytics
+website_url: http://zero.kz/
+organization: neolabs_zero
+
+--- domains
+zero.kz
+--- domains
+
+--- filters
+||zero.kz^
+--- filters
+
+ghostery_id: 1872

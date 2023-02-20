@@ -1,0 +1,14 @@
+name: Mango
+category: advertising
+website_url: 
+organization: mango_office
+
+--- domains
+widgets.mango-office.ru
+--- domains
+
+--- filters
+||widgets.mango-office.ru/widgets/mango.js
+--- filters
+
+ghostery_id: 2999

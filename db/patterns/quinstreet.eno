@@ -1,0 +1,18 @@
+name: QuinStreet
+category: advertising
+website_url: http://www.quinstreet.com/
+organization: quinstreet
+
+--- domains
+qnsr.com
+quinstreet.com
+thecounter.com
+--- domains
+
+--- filters
+||qnsr.com^
+||quinstreet.com^
+||thecounter.com/id
+--- filters
+
+ghostery_id: 454

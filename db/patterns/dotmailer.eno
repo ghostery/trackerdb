@@ -1,0 +1,14 @@
+name: dotMailer
+category: customer_interaction
+website_url: http://www.dotdigitalgroup.com/
+organization: dotdigital_group
+
+--- domains
+trackedlink.net
+--- domains
+
+--- filters
+||trackedlink.net^
+--- filters
+
+ghostery_id: 909

@@ -1,0 +1,14 @@
+name: Phunware
+category: advertising
+website_url: https://www.phunware.com
+organization: phunware
+
+--- domains
+d2bgg7rjywcwsy.cloudfront.net
+--- domains
+
+--- filters
+||d2bgg7rjywcwsy.cloudfront.net/js/
+--- filters
+
+ghostery_id: 939

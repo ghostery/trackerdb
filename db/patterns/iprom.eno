@@ -1,0 +1,16 @@
+name: iprom
+category: advertising
+website_url: http://www.iprom.si/
+organization: iprom
+
+--- domains
+centraliprom.com
+iprom.net
+--- domains
+
+--- filters
+||centraliprom.com^
+||iprom.net^
+--- filters
+
+ghostery_id: 775

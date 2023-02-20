@@ -1,0 +1,14 @@
+name: Bankrate
+category: advertising
+website_url: 
+organization: bankrate
+
+--- domains
+widgets.bankrate.com
+--- domains
+
+--- filters
+||widgets.bankrate.com^
+--- filters
+
+ghostery_id: 3170

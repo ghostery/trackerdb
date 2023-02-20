@@ -1,0 +1,18 @@
+name: SpeedyAds
+category: advertising
+website_url: http://www.entireweb.com/speedyads/
+organization: entireweb
+
+--- domains
+admarket.entireweb.com
+affiliate.entireweb.com
+sa.entireweb.com
+--- domains
+
+--- filters
+||admarket.entireweb.com^
+||affiliate.entireweb.com^
+||sa.entireweb.com/sense.js
+--- filters
+
+ghostery_id: 674

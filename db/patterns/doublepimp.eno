@@ -1,0 +1,23 @@
+name: DoublePimp
+category: pornvertising
+website_url: http://www.doublepimp.com/
+organization: doublepimp
+
+--- domains
+doublepimp.com
+doublepimpssl.com
+redcourtside.com
+xeontopa.com
+zerezas.com
+--- domains
+
+--- filters
+||cdn.doublepimpssl.com/scripts/infinity.js.aspx
+||doublepimp.com^
+||doublepimpssl.com/tag.engine
+||redcourtside.com^
+||xeontopa.com^
+||zerezas.com^
+--- filters
+
+ghostery_id: 76

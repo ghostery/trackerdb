@@ -1,0 +1,14 @@
+name: popIn
+category: social_media
+website_url: https://www.popin.cc/
+organization: popin
+
+--- domains
+popin.cc
+--- domains
+
+--- filters
+||popin.cc^
+--- filters
+
+ghostery_id: 2047

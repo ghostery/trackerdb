@@ -1,0 +1,14 @@
+name: Early Birds
+category: advertising
+website_url: http://www.early-birds.fr/
+organization: early_birds
+
+--- domains
+early-birds.fr
+--- domains
+
+--- filters
+||cdn.early-birds.fr/earlybirds-full.min.js
+--- filters
+
+ghostery_id: 2543

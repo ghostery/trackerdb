@@ -1,0 +1,16 @@
+name: Jetpack
+category: site_analytics
+website_url: https://jetpack.com/
+organization: automattic
+
+--- domains
+pixel.wp.com
+stats.wp.com
+--- domains
+
+--- filters
+||pixel.wp.com^
+||stats.wp.com/w.js
+--- filters
+
+ghostery_id: 3315

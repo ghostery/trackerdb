@@ -1,0 +1,16 @@
+name: Sift Science
+category: site_analytics
+website_url: https://siftscience.com/
+organization: sift_science
+
+--- domains
+dtlilztwypawv.cloudfront.net
+siftscience.com
+--- domains
+
+--- filters
+||dtlilztwypawv.cloudfront.net^
+||siftscience.com^
+--- filters
+
+ghostery_id: 1637

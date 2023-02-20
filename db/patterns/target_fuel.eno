@@ -1,0 +1,14 @@
+name: Target Fuel
+category: site_analytics
+website_url: 
+organization: target_fuel
+
+--- domains
+cdn.targetfuel.com
+--- domains
+
+--- filters
+||cdn.targetfuel.com/client.js
+--- filters
+
+ghostery_id: 2227

@@ -1,0 +1,14 @@
+name: Shrink
+category: customer_interaction
+website_url: 
+organization: shrink.in
+
+--- domains
+shink.in
+--- domains
+
+--- filters
+||shink.in^
+--- filters
+
+ghostery_id: 2630

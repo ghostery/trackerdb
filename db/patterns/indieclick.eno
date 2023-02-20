@@ -1,0 +1,14 @@
+name: IndieClick
+category: advertising
+website_url: http://www.indieclick.com/
+organization: leaf_group
+
+--- domains
+indieclick.com
+--- domains
+
+--- filters
+||indieclick.com^
+--- filters
+
+ghostery_id: 663

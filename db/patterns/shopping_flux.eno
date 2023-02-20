@@ -1,0 +1,14 @@
+name: Shopping Flux
+category: site_analytics
+website_url: http://www.shopping-flux.com/
+organization: shopping_flux
+
+--- domains
+tracking.shopping-flux.com
+--- domains
+
+--- filters
+||tracking.shopping-flux.com^
+--- filters
+
+ghostery_id: 1668

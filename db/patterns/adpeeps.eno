@@ -1,0 +1,14 @@
+name: Ad Peeps
+category: advertising
+website_url: http://www.adpeeps.com/
+organization: ad_peeps
+
+--- domains
+adpeepshosted.com
+--- domains
+
+--- filters
+/adpeeps.php
+--- filters
+
+ghostery_id: 1677

@@ -1,0 +1,11 @@
+name: Spotify
+category: audio_video_player
+website_url: https://www.spotify.com/
+organization: spotify
+
+--- domains
+scdn.co
+spotify.com
+--- domains
+
+ghostery_id: 3867

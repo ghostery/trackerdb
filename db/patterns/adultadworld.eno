@@ -1,0 +1,16 @@
+name: AdultAdWorld
+category: pornvertising
+website_url: http://adultadworld.com/
+organization: adult_adworld
+
+--- domains
+adultadworld.com
+adworldmedia.com
+--- domains
+
+--- filters
+||adultadworld.com^
+||adworldmedia.com^
+--- filters
+
+ghostery_id: 74

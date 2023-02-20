@@ -1,0 +1,14 @@
+name: Social Amp
+category: advertising
+website_url: http://www.merkleinc.com/
+organization: dentsu_aegis_network
+
+--- domains
+socialamp.com
+--- domains
+
+--- filters
+||socialamp.com^
+--- filters
+
+ghostery_id: 1665

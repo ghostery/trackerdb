@@ -1,0 +1,14 @@
+name: Shopper Approved
+category: customer_interaction
+website_url: 
+organization: shopper_approved
+
+--- domains
+shopperapproved.com
+--- domains
+
+--- filters
+||shopperapproved.com/widgets
+--- filters
+
+ghostery_id: 2309

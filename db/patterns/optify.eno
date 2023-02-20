@@ -1,0 +1,14 @@
+name: Optify
+category: advertising
+website_url: http://www.optify.net
+organization: optify
+
+--- domains
+service.optify.net
+--- domains
+
+--- filters
+||service.optify.net^
+--- filters
+
+ghostery_id: 429

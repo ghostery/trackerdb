@@ -1,0 +1,14 @@
+name: StatusCake
+category: site_analytics
+website_url: https://www.statuscake.com/
+organization: statuscake
+
+--- domains
+statuscake.com
+--- domains
+
+--- filters
+||statuscake.com/app/
+--- filters
+
+ghostery_id: 1838

@@ -1,0 +1,18 @@
+name: Digital River
+category: advertising
+website_url: http://corporate.digitalriver.com
+organization: digital_river
+
+--- domains
+directtrack.com
+onenetworkdirect.net
+track.digitalriver.com
+--- domains
+
+--- filters
+||directtrack.com^
+||onenetworkdirect.net^
+||track.digitalriver.com^
+--- filters
+
+ghostery_id: 1035

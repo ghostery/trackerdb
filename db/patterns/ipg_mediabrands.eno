@@ -1,0 +1,14 @@
+name: IPG Mediabrands
+category: advertising
+website_url: 
+organization: ipg_mediabrands
+
+--- domains
+mbww.com
+--- domains
+
+--- filters
+||tt.mbww.com^
+--- filters
+
+ghostery_id: 2936

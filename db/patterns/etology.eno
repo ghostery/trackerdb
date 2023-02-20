@@ -1,0 +1,14 @@
+name: Etology
+category: advertising
+website_url: http://www.etology.com
+organization: etology
+
+--- domains
+pages.etology.com
+--- domains
+
+--- filters
+||pages.etology.com^
+--- filters
+
+ghostery_id: 596

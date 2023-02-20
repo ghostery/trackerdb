@@ -1,0 +1,14 @@
+name: Cookiebot
+category: essential
+website_url: https://www.cookiebot.com/en/
+organization: cybot
+
+--- domains
+cookiebot.com
+--- domains
+
+--- filters
+||consent.cookiebot.com^
+--- filters
+
+ghostery_id: 3475

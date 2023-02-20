@@ -1,0 +1,16 @@
+name: TRUSTe Notice
+category: essential
+website_url: http://www.truste.com/
+organization: trustarc
+
+--- domains
+choices-or.truste.com
+choices.truste.com
+--- domains
+
+--- filters
+||choices-or.truste.com^
+||choices.truste.com/ca
+--- filters
+
+ghostery_id: 507

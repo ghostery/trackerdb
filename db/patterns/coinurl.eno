@@ -1,0 +1,14 @@
+name: CoinURL
+category: advertising
+website_url: https://coinurl.com/
+organization: coinurl
+
+--- domains
+coinurl.com
+--- domains
+
+--- filters
+||coinurl.com^
+--- filters
+
+ghostery_id: 1889

@@ -1,0 +1,14 @@
+name: AdExtent
+category: advertising
+website_url: http://www.adextent.com/
+organization: adextent
+
+--- domains
+adextent.com
+--- domains
+
+--- filters
+||adextent.com^
+--- filters
+
+ghostery_id: 1603

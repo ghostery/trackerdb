@@ -1,0 +1,14 @@
+name: ShareASale
+category: advertising
+website_url: http://www.shareasale.com/
+organization: shareasale
+
+--- domains
+shareasale.com
+--- domains
+
+--- filters
+||shareasale.com^
+--- filters
+
+ghostery_id: 595

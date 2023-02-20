@@ -1,0 +1,14 @@
+name: cXense
+category: advertising
+website_url: http://www.cxense.com/
+organization: cxense
+
+--- domains
+cxense.com
+--- domains
+
+--- filters
+||cxense.com^
+--- filters
+
+ghostery_id: 794

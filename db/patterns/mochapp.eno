@@ -1,0 +1,14 @@
+name: MoChapp
+category: customer_interaction
+website_url: 
+organization: mochapp
+
+--- domains
+chat.mochapp.com
+--- domains
+
+--- filters
+||chat.mochapp.com/public/js/chat.js
+--- filters
+
+ghostery_id: 2759

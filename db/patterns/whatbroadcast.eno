@@ -1,0 +1,14 @@
+name: Whatbroadcast
+category: customer_interaction
+website_url: 
+organization: whatsbroadcast
+
+--- domains
+whatsbroadcast.com
+--- domains
+
+--- filters
+||widget.whatsbroadcast.com/widget_more
+--- filters
+
+ghostery_id: 2810

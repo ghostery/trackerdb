@@ -1,0 +1,14 @@
+name: Merkle RKG
+category: site_analytics
+website_url: https://www.merkleinc.com/what-we-do/digital-agency-services/rkg-now-fully-integrated-merkle
+organization: dentsu_aegis_network
+
+--- domains
+rkdms.com
+--- domains
+
+--- filters
+||mct.rkdms.com/sid.gif
+--- filters
+
+ghostery_id: 326

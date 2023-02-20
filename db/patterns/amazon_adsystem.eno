@@ -1,0 +1,18 @@
+name: Amazon Advertising
+category: advertising
+website_url: https://advertising.amazon.com/
+organization: amazon_associates
+
+--- domains
+amazon-adsystem.com
+serving-sys.com
+sizmek.com
+--- domains
+
+--- filters
+||amazon-adsystem.com^
+||serving-sys.com^
+||sizmek.com^
+--- filters
+
+ghostery_id: 2480

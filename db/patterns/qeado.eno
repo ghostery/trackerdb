@@ -1,0 +1,14 @@
+name: Qeado
+category: site_analytics
+website_url: 
+organization: qeado
+
+--- domains
+collect.qeado.com
+--- domains
+
+--- filters
+||collect.qeado.com/collect.js
+--- filters
+
+ghostery_id: 2696

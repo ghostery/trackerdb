@@ -1,0 +1,14 @@
+name: LiveTex
+category: customer_interaction
+website_url: https://livetex.ru/
+organization: livetex
+
+--- domains
+livetex.ru
+--- domains
+
+--- filters
+||livetex.ru^
+--- filters
+
+ghostery_id: 1860

@@ -1,0 +1,14 @@
+name: Komoona
+category: advertising
+website_url: http://www.komoona.com/
+organization: komoona
+
+--- domains
+komoona.com
+--- domains
+
+--- filters
+||komoona.com^
+--- filters
+
+ghostery_id: 1091

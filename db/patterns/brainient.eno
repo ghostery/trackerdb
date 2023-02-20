@@ -1,0 +1,14 @@
+name: Brainient
+category: advertising
+website_url: http://www.brainient.com/
+organization: brainient
+
+--- domains
+brainient.com
+--- domains
+
+--- filters
+||brainient.com^
+--- filters
+
+ghostery_id: 631

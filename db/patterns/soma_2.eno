@@ -1,0 +1,14 @@
+name: SOMA 2
+category: advertising
+website_url: http://www.webcombi.de/
+organization: soma_2_gmbh
+
+--- domains
+soma2.de
+--- domains
+
+--- filters
+||soma2.de^
+--- filters
+
+ghostery_id: 1784

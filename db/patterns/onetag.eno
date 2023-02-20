@@ -1,0 +1,15 @@
+name: OneTag
+category: advertising
+website_url: https://www.onetag.com/
+organization: onetag
+
+--- domains
+onetag.com
+s-onetag.com
+--- domains
+
+--- filters
+||s-onetag.com^
+--- filters
+
+ghostery_id: 4032

@@ -1,0 +1,18 @@
+name: Crowdynews
+category: social_media
+website_url: http://www.crowdynews.com/
+organization: crowdynews
+
+--- domains
+our.glossip.nl
+widget.breakingburner.com
+widget.crowdynews.com
+--- domains
+
+--- filters
+||our.glossip.nl^
+||widget.breakingburner.com^
+||widget.crowdynews.com/js/widget.js
+--- filters
+
+ghostery_id: 1760

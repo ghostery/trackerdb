@@ -1,0 +1,14 @@
+name: MailTrack.io
+category: advertising
+website_url: https://mailtrack.io
+organization: mailtrack
+
+--- domains
+mailtrack.io
+--- domains
+
+--- filters
+||mailtrack.io/trace
+--- filters
+
+ghostery_id: 2093

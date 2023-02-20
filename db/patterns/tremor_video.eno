@@ -1,0 +1,22 @@
+name: Tremor Video
+category: audio_video_player
+website_url: http://www.tremormedia.com/
+organization: tremor_video
+
+--- domains
+scanscout.com
+tremorhub.com
+tremormedia.com
+tremorvideo.com
+videohub.tv
+--- domains
+
+--- filters
+||cdna.tremormedia.com^
+||dt.videohub.tv/v1/usync/tt
+||objects.tremormedia.com/embed/js
+||objects.tremormedia.com/net/js/ads.js
+||scanscout.com^
+--- filters
+
+ghostery_id: 466

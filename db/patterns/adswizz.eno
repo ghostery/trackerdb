@@ -1,0 +1,14 @@
+name: AdsWizz
+category: advertising
+website_url: http://www.adswizz.com/
+organization: adswizz
+
+--- domains
+adswizz.com
+--- domains
+
+--- filters
+||adswizz.com^
+--- filters
+
+ghostery_id: 1227

@@ -1,0 +1,15 @@
+name: Vimeo
+category: audio_video_player
+website_url: 
+organization: vimeo
+
+--- domains
+vimeo.com
+vimeocdn.com
+--- domains
+
+--- filters
+||extend.vimeocdn.com/ga/61114930.js
+--- filters
+
+ghostery_id: 2727

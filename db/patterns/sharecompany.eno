@@ -1,0 +1,16 @@
+name: ShareCompany
+category: customer_interaction
+website_url: http://sharecompany.nl
+organization: sharecompany
+
+--- domains
+quintrics.nl
+sharecompany.nl
+--- domains
+
+--- filters
+||quintrics.nl^
+||sharecompany.nl^
+--- filters
+
+ghostery_id: 2200

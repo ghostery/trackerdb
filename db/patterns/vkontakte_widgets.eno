@@ -1,0 +1,24 @@
+name: VKontakte Widgets
+category: social_media
+website_url: http://vk.com/developers.php
+organization: megafon
+alias: vkontakte
+
+--- filters
+||userapi.com/js/api/
+||vk.com/js/api/openapi.js
+||vk.com/js/api/share.js
+||vk.com/rtrg
+||vk.com/widget_comments.php
+||vk.com/widget_community.php
+||vk.com/widget_groups.php
+||vk.com/widget_like.php
+||vkontakte.ru/js/api/openapi.js
+||vkontakte.ru/js/api/share.js
+||vkontakte.ru/widget_comments.php
+||vkontakte.ru/widget_community.php
+||vkontakte.ru/widget_groups.php
+||vkontakte.ru/widget_like.php
+--- filters
+
+ghostery_id: 675

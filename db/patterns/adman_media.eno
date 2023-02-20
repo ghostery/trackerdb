@@ -1,0 +1,14 @@
+name: ADman Media
+category: advertising
+website_url: 
+organization: ad_man_media
+
+--- domains
+admanmedia.com
+--- domains
+
+--- filters
+||admanmedia.com^
+--- filters
+
+ghostery_id: 2624

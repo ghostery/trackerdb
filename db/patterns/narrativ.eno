@@ -1,0 +1,14 @@
+name: Narrativ
+category: advertising
+website_url: 
+organization: narrativ
+
+--- domains
+static.bam-x.com
+--- domains
+
+--- filters
+||static.bam-x.com/tags
+--- filters
+
+ghostery_id: 2902

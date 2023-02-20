@@ -1,0 +1,14 @@
+name: GoingUp
+category: site_analytics
+website_url: http://www.goingup.com/
+organization: goingup
+
+--- domains
+counter.goingup.com
+--- domains
+
+--- filters
+||counter.goingup.com^
+--- filters
+
+ghostery_id: 955

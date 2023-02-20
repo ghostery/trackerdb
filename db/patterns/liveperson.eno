@@ -1,0 +1,16 @@
+name: LivePerson
+category: customer_interaction
+website_url: http://www.liveperson.com/
+organization: liveperson
+
+--- domains
+liveperson.net
+lpsnmedia.net
+--- domains
+
+--- filters
+||liveperson.net^
+||lpsnmedia.net^
+--- filters
+
+ghostery_id: 106

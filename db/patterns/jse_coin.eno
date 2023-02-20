@@ -1,0 +1,14 @@
+name: JSE Coin
+category: advertising
+website_url: 
+organization: jse_coin
+
+--- domains
+jsecoin.com
+--- domains
+
+--- filters
+||jsecoin.com/server/load
+--- filters
+
+ghostery_id: 3111

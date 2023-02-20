@@ -1,0 +1,14 @@
+name: MyBuys
+category: advertising
+website_url: http://www.mybuys.com/
+organization: magnetic
+
+--- domains
+t.p.mybuys.com
+--- domains
+
+--- filters
+||t.p.mybuys.com^
+--- filters
+
+ghostery_id: 300

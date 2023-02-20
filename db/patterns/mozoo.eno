@@ -1,0 +1,14 @@
+name: MoZoo
+category: advertising
+website_url: 
+organization: mozoo
+
+--- domains
+storage.mozoo.com
+--- domains
+
+--- filters
+||storage.mozoo.com/publisher_scripts/mz_pubscript.js
+--- filters
+
+ghostery_id: 2424

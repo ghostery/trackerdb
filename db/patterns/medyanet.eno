@@ -1,0 +1,16 @@
+name: MedyaNet
+category: advertising
+website_url: http://www.medyanet.com.tr/
+organization: medyanet
+
+--- domains
+adnet.com.tr
+e-kolay.net
+medyanetads.com
+--- domains
+
+--- filters
+||e-kolay.net^
+--- filters
+
+ghostery_id: 855

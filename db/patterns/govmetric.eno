@@ -1,0 +1,16 @@
+name: GovMetric
+category: site_analytics
+website_url: http://www.govmetric.com/
+organization: govmetric
+
+--- domains
+govmetric.com
+servmetric.com
+--- domains
+
+--- filters
+||govmetric.com^
+||servmetric.com^
+--- filters
+
+ghostery_id: 2149

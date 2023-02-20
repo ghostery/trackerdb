@@ -1,0 +1,16 @@
+name: Velti mGage Visualize
+category: advertising
+website_url: http://www.velti.com/
+organization: velti
+
+--- domains
+mdcn.mobi
+velti.com
+--- domains
+
+--- filters
+||mdcn.mobi/phx.
+||velti.com/phx.
+--- filters
+
+ghostery_id: 1720

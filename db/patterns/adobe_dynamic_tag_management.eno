@@ -1,0 +1,14 @@
+name: Adobe Dynamic Tag Management
+category: essential
+website_url: https://dtm.adobe.com/sign_in
+organization: adobe
+
+--- domains
+adobedtm.com
+--- domains
+
+--- filters
+||assets.adobedtm.com^
+--- filters
+
+ghostery_id: 2307

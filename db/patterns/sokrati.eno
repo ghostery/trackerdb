@@ -1,0 +1,14 @@
+name: Sokrati
+category: advertising
+website_url: http://sokrati.com/
+organization: sokrati
+
+--- domains
+sokrati.com
+--- domains
+
+--- filters
+||sokrati.com^
+--- filters
+
+ghostery_id: 1295

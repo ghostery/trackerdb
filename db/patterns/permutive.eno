@@ -1,0 +1,14 @@
+name: Permutive
+category: advertising
+website_url: http://permutive.com/
+organization: permutive
+
+--- domains
+permutive.com
+--- domains
+
+--- filters
+||api.permutive.com^
+--- filters
+
+ghostery_id: 3169

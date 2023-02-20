@@ -1,0 +1,16 @@
+name: Salesforce Live Agent
+category: customer_interaction
+website_url: http://www.salesforce.com/
+organization: salesforce
+
+--- domains
+liveagentforsalesforce.com
+salesforceliveagent.com
+--- domains
+
+--- filters
+||liveagentforsalesforce.com^
+||salesforceliveagent.com^
+--- filters
+
+ghostery_id: 1063

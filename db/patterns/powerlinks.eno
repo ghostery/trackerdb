@@ -1,0 +1,14 @@
+name: PowerLinks
+category: advertising
+website_url: http://www.powerlinks.com/
+organization: powerlinks
+
+--- domains
+powerlinks.com
+--- domains
+
+--- filters
+||powerlinks.com^
+--- filters
+
+ghostery_id: 1300

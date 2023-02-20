@@ -1,0 +1,14 @@
+name: Circulate
+category: site_analytics
+website_url: 
+organization: circulate
+
+--- domains
+data.circulate.com
+--- domains
+
+--- filters
+||data.circulate.com/dapi/data
+--- filters
+
+ghostery_id: 2583

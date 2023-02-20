@@ -1,0 +1,14 @@
+name: Intelligent Reach
+category: advertising
+website_url: http://www.intelligentreach.com/
+organization: intelligent_reach
+
+--- domains
+ist-track.com
+--- domains
+
+--- filters
+||ist-track.com^
+--- filters
+
+ghostery_id: 1550

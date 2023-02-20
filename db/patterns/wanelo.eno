@@ -1,0 +1,14 @@
+name: Wanelo
+category: customer_interaction
+website_url: 
+organization: wanelo
+
+--- domains
+cdn-saveit.wanelo.com
+--- domains
+
+--- filters
+||cdn-saveit.wanelo.com/bookmarklet/3/save.js
+--- filters
+
+ghostery_id: 2423

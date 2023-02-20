@@ -1,0 +1,14 @@
+name: SiteHeart
+category: customer_interaction
+website_url: http://siteheart.com/
+organization: siteheart
+
+--- domains
+siteheart.com
+--- domains
+
+--- filters
+||siteheart.com^
+--- filters
+
+ghostery_id: 1408

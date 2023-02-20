@@ -1,0 +1,25 @@
+name: Pinterest
+category: social_media
+website_url: http://pinterest.com/
+organization: pinterest
+
+--- domains
+pinimg.com
+pinterest.com
+--- domains
+
+--- filters
+||api.pinterest.com^
+||assets.pinterest.com/js/pinit.js
+||ct.pinterest.com^
+||d3io1k5o0zdpqr.cloudfront.net/js/pinit.js
+||pinterest.com/images/about/buttons/pinterest-button.png
+||pinterest.com/images/follow-on-pinterest-button.png
+||pinterest.com/images/pidgets/pin_it_button.png
+||pinterest.com/images/pidgets/pinit
+||pinterest.com/images/pinext.png
+||pinterest.com/images/pinterest-button.png
+||s-passets.pinimg.com^
+--- filters
+
+ghostery_id: 868

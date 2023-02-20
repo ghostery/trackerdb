@@ -1,0 +1,14 @@
+name: Vanksen
+category: advertising
+website_url: http://www.buzzparadise.com/
+organization: vanksen
+
+--- domains
+buzzparadise.com
+--- domains
+
+--- filters
+||buzzparadise.com^
+--- filters
+
+ghostery_id: 844

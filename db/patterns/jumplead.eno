@@ -1,0 +1,14 @@
+name: Jumplead
+category: site_analytics
+website_url: 
+organization: jumplead
+
+--- domains
+cdn.jumplead.com
+--- domains
+
+--- filters
+||cdn.jumplead.com^
+--- filters
+
+ghostery_id: 2615

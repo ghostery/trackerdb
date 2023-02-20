@@ -1,0 +1,14 @@
+name: CPMProfit
+category: advertising
+website_url: http://www.cpmprofit.com/
+organization: cpmprofit
+
+--- domains
+cpmprofit.com
+--- domains
+
+--- filters
+||cpmprofit.com^
+--- filters
+
+ghostery_id: 1004

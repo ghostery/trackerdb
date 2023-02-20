@@ -1,0 +1,14 @@
+name: Kargo
+category: advertising
+website_url: http://www.kargo.com/
+organization: kargo
+
+--- domains
+kargo.com
+--- domains
+
+--- filters
+||kargo.com/ad/network/tag/kargo-
+--- filters
+
+ghostery_id: 1732

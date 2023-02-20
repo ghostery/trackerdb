@@ -1,0 +1,14 @@
+name: Pulsepoint
+category: advertising
+website_url: https://www.pulsepoint.com/
+organization: pulsepoint_ad_exchange
+
+--- domains
+displaymarketplace.com
+--- domains
+
+--- filters
+||displaymarketplace.com^
+--- filters
+
+ghostery_id: 470

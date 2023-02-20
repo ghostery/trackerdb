@@ -1,0 +1,14 @@
+name: Trusted Shops
+category: essential
+website_url: http://www.trustedshops.com/
+organization: trusted_shops
+
+--- domains
+trustedshops.com
+--- domains
+
+--- filters
+||widgets.trustedshops.com/js/*.js^
+--- filters
+
+ghostery_id: 2816

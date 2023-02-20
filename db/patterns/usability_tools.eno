@@ -1,0 +1,14 @@
+name: Usability Tools
+category: site_analytics
+website_url: 
+organization: usability_tools
+
+--- domains
+mobile.usabilitytools.com
+--- domains
+
+--- filters
+||mobile.usabilitytools.com/recorder/tracker/tracker.js
+--- filters
+
+ghostery_id: 2605

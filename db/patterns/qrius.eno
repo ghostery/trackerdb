@@ -1,0 +1,14 @@
+name: Qrius
+category: social_media
+website_url: http://www.qrius.me/
+organization: mediafed
+
+--- domains
+qrius.me
+--- domains
+
+--- filters
+||qrius.me^
+--- filters
+
+ghostery_id: 1489

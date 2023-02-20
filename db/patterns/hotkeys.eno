@@ -1,0 +1,14 @@
+name: HotKeys
+category: advertising
+website_url: http://www.demandmedia.com/
+organization: leaf_group
+
+--- domains
+hotkeys.com
+--- domains
+
+--- filters
+||hotkeys.com^
+--- filters
+
+ghostery_id: 1549

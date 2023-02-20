@@ -1,0 +1,14 @@
+name: Vidible
+category: advertising
+website_url: http://vidible.tv/
+organization: verizon
+
+--- domains
+vidible.tv
+--- domains
+
+--- filters
+||vidible.tv^
+--- filters
+
+ghostery_id: 2207

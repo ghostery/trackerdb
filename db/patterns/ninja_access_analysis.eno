@@ -1,0 +1,20 @@
+name: Ninja Access Analysis
+category: site_analytics
+website_url: http://www.ninja.co.jp/analysis/
+organization: samurai_factory
+
+--- domains
+cho-chin.com
+donburako.com
+hishaku.com
+shinobi.jp
+--- domains
+
+--- filters
+||cho-chin.com^
+||donburako.com^
+||hishaku.com^
+||shinobi.jp/^
+--- filters
+
+ghostery_id: 712

@@ -1,0 +1,14 @@
+name: ManyContacts
+category: advertising
+website_url: 
+organization: manycontacts
+
+--- domains
+manycontacts.com
+--- domains
+
+--- filters
+||manycontacts.com/assets/js/manycontacts.min.js
+--- filters
+
+ghostery_id: 2228

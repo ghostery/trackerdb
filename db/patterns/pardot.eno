@@ -1,0 +1,14 @@
+name: Pardot
+category: site_analytics
+website_url: http://www.pardot.com/
+organization: pardot
+
+--- domains
+pardot.com
+--- domains
+
+--- filters
+||pardot.com^
+--- filters
+
+ghostery_id: 241

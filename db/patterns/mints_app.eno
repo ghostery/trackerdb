@@ -1,0 +1,14 @@
+name: Mints App
+category: customer_interaction
+website_url: 
+organization: mints_app
+
+--- domains
+mintsapp.io
+--- domains
+
+--- filters
+||mintsapp.io/poll/view/
+--- filters
+
+ghostery_id: 2670

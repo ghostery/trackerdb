@@ -1,0 +1,14 @@
+name: ClickAider
+category: advertising
+website_url: http://clickaider.com/
+organization: clickaider
+
+--- domains
+hit.clickaider.com
+--- domains
+
+--- filters
+||hit.clickaider.com^
+--- filters
+
+ghostery_id: 901

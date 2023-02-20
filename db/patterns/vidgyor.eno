@@ -1,0 +1,14 @@
+name: Vidgyor
+category: audio_video_player
+website_url: 
+organization: vidgyor
+
+--- domains
+content.vidgyor.com
+--- domains
+
+--- filters
+||content.vidgyor.com/live/videojs
+--- filters
+
+ghostery_id: 2967

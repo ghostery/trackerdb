@@ -1,0 +1,14 @@
+name: Tedemis
+category: advertising
+website_url: http://www.tedemis.com
+organization: tedemis
+
+--- domains
+emailretargeting.com
+--- domains
+
+--- filters
+||emailretargeting.com^
+--- filters
+
+ghostery_id: 1587

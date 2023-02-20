@@ -1,0 +1,14 @@
+name: AdForGames
+category: advertising
+website_url: http://www.adforgames.com/
+organization: adforgames
+
+--- domains
+js.adforgames.com
+--- domains
+
+--- filters
+||js.adforgames.com^
+--- filters
+
+ghostery_id: 2142

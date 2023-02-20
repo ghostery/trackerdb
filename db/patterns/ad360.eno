@@ -1,0 +1,14 @@
+name: Ad360
+category: advertising
+website_url: http://ad360.vn
+organization: ad360
+
+--- domains
+ad360.vn
+--- domains
+
+--- filters
+||ad360.vn^
+--- filters
+
+ghostery_id: 1237

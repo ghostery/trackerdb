@@ -1,0 +1,14 @@
+name: WisePops
+category: advertising
+website_url: http://wisepops.com/
+organization: wisepops
+
+--- domains
+wisepops.com
+--- domains
+
+--- filters
+||wisepops.com^
+--- filters
+
+ghostery_id: 2092

@@ -1,0 +1,14 @@
+name: Shopzilla
+category: advertising
+website_url: http://www.shopzilla.com/
+organization: shopzilla
+
+--- domains
+shopzilla.com
+--- domains
+
+--- filters
+||adserve.shopzilla.com^
+--- filters
+
+ghostery_id: 820

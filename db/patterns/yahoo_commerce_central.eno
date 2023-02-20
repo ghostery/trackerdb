@@ -1,0 +1,14 @@
+name: Yahoo! Commerce Central
+category: advertising
+website_url: http://lexity.com/
+organization: verizon
+
+--- domains
+np.lexity.com
+--- domains
+
+--- filters
+||np.lexity.com^
+--- filters
+
+ghostery_id: 1459

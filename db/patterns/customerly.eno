@@ -1,0 +1,14 @@
+name: Customerly
+category: customer_interaction
+website_url: 
+organization: customerly
+
+--- domains
+widget.customerly.io
+--- domains
+
+--- filters
+||widget.customerly.io/widget
+--- filters
+
+ghostery_id: 3290

@@ -1,0 +1,14 @@
+name: eGain Analytics
+category: site_analytics
+website_url: 
+organization: egain
+
+--- domains
+cloud-emea.analytics-egain.com
+--- domains
+
+--- filters
+||cloud-emea.analytics-egain.com/tracker
+--- filters
+
+ghostery_id: 3109

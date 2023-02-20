@@ -1,0 +1,15 @@
+name: TubeMogul
+category: advertising
+website_url: http://tubemogul.com/
+organization: tubemogul
+
+--- domains
+tubemogul.com
+--- domains
+
+--- filters
+||rtb.tubemogul.com^
+||rtd.tubemogul.com^
+--- filters
+
+ghostery_id: 736

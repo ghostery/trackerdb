@@ -1,0 +1,14 @@
+name: Heureka-Widget
+category: advertising
+website_url: 
+organization: heureka
+
+--- domains
+heureka.cz
+--- domains
+
+--- filters
+||heureka.cz/direct/i/gjs.php
+--- filters
+
+ghostery_id: 2521

@@ -1,0 +1,15 @@
+name: FriendBuy
+category: site_analytics
+website_url: 
+organization: friendbuy
+
+--- domains
+friendbuy.com
+--- domains
+
+--- filters
+||cdn1.friendbuy.com/widgets/configs
+||ws.friendbuy.com^
+--- filters
+
+ghostery_id: 3251

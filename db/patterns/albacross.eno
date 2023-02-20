@@ -1,0 +1,14 @@
+name: Albacross
+category: advertising
+website_url: 
+organization: albacross
+
+--- domains
+serve.albacross.com
+--- domains
+
+--- filters
+||serve.albacross.com/track.js
+--- filters
+
+ghostery_id: 3208

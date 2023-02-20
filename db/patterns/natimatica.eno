@@ -1,0 +1,14 @@
+name: Natimatica
+category: advertising
+website_url: 
+organization: natimatica
+
+--- domains
+p1.ntvk1.ru
+--- domains
+
+--- filters
+||p1.ntvk1.ru/nv.js
+--- filters
+
+ghostery_id: 3198

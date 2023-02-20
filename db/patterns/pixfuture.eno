@@ -1,0 +1,16 @@
+name: PixFuture
+category: advertising
+website_url: http://www.pixfuture.com
+organization: pixfuture
+
+--- domains
+pixfuture.net
+vast1.pixfuture.com
+--- domains
+
+--- filters
+||pixfuture.net^
+||vast1.pixfuture.com/vpaid/ads.js
+--- filters
+
+ghostery_id: 1069

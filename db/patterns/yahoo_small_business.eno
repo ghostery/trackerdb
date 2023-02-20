@@ -1,0 +1,16 @@
+name: Yahoo! Small Business
+category: advertising
+website_url: http://www.pixazza.com/
+organization: verizon
+
+--- domains
+luminate.com
+pixazza.com
+--- domains
+
+--- filters
+||luminate.com^
+||pixazza.com^
+--- filters
+
+ghostery_id: 453

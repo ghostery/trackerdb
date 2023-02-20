@@ -1,0 +1,14 @@
+name: Blink New Media
+category: advertising
+website_url: http://engagebdr.com/
+organization: engage_bdr
+
+--- domains
+bnmla.com
+--- domains
+
+--- filters
+||ad.bnmla.com^
+--- filters
+
+ghostery_id: 729

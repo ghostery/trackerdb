@@ -1,0 +1,30 @@
+name: Silverpop
+category: customer_interaction
+website_url: http://www.silverpop.com/
+organization: ibm
+
+--- domains
+gw-services.vtrenz.net
+mkt51.net
+mkt912.com
+mkt922.com
+mkt941.com
+pages01.net
+pages02.net
+pages04.net
+pages05.net
+--- domains
+
+--- filters
+||gw-services.vtrenz.net^
+||mkt51.net^
+||mkt912.com^
+||mkt922.com^
+||mkt941.com^
+||pages01.net^
+||pages02.net^
+||pages05.net^
+||sc.pages04.net/lp/static/js/imawebcookie.js
+--- filters
+
+ghostery_id: 162

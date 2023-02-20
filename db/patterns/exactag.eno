@@ -1,0 +1,14 @@
+name: Exactag
+category: site_analytics
+website_url: http://www.exactag.com
+organization: exactag
+
+--- domains
+exactag.com
+--- domains
+
+--- filters
+||exactag.com^
+--- filters
+
+ghostery_id: 1680

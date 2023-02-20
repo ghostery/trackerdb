@@ -1,0 +1,14 @@
+name: SearchIgnite
+category: advertising
+website_url: https://searchignite.com/
+organization: zeta
+
+--- domains
+searchignite.com
+--- domains
+
+--- filters
+||searchignite.com/si/cm/tracking/
+--- filters
+
+ghostery_id: 308

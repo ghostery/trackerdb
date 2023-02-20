@@ -1,0 +1,14 @@
+name: Datacoral
+category: advertising
+website_url: 
+organization: datacoral
+
+--- domains
+datacoral.com
+--- domains
+
+--- filters
+||datacoral.com/instrumentation/js/1.0.0/dc.js
+--- filters
+
+ghostery_id: 3158

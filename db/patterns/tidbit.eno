@@ -1,0 +1,14 @@
+name: Tidbit
+category: customer_interaction
+website_url: http://tidbit.co.in/
+organization: tidbit
+
+--- domains
+tidbit.co.in
+--- domains
+
+--- filters
+||tidbit.co.in^
+--- filters
+
+ghostery_id: 1868

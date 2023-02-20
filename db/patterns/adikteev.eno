@@ -1,0 +1,14 @@
+name: Adikteev
+category: advertising
+website_url: 
+organization: adikteev
+
+--- domains
+cdn.adikteev.com
+--- domains
+
+--- filters
+||cdn.adikteev.com/lib/v3/aksdk.moment
+--- filters
+
+ghostery_id: 2963

@@ -1,0 +1,14 @@
+name: AdsKeeper
+category: advertising
+website_url: 
+organization: adskeeper
+
+--- domains
+adskeeper.co.uk
+--- domains
+
+--- filters
+||adskeeper.co.uk^
+--- filters
+
+ghostery_id: 2632

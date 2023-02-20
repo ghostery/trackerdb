@@ -1,0 +1,16 @@
+name: WebGozar
+category: site_analytics
+website_url: http://webgozar.com/
+organization: webgozar
+
+--- domains
+webgozar.com
+webgozar.ir
+--- domains
+
+--- filters
+||webgozar.com/counter
+||webgozar.ir/c.aspx
+--- filters
+
+ghostery_id: 589

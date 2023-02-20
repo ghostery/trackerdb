@@ -1,0 +1,14 @@
+name: Mongoose Metrics
+category: advertising
+website_url: http://www.mongoosemetrics.com/
+organization: mongoose_metrics
+
+--- domains
+mongoosemetrics.com
+--- domains
+
+--- filters
+||mongoosemetrics.com^
+--- filters
+
+ghostery_id: 796

@@ -1,0 +1,14 @@
+name: Cookie Script
+category: essential
+website_url: https://cookie-script.com/
+organization: cookie_script
+
+--- domains
+cookie-script.com
+--- domains
+
+--- filters
+||consent.cookie-script.com^
+--- filters
+
+ghostery_id: 2609

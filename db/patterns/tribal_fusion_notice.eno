@@ -1,0 +1,11 @@
+name: Tribal Fusion Notice
+category: advertising
+website_url: http://www.tribalfusion.com
+organization: exponential_interactive
+alias: tribal_fusion
+
+--- filters
+||tribalfusion.com/media/common/adchoice
+--- filters
+
+ghostery_id: 937

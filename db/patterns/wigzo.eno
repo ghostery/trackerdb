@@ -1,0 +1,14 @@
+name: Wigzo
+category: advertising
+website_url: 
+organization: wigzo
+
+--- domains
+tracker.wigzopush.com
+--- domains
+
+--- filters
+||tracker.wigzopush.com^
+--- filters
+
+ghostery_id: 3240

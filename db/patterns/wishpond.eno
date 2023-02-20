@@ -1,0 +1,14 @@
+name: Wishpond
+category: customer_interaction
+website_url: 
+organization: wishpond
+
+--- domains
+cdn.wishpond.net
+--- domains
+
+--- filters
+||cdn.wishpond.net/connect.js
+--- filters
+
+ghostery_id: 2265

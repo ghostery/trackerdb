@@ -1,0 +1,14 @@
+name: Buzzador
+category: social_media
+website_url: http://www.buzzador.com
+organization: buzzador
+
+--- domains
+buzzador.com
+--- domains
+
+--- filters
+||buzzador.com^
+--- filters
+
+ghostery_id: 1402

@@ -1,0 +1,14 @@
+name: CQ Counter
+category: site_analytics
+website_url: http://www.cqcounter.com/
+organization: cq_counter
+
+--- domains
+cqcounter.com
+--- domains
+
+--- filters
+||cqcounter.com/cgi-bin/c
+--- filters
+
+ghostery_id: 1072

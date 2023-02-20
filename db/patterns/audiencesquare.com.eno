@@ -1,0 +1,15 @@
+name: Audience Square
+category: advertising
+website_url: http://www.audiencesquare.fr/
+organization: audience_square
+
+--- domains
+audiencesquare.com
+--- domains
+
+--- filters
+||cdn.audiencesquare.com/prebid/asq_tag.js
+||cdn.audiencesquare.com/tags
+--- filters
+
+ghostery_id: 3056

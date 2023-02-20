@@ -1,0 +1,21 @@
+name: Reddit
+category: social_media
+website_url: http://reddit.com
+organization: reddit
+
+--- domains
+redd.it
+reddit-image.s3.amazonaws.com
+reddit.com
+redditmedia.com
+redditstatic.com
+--- domains
+
+--- filters
+||reddit.com/.embed
+||reddit.com/buttonlite.js
+||reddit.com/static/button
+||reddit.com/static/spreddit
+--- filters
+
+ghostery_id: 1094

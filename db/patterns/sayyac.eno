@@ -1,0 +1,14 @@
+name: Sayyac
+category: site_analytics
+website_url: http://www.sayyac.com/
+organization: sayyac
+
+--- domains
+srv.sayyac.net
+--- domains
+
+--- filters
+||srv.sayyac.net^
+--- filters
+
+ghostery_id: 2082

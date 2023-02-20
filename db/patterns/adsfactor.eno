@@ -1,0 +1,14 @@
+name: Adsfactor
+category: advertising
+website_url: http://www.adsfactor.com/
+organization: pixels_asia
+
+--- domains
+adsfactor.net
+--- domains
+
+--- filters
+||adsfactor.net^
+--- filters
+
+ghostery_id: 1711

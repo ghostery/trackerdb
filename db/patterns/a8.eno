@@ -1,0 +1,14 @@
+name: A8
+category: advertising
+website_url: http://www.a8.net/
+organization: a8
+
+--- domains
+a8.net
+--- domains
+
+--- filters
+||a8.net^
+--- filters
+
+ghostery_id: 1444

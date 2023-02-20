@@ -1,0 +1,14 @@
+name: Prosperent
+category: advertising
+website_url: http://prosperent.com
+organization: prosperent
+
+--- domains
+prosperent.com
+--- domains
+
+--- filters
+||prosperent.com^
+--- filters
+
+ghostery_id: 648

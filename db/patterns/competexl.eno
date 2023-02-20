@@ -1,0 +1,16 @@
+name: CompeteXL
+category: site_analytics
+website_url: http://www.compete.com/help/s12
+organization: wpp
+
+--- domains
+c-col.com
+c.compete.com
+--- domains
+
+--- filters
+||c-col.com^
+||c.compete.com/bootstrap/
+--- filters
+
+ghostery_id: 255

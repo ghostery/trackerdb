@@ -1,0 +1,16 @@
+name: Populis
+category: advertising
+website_url: http://www.populis.com
+organization: populis
+
+--- domains
+populis.com
+populisengage.com
+--- domains
+
+--- filters
+||populis.com^
+||populisengage.com^
+--- filters
+
+ghostery_id: 1887

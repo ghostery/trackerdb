@@ -1,0 +1,14 @@
+name: ity.im
+category: advertising
+website_url: http://ity.im/
+organization: ity.im
+
+--- domains
+ity.im
+--- domains
+
+--- filters
+||ity.im/ad
+--- filters
+
+ghostery_id: 1390

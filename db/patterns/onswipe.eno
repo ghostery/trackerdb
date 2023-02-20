@@ -1,0 +1,14 @@
+name: Onswipe
+category: advertising
+website_url: http://www.onswipe.com/
+organization: onswipe
+
+--- domains
+onswipe.com
+--- domains
+
+--- filters
+||onswipe.com^
+--- filters
+
+ghostery_id: 1593

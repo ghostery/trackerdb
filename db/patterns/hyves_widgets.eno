@@ -1,0 +1,15 @@
+name: Hyves Widgets
+category: advertising
+website_url: http://www.hyves.nl/
+organization: hyves
+
+--- domains
+hyves.nl
+--- domains
+
+--- filters
+||hyves.nl/precompiled/hyvesconnect.js
+||hyves.nl/respect/button
+--- filters
+
+ghostery_id: 970

@@ -1,0 +1,14 @@
+name: iWiW Widgets
+category: customer_interaction
+website_url: http://iwiw.hu
+organization: iwiw
+
+--- domains
+iwiw.hu
+--- domains
+
+--- filters
+||iwiw.hu/like.jsp
+--- filters
+
+ghostery_id: 719

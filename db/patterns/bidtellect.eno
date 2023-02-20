@@ -1,0 +1,17 @@
+name: Bidtellect
+category: advertising
+website_url: https://www.bidtellect.com/
+organization: bidtellect
+
+--- domains
+bttrack.com
+--- domains
+
+--- filters
+||api.bttrack.com/WebClient/InFeed
+||bttrack.com/Pixel/Check/31850774
+||bttrack.com/pixel/cookiesync
+||cdn.bttrack.com/js/infeed/1.1/
+--- filters
+
+ghostery_id: 2994

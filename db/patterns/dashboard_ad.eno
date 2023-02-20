@@ -1,0 +1,14 @@
+name: Dashboard Ad
+category: advertising
+website_url: http://www.dashboardad.com/
+organization: premium_access
+
+--- domains
+tags.dashboardad.net
+--- domains
+
+--- filters
+||tags.dashboardad.net^
+--- filters
+
+ghostery_id: 330

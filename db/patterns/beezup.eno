@@ -1,0 +1,14 @@
+name: BeezUP
+category: advertising
+website_url: http://www.beezup.co.uk/
+organization: beezup
+
+--- domains
+tracker.beezup.com
+--- domains
+
+--- filters
+||tracker.beezup.com^
+--- filters
+
+ghostery_id: 1669

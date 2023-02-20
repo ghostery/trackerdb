@@ -1,0 +1,14 @@
+name: TVSquared
+category: advertising
+website_url: http://tvsquared.com/
+organization: tvsquared
+
+--- domains
+tvsquared.com
+--- domains
+
+--- filters
+||collector-*.tvsquared.com/tv2track.js^
+--- filters
+
+ghostery_id: 3062

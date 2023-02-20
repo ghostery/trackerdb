@@ -1,0 +1,28 @@
+name: Yandex
+category: advertising
+website_url: 
+organization: yandex
+
+--- domains
+awaps.yandex.ru
+d31j93rd8oukbv.cloudfront.net
+webvisor.org
+yandex.net
+yandex.ru
+yastatic.net
+--- domains
+
+--- filters
+||awaps.yandex.ru^
+||d31j93rd8oukbv.cloudfront.net/metrika/watch.js
+||dl.metabar.ru/static/api/v2/sovetnik.js
+||mc.yandex.ru^
+||static.sovetnik.yandex.net/static/js/sovetnik.webpartner.min.js
+||yandex.ru/cycounter
+||yandex.ru/informer
+||yandex.ru/metrika/watch
+||yandex.ru/resource/watch
+||yastatic.net/sovetnik/
+--- filters
+
+ghostery_id: 2686

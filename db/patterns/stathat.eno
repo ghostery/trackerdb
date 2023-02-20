@@ -1,0 +1,14 @@
+name: StatHat
+category: site_analytics
+website_url: http://www.stathat.com/
+organization: stathat
+
+--- domains
+stathat.com
+--- domains
+
+--- filters
+||stathat.com^
+--- filters
+
+ghostery_id: 1404

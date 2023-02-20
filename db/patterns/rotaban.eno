@@ -1,0 +1,14 @@
+name: RotaBan
+category: advertising
+website_url: http://www.rotaban.ru/
+organization: rotaban
+
+--- domains
+rotaban.ru
+--- domains
+
+--- filters
+||rotaban.ru^
+--- filters
+
+ghostery_id: 1770

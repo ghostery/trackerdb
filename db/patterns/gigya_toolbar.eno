@@ -1,0 +1,11 @@
+name: Gigya Toolbar
+category: customer_interaction
+website_url: http://www.gigya.com/
+organization: sap
+alias: gigya
+
+--- filters
+||toolbar.cdn.gigya.com^
+--- filters
+
+ghostery_id: 1143

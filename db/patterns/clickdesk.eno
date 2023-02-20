@@ -1,0 +1,14 @@
+name: ClickDesk
+category: customer_interaction
+website_url: https://www.clickdesk.com/
+organization: clickdesk
+
+--- domains
+clickdesk.com
+--- domains
+
+--- filters
+||clickdesk.com^
+--- filters
+
+ghostery_id: 1973

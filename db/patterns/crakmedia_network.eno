@@ -1,0 +1,16 @@
+name: Crakmedia Network
+category: advertising
+website_url: http://crakmedia.com/
+organization: crakmedia_network
+
+--- domains
+ads.crakmedia.com
+craktraffic.com
+--- domains
+
+--- filters
+||ads.crakmedia.com^
+||craktraffic.com^
+--- filters
+
+ghostery_id: 1225

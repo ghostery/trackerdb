@@ -1,0 +1,17 @@
+name: Adorika
+category: advertising
+website_url: http://www.adorika.com/
+organization: adorika
+
+--- domains
+adorika.com
+adorika.net
+--- domains
+
+--- filters
+||ad.clickotmedia.com^
+||adorika.com^
+||adorika.net^
+--- filters
+
+ghostery_id: 613

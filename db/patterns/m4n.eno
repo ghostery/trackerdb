@@ -1,0 +1,14 @@
+name: M4N
+category: advertising
+website_url: http://www.zanox.com/us/
+organization: axel_springer
+
+--- domains
+m4n.nl
+--- domains
+
+--- filters
+||m4n.nl^
+--- filters
+
+ghostery_id: 1439

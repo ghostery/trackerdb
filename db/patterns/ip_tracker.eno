@@ -1,0 +1,16 @@
+name: IP Tracker
+category: site_analytics
+website_url: http://www.ip-tracker.org/
+organization: ip_tracker
+
+--- domains
+ip-tracker.org
+iptrack.io
+--- domains
+
+--- filters
+||ip-tracker.org^
+||iptrack.io^
+--- filters
+
+ghostery_id: 2181

@@ -1,0 +1,14 @@
+name: ReactX
+category: advertising
+website_url: http://home.skinected.com
+organization: reactx
+
+--- domains
+skinected.com
+--- domains
+
+--- filters
+||skinected.com^
+--- filters
+
+ghostery_id: 1595

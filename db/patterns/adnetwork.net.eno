@@ -1,0 +1,14 @@
+name: AdNetwork.net
+category: advertising
+website_url: http://www.adnetwork.net/
+organization: adnetwork.net
+
+--- domains
+ad.adnetwork.net
+--- domains
+
+--- filters
+||ad.adnetwork.net^
+--- filters
+
+ghostery_id: 793

@@ -1,0 +1,15 @@
+name: Hatena
+category: social_media
+website_url: http://www.hatena.ne.jp/
+organization: hatena_jp
+
+--- domains
+hatena.ne.jp
+st-hatena.com
+--- domains
+
+--- filters
+||st-hatena.com/js/bookmark_button
+--- filters
+
+ghostery_id: 1532

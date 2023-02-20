@@ -1,0 +1,14 @@
+name: Zift Solutions
+category: site_analytics
+website_url: 
+organization: zift_solutions
+
+--- domains
+analytics.ziftsolutions.com
+--- domains
+
+--- filters
+||analytics.ziftsolutions.com/trk/
+--- filters
+
+ghostery_id: 3277

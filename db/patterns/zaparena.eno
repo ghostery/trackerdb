@@ -1,0 +1,16 @@
+name: zaparena
+category: advertising
+website_url: http://www.zaparena.com/
+organization: zapunited
+
+--- domains
+zaparena.com
+zapunited.com
+--- domains
+
+--- filters
+||zaparena.com/w/
+||zapunited.com/w/
+--- filters
+
+ghostery_id: 779

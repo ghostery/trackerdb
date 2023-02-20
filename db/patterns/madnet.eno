@@ -1,0 +1,14 @@
+name: MADNET
+category: advertising
+website_url: http://madnet.ru/en
+organization: madnet
+
+--- domains
+madnet.ru
+--- domains
+
+--- filters
+||madnet.ru^
+--- filters
+
+ghostery_id: 2164

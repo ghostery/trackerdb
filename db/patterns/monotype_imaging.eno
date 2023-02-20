@@ -1,0 +1,14 @@
+name: Fonts.com Store
+category: customer_interaction
+website_url: https://www.fonts.com/
+organization: monotype
+
+--- domains
+fonts.com
+--- domains
+
+--- filters
+||fast.fonts.com/t/trackingcode.js
+--- filters
+
+ghostery_id: 2310

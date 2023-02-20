@@ -1,0 +1,14 @@
+name: AffiliateLounge
+category: advertising
+website_url: http://www.affiliatelounge.com/
+organization: betsson_group_affiliates
+
+--- domains
+affiliatelounge.com
+--- domains
+
+--- filters
+||affiliatelounge.com^
+--- filters
+
+ghostery_id: 1048

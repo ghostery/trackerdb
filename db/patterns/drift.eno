@@ -1,0 +1,16 @@
+name: Drift
+category: customer_interaction
+website_url: 
+organization: drift
+
+--- domains
+drift.com
+js.driftt.com
+--- domains
+
+--- filters
+||api.drift.com^
+||js.driftt.com^
+--- filters
+
+ghostery_id: 2781

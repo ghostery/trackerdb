@@ -1,0 +1,16 @@
+name: Mediarithmics
+category: advertising
+website_url: http://www.mediarithmics.com/en/
+organization: mediarithmics
+
+--- domains
+mediarithmics.com
+--- domains
+
+--- filters
+||cookie-matching.mediarithmics.com^
+||events.mediarithmics.com/v1/visits/pixel
+||static.mediarithmics.com/tag/1/tag.min.js
+--- filters
+
+ghostery_id: 3204

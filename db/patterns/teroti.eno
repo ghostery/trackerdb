@@ -1,0 +1,14 @@
+name: Teroti
+category: advertising
+website_url: http://www.teroti.com/
+organization: teroti
+
+--- domains
+watch.teroti.com
+--- domains
+
+--- filters
+||watch.teroti.com^
+--- filters
+
+ghostery_id: 1206

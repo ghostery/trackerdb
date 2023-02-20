@@ -1,0 +1,15 @@
+name: Didit Blizzard
+category: advertising
+website_url: http://www.didit.com/blizzard
+organization: didit
+
+--- domains
+tag.didit.com
+--- domains
+
+--- filters
+||tag.didit.com/didit/
+||tag.didit.com/js/
+--- filters
+
+ghostery_id: 389

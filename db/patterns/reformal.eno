@@ -1,0 +1,14 @@
+name: Reformal
+category: customer_interaction
+website_url: http://reformal.ru/
+organization: reformal
+
+--- domains
+reformal.ru
+--- domains
+
+--- filters
+||reformal.ru^
+--- filters
+
+ghostery_id: 1778

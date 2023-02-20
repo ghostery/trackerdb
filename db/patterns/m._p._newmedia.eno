@@ -1,0 +1,14 @@
+name: M. P. NEWMEDIA
+category: advertising
+website_url: http://www.mp-newmedia.com/
+organization: sticky
+
+--- domains
+mpnrs.com
+--- domains
+
+--- filters
+||mpnrs.com^
+--- filters
+
+ghostery_id: 1876

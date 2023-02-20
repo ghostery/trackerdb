@@ -1,0 +1,15 @@
+name: iFlyChat
+category: customer_interaction
+website_url: https://iflychat.com/
+organization: iflychat
+
+--- domains
+api.iflychat.com
+--- domains
+
+--- filters
+/wp-content/plugins/iflychat/js/script.js
+||api.iflychat.com^
+--- filters
+
+ghostery_id: 1731

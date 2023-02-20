@@ -1,0 +1,16 @@
+name: WordPress Stats
+category: site_analytics
+website_url: http://wordpress.org/extend/plugins/stats/
+organization: automattic
+
+--- domains
+w.org
+wordpress.com
+wp.com
+--- domains
+
+--- filters
+||stats.wordpress.com^
+--- filters
+
+ghostery_id: 24

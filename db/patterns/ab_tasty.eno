@@ -1,0 +1,17 @@
+name: AB Tasty
+category: site_analytics
+website_url: https://en.abtasty.com
+organization: ab_tasty
+
+--- domains
+abtasty.com
+d1447tq2m68ekg.cloudfront.net
+--- domains
+
+--- filters
+/timetracking/abtastytiming.gif
+||abtasty.com^
+||d1447tq2m68ekg.cloudfront.net^
+--- filters
+
+ghostery_id: 1930

@@ -1,0 +1,14 @@
+name: Adify
+category: advertising
+website_url: http://www.adify.com/
+organization: cox_enterpries
+
+--- domains
+afy11.net
+--- domains
+
+--- filters
+||afy11.net^
+--- filters
+
+ghostery_id: 105

@@ -1,0 +1,15 @@
+name: Connecto
+category: site_analytics
+website_url: 
+organization: connecto
+
+--- domains
+cdn.connecto.io
+--- domains
+
+--- filters
+||cdn.connecto.io/javascripts/connect.prod.min.js
+||cdn.connecto.io/javascripts/notification.prod.min.js
+--- filters
+
+ghostery_id: 2603

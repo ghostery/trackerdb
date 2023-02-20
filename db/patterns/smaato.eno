@@ -1,0 +1,14 @@
+name: Smaato
+category: advertising
+website_url: http://www.smaato.com/
+organization: smaato
+
+--- domains
+smaato.net
+--- domains
+
+--- filters
+||smaato.net^
+--- filters
+
+ghostery_id: 1647

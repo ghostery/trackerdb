@@ -1,0 +1,15 @@
+name: AddToAny
+category: social_media
+website_url: http://www.addtoany.com/
+organization: addtoany
+
+--- domains
+addtoany.com
+--- domains
+
+--- filters
+||static.addtoany.com/menu/feed.js
+||static.addtoany.com/menu/page.js
+--- filters
+
+ghostery_id: 54

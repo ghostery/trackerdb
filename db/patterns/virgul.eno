@@ -1,0 +1,14 @@
+name: Virgul
+category: advertising
+website_url: http://www.virgul.com/
+organization: virgul
+
+--- domains
+virgul.com
+--- domains
+
+--- filters
+||virgul.com^
+--- filters
+
+ghostery_id: 873

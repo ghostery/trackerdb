@@ -1,0 +1,14 @@
+name: WebEngage
+category: customer_interaction
+website_url: http://webengage.com/
+organization: webengage
+
+--- domains
+widgets.webengage.com
+--- domains
+
+--- filters
+||widgets.webengage.com^
+--- filters
+
+ghostery_id: 1971

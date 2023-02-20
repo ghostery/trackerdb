@@ -1,0 +1,16 @@
+name: YSance
+category: advertising
+website_url: 
+organization: ysance
+
+--- domains
+prod-js.aws.y-track.com
+y-track.com
+--- domains
+
+--- filters
+||prod-js.aws.y-track.com/yt-000015-1/v5/tracker.min.js
+||y-track.com^
+--- filters
+
+ghostery_id: 2832

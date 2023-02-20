@@ -1,0 +1,14 @@
+name: GB-World
+category: social_media
+website_url: http://www.gb-world.net/
+organization: gb-world
+
+--- domains
+js.gb-world.net
+--- domains
+
+--- filters
+||js.gb-world.net/lib/ga_social_tracking.js
+--- filters
+
+ghostery_id: 876

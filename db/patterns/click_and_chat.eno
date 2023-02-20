@@ -1,0 +1,14 @@
+name: Click and Chat
+category: customer_interaction
+website_url: http://www.clickandchat.com/
+organization: clickandchat
+
+--- domains
+clickandchat.com
+--- domains
+
+--- filters
+||clickandchat.com^
+--- filters
+
+ghostery_id: 1688

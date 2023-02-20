@@ -1,0 +1,14 @@
+name: Yieldlab
+category: advertising
+website_url: http://www.yieldlab.de/
+organization: prosieben_sat1
+
+--- domains
+yieldlab.net
+--- domains
+
+--- filters
+||ad.yieldlab.net^
+--- filters
+
+ghostery_id: 819

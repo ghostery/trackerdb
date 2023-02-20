@@ -1,0 +1,14 @@
+name: Winaffiliates
+category: site_analytics
+website_url: 
+organization: winaffiliates
+
+--- domains
+tracking.winaffiliates.com
+--- domains
+
+--- filters
+||tracking.winaffiliates.com/redirect.aspx
+--- filters
+
+ghostery_id: 2664

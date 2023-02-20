@@ -1,0 +1,14 @@
+name: OptAim
+category: advertising
+website_url: http://optaim.com/
+organization: optaim
+
+--- domains
+optaim.com
+--- domains
+
+--- filters
+||optaim.com^
+--- filters
+
+ghostery_id: 1901

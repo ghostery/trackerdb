@@ -1,0 +1,14 @@
+name: geoPlugin
+category: site_analytics
+website_url: http://www.geoplugin.com/
+organization: geoplugin
+
+--- domains
+geoplugin.net
+--- domains
+
+--- filters
+||geoplugin.net^
+--- filters
+
+ghostery_id: 1095

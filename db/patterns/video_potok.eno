@@ -1,0 +1,16 @@
+name: Video Potok
+category: audio_video_player
+website_url: 
+organization: videopotok
+
+--- domains
+vidtok.ru
+--- domains
+
+--- filters
+||videopotok.pro/kod.php
+||vidtok.ru/js/videpotok_script_over.js
+||vidtok.ru/player_html5/mobileobrab.js
+--- filters
+
+ghostery_id: 2859

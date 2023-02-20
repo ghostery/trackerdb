@@ -1,0 +1,16 @@
+name: Evergage
+category: customer_interaction
+website_url: https://www.evergage.com
+organization: evergage
+
+--- domains
+apptegic.com
+evergage.com
+--- domains
+
+--- filters
+||apptegic.com^
+||evergage.com^
+--- filters
+
+ghostery_id: 1739

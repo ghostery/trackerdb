@@ -1,0 +1,14 @@
+name: Hiiir
+category: advertising
+website_url: http://adpower.hiiir.com/
+organization: hiiir
+
+--- domains
+hiiir.com
+--- domains
+
+--- filters
+||hiiir.com^
+--- filters
+
+ghostery_id: 1337

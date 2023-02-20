@@ -1,0 +1,10 @@
+name: Tombstone (Matomo/Piwik before the split)
+category: site_analytics
+website_url: http://piwik.org/
+organization: matomo
+
+--- domains
+disabled.invalid
+--- domains
+
+ghostery_id: 44

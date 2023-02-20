@@ -1,0 +1,15 @@
+name: TzeTze
+category: customer_interaction
+website_url: http://www.tzetze.it/
+organization: tzetze
+
+--- domains
+tzetze.it
+--- domains
+
+--- filters
+||tzetze.it/banner-tzetze.png
+||tzetze.it/tzetze_external.
+--- filters
+
+ghostery_id: 1704

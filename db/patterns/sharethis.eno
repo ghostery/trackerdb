@@ -1,0 +1,15 @@
+name: ShareThis
+category: advertising
+website_url: http://sharethis.com/
+organization: sharethis
+
+--- domains
+sharethis.com
+--- domains
+
+--- filters
+/share-this.php
+||sharethis.com^
+--- filters
+
+ghostery_id: 52

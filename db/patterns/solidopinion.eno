@@ -1,0 +1,15 @@
+name: SolidOpinion
+category: customer_interaction
+website_url: 
+organization: solidopinion
+
+--- domains
+solidopinion.com
+--- domains
+
+--- filters
+||api.solidopinion.com/api/site/getthreadstotal
+||stats.solidopinion.com^
+--- filters
+
+ghostery_id: 3286

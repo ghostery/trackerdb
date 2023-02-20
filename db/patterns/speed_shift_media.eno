@@ -1,0 +1,14 @@
+name: Speed Shift Media
+category: advertising
+website_url: http://www.speedshiftmedia.com/
+organization: speed_shift_media
+
+--- domains
+speedshiftmedia.com
+--- domains
+
+--- filters
+||speedshiftmedia.com^
+--- filters
+
+ghostery_id: 1692

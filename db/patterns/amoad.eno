@@ -1,0 +1,14 @@
+name: AMoAd
+category: advertising
+website_url: http://www.amoad.com/
+organization: amoad
+
+--- domains
+amoad.com
+--- domains
+
+--- filters
+||amoad.com^
+--- filters
+
+ghostery_id: 2035

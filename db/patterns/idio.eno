@@ -1,0 +1,14 @@
+name: Idio
+category: advertising
+website_url: 
+organization: idio
+
+--- domains
+s.idio.co
+--- domains
+
+--- filters
+||s.idio.co/ia.js
+--- filters
+
+ghostery_id: 2381

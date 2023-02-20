@@ -1,0 +1,14 @@
+name: True Anthem
+category: advertising
+website_url: https://www.trueanthem.com/
+organization: trueanthem
+
+--- domains
+tru.am
+--- domains
+
+--- filters
+||tru.am^
+--- filters
+
+ghostery_id: 1924

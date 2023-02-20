@@ -1,0 +1,14 @@
+name: Roistat
+category: site_analytics
+website_url: 
+organization: roistat
+
+--- domains
+collector.roistat.com
+--- domains
+
+--- filters
+||collector.roistat.com/counter.js
+--- filters
+
+ghostery_id: 3225

@@ -1,0 +1,23 @@
+name: JW Player
+category: audio_video_player
+website_url: https://www.jwplayer.com/
+organization: jw_player
+
+--- domains
+d21rhj7n383afu.cloudfront.net
+jwpcdn.com
+jwplatform.com
+jwplayer.com
+jwpltx.com
+jwpsrv.com
+--- domains
+
+--- filters
+||jwpsrv.com/library/*.js^
+||content.jwplatform.com/libraries/puack8zv.js
+||d21rhj7n383afu.cloudfront.net/jwplayer/jwplayerconfig.js
+||p.jwpcdn.com/6/10/jwplayer.js
+||ssl.p.jwpcdn.com/player/v/7.8.2/googima.js
+--- filters
+
+ghostery_id: 2530

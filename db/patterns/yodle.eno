@@ -1,0 +1,14 @@
+name: Yodle
+category: advertising
+website_url: http://www.yodle.com/
+organization: yodle
+
+--- domains
+natpal.com
+--- domains
+
+--- filters
+||natpal.com^
+--- filters
+
+ghostery_id: 1685

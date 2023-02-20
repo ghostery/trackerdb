@@ -1,0 +1,11 @@
+name: Tumblr Dashboard
+category: social_media
+website_url: http://www.tumblr.com/
+organization: verizon
+alias: yahoo
+
+--- filters
+||www.tumblr.com/dashboard/iframe
+--- filters
+
+ghostery_id: 133

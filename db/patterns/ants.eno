@@ -1,0 +1,16 @@
+name: Ants
+category: social_media
+website_url: http://ants.vn/en/
+organization: ants
+
+--- domains
+anthill.vn
+ants.vn
+--- domains
+
+--- filters
+||anthill.vn^
+||ants.vn^
+--- filters
+
+ghostery_id: 2211

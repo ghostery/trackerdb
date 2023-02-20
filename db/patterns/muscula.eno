@@ -1,0 +1,14 @@
+name: Muscula
+category: advertising
+website_url: 
+organization: universe_surf
+
+--- domains
+musculahq.appspot.com
+--- domains
+
+--- filters
+||musculahq.appspot.com^
+--- filters
+
+ghostery_id: 2390

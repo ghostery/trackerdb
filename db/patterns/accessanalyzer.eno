@@ -1,0 +1,14 @@
+name: AccessAnalyzer
+category: site_analytics
+website_url: http://ax.xrea.com/
+organization: accessanalyzer
+
+--- domains
+ax.xrea.com
+--- domains
+
+--- filters
+||ax.xrea.com^
+--- filters
+
+ghostery_id: 1646

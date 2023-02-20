@@ -1,0 +1,14 @@
+name: Click360
+category: site_analytics
+website_url: 
+organization: click360
+
+--- domains
+script.click360.io
+--- domains
+
+--- filters
+||script.click360.io/wai_digi.js
+--- filters
+
+ghostery_id: 3217

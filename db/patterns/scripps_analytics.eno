@@ -1,0 +1,14 @@
+name: Scripps Analytics
+category: site_analytics
+website_url: 
+organization: scripps_networks
+
+--- domains
+analytics.snidigital.com
+--- domains
+
+--- filters
+||analytics.snidigital.com/scripps-core
+--- filters
+
+ghostery_id: 3035

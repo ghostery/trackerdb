@@ -1,0 +1,14 @@
+name: diHITT Badge
+category: social_media
+website_url: http://www.dihitt.com.br/
+organization: dihitt
+
+--- domains
+widget.dihitt.com.br
+--- domains
+
+--- filters
+||widget.dihitt.com.br^
+--- filters
+
+ghostery_id: 1038

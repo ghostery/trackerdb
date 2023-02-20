@@ -1,0 +1,12 @@
+name: NY Times TagX
+category: site_analytics
+website_url: 
+organization: the_new_york_times
+alias: nyt.com
+
+--- filters
+||a1.nyt.com/analytics/tagx-simple.min.js
+||tagx.nytimes.com^
+--- filters
+
+ghostery_id: 2308

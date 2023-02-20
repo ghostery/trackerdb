@@ -1,0 +1,14 @@
+name: Newstogram
+category: advertising
+website_url: http://www.newstogram.com/
+organization: dailyme
+
+--- domains
+newstogram.com
+--- domains
+
+--- filters
+||newstogram.com^
+--- filters
+
+ghostery_id: 345

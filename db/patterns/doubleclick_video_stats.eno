@@ -1,0 +1,11 @@
+name: Doubleclick Video Stats
+category: advertising
+website_url: 
+organization: google
+alias: google_syndication
+
+--- filters
+||video-ad-stats.googlesyndication.com/video/client_events
+--- filters
+
+ghostery_id: 2993

@@ -1,0 +1,14 @@
+name: Traffic Fuel
+category: advertising
+website_url: 
+organization: traffic_fuel
+
+--- domains
+my.trafficfuel.com
+--- domains
+
+--- filters
+||my.trafficfuel.com/powerpixel.php
+--- filters
+
+ghostery_id: 2804

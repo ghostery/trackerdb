@@ -1,0 +1,14 @@
+name: IXI Digital
+category: advertising
+website_url: 
+organization: equifax
+
+--- domains
+ixiaa.com
+--- domains
+
+--- filters
+||kr.ixiaa.com^
+--- filters
+
+ghostery_id: 2830

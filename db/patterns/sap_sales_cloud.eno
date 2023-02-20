@@ -1,0 +1,16 @@
+name: SAP Sales Cloud
+category: customer_interaction
+website_url: http://leadforce1.com/
+organization: sap
+
+--- domains
+leadforce1.com
+vlog.leadformix.com
+--- domains
+
+--- filters
+||leadforce1.com/bf/bf.js
+||vlog.leadformix.com^
+--- filters
+
+ghostery_id: 219

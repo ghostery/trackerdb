@@ -1,0 +1,14 @@
+name: Reve Marketing
+category: advertising
+website_url: http://tellafriend.socialtwist.com/
+organization: reve_marketing
+
+--- domains
+socialtwist.com
+--- domains
+
+--- filters
+||socialtwist.com^
+--- filters
+
+ghostery_id: 201

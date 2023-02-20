@@ -1,0 +1,14 @@
+name: AdPulse
+category: advertising
+website_url: 
+organization: adpulse.ir
+
+--- domains
+adserve.adpulse.ir
+--- domains
+
+--- filters
+||adserve.adpulse.ir/banner.js
+--- filters
+
+ghostery_id: 2901

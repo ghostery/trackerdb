@@ -1,0 +1,15 @@
+name: Signifyd
+category: site_analytics
+website_url: 
+organization: signifyd
+
+--- domains
+cdn-scripts.signifyd.com
+signifyd.com
+--- domains
+
+--- filters
+||cdn-scripts.signifyd.com/shopify/script-tag.js
+--- filters
+
+ghostery_id: 2935

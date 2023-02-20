@@ -1,0 +1,17 @@
+name: Atlas
+category: advertising
+website_url: https://atlassolutions.com
+organization: facebook
+
+--- domains
+adbureau.net
+atdmt.com
+atlassbx.com
+--- domains
+
+--- filters
+||adbureau.net^
+||atdmt.com^
+--- filters
+
+ghostery_id: 185

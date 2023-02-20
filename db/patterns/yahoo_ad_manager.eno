@@ -1,0 +1,14 @@
+name: Yahoo! Ad Manager Plus
+category: advertising
+website_url: https://developer.yahoo.com/analytics/
+organization: verizon
+
+--- domains
+pr-bh.ybp.yahoo.com
+--- domains
+
+--- filters
+||pr-bh.ybp.yahoo.com^
+--- filters
+
+ghostery_id: 2324

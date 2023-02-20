@@ -1,0 +1,14 @@
+name: Groove
+category: customer_interaction
+website_url: http://www.groovehq.com/
+organization: groove_networks
+
+--- domains
+groovehq.com
+--- domains
+
+--- filters
+||groovehq.com/widgets/
+--- filters
+
+ghostery_id: 1661

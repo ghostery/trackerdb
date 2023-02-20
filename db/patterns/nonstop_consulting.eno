@@ -1,0 +1,14 @@
+name: Resolution Media
+category: advertising
+website_url: https://resolutionmedia.com/
+organization: resolution_media
+
+--- domains
+trkme.net
+--- domains
+
+--- filters
+||trkme.net^
+--- filters
+
+ghostery_id: 1409

@@ -1,0 +1,14 @@
+name: Admaya
+category: advertising
+website_url: http://www.admaya.in/
+organization: admaya
+
+--- domains
+admaya.in
+--- domains
+
+--- filters
+||admaya.in^
+--- filters
+
+ghostery_id: 1286

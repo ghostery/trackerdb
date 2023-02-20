@@ -1,0 +1,14 @@
+name: Linkwise
+category: advertising
+website_url: http://linkwi.se/global-en/
+organization: linkwise
+
+--- domains
+linkwi.se
+--- domains
+
+--- filters
+||linkwi.se/delivery
+--- filters
+
+ghostery_id: 2154

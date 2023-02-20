@@ -1,0 +1,15 @@
+name: LinkedIn Widgets
+category: social_media
+website_url: https://www.linkedin.com
+organization: microsoft
+
+--- domains
+platform.linkedin.com
+--- domains
+
+--- filters
+||api.linkedin.com/v1/people/~/shares
+||platform.linkedin.com^
+--- filters
+
+ghostery_id: 697

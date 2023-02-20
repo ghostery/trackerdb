@@ -1,0 +1,14 @@
+name: Adacado
+category: advertising
+website_url: http://www.adacado.com/
+organization: adacado
+
+--- domains
+adacado.com
+--- domains
+
+--- filters
+||adacado.com^
+--- filters
+
+ghostery_id: 1742

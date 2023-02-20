@@ -1,0 +1,14 @@
+name: 888media
+category: advertising
+website_url: http://888media.net/
+organization: 888_media
+
+--- domains
+888media.net
+--- domains
+
+--- filters
+||888media.net^
+--- filters
+
+ghostery_id: 1342

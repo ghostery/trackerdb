@@ -1,0 +1,14 @@
+name: Performax
+category: advertising
+website_url: https://www.performax.cz/
+organization: performax
+
+--- domains
+performax.cz
+--- domains
+
+--- filters
+||delivery.performax.cz/sklik/extrastory
+--- filters
+
+ghostery_id: 2958

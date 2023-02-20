@@ -1,0 +1,15 @@
+name: PrecisionClick
+category: advertising
+website_url: http://www.precisionclick.com/
+organization: precisionclick
+
+--- domains
+precisionclick.com
+--- domains
+
+--- filters
+||geo.precisionclick.com^
+||servedby.precisionclick.com^
+--- filters
+
+ghostery_id: 431

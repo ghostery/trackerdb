@@ -1,0 +1,14 @@
+name: adFreestyle
+category: advertising
+website_url: http://www.adfreestyle.pl/
+organization: adfreestyle
+
+--- domains
+adfreestyle.pl
+--- domains
+
+--- filters
+||adfreestyle.pl^
+--- filters
+
+ghostery_id: 1825

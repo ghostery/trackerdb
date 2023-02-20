@@ -1,0 +1,14 @@
+name: Advidi
+category: advertising
+website_url: http://advidi.com/
+organization: advidi
+
+--- domains
+advidi.com
+--- domains
+
+--- filters
+||advidi.com^
+--- filters
+
+ghostery_id: 2011

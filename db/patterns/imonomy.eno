@@ -1,0 +1,15 @@
+name: imonomy
+category: site_analytics
+website_url: http://imonomy.com/
+organization: imonomy
+
+--- domains
+imonomy.com
+--- domains
+
+--- filters
+||imonomy.com/script/*/preload.js^
+||imonomy.com/script/preload.js
+--- filters
+
+ghostery_id: 2288

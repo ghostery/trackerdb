@@ -1,0 +1,14 @@
+name: DotAndMedia
+category: advertising
+website_url: http://www.dotandmedia.com
+organization: dotandmedia
+
+--- domains
+dotandad.com
+--- domains
+
+--- filters
+||dotandad.com^
+--- filters
+
+ghostery_id: 1764

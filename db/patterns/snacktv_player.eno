@@ -1,0 +1,14 @@
+name: SnackTV-Player
+category: audio_video_player
+website_url: 
+organization: verizon
+alias: snacktv
+
+--- filters
+||player.snacktv.de/player
+||player.snacktv.de/pub/js/sd.js
+||player.snacktv.de/vid/keywordbestmatch.html
+||player.snacktv.de/vid/widget.html
+--- filters
+
+ghostery_id: 2518

@@ -1,0 +1,15 @@
+name: MetriWeb
+category: advertising
+website_url: http://www.metriware.be/
+organization: metriware
+
+--- domains
+metriweb.be
+--- domains
+
+--- filters
+/metriweb/mwtag
+||metriweb.be/dyn/
+--- filters
+
+ghostery_id: 1101

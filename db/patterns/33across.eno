@@ -1,0 +1,14 @@
+name: 33Across
+category: advertising
+website_url: http://33across.com/
+organization: 33across
+
+--- domains
+33across.com
+--- domains
+
+--- filters
+||33across.com^
+--- filters
+
+ghostery_id: 256

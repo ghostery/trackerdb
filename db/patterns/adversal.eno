@@ -1,0 +1,18 @@
+name: Adversal
+category: advertising
+website_url: https://www.adversal.com/
+organization: adversal
+
+--- domains
+adversaldisplay.com
+adversalservers.com
+go.adversal.com
+--- domains
+
+--- filters
+||adversaldisplay.com^
+||adversalservers.com^
+||go.adversal.com^
+--- filters
+
+ghostery_id: 742

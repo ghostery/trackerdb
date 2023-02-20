@@ -1,0 +1,17 @@
+name: Adult Webmaster Empire
+category: pornvertising
+website_url: http://www.awempire.com/
+organization: adult_webmaster_empire
+
+--- domains
+awempire.com
+dditscdn.com
+livejasmin.com
+--- domains
+
+--- filters
+||awempire.com^
+||creatives.livejasmin.com^
+--- filters
+
+ghostery_id: 986

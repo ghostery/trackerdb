@@ -1,0 +1,14 @@
+name: Proximic
+category: advertising
+website_url: http://www.proximic.com/
+organization: proximic
+
+--- domains
+proximic.com
+--- domains
+
+--- filters
+||proximic.com^
+--- filters
+
+ghostery_id: 514

@@ -1,0 +1,14 @@
+name: Al Bawaba Advertising
+category: advertising
+website_url: http://www.albawaba.com/advertising
+organization: al_bawaba
+
+--- domains
+ads.albawaba.com
+--- domains
+
+--- filters
+||ads.albawaba.com^
+--- filters
+
+ghostery_id: 906

@@ -1,0 +1,11 @@
+name: Rambler Count
+category: customer_interaction
+website_url: 
+organization: rambler
+alias: rambler
+
+--- filters
+||kraken.rambler.ru/cnt/
+--- filters
+
+ghostery_id: 3012

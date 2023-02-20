@@ -1,0 +1,14 @@
+name: Clerk.io
+category: advertising
+website_url: 
+organization: clerk.io
+
+--- domains
+api.clerk.io
+--- domains
+
+--- filters
+||api.clerk.io/static/clerk.js
+--- filters
+
+ghostery_id: 2554

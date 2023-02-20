@@ -1,0 +1,14 @@
+name: adru.net
+category: advertising
+website_url: http://adru.net/
+organization: adru.net
+
+--- domains
+adru.net
+--- domains
+
+--- filters
+||adru.net^
+--- filters
+
+ghostery_id: 1277

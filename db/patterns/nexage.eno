@@ -1,0 +1,14 @@
+name: Nexage
+category: advertising
+website_url: http://www.nexage.com/
+organization: verizon
+
+--- domains
+nexage.com
+--- domains
+
+--- filters
+||nexage.com^
+--- filters
+
+ghostery_id: 1478

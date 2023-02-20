@@ -1,0 +1,14 @@
+name: Amadesa
+category: advertising
+website_url: http://www.amadesa.com/
+organization: amadesa
+
+--- domains
+amadesa.com
+--- domains
+
+--- filters
+||amadesa.com/static/client_js/engine/amadesajs.js
+--- filters
+
+ghostery_id: 337

@@ -1,0 +1,14 @@
+name: Segmento
+category: advertising
+website_url: https://segmento.ru/en
+organization: segmento
+
+--- domains
+rutarget.ru
+--- domains
+
+--- filters
+||rutarget.ru^
+--- filters
+
+ghostery_id: 1231

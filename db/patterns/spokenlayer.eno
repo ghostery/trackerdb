@@ -1,0 +1,14 @@
+name: SpokenLayer
+category: audio_video_player
+website_url: http://www.spokenlayer.com
+organization: spokenlayer
+
+--- domains
+embed.spokenlayer.com
+--- domains
+
+--- filters
+||embed.spokenlayer.com^
+--- filters
+
+ghostery_id: 2061

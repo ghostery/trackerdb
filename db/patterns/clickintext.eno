@@ -1,0 +1,14 @@
+name: ClickInText
+category: advertising
+website_url: http://www.clickintext.com/
+organization: clickintext
+
+--- domains
+clickintext.net
+--- domains
+
+--- filters
+||clickintext.net^
+--- filters
+
+ghostery_id: 718

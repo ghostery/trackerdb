@@ -1,0 +1,12 @@
+name: Mindspark
+category: site_analytics
+website_url: http://www.mindspark.com/
+organization: iac_apps
+
+--- domains
+imgfarm.com
+mindspark.com
+staticimgfarm.com
+--- domains
+
+ghostery_id: 3687

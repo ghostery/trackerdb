@@ -1,0 +1,14 @@
+name: Hotjar
+category: site_analytics
+website_url: http://www.hotjar.com/
+organization: hotjar
+
+--- domains
+hotjar.com
+--- domains
+
+--- filters
+||hotjar.com^
+--- filters
+
+ghostery_id: 2199

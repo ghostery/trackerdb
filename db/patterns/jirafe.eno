@@ -1,0 +1,14 @@
+name: Jirafe
+category: site_analytics
+website_url: http://jirafe.com/
+organization: jirafe
+
+--- domains
+jirafe.com
+--- domains
+
+--- filters
+||jirafe.com^
+--- filters
+
+ghostery_id: 1346

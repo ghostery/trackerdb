@@ -1,0 +1,16 @@
+name: Perfect Audience
+category: advertising
+website_url: https://www.perfectaudience.com/
+organization: perfect_audience
+
+--- domains
+perfectaudience.com
+prfct.co
+--- domains
+
+--- filters
+||perfectaudience.com^
+||prfct.co^
+--- filters
+
+ghostery_id: 1403

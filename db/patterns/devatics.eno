@@ -1,0 +1,14 @@
+name: Devatics
+category: customer_interaction
+website_url: http://www.devatics.co.uk/
+organization: devatics
+
+--- domains
+devatics.com
+--- domains
+
+--- filters
+||devatics.com^
+--- filters
+
+ghostery_id: 1738

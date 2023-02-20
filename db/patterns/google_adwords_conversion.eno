@@ -1,0 +1,11 @@
+name: Google AdWords Conversion
+category: advertising
+website_url: https://adwords.google.com/
+organization: google
+alias: google_adservices
+
+--- filters
+||www.googleadservices.com/pagead/conversion
+--- filters
+
+ghostery_id: 288

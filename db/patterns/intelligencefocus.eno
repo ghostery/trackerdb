@@ -1,0 +1,14 @@
+name: IntelligenceFocus
+category: site_analytics
+website_url: http://www.intelligencefocus.com
+organization: intelligencefocus
+
+--- domains
+saas.intelligencefocus.com
+--- domains
+
+--- filters
+||saas.intelligencefocus.com/sensor/
+--- filters
+
+ghostery_id: 295

@@ -1,0 +1,14 @@
+name: Grabo Affiliate
+category: advertising
+website_url: http://grabo.bg/
+organization: grabo_media
+
+--- domains
+b.grabo.bg
+--- domains
+
+--- filters
+||b.grabo.bg^
+--- filters
+
+ghostery_id: 1765

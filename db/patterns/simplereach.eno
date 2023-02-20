@@ -1,0 +1,16 @@
+name: SimpleReach
+category: site_analytics
+website_url: https://www.nativo.com/simplereach
+organization: nativo
+
+--- domains
+d8rk54i4mohrb.cloudfront.net
+simplereach.com
+--- domains
+
+--- filters
+||d8rk54i4mohrb.cloudfront.net^
+||simplereach.com^
+--- filters
+
+ghostery_id: 1193

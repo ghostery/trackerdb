@@ -1,0 +1,14 @@
+name: Video Desk
+category: audio_video_player
+website_url: 
+organization: video_desk
+
+--- domains
+module-videodesk.com
+--- domains
+
+--- filters
+||module-videodesk.com/js/videodesk.js
+--- filters
+
+ghostery_id: 2408

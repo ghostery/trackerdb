@@ -1,0 +1,14 @@
+name: FeedPerfect
+category: advertising
+website_url: http://www.feedperfect.com/
+organization: feedperfect
+
+--- domains
+tracking.feedperfect.com
+--- domains
+
+--- filters
+||tracking.feedperfect.com^
+--- filters
+
+ghostery_id: 797

@@ -1,0 +1,14 @@
+name: Statcounter
+category: site_analytics
+website_url: http://www.statcounter.com/
+organization: statcounter
+
+--- domains
+statcounter.com
+--- domains
+
+--- filters
+||statcounter.com^
+--- filters
+
+ghostery_id: 22

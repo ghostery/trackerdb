@@ -1,0 +1,14 @@
+name: MaxPoint Interactive
+category: advertising
+website_url: http://www.maxpointinteractive.com/
+organization: maxpoint_interactive
+
+--- domains
+mxptint.net
+--- domains
+
+--- filters
+||mxptint.net^
+--- filters
+
+ghostery_id: 724

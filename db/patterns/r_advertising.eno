@@ -1,0 +1,14 @@
+name: R-Advertising
+category: advertising
+website_url: http://www.r-advertising.com/
+organization: r-advertising
+
+--- domains
+ads-digitalkeys.com
+--- domains
+
+--- filters
+||ads-digitalkeys.com^
+--- filters
+
+ghostery_id: 1805

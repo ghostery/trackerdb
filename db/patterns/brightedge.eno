@@ -1,0 +1,14 @@
+name: BrightEdge
+category: advertising
+website_url: http://www.brightedge.com/
+organization: brightedge
+
+--- domains
+analytics.brightedge.com
+--- domains
+
+--- filters
+||analytics.brightedge.com^
+--- filters
+
+ghostery_id: 1204

@@ -1,0 +1,14 @@
+name: MotionPoint
+category: site_analytics
+website_url: http://www.motionpoint.com/
+organization: motionpoint_corporation
+
+--- domains
+analytics.convertlanguage.com
+--- domains
+
+--- filters
+||analytics.convertlanguage.com^
+--- filters
+
+ghostery_id: 1562

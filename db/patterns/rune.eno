@@ -1,0 +1,14 @@
+name: Rune
+category: site_analytics
+website_url: 
+organization: rune_inc.
+
+--- domains
+cdn.secretrune.com
+--- domains
+
+--- filters
+||cdn.secretrune.com/rune.min.js
+--- filters
+
+ghostery_id: 2700

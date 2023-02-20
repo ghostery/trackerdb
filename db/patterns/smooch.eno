@@ -1,0 +1,14 @@
+name: Smooch
+category: customer_interaction
+website_url: 
+organization: smooch
+
+--- domains
+cdn.smooch.io
+--- domains
+
+--- filters
+||cdn.smooch.io/smooch.min.js
+--- filters
+
+ghostery_id: 2650

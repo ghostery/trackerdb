@@ -1,0 +1,14 @@
+name: Pubdirecte
+category: advertising
+website_url: http://www.pubdirecte.com/
+organization: pubdirecte
+
+--- domains
+pubdirecte.com
+--- domains
+
+--- filters
+||pubdirecte.com^
+--- filters
+
+ghostery_id: 1018

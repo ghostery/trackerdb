@@ -1,0 +1,17 @@
+name: emetriq
+category: advertising
+website_url: 
+organization: emetriq
+
+--- domains
+emetriq.de
+--- domains
+
+--- filters
+||cdn.emetriq.de/adp/profiling/0.1.13/p.min.js
+||dyn.emetriq.de/loader
+||dyn.emetriq.de/loader/86497/default.js
+||dyn.emetriq.de/loader/97578/default.js
+--- filters
+
+ghostery_id: 2300

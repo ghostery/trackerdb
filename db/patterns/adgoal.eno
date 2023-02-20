@@ -1,0 +1,16 @@
+name: adgoal
+category: advertising
+website_url: http://www.adgoal.de/
+organization: adgoal
+
+--- domains
+smartadcheck.de
+smartredirect.de
+--- domains
+
+--- filters
+||js.mamydirect.com/js
+||js.smartredirect.de/js/
+--- filters
+
+ghostery_id: 1186

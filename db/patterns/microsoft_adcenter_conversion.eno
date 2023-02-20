@@ -1,0 +1,11 @@
+name: Microsoft adCenter Conversion
+category: advertising
+website_url: https://adcenter.microsoft.com/
+organization: microsoft
+alias: msn
+
+--- filters
+||r.msn.com/scripts/microsoft_adcenterconversion.js
+--- filters
+
+ghostery_id: 356

@@ -1,0 +1,17 @@
+name: Brightcove
+category: audio_video_player
+website_url: http://www.brightcove.com/en/
+organization: brightcove
+
+--- domains
+brightcove.com
+--- domains
+
+--- filters
+||admin.brightcove.com/js
+||goku.brightcove.com^
+||metrics.brightcove.com^
+||sadmin.brightcove.com/js/brightcoveexperiences.js
+--- filters
+
+ghostery_id: 423

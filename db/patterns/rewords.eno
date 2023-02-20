@@ -1,0 +1,16 @@
+name: ReWords
+category: advertising
+website_url: http://www.rewords.pl/
+organization: rewords
+
+--- domains
+incontext.pl
+pl-engine.intextad.net
+--- domains
+
+--- filters
+||incontext.pl^
+||pl-engine.intextad.net^
+--- filters
+
+ghostery_id: 2173

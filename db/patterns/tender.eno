@@ -1,0 +1,14 @@
+name: Tender
+category: customer_interaction
+website_url: http://www.tenderapp.com/
+organization: tender
+
+--- domains
+tenderapp.com
+--- domains
+
+--- filters
+||tenderapp.com/tender_widget.js
+--- filters
+
+ghostery_id: 2127

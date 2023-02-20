@@ -1,0 +1,14 @@
+name: Datalicious SuperTag
+category: essential
+website_url: http://www.datalicious.com/
+organization: datalicious
+
+--- domains
+supert.ag
+--- domains
+
+--- filters
+||supert.ag^
+--- filters
+
+ghostery_id: 2050

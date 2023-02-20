@@ -1,0 +1,16 @@
+name: Marchex
+category: advertising
+website_url: http://www.industrybrains.com/
+organization: marchex
+
+--- domains
+px.marchex.io
+voicestar.com
+--- domains
+
+--- filters
+||px.marchex.io^
+||voicestar.com^
+--- filters
+
+ghostery_id: 314

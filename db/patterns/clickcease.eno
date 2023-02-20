@@ -1,0 +1,14 @@
+name: ClickCease
+category: customer_interaction
+website_url: 
+organization: click_cease
+
+--- domains
+clickcease.com
+--- domains
+
+--- filters
+||clickcease.com/monitor/stat.js
+--- filters
+
+ghostery_id: 3281

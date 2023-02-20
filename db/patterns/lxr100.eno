@@ -1,0 +1,15 @@
+name: LXR100
+category: advertising
+website_url: http://www.netelixir.com/lxr100_PPC_management_tool.html
+organization: netelixir
+
+--- domains
+adelixir.com
+--- domains
+
+--- filters
+||adelixir.com/neroitrack
+||adelixir.com/webpages/scripts/ne_roi_tracking.js
+--- filters
+
+ghostery_id: 335

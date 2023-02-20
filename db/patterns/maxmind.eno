@@ -1,0 +1,15 @@
+name: MaxMind
+category: advertising
+website_url: http://www.maxmind.com/
+organization: maxmind
+
+--- domains
+maxmind.com
+--- domains
+
+--- filters
+||j.maxmind.com/app/country.js
+||j.maxmind.com/app/geoip.js
+--- filters
+
+ghostery_id: 948

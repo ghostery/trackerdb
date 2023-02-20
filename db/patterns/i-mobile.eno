@@ -1,0 +1,14 @@
+name: i-mobile
+category: advertising
+website_url: https://www2.i-mobile.co.jp/en/index.aspx
+organization: i-mobile
+
+--- domains
+i-mobile.co.jp
+--- domains
+
+--- filters
+||i-mobile.co.jp^
+--- filters
+
+ghostery_id: 1769

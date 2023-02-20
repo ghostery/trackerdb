@@ -1,0 +1,16 @@
+name: LiveRe
+category: social_media
+website_url: http://www.livere.com/
+organization: livere
+
+--- domains
+livere.co.kr
+livere.co.kr.cizion.ixcloud.net
+--- domains
+
+--- filters
+||livere.co.kr.cizion.ixcloud.net^
+||livere.co.kr^
+--- filters
+
+ghostery_id: 2025

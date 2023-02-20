@@ -1,0 +1,14 @@
+name: Developer Media
+category: advertising
+website_url: http://www.developermedia.com/
+organization: developer_media
+
+--- domains
+developermedia.com
+--- domains
+
+--- filters
+||developermedia.com^
+--- filters
+
+ghostery_id: 1867

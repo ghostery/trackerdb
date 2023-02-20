@@ -1,0 +1,11 @@
+name: Bunchbox
+website_url: https://app.bunchbox.co/login
+privacy_policy_url: https://app.bunchbox.co/login
+privacy_contact: 
+country: 
+description: Bunchbox uses a JavaScript file on your website to do its work. Every account in Bunchbox has its own file. It contains the generic code that's the same for every account. And it also contains the information about experiments, variants, rules that is specific to the account.
+
+--- notes
+--- notes
+
+ghostery_id: 4095

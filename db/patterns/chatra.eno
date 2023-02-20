@@ -1,0 +1,14 @@
+name: Chatra
+category: customer_interaction
+website_url: 
+organization: chatra
+
+--- domains
+call.chatra.io
+--- domains
+
+--- filters
+||call.chatra.io/chatra.js
+--- filters
+
+ghostery_id: 3252

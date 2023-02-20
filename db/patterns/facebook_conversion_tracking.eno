@@ -1,0 +1,16 @@
+name: Facebook Conversion Tracking
+category: advertising
+website_url: http://www.facebook.com/
+organization: facebook
+alias: facebook
+
+--- filters
+||facebook.com/email_open_log_pic.php
+||facebook.com/js/conversions/tracking.js
+||facebook.com/offsite_event.php
+||facebook.com/v2.0/email_open_log_pic.php
+||facebook.com/v2.0/js/conversions/tracking.js
+||facebook.com/v2.0/offsite_event.php
+--- filters
+
+ghostery_id: 910

@@ -1,0 +1,14 @@
+name: Cygnus
+category: advertising
+website_url: http://www.cygnus.com/
+organization: cygnus
+
+--- domains
+cygnus.com
+--- domains
+
+--- filters
+||cygnus.com^
+--- filters
+
+ghostery_id: 2196

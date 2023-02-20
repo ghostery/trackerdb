@@ -1,0 +1,16 @@
+name: Kantar Media
+category: advertising
+website_url: https://www.kantarmedia.com/
+organization: wpp
+
+--- domains
+kmi-us.com
+tnsinternet.be
+--- domains
+
+--- filters
+||kmi-us.com^
+||tnsinternet.be^
+--- filters
+
+ghostery_id: 1767

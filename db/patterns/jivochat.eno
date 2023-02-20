@@ -1,0 +1,14 @@
+name: JivoSite
+category: customer_interaction
+website_url: https://www.jivochat.com/
+organization: jivochat
+
+--- domains
+jivosite.com
+--- domains
+
+--- filters
+||jivosite.com^
+--- filters
+
+ghostery_id: 1687

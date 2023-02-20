@@ -1,0 +1,14 @@
+name: Direct Keyword Link
+category: advertising
+website_url: http://www.keywordsconnect.com/
+organization: direct_keyword_link
+
+--- domains
+keywordsconnect.com
+--- domains
+
+--- filters
+||keywordsconnect.com^
+--- filters
+
+ghostery_id: 2019

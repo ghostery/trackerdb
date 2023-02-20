@@ -1,0 +1,14 @@
+name: COADVERTISE
+category: advertising
+website_url: http://www.coadvertise.com/
+organization: coadvertise
+
+--- domains
+acc-hd.de
+--- domains
+
+--- filters
+||acc-hd.de^
+--- filters
+
+ghostery_id: 1359

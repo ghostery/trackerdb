@@ -1,0 +1,14 @@
+name: Adjal
+category: advertising
+website_url: http://adjal.com/
+organization: marketing_adjal
+
+--- domains
+adjal.com
+--- domains
+
+--- filters
+||adjal.com^
+--- filters
+
+ghostery_id: 1756

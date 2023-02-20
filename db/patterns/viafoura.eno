@@ -1,0 +1,16 @@
+name: Viafoura
+category: advertising
+website_url: http://www.viafoura.com/
+organization: viafoura
+
+--- domains
+viafoura.com
+viafoura.net
+--- domains
+
+--- filters
+||viafoura.com/app/js/vf.js
+||viafoura.net/vf.js
+--- filters
+
+ghostery_id: 1869

@@ -1,0 +1,16 @@
+name: OxaMedia
+category: customer_interaction
+website_url: http://www.oxamedia.com/
+organization: oxamedia
+
+--- domains
+adconnexa.com
+adsbwm.com
+--- domains
+
+--- filters
+||adconnexa.com^
+||adsbwm.com^
+--- filters
+
+ghostery_id: 527

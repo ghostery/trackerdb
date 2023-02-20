@@ -1,0 +1,15 @@
+name: Persio
+category: advertising
+website_url: 
+organization: pers.io
+
+--- domains
+code.pers.io
+--- domains
+
+--- filters
+||code.pers.io/persio.js
+||ir1s.mobi^
+--- filters
+
+ghostery_id: 2440

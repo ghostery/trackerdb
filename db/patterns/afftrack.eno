@@ -1,0 +1,14 @@
+name: Afftrack
+category: site_analytics
+website_url: 
+organization: afftrack
+
+--- domains
+pml.afftrack.com
+--- domains
+
+--- filters
+||pml.afftrack.com/image
+--- filters
+
+ghostery_id: 2634

@@ -1,0 +1,20 @@
+name: Facilitate Digital
+category: advertising
+website_url: http://www.facilitatedigital.com/
+organization: adslot
+
+--- domains
+adsfac.eu
+adsfac.net
+adsfac.sg
+adsfac.us
+--- domains
+
+--- filters
+||adsfac.eu^
+||adsfac.net^
+||adsfac.sg^
+||adsfac.us^
+--- filters
+
+ghostery_id: 452

@@ -1,0 +1,14 @@
+name: myThings
+category: advertising
+website_url: http://www.mythings.com/
+organization: mythings
+
+--- domains
+mythings.com
+--- domains
+
+--- filters
+||mythings.com^
+--- filters
+
+ghostery_id: 524

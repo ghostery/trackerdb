@@ -1,0 +1,14 @@
+name: VerticalScope
+category: advertising
+website_url: http://www.verticalscope.com
+organization: verticalscope
+
+--- domains
+verticalscope.com
+--- domains
+
+--- filters
+||verticalscope.com^
+--- filters
+
+ghostery_id: 2120

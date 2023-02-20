@@ -1,0 +1,14 @@
+name: Katchup
+category: advertising
+website_url: 
+organization: katchup
+
+--- domains
+cen.katchup.fr
+--- domains
+
+--- filters
+||cen.katchup.fr^
+--- filters
+
+ghostery_id: 3014

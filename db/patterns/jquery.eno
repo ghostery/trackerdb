@@ -1,0 +1,11 @@
+name: jQuery
+category: cdn
+website_url: https://jquery.org/
+organization: js_foundation
+
+--- domains
+cdnjquery.com
+jquery.com
+--- domains
+
+ghostery_id: 3637

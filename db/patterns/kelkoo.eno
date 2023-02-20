@@ -1,0 +1,14 @@
+name: Kelkoo
+category: advertising
+website_url: http://www.kelkoo.com/
+organization: kelkoo
+
+--- domains
+widget.kelkoo.com
+--- domains
+
+--- filters
+||widget.kelkoo.com^
+--- filters
+
+ghostery_id: 2084

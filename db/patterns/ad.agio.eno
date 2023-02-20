@@ -1,0 +1,14 @@
+name: Ad.agio
+category: advertising
+website_url: http://neodatagroup.com/
+organization: neodata
+
+--- domains
+adagionet.com
+--- domains
+
+--- filters
+||adagionet.com^
+--- filters
+
+ghostery_id: 1323

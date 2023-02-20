@@ -1,0 +1,14 @@
+name: UserReplay
+category: site_analytics
+website_url: 
+organization: userreplay
+
+--- domains
+userreplay.net
+--- domains
+
+--- filters
+||userreplay.net^
+--- filters
+
+ghostery_id: 3162

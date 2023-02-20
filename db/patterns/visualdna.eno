@@ -1,0 +1,16 @@
+name: VisualDNA
+category: advertising
+website_url: http://www.visualdna.com/
+organization: nielsen
+
+--- domains
+vdna-assets.com
+visualdna.com
+--- domains
+
+--- filters
+||vdna-assets.com^
+||visualdna.com^
+--- filters
+
+ghostery_id: 293

@@ -1,0 +1,16 @@
+name: HTTPool
+category: advertising
+website_url: http://www.httpool.com/
+organization: httpool
+
+--- domains
+httpool.com
+toboads.com
+--- domains
+
+--- filters
+||httpool.com^
+||toboads.com^
+--- filters
+
+ghostery_id: 776

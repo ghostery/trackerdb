@@ -1,0 +1,16 @@
+name: Retention Science
+category: advertising
+website_url: 
+organization: retention_science
+
+--- domains
+d1stxfv94hrhia.cloudfront.net
+waves.retentionscience.com
+--- domains
+
+--- filters
+||d1stxfv94hrhia.cloudfront.net/waves/v2/w.js
+||waves.retentionscience.com/wave
+--- filters
+
+ghostery_id: 2397

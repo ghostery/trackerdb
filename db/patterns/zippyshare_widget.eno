@@ -1,0 +1,14 @@
+name: Zippyshare Widget
+category: customer_interaction
+website_url: http://www.zippyshare.com
+organization: zippyshare
+
+--- domains
+api.zippyshare.com
+--- domains
+
+--- filters
+||api.zippyshare.com/api/embed
+--- filters
+
+ghostery_id: 1040

@@ -1,0 +1,20 @@
+name: Taboola
+category: advertising
+website_url: http://www.taboola.com
+organization: taboola
+
+--- domains
+basebanner.com
+taboola.com
+taboolasyndication.com
+--- domains
+
+--- filters
+/taboola_newsroom_article.js
+||basebanner.com^
+||cmbestsrv.com^
+||taboola.com^
+||taboolasyndication.com^
+--- filters
+
+ghostery_id: 951

@@ -1,0 +1,14 @@
+name: Marin Search Marketer
+category: advertising
+website_url: http://www.marinsoftware.com/
+organization: marin_software
+
+--- domains
+marinsm.com
+--- domains
+
+--- filters
+||marinsm.com^
+--- filters
+
+ghostery_id: 239

@@ -1,0 +1,16 @@
+name: Cleversite
+category: customer_interaction
+website_url: 
+organization: cleversite
+
+--- domains
+cleversite.ru
+--- domains
+
+--- filters
+||cleversite.ru/cleversite/widget2/widget.php
+||cleversite.ru/cleversite/widget_new.php
+||cleversite.ru/widget.js
+--- filters
+
+ghostery_id: 2537

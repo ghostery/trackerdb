@@ -1,0 +1,16 @@
+name: Adobe Typekit
+category: essential
+website_url: https://www.adobe.com/
+organization: adobe
+
+--- domains
+typekit.com
+typekit.net
+--- domains
+
+--- filters
+||typekit.com^
+||typekit.net^
+--- filters
+
+ghostery_id: 1154

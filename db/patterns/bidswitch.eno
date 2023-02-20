@@ -1,0 +1,16 @@
+name: Bidswitch
+category: advertising
+website_url: 
+organization: iponweb
+
+--- domains
+bidswitch.net
+exe.bid
+--- domains
+
+--- filters
+||bidswitch.net^
+||sync-eu.exe.bid^
+--- filters
+
+ghostery_id: 2749

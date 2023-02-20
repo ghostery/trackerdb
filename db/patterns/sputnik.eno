@@ -1,0 +1,14 @@
+name: Sputnik
+category: site_analytics
+website_url: 
+organization: sputnik
+
+--- domains
+stat.sputnik.ru
+--- domains
+
+--- filters
+||stat.sputnik.ru/cnt.js
+--- filters
+
+ghostery_id: 2961

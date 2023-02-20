@@ -1,0 +1,14 @@
+name: Sociomantic
+category: advertising
+website_url: http://www.sociomantic.com/
+organization: sociomantic_labs_gmbh
+
+--- domains
+sociomantic.com
+--- domains
+
+--- filters
+||sociomantic.com^
+--- filters
+
+ghostery_id: 849

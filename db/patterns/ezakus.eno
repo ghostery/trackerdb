@@ -1,0 +1,14 @@
+name: Ezakus
+category: advertising
+website_url: http://www.ezakus.com/
+organization: np6
+
+--- domains
+ezakus.net
+--- domains
+
+--- filters
+||ezakus.net^
+--- filters
+
+ghostery_id: 1266

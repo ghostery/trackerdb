@@ -1,0 +1,14 @@
+name: Affinity
+category: advertising
+website_url: http://www.affinity.com/
+organization: affinity
+
+--- domains
+affinity.com
+--- domains
+
+--- filters
+||affinity.com^
+--- filters
+
+ghostery_id: 1173

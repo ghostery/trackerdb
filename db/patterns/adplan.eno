@@ -1,0 +1,18 @@
+name: AdPlan
+category: advertising
+website_url: http://www.adplan.ne.jp/
+organization: adplan
+
+--- domains
+adplan-ds.com
+advg.jp
+c.p-advg.com
+--- domains
+
+--- filters
+||adplan-ds.com^
+||advg.jp^
+||c.p-advg.com^
+--- filters
+
+ghostery_id: 679

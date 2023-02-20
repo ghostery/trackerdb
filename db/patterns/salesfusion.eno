@@ -1,0 +1,14 @@
+name: SalesFUSION
+category: advertising
+website_url: http://salesfusion.com/
+organization: salesfusion
+
+--- domains
+msgapp.com
+--- domains
+
+--- filters
+||msgapp.com^
+--- filters
+
+ghostery_id: 1128

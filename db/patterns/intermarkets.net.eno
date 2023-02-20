@@ -1,0 +1,14 @@
+name: Intermarkets
+category: advertising
+website_url: http://intermarkets.net/
+organization: intermarkets
+
+--- domains
+intermarkets.net
+--- domains
+
+--- filters
+||intermarkets.net^
+--- filters
+
+ghostery_id: 919

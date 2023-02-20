@@ -1,0 +1,15 @@
+name: RecoPick
+category: advertising
+website_url: 
+organization: recopick
+
+--- domains
+static.recopick.com
+--- domains
+
+--- filters
+||api.recopick.com/v1/logs/visit/
+||static.recopick.com/dist/production.min.js
+--- filters
+
+ghostery_id: 2371

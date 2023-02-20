@@ -1,0 +1,14 @@
+name: Flag Counter
+category: advertising
+website_url: http://flagcounter.com/
+organization: flag_counter
+
+--- domains
+flagcounter.com
+--- domains
+
+--- filters
+||flagcounter.com^
+--- filters
+
+ghostery_id: 1153

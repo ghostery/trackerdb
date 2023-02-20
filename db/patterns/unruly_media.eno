@@ -1,0 +1,14 @@
+name: Unruly Media
+category: advertising
+website_url: http://www.unrulymedia.com/
+organization: unruly
+
+--- domains
+unrulymedia.com
+--- domains
+
+--- filters
+||unrulymedia.com^
+--- filters
+
+ghostery_id: 1298

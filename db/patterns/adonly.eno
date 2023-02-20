@@ -1,0 +1,15 @@
+name: AdOnly
+category: advertising
+website_url: https://gloadmarket.com/
+organization: adonly
+
+--- domains
+t.adonly.com
+--- domains
+
+--- filters
+||gloadmarket.com^
+||t.adonly.com/core/tag.js
+--- filters
+
+ghostery_id: 1944

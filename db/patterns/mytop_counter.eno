@@ -1,0 +1,14 @@
+name: Mytop Counter
+category: social_media
+website_url: http://mytop-in.net/
+organization: mytop-in
+
+--- domains
+mystat-in.net
+--- domains
+
+--- filters
+||mystat-in.net^
+--- filters
+
+ghostery_id: 1328

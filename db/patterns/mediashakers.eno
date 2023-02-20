@@ -1,0 +1,14 @@
+name: MediaShakers
+category: advertising
+website_url: http://www.mediashakers.com/
+organization: mediashakers
+
+--- domains
+ad.media-servers.net
+--- domains
+
+--- filters
+||ad.media-servers.net^
+--- filters
+
+ghostery_id: 866

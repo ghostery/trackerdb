@@ -1,0 +1,15 @@
+name: Airbrake
+category: advertising
+website_url: https://airbrake.io/
+organization: airbrake
+
+--- domains
+airbrake.io
+--- domains
+
+--- filters
+||airbrake.io/api
+||cdnjs.cloudflare.com/ajax/libs/airbrake-js
+--- filters
+
+ghostery_id: 2380

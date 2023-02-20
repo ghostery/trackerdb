@@ -1,0 +1,14 @@
+name: Monsido
+category: site_analytics
+website_url: 
+organization: monsido
+
+--- domains
+cdn.monsido.com
+--- domains
+
+--- filters
+||cdn.monsido.com/tool/javascripts/monsido.js
+--- filters
+
+ghostery_id: 3276

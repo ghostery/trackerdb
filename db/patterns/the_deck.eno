@@ -1,0 +1,14 @@
+name: The DECK
+category: advertising
+website_url: http://decknetwork.net/
+organization: the_deck
+
+--- domains
+connect.decknetwork.net
+--- domains
+
+--- filters
+||connect.decknetwork.net^
+--- filters
+
+ghostery_id: 1399

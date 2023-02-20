@@ -1,0 +1,14 @@
+name: Twitter Syndication
+category: social_media
+website_url: https://twitter.com
+organization: twitter
+
+--- domains
+syndication.twitter.com
+--- domains
+
+--- filters
+||syndication.twitter.com^
+--- filters
+
+ghostery_id: 2337

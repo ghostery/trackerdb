@@ -1,0 +1,14 @@
+name: ConnectAd
+category: advertising
+website_url: 
+organization: connectad
+
+--- domains
+connected-by.connectad.io
+--- domains
+
+--- filters
+||connected-by.connectad.io/adview.php
+--- filters
+
+ghostery_id: 2934

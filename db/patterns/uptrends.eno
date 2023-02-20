@@ -1,0 +1,15 @@
+name: Uptrends
+category: site_analytics
+website_url: http://www.uptrends.com/
+organization: uptrends
+
+--- domains
+uptrends.com
+--- domains
+
+--- filters
+||uptrends.com/aspx/uptime.aspx
+||uptrends.com/images/uptrends.gif
+--- filters
+
+ghostery_id: 460

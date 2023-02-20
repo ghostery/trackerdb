@@ -1,0 +1,16 @@
+name: Vertoz
+category: advertising
+website_url: http://www.vertoz.com/
+organization: vertoz
+
+--- domains
+ads.vertoz.com
+banner.vrtzads.com
+--- domains
+
+--- filters
+||ads.vertoz.com/scripts/pageads.js
+||banner.vrtzads.com/scripts/pageads.js
+--- filters
+
+ghostery_id: 1945

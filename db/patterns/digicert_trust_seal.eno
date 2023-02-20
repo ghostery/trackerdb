@@ -1,0 +1,14 @@
+name: Digicert Trust Seal
+category: essential
+website_url: http://www.digicert.com/
+organization: digicert
+
+--- domains
+digicert.com
+--- domains
+
+--- filters
+||seal.digicert.com^
+--- filters
+
+ghostery_id: 2108

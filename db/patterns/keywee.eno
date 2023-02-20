@@ -1,0 +1,14 @@
+name: Keywee
+category: site_analytics
+website_url: https://keywee.co/
+organization: keywee
+
+--- domains
+keywee.co
+--- domains
+
+--- filters
+||dc8xl0ndzn2cb.cloudfront.net/js/*/v1/keywee.js^
+--- filters
+
+ghostery_id: 3124

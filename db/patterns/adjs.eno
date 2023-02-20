@@ -1,0 +1,15 @@
+name: ADJS
+category: advertising
+website_url: 
+organization: adjs
+
+--- domains
+cdn.adjs.net
+--- domains
+
+--- filters
+||api.adjs.net^
+||cdn.adjs.net^
+--- filters
+
+ghostery_id: 2405

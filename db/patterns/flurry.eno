@@ -1,0 +1,16 @@
+name: Flurry
+category: site_analytics
+website_url: http://www.flurry.com/
+organization: verizon
+
+--- domains
+cdn.flurry.com
+data.flurry.com
+--- domains
+
+--- filters
+||cdn.flurry.com/js/
+||data.flurry.com^
+--- filters
+
+ghostery_id: 1892

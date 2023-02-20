@@ -1,0 +1,14 @@
+name: ETP
+category: site_analytics
+website_url: 
+organization: etp
+
+--- domains
+sa.etp-prod.com
+--- domains
+
+--- filters
+||sa.etp-prod.com/analytics.js
+--- filters
+
+ghostery_id: 3278

@@ -1,0 +1,14 @@
+name: EngineSeeker
+category: advertising
+website_url: http://www.engineseeker.com/
+organization: engineseeker
+
+--- domains
+engineseeker.com
+--- domains
+
+--- filters
+||engineseeker.com^
+--- filters
+
+ghostery_id: 823

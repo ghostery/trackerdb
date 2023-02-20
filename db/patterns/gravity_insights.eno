@@ -1,0 +1,16 @@
+name: Gravity Insights
+category: site_analytics
+website_url: http://www.gravity.com/
+organization: verizon
+
+--- domains
+gravity.com
+grvcdn.com
+--- domains
+
+--- filters
+||gravity.com^
+||grvcdn.com^
+--- filters
+
+ghostery_id: 782

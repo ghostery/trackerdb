@@ -1,0 +1,14 @@
+name: Plista
+category: advertising
+website_url: http://www.plista.com
+organization: plista
+
+--- domains
+plista.com
+--- domains
+
+--- filters
+||plista.com^
+--- filters
+
+ghostery_id: 710

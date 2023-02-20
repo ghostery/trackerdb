@@ -1,0 +1,14 @@
+name: VisualVisitor
+category: site_analytics
+website_url: http://www.visualvisitor.com/
+organization: visualvisitor
+
+--- domains
+id-visitors.com
+--- domains
+
+--- filters
+||id-visitors.com^
+--- filters
+
+ghostery_id: 2060

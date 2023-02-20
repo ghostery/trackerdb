@@ -1,0 +1,14 @@
+name: SphereMall
+category: site_analytics
+website_url: 
+organization: spheremall
+
+--- domains
+api.spheremall.com
+--- domains
+
+--- filters
+||api.spheremall.com/analytics/v1/collect
+--- filters
+
+ghostery_id: 3236

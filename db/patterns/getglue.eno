@@ -1,0 +1,14 @@
+name: GetGlue
+category: audio_video_player
+website_url: http://getglue.com
+organization: telfie
+
+--- domains
+widgets.getglue.com
+--- domains
+
+--- filters
+||widgets.getglue.com^
+--- filters
+
+ghostery_id: 1104

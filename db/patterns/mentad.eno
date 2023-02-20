@@ -1,0 +1,14 @@
+name: MentAd
+category: advertising
+website_url: http://www.mentad.com/
+organization: mentad
+
+--- domains
+mentad.com
+--- domains
+
+--- filters
+||mentad.com^
+--- filters
+
+ghostery_id: 1881

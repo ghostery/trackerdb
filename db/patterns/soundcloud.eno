@@ -1,0 +1,15 @@
+name: SoundCloud
+category: audio_video_player
+website_url: http://soundcloud.com/
+organization: soundcloud
+
+--- domains
+sndcdn.com
+soundcloud.com
+--- domains
+
+--- filters
+||w.soundcloud.com/player
+--- filters
+
+ghostery_id: 1068

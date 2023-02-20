@@ -1,0 +1,20 @@
+name: 1tag
+category: site_analytics
+website_url: 
+organization: dentsu_aegis_network
+
+--- domains
+tm.dentsu.de
+--- domains
+
+--- filters
+||data.dentsu.de^
+||ic.dentsu.de^
+||imp.dentsu.de^
+||tm.dentsu.de/1tag-cmp-template/prod/utag.js
+||tm.dentsu.de/iframe-00-template-v1/prod/utag.js
+||tm.dentsu.de^
+||visitor.dentsu.de^
+--- filters
+
+ghostery_id: 3285

@@ -1,0 +1,15 @@
+name: AdEngage
+category: advertising
+website_url: http://www.adengage.com
+organization: synacor
+
+--- domains
+adengage.com
+--- domains
+
+--- filters
+||adcode.adengage.com^
+||conv.adengage.com^
+--- filters
+
+ghostery_id: 410

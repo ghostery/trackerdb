@@ -1,0 +1,14 @@
+name: Deluxe
+category: site_analytics
+website_url: 
+organization: deluxe
+
+--- domains
+deluxe.script.ag
+--- domains
+
+--- filters
+||deluxe.script.ag/tag.js
+--- filters
+
+ghostery_id: 3224

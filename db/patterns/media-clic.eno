@@ -1,0 +1,14 @@
+name: Media-clic
+category: advertising
+website_url: http://www.media-clic.com/
+organization: media-click
+
+--- domains
+media-clic.com
+--- domains
+
+--- filters
+||media-clic.com^
+--- filters
+
+ghostery_id: 1830

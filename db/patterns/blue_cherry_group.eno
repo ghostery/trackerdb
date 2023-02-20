@@ -1,0 +1,14 @@
+name: Blue Cherry Group
+category: advertising
+website_url: http://www.bluecherrygroup.com
+organization: blue_cherry_group
+
+--- domains
+offerpoint.net
+--- domains
+
+--- filters
+||offerpoint.net^
+--- filters
+
+ghostery_id: 1606

@@ -1,0 +1,16 @@
+name: Yahoo! Overture
+category: advertising
+website_url: http://searchmarketing.yahoo.com
+organization: verizon
+
+--- domains
+ov.yahoo.co.jp
+overture.com
+--- domains
+
+--- filters
+||ov.yahoo.co.jp^
+||overture.com^
+--- filters
+
+ghostery_id: 91

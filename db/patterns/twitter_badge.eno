@@ -1,0 +1,17 @@
+name: Twitter Badge
+category: social_media
+website_url: http://twitter.com/widgets
+organization: twitter
+alias: twitter
+
+--- filters
+||twitter.com/javascripts/*.js^
+||twitter.com/1/statuses/followers.json
+||twitter.com/1/statuses/user_timeline.json
+||twitter.com/1/urls/count.json
+||twitter.com/1/users/show.json
+||twitter.com/statuses/user_timeline/
+||widgets.twimg.com/j/
+--- filters
+
+ghostery_id: 8

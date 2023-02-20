@@ -1,0 +1,14 @@
+name: Scarab Research
+category: advertising
+website_url: https://www.scarabresearch.com/
+organization: emarsys
+
+--- domains
+scarabresearch.com
+--- domains
+
+--- filters
+||recommender.scarabresearch.com/merchants/
+--- filters
+
+ghostery_id: 3206

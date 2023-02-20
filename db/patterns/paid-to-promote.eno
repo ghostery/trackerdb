@@ -1,0 +1,20 @@
+name: Paid-To-Promote
+category: advertising
+website_url: http://www.paid-to-promote.net/
+organization: paid-to-promote
+
+--- domains
+777seo.com
+paid-to-promote.net
+ptp22.com
+ptp33.com
+--- domains
+
+--- filters
+||777seo.com^
+||paid-to-promote.net/images/ptp.gif
+||ptp22.com^
+||ptp33.com^
+--- filters
+
+ghostery_id: 578

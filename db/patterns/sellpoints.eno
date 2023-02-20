@@ -1,0 +1,15 @@
+name: Sellpoints
+category: advertising
+website_url: https://www.sellpoints.com/
+organization: sellpoints
+
+--- domains
+sellpoint.net
+sellpoints.com
+--- domains
+
+--- filters
+||sb.sellpoint.net^
+--- filters
+
+ghostery_id: 1674

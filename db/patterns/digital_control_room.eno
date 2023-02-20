@@ -1,0 +1,14 @@
+name: Digital Control Room
+category: essential
+website_url: http://www.cookiereports.com/
+organization: digital_control_room
+
+--- domains
+cookiereports.com
+--- domains
+
+--- filters
+||cookiereports.com^
+--- filters
+
+ghostery_id: 1536

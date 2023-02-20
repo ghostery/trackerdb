@@ -1,0 +1,16 @@
+name: Red Ventures
+category: site_analytics
+website_url: 
+organization: red_ventures
+
+--- domains
+analytics.cohesionapps.com
+cdn.cohesionapps.com
+--- domains
+
+--- filters
+||analytics.cohesionapps.com^
+||cdn.cohesionapps.com/cohesion/cohesion-latest.min.js
+--- filters
+
+ghostery_id: 3144

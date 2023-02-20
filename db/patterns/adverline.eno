@@ -1,0 +1,19 @@
+name: Adverline
+category: advertising
+website_url: http://www.adverline.com/
+organization: adverline
+
+--- domains
+adnext.fr
+adverline.com
+surinter.net
+--- domains
+
+--- filters
+||adnext.fr^
+||ads.adverline.com^
+||ads2.adverline.com^
+||surinter.net^
+--- filters
+
+ghostery_id: 821

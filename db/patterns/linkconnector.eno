@@ -1,0 +1,14 @@
+name: LinkConnector
+category: advertising
+website_url: http://www.linkconnector.com
+organization: linkconnector
+
+--- domains
+linkconnector.com
+--- domains
+
+--- filters
+||linkconnector.com^
+--- filters
+
+ghostery_id: 646

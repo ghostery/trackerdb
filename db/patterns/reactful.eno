@@ -1,0 +1,14 @@
+name: Reactful
+category: advertising
+website_url: http://www.reactful.com/
+organization: reactful
+
+--- domains
+plugin.reactful.com
+--- domains
+
+--- filters
+||plugin.reactful.com^
+--- filters
+
+ghostery_id: 1829

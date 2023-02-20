@@ -1,0 +1,14 @@
+name: CommuniGator
+category: site_analytics
+website_url: http://www.wowanalytics.co.uk/
+organization: communigator
+
+--- domains
+wowanalytics.co.uk
+--- domains
+
+--- filters
+||wowanalytics.co.uk^
+--- filters
+
+ghostery_id: 836

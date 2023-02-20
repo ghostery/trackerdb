@@ -1,0 +1,15 @@
+name: Synacor
+category: advertising
+website_url: https://www.synacor.com/
+organization: synacor
+
+--- domains
+technorati.com
+technoratimedia.com
+--- domains
+
+--- filters
+||technorati.com^
+--- filters
+
+ghostery_id: 82

@@ -1,0 +1,14 @@
+name: Nuffnang
+category: advertising
+website_url: http://nuffnang.com/
+organization: nuffnang
+
+--- domains
+nuffnang.com
+--- domains
+
+--- filters
+||nuffnang.com^
+--- filters
+
+ghostery_id: 659

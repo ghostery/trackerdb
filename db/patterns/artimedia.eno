@@ -1,0 +1,14 @@
+name: Artimedia
+category: advertising
+website_url: 
+organization: artimedia
+
+--- domains
+banners.advsnx.net
+--- domains
+
+--- filters
+||banners.advsnx.net^
+--- filters
+
+ghostery_id: 2753

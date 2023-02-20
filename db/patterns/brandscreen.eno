@@ -1,0 +1,14 @@
+name: Brandscreen
+category: advertising
+website_url: http://www.brandscreen.com/
+organization: zenovia
+
+--- domains
+rtbidder.net
+--- domains
+
+--- filters
+||rtbidder.net^
+--- filters
+
+ghostery_id: 1172

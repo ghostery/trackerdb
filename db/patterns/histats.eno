@@ -1,0 +1,14 @@
+name: Histats
+category: advertising
+website_url: http://www.histats.com/
+organization: histats
+
+--- domains
+histats.com
+--- domains
+
+--- filters
+||histats.com^
+--- filters
+
+ghostery_id: 251

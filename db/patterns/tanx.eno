@@ -1,0 +1,14 @@
+name: Tanx
+category: advertising
+website_url: http://tanx.com/
+organization: tanx
+
+--- domains
+tanx.com
+--- domains
+
+--- filters
+||tanx.com^
+--- filters
+
+ghostery_id: 1243

@@ -1,0 +1,16 @@
+name: ExitJunction
+category: advertising
+website_url: https://secure.exitjunction.com
+organization: exitjunction
+
+--- domains
+dynamicoxygen.com
+exitjunction.com
+--- domains
+
+--- filters
+||dynamicoxygen.com^
+||exitjunction.com^
+--- filters
+
+ghostery_id: 650

@@ -1,0 +1,15 @@
+name: Squadata
+category: advertising
+website_url: http://www.email-match.net/
+organization: squadata
+
+--- domains
+email-match.com
+--- domains
+
+--- filters
+||asset.email-match.com^
+||atout.email-match.com^
+--- filters
+
+ghostery_id: 2145

@@ -1,0 +1,14 @@
+name: DynAd
+category: advertising
+website_url: http://dynad.net/
+organization: dynad
+
+--- domains
+dynad.net
+--- domains
+
+--- filters
+||dynad.net^
+--- filters
+
+ghostery_id: 1776

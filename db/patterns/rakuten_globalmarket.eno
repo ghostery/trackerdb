@@ -1,0 +1,16 @@
+name: Rakuten
+category: advertising
+website_url: https://www.rakuten.co.jp/
+organization: rakuten
+
+--- domains
+rakuten.co.jp
+trafficgate.net
+--- domains
+
+--- filters
+||log.affiliate.rakuten.co.jp/mw/imp/a.gif
+||trafficgate.net^
+--- filters
+
+ghostery_id: 1645

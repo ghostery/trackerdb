@@ -1,0 +1,16 @@
+name: Wiget Media
+category: advertising
+website_url: http://wigetmedia.com
+organization: wiget_media
+
+--- domains
+3c45d848d99.se
+wigetmedia.com
+--- domains
+
+--- filters
+||3c45d848d99.se^
+||wigetmedia.com^
+--- filters
+
+ghostery_id: 1037

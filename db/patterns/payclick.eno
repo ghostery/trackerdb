@@ -1,0 +1,14 @@
+name: PayClick
+category: advertising
+website_url: http://payclick.it/
+organization: payclick
+
+--- domains
+payclick.it
+--- domains
+
+--- filters
+||payclick.it^
+--- filters
+
+ghostery_id: 1016

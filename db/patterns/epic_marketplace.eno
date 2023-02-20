@@ -1,0 +1,14 @@
+name: Epic Marketplace
+category: advertising
+website_url: http://www.trafficmarketplace.com/
+organization: epic_advertising
+
+--- domains
+trafficmp.com
+--- domains
+
+--- filters
+||trafficmp.com^
+--- filters
+
+ghostery_id: 176

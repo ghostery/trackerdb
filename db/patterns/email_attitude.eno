@@ -1,0 +1,14 @@
+name: Email Attitude
+category: advertising
+website_url: http://us.email-attitude.com/Default.aspx
+organization: 1000mercis
+
+--- domains
+tag.email-attitude.com
+--- domains
+
+--- filters
+||tag.email-attitude.com^
+--- filters
+
+ghostery_id: 1454

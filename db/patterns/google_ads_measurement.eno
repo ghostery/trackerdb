@@ -1,0 +1,11 @@
+name: Google Ads Measurement
+category: advertising
+website_url: 
+organization: google
+alias: google
+
+--- filters
+||google.com/ads/measurement/l
+--- filters
+
+ghostery_id: 3096

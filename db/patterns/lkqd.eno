@@ -1,0 +1,16 @@
+name: LKQD
+category: advertising
+website_url: http://www.lkqd.com/
+organization: nexstar
+
+--- domains
+lkqd.net
+--- domains
+
+--- filters
+||ad.lkqd.net/vpaid/vpaid.js
+||ad.lkqd.net^
+||v.lkqd.net/ad
+--- filters
+
+ghostery_id: 2833

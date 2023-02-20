@@ -1,0 +1,16 @@
+name: C3 Metrics
+category: site_analytics
+website_url: http://c3metrics.com/
+organization: c3_metrics
+
+--- domains
+c3metrics.com
+c3tag.com
+--- domains
+
+--- filters
+||c3metrics.com^
+||c3tag.com^
+--- filters
+
+ghostery_id: 485

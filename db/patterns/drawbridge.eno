@@ -1,0 +1,14 @@
+name: Drawbridge
+category: advertising
+website_url: http://www.drawbrid.ge/
+organization: drawbridge
+
+--- domains
+adsymptotic.com
+--- domains
+
+--- filters
+||adsymptotic.com^
+--- filters
+
+ghostery_id: 1291

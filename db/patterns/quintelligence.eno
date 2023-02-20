@@ -1,0 +1,14 @@
+name: Quintelligence
+category: site_analytics
+website_url: http://www.quintelligence.com/
+organization: quintelligence
+
+--- domains
+quintelligence.com
+--- domains
+
+--- filters
+||quintelligence.com^
+--- filters
+
+ghostery_id: 266

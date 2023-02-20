@@ -1,0 +1,32 @@
+name: Amazon Associates
+category: advertising
+website_url: http://aws.amazon.com/associates/
+organization: amazon_associates
+
+--- domains
+assoc-amazon.ca
+assoc-amazon.co.uk
+assoc-amazon.com
+assoc-amazon.de
+assoc-amazon.fr
+assoc-amazon.jp
+--- domains
+
+--- filters
+||assoc-amazon.ca^
+||assoc-amazon.co.uk^
+||assoc-amazon.com^
+||assoc-amazon.de^
+||assoc-amazon.fr^
+||assoc-amazon.jp^
+||rcm-ca.amazon.ca/e/cm
+||rcm-de.amazon.de/e/cm
+||rcm-es.amazon.es/e/cm
+||rcm-fr.amazon.fr/e/cm
+||rcm-it.amazon.it/e/cm
+||rcm-jp.amazon.co.jp/e/cm
+||rcm-uk.amazon.co.uk/e/cm
+||rcm.amazon.com/e/cm
+--- filters
+
+ghostery_id: 33

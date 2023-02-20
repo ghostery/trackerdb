@@ -1,0 +1,14 @@
+name: AdFalcon
+category: advertising
+website_url: http://www.adfalcon.com/
+organization: adfalcon
+
+--- domains
+adfalcon.com
+--- domains
+
+--- filters
+||adfalcon.com^
+--- filters
+
+ghostery_id: 1432

@@ -1,0 +1,16 @@
+name: Redux Media
+category: advertising
+website_url: http://reduxmedia.com/
+organization: redux_media
+
+--- domains
+reduxmedia.com
+reduxmediagroup.com
+--- domains
+
+--- filters
+||reduxmedia.com^
+||reduxmediagroup.com^
+--- filters
+
+ghostery_id: 430

@@ -1,0 +1,16 @@
+name: SALESmanago
+category: site_analytics
+website_url: 
+organization: sales_manago
+
+--- domains
+salesmanago.com
+salesmanago.pl
+--- domains
+
+--- filters
+||files.salesmanago.pl/mainPageAssets/blockadblock.js
+||salesmanago.pl/static/sm.js
+--- filters
+
+ghostery_id: 2403

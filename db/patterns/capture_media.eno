@@ -1,0 +1,14 @@
+name: Capture Media
+category: advertising
+website_url: 
+organization: capture_media
+
+--- domains
+edge.capturemedia.network
+--- domains
+
+--- filters
+||edge.capturemedia.network/sess.js
+--- filters
+
+ghostery_id: 3212

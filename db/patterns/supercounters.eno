@@ -1,0 +1,14 @@
+name: SuperCounters
+category: site_analytics
+website_url: http://www.supercounters.com/
+organization: supercounters
+
+--- domains
+supercounters.com
+--- domains
+
+--- filters
+||supercounters.com^
+--- filters
+
+ghostery_id: 1201

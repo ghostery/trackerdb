@@ -1,0 +1,14 @@
+name: Dogannet
+category: advertising
+website_url: 
+organization: dogannet
+
+--- domains
+s.dogannet.tv
+--- domains
+
+--- filters
+||s.dogannet.tv/q/s/stats/init.min.js
+--- filters
+
+ghostery_id: 2791

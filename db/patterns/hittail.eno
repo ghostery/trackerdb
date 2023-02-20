@@ -1,0 +1,14 @@
+name: HitTail
+category: advertising
+website_url: http://www.hittail.com/
+organization: hittail
+
+--- domains
+hittail.com
+--- domains
+
+--- filters
+||hittail.com/mlt.js
+--- filters
+
+ghostery_id: 38

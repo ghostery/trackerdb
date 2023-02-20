@@ -1,0 +1,24 @@
+name: Evidon
+category: essential
+website_url: https://www.evidon.com/
+organization: crownpeak
+
+--- domains
+betrad.com
+evidon.com
+--- domains
+
+--- filters
+||c.betrad.com/geo
+||c.betrad.com/icon/b
+||c.betrad.com/icon/c
+||c.betrad.com/icong
+||c.betrad.com/pub
+||c.betrad.com/sitenotice/
+||c.evidon.com/geo
+||c.evidon.com/sitenotice/
+||info.evidon.com/assets/site
+||l.evidon.com/site/
+--- filters
+
+ghostery_id: 3535

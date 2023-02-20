@@ -1,0 +1,14 @@
+name: Pixalate
+category: advertising
+website_url: 
+organization: pixalate
+
+--- domains
+adrta.com
+--- domains
+
+--- filters
+||adrta.com^
+--- filters
+
+ghostery_id: 2368

@@ -1,0 +1,14 @@
+name: AdClickMedia
+category: advertising
+website_url: http://www.adclickmedia.com/
+organization: adclickmedia
+
+--- domains
+adclickmedia.com
+--- domains
+
+--- filters
+||adclickmedia.com^
+--- filters
+
+ghostery_id: 788

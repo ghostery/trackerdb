@@ -1,0 +1,14 @@
+name: GoDaddy Site Seal
+category: essential
+website_url: http://www.godaddy.com/
+organization: godaddy
+
+--- domains
+seal.godaddy.com
+--- domains
+
+--- filters
+||seal.godaddy.com^
+--- filters
+
+ghostery_id: 2110

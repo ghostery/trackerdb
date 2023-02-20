@@ -1,0 +1,17 @@
+name: Alexa Metrics
+category: site_analytics
+website_url: http://www.alexa.com/
+organization: amazon_associates
+
+--- domains
+alexametrics.com
+d31qbv1cthcecs.cloudfront.net
+d5nxst8fruw4z.cloudfront.net
+--- domains
+
+--- filters
+||d31qbv1cthcecs.cloudfront.net/atrk.js
+||d5nxst8fruw4z.cloudfront.net/atrk.gif
+--- filters
+
+ghostery_id: 212

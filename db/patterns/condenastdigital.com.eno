@@ -1,0 +1,17 @@
+name: Condé Nast Digital
+category: misc
+website_url: http://www.condenast.com/
+organization: conde_nast
+
+--- domains
+condenast.com
+--- domains
+
+--- filters
+||4d.condenastdigital.com/user
+||capture.condenastdigital.com/track
+||pixel.condenastdigital.com/match
+||pixel.condenastdigital.com/sparrow.min.js
+--- filters
+
+ghostery_id: 2573

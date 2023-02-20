@@ -1,0 +1,14 @@
+name: AdNexio
+category: advertising
+website_url: 
+organization: adnexio
+
+--- domains
+adserver.adnexio.com
+--- domains
+
+--- filters
+||adserver.adnexio.com/tracking/eventhandler
+--- filters
+
+ghostery_id: 2655

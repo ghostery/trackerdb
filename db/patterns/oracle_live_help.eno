@@ -1,0 +1,17 @@
+name: Oracle Live Help
+category: customer_interaction
+website_url: http://www.oracle.com/us/products/applications/atg/live-help-on-demand/index.html
+organization: oracle
+
+--- domains
+instantservice.com
+ts.istrack.com
+--- domains
+
+--- filters
+/instantinvite3.js
+||instantservice.com^
+||ts.istrack.com^
+--- filters
+
+ghostery_id: 806

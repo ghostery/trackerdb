@@ -1,0 +1,14 @@
+name: Simpli.fi
+category: advertising
+website_url: http://www.simpli.fi
+organization: simpli.fi
+
+--- domains
+simpli.fi
+--- domains
+
+--- filters
+||simpli.fi^
+--- filters
+
+ghostery_id: 486

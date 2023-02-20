@@ -1,0 +1,14 @@
+name: Usabilla
+category: customer_interaction
+website_url: https://usabilla.com/
+organization: usabilla
+
+--- domains
+usabilla.com
+--- domains
+
+--- filters
+||w.usabilla.com^
+--- filters
+
+ghostery_id: 1766

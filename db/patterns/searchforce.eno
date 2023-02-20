@@ -1,0 +1,14 @@
+name: SearchForce
+category: advertising
+website_url: http://www.searchforce.com/
+organization: searchforce
+
+--- domains
+searchforce.net
+--- domains
+
+--- filters
+||searchforce.net^
+--- filters
+
+ghostery_id: 221

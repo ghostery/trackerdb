@@ -1,0 +1,14 @@
+name: VPSCash
+category: advertising
+website_url: 
+organization: vps_cash
+
+--- domains
+tools.vpscash.nl
+--- domains
+
+--- filters
+||tools.vpscash.nl/webcams/promo/
+--- filters
+
+ghostery_id: 2800

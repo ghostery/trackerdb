@@ -1,0 +1,16 @@
+name: FlexOffers
+category: advertising
+website_url: http://www.flexoffers.com/
+organization: flexoffers.com
+
+--- domains
+flexlinks.com
+linkoffers.net
+--- domains
+
+--- filters
+||flexlinks.com^
+||linkoffers.net^
+--- filters
+
+ghostery_id: 2043

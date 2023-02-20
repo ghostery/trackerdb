@@ -1,0 +1,28 @@
+name: Webtrekk
+category: site_analytics
+website_url: http://www.webtrekk.com/
+organization: webtrekk
+
+--- domains
+d1r27qvpjiaqj3.cloudfront.net
+mateti.net
+wbtrk.net
+wcfbc.net
+webtrekk-asia.net
+webtrekk.com
+webtrekk.de
+webtrekk.net
+wt-eu02.net
+wt-safetag.com
+--- domains
+
+--- filters
+/webtrekk*.js^
+||cdn.wbtrk.net/js/geid.min.js
+||responder.wt-safetag.com^
+||webtrekk-asia.net^
+||webtrekk.de/^
+||webtrekk.net^
+--- filters
+
+ghostery_id: 269

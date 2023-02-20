@@ -1,0 +1,14 @@
+name: Retargeting.cl
+category: advertising
+website_url: 
+organization: retargeting
+
+--- domains
+retargeting.cl
+--- domains
+
+--- filters
+||retargeting.cl/pixel
+--- filters
+
+ghostery_id: 2614

@@ -1,0 +1,16 @@
+name: Complex Media
+category: advertising
+website_url: https://www.complex.com/
+organization: verizon
+
+--- domains
+complex.com
+complexmedianetwork.com
+--- domains
+
+--- filters
+||complex.com^
+||complexmedianetwork.com^
+--- filters
+
+ghostery_id: 635

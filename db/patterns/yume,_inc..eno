@@ -1,0 +1,14 @@
+name: YuMe, Inc.
+category: advertising
+website_url: http://www.yume.com/
+organization: yume
+
+--- domains
+yumenetworks.com
+--- domains
+
+--- filters
+||yumenetworks.com/dynamic
+--- filters
+
+ghostery_id: 488

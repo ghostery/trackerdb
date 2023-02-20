@@ -1,0 +1,19 @@
+name: Eloqua
+category: advertising
+website_url: http://www.eloqua.com/
+organization: oracle
+
+--- domains
+eloqua.com
+en25.com
+--- domains
+
+--- filters
+/elqcfg.js
+/elqcfgxml.js
+/elqimg.js
+||eloqua.com^
+||en25.com^
+--- filters
+
+ghostery_id: 166

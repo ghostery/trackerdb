@@ -1,0 +1,16 @@
+name: RUN
+category: advertising
+website_url: http://www.rundsp.com/
+organization: run
+
+--- domains
+runadtag.com
+rundsp.com
+--- domains
+
+--- filters
+||match.rundsp.com^
+||runadtag.com^
+--- filters
+
+ghostery_id: 1947

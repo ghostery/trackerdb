@@ -1,0 +1,14 @@
+name: Spot.IM
+category: social_media
+website_url: https://www.spot.im/
+organization: spot.im
+
+--- domains
+spot.im
+--- domains
+
+--- filters
+||spot.im^
+--- filters
+
+ghostery_id: 2194

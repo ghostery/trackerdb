@@ -1,0 +1,14 @@
+name: Trustpilot
+category: customer_interaction
+website_url: 
+organization: trustpilot
+
+--- domains
+trustpilot.com
+--- domains
+
+--- filters
+||invitejs.trustpilot.com/tp.min.js
+--- filters
+
+ghostery_id: 2280

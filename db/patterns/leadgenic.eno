@@ -1,0 +1,14 @@
+name: LeadGENIC
+category: advertising
+website_url: 
+organization: leadgenic
+
+--- domains
+gate.leadgenic.com
+--- domains
+
+--- filters
+||gate.leadgenic.com/getscript
+--- filters
+
+ghostery_id: 2539

@@ -1,0 +1,14 @@
+name: Onefeed
+category: site_analytics
+website_url: http://www.onefeed.co.uk
+organization: onefeed
+
+--- domains
+tracking.onefeed.co.uk
+--- domains
+
+--- filters
+||tracking.onefeed.co.uk^
+--- filters
+
+ghostery_id: 1560

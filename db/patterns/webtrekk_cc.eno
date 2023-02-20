@@ -1,0 +1,11 @@
+name: Webtrek Control Cookie
+category: site_analytics
+website_url: 
+organization: webtrekk
+alias: webtrekk
+
+--- filters
+||geid.wbtrk.net/cc
+--- filters
+
+ghostery_id: 2971

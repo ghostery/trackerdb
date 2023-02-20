@@ -1,0 +1,14 @@
+name: Psyma
+category: advertising
+website_url: http://www.psyma.com/
+organization: psyma
+
+--- domains
+psyma.com
+--- domains
+
+--- filters
+||psyma.com^
+--- filters
+
+ghostery_id: 1850

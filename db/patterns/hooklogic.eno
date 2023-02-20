@@ -1,0 +1,14 @@
+name: HookLogic
+category: advertising
+website_url: http://hooklogic.com/
+organization: criteo
+
+--- domains
+hlserve.com
+--- domains
+
+--- filters
+||hlserve.com^
+--- filters
+
+ghostery_id: 1054

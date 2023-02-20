@@ -1,0 +1,16 @@
+name: InfoLinks
+category: advertising
+website_url: http://www.infolinks.com/
+organization: infolinks
+
+--- domains
+infolinks.com
+intextscript.com
+--- domains
+
+--- filters
+||resources.infolinks.com/js/infolinks_main.js
+||resources.intextscript.com/js/main_intext.js
+--- filters
+
+ghostery_id: 66

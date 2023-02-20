@@ -1,0 +1,14 @@
+name: AdBox
+category: advertising
+website_url: http://www.adbox.lv/
+organization: adbox
+
+--- domains
+adbox.lv
+--- domains
+
+--- filters
+||adbox.lv^
+--- filters
+
+ghostery_id: 2205

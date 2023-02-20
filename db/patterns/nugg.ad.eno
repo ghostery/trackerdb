@@ -1,0 +1,14 @@
+name: Nugg.Ad
+category: advertising
+website_url: http://www.nugg.ad/
+organization: nugg.ad
+
+--- domains
+nuggad.net
+--- domains
+
+--- filters
+||nuggad.net^
+--- filters
+
+ghostery_id: 30

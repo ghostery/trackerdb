@@ -1,0 +1,14 @@
+name: Pushbullet
+category: customer_interaction
+website_url: 
+organization: pushbullet
+
+--- domains
+zebra.pushbullet.com
+--- domains
+
+--- filters
+||zebra.pushbullet.com^
+--- filters
+
+ghostery_id: 2225

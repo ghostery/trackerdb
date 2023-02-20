@@ -1,0 +1,17 @@
+name: WiredMinds
+category: site_analytics
+website_url: http://www.wiredminds.de/
+organization: wiredminds
+
+--- domains
+leadlab.click
+wiredminds.com
+wiredminds.de
+--- domains
+
+--- filters
+||c.leadlab.click^
+||wiredminds.de/track
+--- filters
+
+ghostery_id: 510

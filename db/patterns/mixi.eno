@@ -1,0 +1,17 @@
+name: mixi
+category: social_media
+website_url: http://mixi.jp/
+organization: mixi
+
+--- domains
+mixi.jp
+--- domains
+
+--- filters
+||mixi.jp/js/plugins.js
+||mixi.jp/js/share.js
+||mixi.jp/share
+||plugins.mixi.jp^
+--- filters
+
+ghostery_id: 2042

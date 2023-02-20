@@ -1,0 +1,28 @@
+name: RevenueHits
+category: advertising
+website_url: http://www.revenuehits.com/
+organization: revenuehits
+
+--- domains
+clkads.com
+clkmon.com
+clkrev.com
+clksite.com
+eclkspbn.com
+imageshack.host
+--- domains
+
+--- filters
+||Rdsa2013.com^
+||cdn1.srv.revdepo.com/script/
+||cdn1.tags1.revdepo.com/banners/bounce/bounce-tag_1.0.22.js
+||cdn1.tags1.revdepo.com/banners/script/bnr-tag_1.0.9.js
+||cdn1.tags1.revdepo.com/banners/script/bnrcore_1.0.25.js
+||cdn1.tags3.revdepo.com/banners/script/bnr-wrp_1.0.20.js
+||clkads.com^
+||clkmon.com^
+||clkrev.com^
+||eclkspbn.com^
+--- filters
+
+ghostery_id: 1065

@@ -1,0 +1,14 @@
+name: Truste Consent
+category: essential
+website_url: 
+organization: trustarc
+
+--- domains
+consent.truste.com
+--- domains
+
+--- filters
+||consent.truste.com^
+--- filters
+
+ghostery_id: 2813

@@ -1,0 +1,13 @@
+name: OneSignal
+website_url: https://onesignal.com/
+privacy_policy_url: https://onesignal.com/privacy_policy
+privacy_contact: privacy@OneSignal.com
+country: US
+description: Our mission is to become the ubiquitous platform for all mobile and web notification messages that apps send to users, and we're well on our way. Our easy-to-use developer SDKs empower developers and marketers to deliver effective push notifications to their users on all smartphone platforms.
+| 
+| Our stack includes Ruby, Rails, Rspec, Coffeescript, PostgreSQL, and Redis. Our backend systems currently send tens of millions of notifications per day and process upwards of 400,000 API requests per minute.
+
+--- notes
+--- notes
+
+ghostery_id: 4304

@@ -1,0 +1,17 @@
+name: Brand Networks
+category: advertising
+website_url: http://www.xa.net/
+organization: brand_networks
+
+--- domains
+go.cpmadvisors.com
+optorb.com
+--- domains
+
+--- filters
+||cdn.nprove.com/npcore.js
+||go.cpmadvisors.com/^
+||optorb.com^
+--- filters
+
+ghostery_id: 370

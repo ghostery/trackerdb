@@ -1,0 +1,14 @@
+name: Atlas ProfitBuilder
+category: advertising
+website_url: http://www.atlassolutions.com/
+organization: atlas
+
+--- domains
+track.roiservice.com
+--- domains
+
+--- filters
+||track.roiservice.com/track/
+--- filters
+
+ghostery_id: 301

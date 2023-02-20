@@ -1,0 +1,16 @@
+name: Certifica Metric
+category: advertising
+website_url: http://www.comscore.com/Products_Services/Product_Index/Certifica_Metric
+organization: comscore
+
+--- domains
+hits.e.cl
+--- domains
+
+--- filters
+/certifica-js14.js
+/certifica.js
+||hits.e.cl^
+--- filters
+
+ghostery_id: 559

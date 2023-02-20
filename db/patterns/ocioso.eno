@@ -1,0 +1,15 @@
+name: Ocioso
+category: social_media
+website_url: http://ocioso.com.br/
+organization: ocioso
+
+--- domains
+ocioso.com.br
+--- domains
+
+--- filters
+||ocioso.com.br/compartilhe
+||ocioso.com.br/troca-de-links
+--- filters
+
+ghostery_id: 1993

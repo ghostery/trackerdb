@@ -1,0 +1,10 @@
+name: Amazon CloudFront
+category: hosting
+website_url: https://aws.amazon.com/cloudfront/?nc1=h_ls
+organization: amazon_associates
+
+--- domains
+cloudfront.net
+--- domains
+
+ghostery_id: 3352

@@ -1,0 +1,14 @@
+name: UpSellit
+category: customer_interaction
+website_url: http://www.upsellit.com
+organization: upsellit
+
+--- domains
+upsellit.com
+--- domains
+
+--- filters
+||upsellit.com^
+--- filters
+
+ghostery_id: 416

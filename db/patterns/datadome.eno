@@ -1,0 +1,14 @@
+name: DataDome
+category: site_analytics
+website_url: https://datadome.co/
+organization: datadome
+
+--- domains
+datadome.co
+--- domains
+
+--- filters
+||js.datadome.co/tags.js
+--- filters
+
+ghostery_id: 3258

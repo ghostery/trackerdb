@@ -1,0 +1,16 @@
+name: Crownpeak
+category: essential
+website_url: 
+organization: crownpeak
+
+--- domains
+searchg2.crownpeak.net
+snippet.omm.crownpeak.com
+--- domains
+
+--- filters
+||searchg2.crownpeak.net^
+||snippet.omm.crownpeak.com^
+--- filters
+
+ghostery_id: 2987

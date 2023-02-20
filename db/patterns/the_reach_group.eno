@@ -1,0 +1,16 @@
+name: The Reach Group
+category: advertising
+website_url: http://www.redvertisment.com
+organization: the_reach_group
+
+--- domains
+deepthought.online
+reachgroup.com
+redintelligence.net
+--- domains
+
+--- filters
+||redintelligence.net^
+--- filters
+
+ghostery_id: 1198

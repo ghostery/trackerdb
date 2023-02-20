@@ -1,0 +1,14 @@
+name: Intilery
+category: site_analytics
+website_url: http://www.intilery.com
+organization: intilery
+
+--- domains
+intilery-analytics.com
+--- domains
+
+--- filters
+||intilery-analytics.com/rest/
+--- filters
+
+ghostery_id: 2139

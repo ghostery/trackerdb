@@ -1,0 +1,14 @@
+name: EasyAds
+category: advertising
+website_url: https://easyads.bg/
+organization: easyads
+
+--- domains
+easyads.bg
+--- domains
+
+--- filters
+||easyads.bg^
+--- filters
+
+ghostery_id: 1578

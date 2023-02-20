@@ -1,0 +1,19 @@
+name: Yahoo! Analytics
+category: site_analytics
+website_url: http://web.analytics.yahoo.com/
+organization: verizon
+
+--- domains
+analytics.yahoo.com
+--- domains
+
+--- filters
+/js_source/whv2_001.js
+||analytics.yahoo.com^
+||idcs.interclick.com^
+||ids.interclick.com^
+||visit.webhosting.yahoo.com^
+||yimg.com/mi/ywa.js
+--- filters
+
+ghostery_id: 27

@@ -1,0 +1,14 @@
+name: DeepIntent
+category: advertising
+website_url: https://www.deepintent.com/
+organization: deep_intent
+
+--- domains
+deepintent.com
+--- domains
+
+--- filters
+||match.deepintent.com/usersync
+--- filters
+
+ghostery_id: 3082

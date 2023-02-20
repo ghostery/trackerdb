@@ -1,0 +1,15 @@
+name: HyperComments
+category: comments
+website_url: http://www.hypercomments.com/
+organization: hypercomments
+
+--- domains
+hypercomments.com
+--- domains
+
+--- filters
+||w.hypercomments.com^
+||widget.hypercomments.com^
+--- filters
+
+ghostery_id: 2123

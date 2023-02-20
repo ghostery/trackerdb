@@ -1,0 +1,16 @@
+name: Adnegah
+category: advertising
+website_url: 
+organization: adnegah
+
+--- domains
+adnegah.net
+--- domains
+
+--- filters
+||native.adnegah.net^
+||s.adnegah.net/engine.js
+||t.adnegah.net/script/trck.js
+--- filters
+
+ghostery_id: 2866

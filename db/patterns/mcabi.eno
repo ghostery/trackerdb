@@ -1,0 +1,14 @@
+name: mCabi
+category: advertising
+website_url: 
+organization: mcabi
+
+--- domains
+mcabi.mcloudglobal.com
+--- domains
+
+--- filters
+||mcabi.mcloudglobal.com/serve/knc_lib.js
+--- filters
+
+ghostery_id: 2891

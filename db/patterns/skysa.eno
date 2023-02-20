@@ -1,0 +1,14 @@
+name: Skysa
+category: customer_interaction
+website_url: http://www.skysa.com/
+organization: skysa
+
+--- domains
+skysa.com
+--- domains
+
+--- filters
+||skysa.com^
+--- filters
+
+ghostery_id: 1632

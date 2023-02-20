@@ -1,0 +1,14 @@
+name: AdStanding
+category: advertising
+website_url: 
+organization: adstanding
+
+--- domains
+code.adstanding.com
+--- domains
+
+--- filters
+||code.adstanding.com/js/
+--- filters
+
+ghostery_id: 2917

@@ -1,0 +1,14 @@
+name: Fluid
+category: advertising
+website_url: http://www.8thbridge.com/
+organization: fluid
+
+--- domains
+strcst.net
+--- domains
+
+--- filters
+||strcst.net^
+--- filters
+
+ghostery_id: 1585

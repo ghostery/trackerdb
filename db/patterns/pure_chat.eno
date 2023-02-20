@@ -1,0 +1,14 @@
+name: Pure Chat
+category: customer_interaction
+website_url: https://www.purechat.com
+organization: pure_chat
+
+--- domains
+purechat.com
+--- domains
+
+--- filters
+||purechat.com^
+--- filters
+
+ghostery_id: 1822

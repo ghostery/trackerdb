@@ -1,0 +1,20 @@
+name: StumbleUpon Widgets
+category: social_media
+website_url: http://www.stumbleupon.com/
+organization: stumbleupon
+
+--- domains
+stumble-upon.com
+stumbleupon.com
+su.pr
+--- domains
+
+--- filters
+||platform.stumbleupon.com/1/widgets.js
+||stumble-upon.com/js/widgets.js
+||stumbleupon.com/badge/embed/
+||stumbleupon.com/hostedbadge
+||su.pr/hosted_js
+--- filters
+
+ghostery_id: 701

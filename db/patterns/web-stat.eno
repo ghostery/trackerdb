@@ -1,0 +1,14 @@
+name: Web-Stat
+category: site_analytics
+website_url: http://www.web-stat.net/
+organization: web-stat
+
+--- domains
+web-stat.com
+--- domains
+
+--- filters
+||web-stat.com^
+--- filters
+
+ghostery_id: 327

@@ -1,0 +1,16 @@
+name: dockvine
+category: customer_interaction
+website_url: 
+organization: dockvine
+
+--- domains
+toolbar.dockvine.com
+--- domains
+
+--- filters
+||toolbar.dockvine.com/app.js
+||toolbar.dockvine.com/javascript
+||toolbar.dockvine.com/loader.js
+--- filters
+
+ghostery_id: 3263

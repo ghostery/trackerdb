@@ -1,0 +1,15 @@
+name: Content.ad
+category: advertising
+website_url: https://www.content.ad/
+organization: content.ad
+
+--- domains
+content.ad
+--- domains
+
+--- filters
+||content.ad^
+||rtb-px.content-ad.net/p/cm/bsw
+--- filters
+
+ghostery_id: 1192

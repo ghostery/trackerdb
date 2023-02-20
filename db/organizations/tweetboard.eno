@@ -1,0 +1,11 @@
+name: Tweetboard
+website_url: http://tweetboard.me/
+privacy_policy_url: http://tweetboard.me/privacy
+privacy_contact: juan@140ware.com
+country: US
+description: Tweetboard is a micro-forum type application for websites. It pulls users' Twitter streams in near real-time and reformats them into threaded conversations. Each time a user posts via the board, a link back to the corresponding conversation is appended to their tweet, creating a viral stream of Twitter traffic to publishers' websites. Tweetboard is a product of 140Ware.
+
+--- notes
+--- notes
+
+ghostery_id: 231

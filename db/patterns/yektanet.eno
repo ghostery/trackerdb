@@ -1,0 +1,18 @@
+name: Yektanet
+category: advertising
+website_url: 
+organization: yektanet
+
+--- domains
+cdn.yektanet.com
+fetch.yektanet.com
+--- domains
+
+--- filters
+||cdn.yektanet.com/js
+||cg.yektanet.com^
+||ck.yektanet.com^
+||fetch.yektanet.com/api
+--- filters
+
+ghostery_id: 3135

@@ -1,0 +1,14 @@
+name: iubenda
+category: essential
+website_url: https://www.iubenda.com/
+organization: iubenda
+
+--- domains
+iubenda.com
+--- domains
+
+--- filters
+||iubenda.com/iubenda.js
+--- filters
+
+ghostery_id: 1062

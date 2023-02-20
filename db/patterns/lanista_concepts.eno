@@ -1,0 +1,14 @@
+name: Lanista Concepts
+category: advertising
+website_url: http://lanistaconcepts.com/
+organization: lanista_concepts
+
+--- domains
+lanistaads.com
+--- domains
+
+--- filters
+||lanistaads.com^
+--- filters
+
+ghostery_id: 1752

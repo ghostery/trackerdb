@@ -1,0 +1,14 @@
+name: Flyertown
+category: site_analytics
+website_url: http://www.flyertown.ca/
+organization: flyertown
+
+--- domains
+api.flyertown.ca
+--- domains
+
+--- filters
+||api.flyertown.ca^
+--- filters
+
+ghostery_id: 1591

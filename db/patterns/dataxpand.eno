@@ -1,0 +1,16 @@
+name: Dataxpand
+category: advertising
+website_url: http://dataxpand.com/
+organization: dataxpand
+
+--- domains
+dataxpand.script.ag
+tc.dataxpand.com
+--- domains
+
+--- filters
+||dataxpand.script.ag^
+||tc.dataxpand.com^
+--- filters
+
+ghostery_id: 2189

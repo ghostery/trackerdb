@@ -1,0 +1,16 @@
+name: Clickpoint
+category: advertising
+website_url: http://clickpoint.com/
+organization: clickpoint
+
+--- domains
+clickpoint.com
+clickpoint.it
+--- domains
+
+--- filters
+||clickpoint.com^
+||clickpoint.it^
+--- filters
+
+ghostery_id: 2087

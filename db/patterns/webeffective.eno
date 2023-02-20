@@ -1,0 +1,14 @@
+name: WebEffective
+category: site_analytics
+website_url: http://www.keynote.com/
+organization: keynote_systems
+
+--- domains
+webeffective.keynote.com
+--- domains
+
+--- filters
+||webeffective.keynote.com^
+--- filters
+
+ghostery_id: 1207

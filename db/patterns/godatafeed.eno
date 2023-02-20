@@ -1,0 +1,14 @@
+name: GoDataFeed
+category: site_analytics
+website_url: http://www.godatafeed.com
+organization: godatafeed
+
+--- domains
+tracking.godatafeed.com
+--- domains
+
+--- filters
+||tracking.godatafeed.com^
+--- filters
+
+ghostery_id: 477

@@ -1,0 +1,14 @@
+name: display block
+category: advertising
+website_url: https://www.displayblock.com/
+organization: display_block
+
+--- domains
+d81mfvml8p5ml.cloudfront.net
+--- domains
+
+--- filters
+||d81mfvml8p5ml.cloudfront.net^
+--- filters
+
+ghostery_id: 2212

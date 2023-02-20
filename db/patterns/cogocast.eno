@@ -1,0 +1,15 @@
+name: CogoCast
+category: advertising
+website_url: 
+organization: cogocast
+
+--- domains
+cogocast.net
+--- domains
+
+--- filters
+||cogocast.net/tag/partner/
+||gpush.cogocast.net^
+--- filters
+
+ghostery_id: 2297

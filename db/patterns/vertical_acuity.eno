@@ -1,0 +1,15 @@
+name: Vertical Acuity
+category: advertising
+website_url: http://www.verticalacuity.com/
+organization: outbrain
+
+--- domains
+verticalacuity.com
+--- domains
+
+--- filters
+||scripts.verticalacuity.com/vat/mon/
+||tm.verticalacuity.com/vat/mon/
+--- filters
+
+ghostery_id: 373

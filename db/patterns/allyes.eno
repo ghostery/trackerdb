@@ -1,0 +1,14 @@
+name: Allyes
+category: advertising
+website_url: http://www.allyes.com/
+organization: allyes
+
+--- domains
+allyes.com
+--- domains
+
+--- filters
+||allyes.com^
+--- filters
+
+ghostery_id: 1240

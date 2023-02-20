@@ -1,0 +1,10 @@
+name: Bootstrap CDN
+category: cdn
+website_url: http://getbootstrap.com/
+organization: bootstrap_cdn
+
+--- domains
+bootstrapcdn.com
+--- domains
+
+ghostery_id: 3414

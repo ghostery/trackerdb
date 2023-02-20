@@ -1,0 +1,14 @@
+name: CIWebGroup
+category: advertising
+website_url: 
+organization: ciwebgroup
+
+--- domains
+ciweb.ciwebgroup.com
+--- domains
+
+--- filters
+||ciweb.ciwebgroup.com/assets/livesite.js
+--- filters
+
+ghostery_id: 2932

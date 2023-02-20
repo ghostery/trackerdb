@@ -1,0 +1,14 @@
+name: Unanimis
+category: advertising
+website_url: http://www.unanimis.co.uk/
+organization: switch_concepts
+
+--- domains
+unanimis.co.uk
+--- domains
+
+--- filters
+||unanimis.co.uk^
+--- filters
+
+ghostery_id: 680

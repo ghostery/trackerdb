@@ -1,0 +1,15 @@
+name: Quartic
+category: site_analytics
+website_url: https://www.quarticon.com/
+organization: quarticon
+
+--- domains
+quartic.pl
+quarticon.com
+--- domains
+
+--- filters
+||rec.quartic.pl^
+--- filters
+
+ghostery_id: 2132

@@ -1,0 +1,14 @@
+name: ID Services
+category: site_analytics
+website_url: 
+organization: id_services
+
+--- domains
+cdn.id.services
+--- domains
+
+--- filters
+||cdn.id.services/m/run.js
+--- filters
+
+ghostery_id: 2683

@@ -1,0 +1,15 @@
+name: Uliza
+category: advertising
+website_url: 
+organization: uliza
+
+--- domains
+ad-api-v01.uliza.jp
+--- domains
+
+--- filters
+||ad-api-v01.uliza.jp/preview.php
+||aka-uae-dl.uliza.jp/ulizassp/0/video
+--- filters
+
+ghostery_id: 3112

@@ -1,0 +1,14 @@
+name: MediaHub
+category: advertising
+website_url: http://www.mediahub.com/
+organization: mediahub
+
+--- domains
+fhserve.com
+--- domains
+
+--- filters
+||fhserve.com^
+--- filters
+
+ghostery_id: 1210

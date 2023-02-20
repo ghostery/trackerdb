@@ -1,0 +1,14 @@
+name: AdTrustMedia
+category: advertising
+website_url: https://adtrustmedia.com/
+organization: adtrustmedia
+
+--- domains
+adtrustmedia.com
+--- domains
+
+--- filters
+||adtrustmedia.com^
+--- filters
+
+ghostery_id: 1788

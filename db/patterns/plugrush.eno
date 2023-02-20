@@ -1,0 +1,14 @@
+name: PlugRush
+category: advertising
+website_url: http://www.plugrush.com/
+organization: plugrush
+
+--- domains
+plugrush.com
+--- domains
+
+--- filters
+||plugrush.com^
+--- filters
+
+ghostery_id: 1131

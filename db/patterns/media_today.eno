@@ -1,0 +1,14 @@
+name: Media Today
+category: advertising
+website_url: 
+organization: media_today
+
+--- domains
+idntfy.ru
+--- domains
+
+--- filters
+||idntfy.ru/token
+--- filters
+
+ghostery_id: 3106

@@ -1,0 +1,14 @@
+name: PointRoll
+category: advertising
+website_url: http://www.pointroll.com/
+organization: gannett_digital_media_network
+
+--- domains
+pointroll.com
+--- domains
+
+--- filters
+||pointroll.com^
+--- filters
+
+ghostery_id: 57

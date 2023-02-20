@@ -1,0 +1,14 @@
+name: FluidSurveys
+category: customer_interaction
+website_url: http://fluidsurveys.com/
+organization: fluidware
+
+--- domains
+fluidsurveys.com
+--- domains
+
+--- filters
+||fluidsurveys.com^
+--- filters
+
+ghostery_id: 1638

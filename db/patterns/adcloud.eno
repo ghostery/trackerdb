@@ -1,0 +1,14 @@
+name: adcloud
+category: advertising
+website_url: https://ad-cloud.jp
+organization: adcloud
+
+--- domains
+ad-cloud.jp
+--- domains
+
+--- filters
+||ad-cloud.jp^
+--- filters
+
+ghostery_id: 2037

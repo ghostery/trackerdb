@@ -1,0 +1,14 @@
+name: Sense Digital
+category: site_analytics
+website_url: 
+organization: sense_digital
+
+--- domains
+track.sensedigital.in
+--- domains
+
+--- filters
+||track.sensedigital.in/conversion.php
+--- filters
+
+ghostery_id: 2723

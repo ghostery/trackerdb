@@ -1,0 +1,14 @@
+name: Adimpact
+category: advertising
+website_url: http://www.adimpact.com/
+organization: adimpact
+
+--- domains
+adimpact.com
+--- domains
+
+--- filters
+||adimpact.com^
+--- filters
+
+ghostery_id: 1689

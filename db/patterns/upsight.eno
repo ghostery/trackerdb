@@ -1,0 +1,14 @@
+name: Upsight
+category: site_analytics
+website_url: 
+organization: upsight
+
+--- domains
+kontagent.net
+--- domains
+
+--- filters
+||kontagent.net^
+--- filters
+
+ghostery_id: 2502

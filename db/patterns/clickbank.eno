@@ -1,0 +1,15 @@
+name: ClickBank
+category: advertising
+website_url: http://www.clickbank.com/
+organization: clickbank
+
+--- domains
+clickbank.net
+--- domains
+
+--- filters
+||cbtb.clickbank.net^
+||hop.clickbank.net^
+--- filters
+
+ghostery_id: 1697

@@ -1,0 +1,14 @@
+name: Pipz
+category: advertising
+website_url: 
+organization: pipz_automation
+
+--- domains
+app.pipz.io
+--- domains
+
+--- filters
+||app.pipz.io/v3/js/pipz.min.js
+--- filters
+
+ghostery_id: 3015

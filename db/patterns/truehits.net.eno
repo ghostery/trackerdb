@@ -1,0 +1,19 @@
+name: Truehits.net
+category: site_analytics
+website_url: http://truehits.net/
+organization: truehits.net
+
+--- domains
+addoer.com
+truehits.in.th
+truehits.net
+--- domains
+
+--- filters
+||addoer.com^
+||banner.truehits.net^
+||poll.truehits.net^
+||truehits.in.th/^
+--- filters
+
+ghostery_id: 1357

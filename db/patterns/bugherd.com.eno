@@ -1,0 +1,15 @@
+name: BugHerd
+category: customer_interaction
+website_url: https://bugherd.com
+organization: bugherd
+
+--- domains
+bugherd.com
+--- domains
+
+--- filters
+||bugherd.com/bugherd
+||bugherd.com/sidebar
+--- filters
+
+ghostery_id: 1083

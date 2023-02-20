@@ -1,0 +1,14 @@
+name: DoubleVerify
+category: advertising
+website_url: http://www.doubleverify.com/
+organization: doubleverify
+
+--- domains
+doubleverify.com
+--- domains
+
+--- filters
+||doubleverify.com^
+--- filters
+
+ghostery_id: 217

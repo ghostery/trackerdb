@@ -1,0 +1,19 @@
+name: Beeketing
+category: advertising
+website_url: https://beeketing.com/
+organization: beeketing
+
+--- domains
+beeketing.com
+--- domains
+
+--- filters
+||sdk.azureedge.net/js/1.beeketing.*.js^
+||ss.beeketing.com/shop/*.json^
+||api.beeketing.com/rest-api/v1/abtest/active
+||beeketing.com/dist/js/front/loader/shopify.js
+||sdk.beeketing.com/js/beeketing.js
+||t.beeketing.com/bk/api/count_visitor.json
+--- filters
+
+ghostery_id: 2395

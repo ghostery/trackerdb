@@ -1,0 +1,16 @@
+name: Adconion
+category: advertising
+website_url: http://www.adconion.com/
+organization: singtel
+
+--- domains
+adrdgt.com
+amgdgt.com
+--- domains
+
+--- filters
+||adrdgt.com^
+||amgdgt.com^
+--- filters
+
+ghostery_id: 332

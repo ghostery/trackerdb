@@ -1,0 +1,14 @@
+name: IPLogger
+category: site_analytics
+website_url: http://iplogger.ru/
+organization: iplogger
+
+--- domains
+iplogger.ru
+--- domains
+
+--- filters
+||iplogger.ru^
+--- filters
+
+ghostery_id: 1345

@@ -1,0 +1,14 @@
+name: AdFrontiers
+category: advertising
+website_url: http://www.adfrontiers.com/
+organization: adfrontiers
+
+--- domains
+adfrontiers.com
+--- domains
+
+--- filters
+||adfrontiers.com^
+--- filters
+
+ghostery_id: 1265

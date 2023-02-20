@@ -1,0 +1,14 @@
+name: Envybox
+category: customer_interaction
+website_url: 
+organization: envybox
+
+--- domains
+cdn.callbackkiller.com
+--- domains
+
+--- filters
+||cdn.callbackkiller.com/widget/cbk.js
+--- filters
+
+ghostery_id: 2535

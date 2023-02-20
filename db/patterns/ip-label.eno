@@ -1,0 +1,14 @@
+name: ip-label
+category: site_analytics
+website_url: http://www.ip-label.co.uk/
+organization: ip-label
+
+--- domains
+ip-label.net
+--- domains
+
+--- filters
+||ip-label.net^
+--- filters
+
+ghostery_id: 1588

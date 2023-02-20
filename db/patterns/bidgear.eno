@@ -1,0 +1,14 @@
+name: BidGear
+category: site_analytics
+website_url: https://bidgear.com/
+organization: bidgear
+
+--- domains
+bidgear.com
+--- domains
+
+--- filters
+||stats.bidgear.com^
+--- filters
+
+ghostery_id: 4036

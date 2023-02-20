@@ -1,0 +1,16 @@
+name: Gorilla Nation
+category: advertising
+website_url: http://www.gorillanationmedia.com
+organization: gorilla_nation_media
+
+--- domains
+cdn.triggertag.gorillanation.com
+evolvemediametrics.com
+--- domains
+
+--- filters
+||cdn.triggertag.gorillanation.com/js/triggertag.js
+||evolvemediametrics.com^
+--- filters
+
+ghostery_id: 306

@@ -1,0 +1,14 @@
+name: LaunchBit
+category: advertising
+website_url: https://www.launchbit.com/
+organization: launchbit
+
+--- domains
+launchbit.com
+--- domains
+
+--- filters
+||launchbit.com^
+--- filters
+
+ghostery_id: 2203

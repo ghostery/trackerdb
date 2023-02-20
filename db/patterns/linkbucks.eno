@@ -1,0 +1,16 @@
+name: Linkbucks
+category: advertising
+website_url: http://www.linkbucks.com/
+organization: linkbucks
+
+--- domains
+linkbucks.com
+--- domains
+
+--- filters
+/visitscript^
+/webservices/jsparselinks.aspx
+||linkbucks.com^
+--- filters
+
+ghostery_id: 1957

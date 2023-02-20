@@ -1,0 +1,14 @@
+name: MCOnet
+category: advertising
+website_url: http://mconet.biz/
+organization: mconet
+
+--- domains
+mconet.biz
+--- domains
+
+--- filters
+||mconet.biz^
+--- filters
+
+ghostery_id: 1137

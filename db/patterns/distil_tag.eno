@@ -1,0 +1,15 @@
+name: Distil Networks
+category: essential
+website_url: https://www.distilnetworks.com/
+organization: distil_networks
+
+--- domains
+distiltag.com
+--- domains
+
+--- filters
+/(ga|xhr)\.[0-9]+\.js/
+||origin.distiltag.com/events
+--- filters
+
+ghostery_id: 2178

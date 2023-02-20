@@ -1,0 +1,14 @@
+name: Opentracker
+category: site_analytics
+website_url: http://www.opentracker.net/
+organization: opentracker
+
+--- domains
+opentracker.net
+--- domains
+
+--- filters
+||opentracker.net^
+--- filters
+
+ghostery_id: 618

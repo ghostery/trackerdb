@@ -1,0 +1,14 @@
+name: activecore
+category: site_analytics
+website_url: http://activecore.jp/
+organization: activecore
+
+--- domains
+a-cast.jp
+--- domains
+
+--- filters
+||a-cast.jp^
+--- filters
+
+ghostery_id: 1814

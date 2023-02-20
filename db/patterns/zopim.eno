@@ -1,0 +1,14 @@
+name: Zopim
+category: customer_interaction
+website_url: http://www.zopim.com/
+organization: zendesk
+
+--- domains
+zopim.com
+--- domains
+
+--- filters
+||zopim.com^
+--- filters
+
+ghostery_id: 630

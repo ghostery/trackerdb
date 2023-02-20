@@ -1,0 +1,15 @@
+name: Pocket
+category: site_analytics
+website_url: http://getpocket.com/
+organization: pocket
+
+--- domains
+widgets.getpocket.com
+--- domains
+
+--- filters
+||widgets.getpocket.com/v1/button
+||widgets.getpocket.com/v1/j/btn.js
+--- filters
+
+ghostery_id: 1744

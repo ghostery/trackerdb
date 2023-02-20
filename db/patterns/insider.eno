@@ -1,0 +1,15 @@
+name: Insider
+category: site_analytics
+website_url: http://useinsider.com/
+organization: insider
+
+--- domains
+useinsider.com
+--- domains
+
+--- filters
+||api.sociaplus.com/js/squery.min.js
+||api.useinsider.com/js/insiderexternal.min.js
+--- filters
+
+ghostery_id: 2868

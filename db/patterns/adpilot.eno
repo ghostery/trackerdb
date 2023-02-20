@@ -1,0 +1,15 @@
+name: AdPilot
+category: advertising
+website_url: http://www.adpilotgroup.com/
+organization: adpilot
+
+--- domains
+adpilot.at
+erne.co
+--- domains
+
+--- filters
+||green.erne.co/tags
+--- filters
+
+ghostery_id: 3093

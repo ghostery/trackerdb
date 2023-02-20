@@ -1,0 +1,14 @@
+name: Nirror
+category: site_analytics
+website_url: https://www.nirror.com/
+organization: nirror
+
+--- domains
+static.nirror.com
+--- domains
+
+--- filters
+||static.nirror.com^
+--- filters
+
+ghostery_id: 1965

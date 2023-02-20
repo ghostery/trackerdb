@@ -1,0 +1,18 @@
+name: RichRelevance
+category: customer_interaction
+website_url: http://www.richrelevance.com/
+organization: richrelevance
+
+--- domains
+ics0.com
+richrelevance.com
+--- domains
+
+--- filters
+||ics0.com^
+||media.richrelevance.com^
+||recs.richrelevance.com^
+||static.richrelevance.net/*/rr.js^
+--- filters
+
+ghostery_id: 224

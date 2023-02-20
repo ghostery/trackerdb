@@ -1,0 +1,14 @@
+name: KeyMetric
+category: site_analytics
+website_url: http://keymetric.net/
+organization: keymetric
+
+--- domains
+keymetric.net
+--- domains
+
+--- filters
+||keymetric.net^
+--- filters
+
+ghostery_id: 626

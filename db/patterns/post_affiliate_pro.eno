@@ -1,0 +1,14 @@
+name: Post Affiliate Pro
+category: advertising
+website_url: http://www.qualityunit.com/
+organization: qualityunit
+
+--- domains
+postaffiliatepro.com
+--- domains
+
+--- filters
+||postaffiliatepro.com^
+--- filters
+
+ghostery_id: 1411

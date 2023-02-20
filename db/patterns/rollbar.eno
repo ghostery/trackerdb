@@ -1,0 +1,14 @@
+name: Rollbar
+category: site_analytics
+website_url: http://www.rollbar.com/
+organization: rollbar
+
+--- domains
+d37gvrvc0wt4s1.cloudfront.net
+--- domains
+
+--- filters
+||d37gvrvc0wt4s1.cloudfront.net/js/
+--- filters
+
+ghostery_id: 1828

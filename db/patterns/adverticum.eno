@@ -1,0 +1,15 @@
+name: Adverticum
+category: advertising
+website_url: https://adverticum.net/english/
+organization: adverticum
+
+--- domains
+adverticum.net
+--- domains
+
+--- filters
+||ad.hu/g3.js
+||adverticum.net^
+--- filters
+
+ghostery_id: 1133

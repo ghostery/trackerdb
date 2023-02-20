@@ -1,0 +1,14 @@
+name: Media Impact
+category: advertising
+website_url: 
+organization: media_impact
+
+--- domains
+mediaimpact.de
+--- domains
+
+--- filters
+||bt.mediaimpact.de^
+--- filters
+
+ghostery_id: 2883

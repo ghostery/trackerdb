@@ -1,0 +1,14 @@
+name: TRUSTe Seal
+category: essential
+website_url: http://www.truste.com/
+organization: trustarc
+
+--- domains
+privacy-policy.truste.com
+--- domains
+
+--- filters
+||privacy-policy.truste.com^
+--- filters
+
+ghostery_id: 1582

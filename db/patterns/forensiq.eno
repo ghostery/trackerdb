@@ -1,0 +1,17 @@
+name: Forensiq
+category: advertising
+website_url: http://www.cpadetective.com/
+organization: impact
+
+--- domains
+fqsecure.com
+fqtag.com
+securepaths.com
+--- domains
+
+--- filters
+||fqtag.com^
+||securepaths.com^
+--- filters
+
+ghostery_id: 1380

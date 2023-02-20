@@ -1,0 +1,14 @@
+name: Chameleon
+category: advertising
+website_url: 
+organization: chamaleon
+
+--- domains
+gsn.chameleon.ad
+--- domains
+
+--- filters
+||gsn.chameleon.ad^
+--- filters
+
+ghostery_id: 2645

@@ -1,0 +1,18 @@
+name: Elastic Beanstalk
+category: site_analytics
+website_url: 
+organization: amazon_associates
+
+--- domains
+elasticbeanstalk.com
+--- domains
+
+--- filters
+||elasticbeanstalk.com/toysrus/m/sidekick.js
+||elasticbeanstalk.com^
+||omni-acttag.elasticbeanstalk.com^
+||sidekick-toysrus.elasticbeanstalk.com/sidekick/sidetrack.js
+||sidekick-toysrus.elasticbeanstalk.com/toysrus/m/sidekick.js
+--- filters
+
+ghostery_id: 2259

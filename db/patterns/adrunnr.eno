@@ -1,0 +1,14 @@
+name: AdRunnr
+category: advertising
+website_url: 
+organization: adrunnr
+
+--- domains
+adrunnr.com
+--- domains
+
+--- filters
+||adrunnr.com^
+--- filters
+
+ghostery_id: 3042

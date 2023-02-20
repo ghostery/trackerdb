@@ -1,0 +1,16 @@
+name: Tidio
+category: customer_interaction
+website_url: 
+organization: tidio_chat
+
+--- domains
+code.tidio.co
+widget-v4.tidiochat.com
+--- domains
+
+--- filters
+||code.tidio.co^
+||widget-v4.tidiochat.com/1_12_1/static/js/
+--- filters
+
+ghostery_id: 2438

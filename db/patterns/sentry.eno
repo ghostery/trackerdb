@@ -1,0 +1,20 @@
+name: Sentry
+category: site_analytics
+website_url: https://sentry.io/
+organization: sentry
+
+--- domains
+d3nslu0hdya83q.cloudfront.net
+getsentry.com
+ravenjs.com
+sentry.io
+--- domains
+
+--- filters
+||api.getsentry.com^
+||app.getsentry.com^
+||cdn.ravenjs.com^
+||d3nslu0hdya83q.cloudfront.net^
+--- filters
+
+ghostery_id: 1754

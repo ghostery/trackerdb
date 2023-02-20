@@ -1,0 +1,17 @@
+name: AWIN
+category: advertising
+website_url: https://www.awin.com
+organization: axel_springer
+
+--- domains
+awin.com
+awin1.com
+perfb.com
+--- domains
+
+--- filters
+||awin1.com^
+||perfb.com^
+--- filters
+
+ghostery_id: 1002

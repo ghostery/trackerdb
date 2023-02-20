@@ -1,0 +1,16 @@
+name: Zwaar
+category: advertising
+website_url: http://www.zwaar.org
+organization: zwaar
+
+--- domains
+zwaar.net
+zwaar.org
+--- domains
+
+--- filters
+||zwaar.net^
+||zwaar.org^
+--- filters
+
+ghostery_id: 2198

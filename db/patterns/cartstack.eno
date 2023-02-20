@@ -1,0 +1,14 @@
+name: CartStack
+category: customer_interaction
+website_url: http://cartstack.com/
+organization: cartstack
+
+--- domains
+api.cartstack.com
+--- domains
+
+--- filters
+||api.cartstack.com/js/cs.js
+--- filters
+
+ghostery_id: 2131

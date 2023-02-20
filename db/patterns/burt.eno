@@ -1,0 +1,18 @@
+name: Burt
+category: advertising
+website_url: http://www.burtcorp.com/
+organization: burt
+
+--- domains
+burt.io
+d3q6px0y2suh5n.cloudfront.net
+rich-agent.s3.amazonaws.com
+richmetrics.com
+--- domains
+
+--- filters
+||burt.io^
+||richmetrics.com^
+--- filters
+
+ghostery_id: 2015

@@ -1,0 +1,14 @@
+name: Feefo
+category: customer_interaction
+website_url: 
+organization: feefo
+
+--- domains
+feefo.com
+--- domains
+
+--- filters
+||feefo.com/reviewjs
+--- filters
+
+ghostery_id: 2431

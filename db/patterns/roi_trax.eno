@@ -1,0 +1,14 @@
+name: ROI trax
+category: advertising
+website_url: http://www.oneupweb.com/
+organization: oneupweb
+
+--- domains
+trk.sodoit.com
+--- domains
+
+--- filters
+||trk.sodoit.com/rts
+--- filters
+
+ghostery_id: 840

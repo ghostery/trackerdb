@@ -1,0 +1,15 @@
+name: Revive Adserver
+website_url: https://www.revive-adserver.com/
+privacy_policy_url: https://www.revive-adserver.com/privacy/
+privacy_contact: 
+country: 
+description: Revive Adserver is a free open source ad serving system that enables publishers, ad networks, and advertisers to:
+| + Serve ads on websites, in apps, and in video players, and collect detailed statistics including impressions, clicks and conversions
+| + Manage campaigns for multiple advertisers and from ad networks all at once, via an easy to use interface
+| + Define delivery rules for campaigns and ads, including frequency capping, URL targeting, geo-targeting
+| + Track and report campaign performance including click-through rates, conversion rates, revenue, eCPM and conversion details, like basket value and number of items purchased
+
+--- notes
+--- notes
+
+ghostery_id: 5264

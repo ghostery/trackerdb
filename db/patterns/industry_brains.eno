@@ -1,0 +1,14 @@
+name: Industry Brains
+category: advertising
+website_url: http://www.industrybrains.com/
+organization: industrybrains
+
+--- domains
+industrybrains.com
+--- domains
+
+--- filters
+||industrybrains.com^
+--- filters
+
+ghostery_id: 2072

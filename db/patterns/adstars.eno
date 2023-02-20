@@ -1,0 +1,14 @@
+name: Adstars
+category: advertising
+website_url: http://adstars.co.id
+organization: adstars
+
+--- domains
+adstars.co.id
+--- domains
+
+--- filters
+||adstars.co.id^
+--- filters
+
+ghostery_id: 1356

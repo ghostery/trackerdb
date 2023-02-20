@@ -1,0 +1,16 @@
+name: ShinyStat
+category: site_analytics
+website_url: http://www.shinystat.com/
+organization: shinystat
+
+--- domains
+shinystat.com
+shinystat.it
+--- domains
+
+--- filters
+||shinystat.com^
+||shinystat.it^
+--- filters
+
+ghostery_id: 194

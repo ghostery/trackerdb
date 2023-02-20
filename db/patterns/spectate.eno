@@ -1,0 +1,14 @@
+name: Spectate
+category: site_analytics
+website_url: http://spectate.com/
+organization: spectate
+
+--- domains
+spectate.com
+--- domains
+
+--- filters
+||spectate.com^
+--- filters
+
+ghostery_id: 699

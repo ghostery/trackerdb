@@ -1,0 +1,14 @@
+name: SexTracker
+category: pornvertising
+website_url: http://webmasters.sextracker.com/
+organization: sextracker
+
+--- domains
+sextracker.com
+--- domains
+
+--- filters
+||sextracker.com^
+--- filters
+
+ghostery_id: 927

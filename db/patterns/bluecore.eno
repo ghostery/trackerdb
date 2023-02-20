@@ -1,0 +1,15 @@
+name: Bluecore
+category: advertising
+website_url: https://www.bluecore.com/
+organization: triggermail
+
+--- domains
+bluecore.com
+triggeredmail.appspot.com
+--- domains
+
+--- filters
+||triggeredmail.appspot.com^
+--- filters
+
+ghostery_id: 1952

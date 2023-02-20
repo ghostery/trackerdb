@@ -1,0 +1,11 @@
+name: MRP
+category: site_analytics
+website_url: http://mrpdata.com/Account/Login?ReturnUrl=%2F
+organization: fifth_story
+
+--- domains
+mrpdata.com
+mrpdata.net
+--- domains
+
+ghostery_id: 3696

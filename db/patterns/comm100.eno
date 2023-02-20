@@ -1,0 +1,16 @@
+name: Comm100
+category: customer_interaction
+website_url: http://www.comm100.com/
+organization: comm100
+
+--- domains
+comm100.cn
+comm100.com
+--- domains
+
+--- filters
+||comm100.cn^
+||comm100.com^
+--- filters
+
+ghostery_id: 1448

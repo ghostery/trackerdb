@@ -1,0 +1,14 @@
+name: iGoDigital
+category: customer_interaction
+website_url: http://igodigital.com/
+organization: salesforce
+
+--- domains
+igodigital.com
+--- domains
+
+--- filters
+||igodigital.com^
+--- filters
+
+ghostery_id: 1334

@@ -1,0 +1,16 @@
+name: Delta Projects
+category: advertising
+website_url: http://www.adaction.se/
+organization: delta_projects
+
+--- domains
+adaction.se
+de17a.com
+--- domains
+
+--- filters
+||adaction.se^
+||de17a.com^
+--- filters
+
+ghostery_id: 904

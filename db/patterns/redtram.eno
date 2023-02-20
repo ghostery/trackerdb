@@ -1,0 +1,19 @@
+name: RedTram
+category: advertising
+website_url: http://www.redtram.com/
+organization: redtram
+
+--- domains
+grt01.com
+grt02.com
+redtram.com
+--- domains
+
+--- filters
+||grt01.com^
+||grt02.com^
+||js.goods.redtram.com/ticker_
+||redtram.com/n4p/
+--- filters
+
+ghostery_id: 1450

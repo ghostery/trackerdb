@@ -1,0 +1,14 @@
+name: Chaordic
+category: advertising
+website_url: https://www.chaordic.com.br/
+organization: chaordic
+
+--- domains
+chaordicsystems.com
+--- domains
+
+--- filters
+||chaordicsystems.com^
+--- filters
+
+ghostery_id: 1254

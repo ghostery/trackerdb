@@ -1,0 +1,17 @@
+name: ATG Optimization
+category: advertising
+website_url: http://www.atg.com/en/products-services/optimization/
+organization: oracle
+
+--- domains
+as00.estara.com
+--- domains
+
+--- filters
+||as00.estara.com/as/commonlink
+||as00.estara.com/as/initiatecall2
+||as00.estara.com/fs/lr
+||as00.estara.com/webcare
+--- filters
+
+ghostery_id: 435

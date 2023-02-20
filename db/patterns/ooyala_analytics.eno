@@ -1,0 +1,12 @@
+name: Ooyala Analytics
+category: site_analytics
+website_url: 
+organization: telstra
+alias: ooyala.com
+
+--- filters
+||analytics.ooyala.com/static/iframe_pinger.js
+||l.ooyala.com/analytics/iframe.html
+--- filters
+
+ghostery_id: 3061

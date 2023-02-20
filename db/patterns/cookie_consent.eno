@@ -1,0 +1,14 @@
+name: Cookie Consent
+category: essential
+website_url: 
+organization: silktide
+
+--- domains
+cookieconsent.silktide.com
+--- domains
+
+--- filters
+||cdn.jsdelivr.net/npm/cookieconsent
+--- filters
+
+ghostery_id: 2814

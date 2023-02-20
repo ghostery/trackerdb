@@ -1,0 +1,14 @@
+name: Scout Analytics
+category: advertising
+website_url: http://scoutanalytics.com/
+organization: scout_analytics
+
+--- domains
+scout.scoutanalytics.net
+--- domains
+
+--- filters
+||scout.scoutanalytics.net^
+--- filters
+
+ghostery_id: 1109

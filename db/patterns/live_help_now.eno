@@ -1,0 +1,16 @@
+name: Live Help Now
+category: customer_interaction
+website_url: 
+organization: live_help_now
+
+--- domains
+livehelpnow.net
+--- domains
+
+--- filters
+||developer.livehelpnow.net/js/lhn-jquery-1.11.0.min.js
+||livehelpnow.net/lhn/js/internal/lhn-smsbutton.js
+||www.livehelpnow.net/lhn/widgets/chatbutton/lhnchatbutton-current.min.js
+--- filters
+
+ghostery_id: 2416

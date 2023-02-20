@@ -1,0 +1,15 @@
+name: Metapeople
+category: advertising
+website_url: http://www.metapeople.com/us/
+organization: metapeople
+
+--- domains
+metalyzer.com
+mlsat02.de
+--- domains
+
+--- filters
+||metalyzer.com^
+--- filters
+
+ghostery_id: 1920

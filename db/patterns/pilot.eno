@@ -1,0 +1,14 @@
+name: Pilot
+category: site_analytics
+website_url: http://www.pilot.de/en/home.html
+organization: pilot_gmbh
+
+--- domains
+trgt.eu
+--- domains
+
+--- filters
+||trgt.eu^
+--- filters
+
+ghostery_id: 1890

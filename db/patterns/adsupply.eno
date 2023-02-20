@@ -1,0 +1,20 @@
+name: AdSupply
+category: advertising
+website_url: http://www.adsupply.com/
+organization: adsupply
+
+--- domains
+4dsply.com
+cdn.engine.adsupply.com
+trklnks.com
+--- domains
+
+--- filters
+||3jmcwio.com^
+||4dsply.com^
+||cdn.engine.adsupply.com^
+||cdn.lepinsar.com/Scripts/MediaScripts/b.js
+||trklnks.com^
+--- filters
+
+ghostery_id: 1245

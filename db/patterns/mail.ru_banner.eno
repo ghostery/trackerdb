@@ -1,0 +1,14 @@
+name: Mail.Ru Banner Network
+category: advertising
+website_url: http://mail.ru/
+organization: megafon
+
+--- domains
+ad.mail.ru
+--- domains
+
+--- filters
+||ad.mail.ru^
+--- filters
+
+ghostery_id: 1504

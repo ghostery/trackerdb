@@ -1,0 +1,14 @@
+name: Zalo
+category: customer_interaction
+website_url: https://zaloapp.com/
+organization: zalo
+
+--- domains
+zaloapp.com
+--- domains
+
+--- filters
+||zaloapp.com^
+--- filters
+
+ghostery_id: 2210

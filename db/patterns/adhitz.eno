@@ -1,0 +1,14 @@
+name: AdHitz
+category: advertising
+website_url: http://www.adhitz.com/
+organization: adhitz
+
+--- domains
+adhitzads.com
+--- domains
+
+--- filters
+||adhitzads.com^
+--- filters
+
+ghostery_id: 1228

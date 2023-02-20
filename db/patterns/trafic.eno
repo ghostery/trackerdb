@@ -1,0 +1,14 @@
+name: Trafic
+category: site_analytics
+website_url: http://www.trafic.ro/
+organization: trafic
+
+--- domains
+storage.trafic.ro
+--- domains
+
+--- filters
+||storage.trafic.ro/js/trafic.js
+--- filters
+
+ghostery_id: 152

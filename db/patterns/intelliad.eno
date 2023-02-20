@@ -1,0 +1,16 @@
+name: intelliAd
+category: site_analytics
+website_url: http://www.intelliad.de/
+organization: intelliad
+
+--- domains
+intelliad.com
+intelliad.de
+--- domains
+
+--- filters
+||intelliad.com^
+||intelliad.de^
+--- filters
+
+ghostery_id: 1289

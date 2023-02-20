@@ -1,0 +1,16 @@
+name: sovrn
+category: advertising
+website_url: https://www.sovrn.com/
+organization: sovrn
+
+--- domains
+d3pkae9owd2lcf.cloudfront.net
+lijit.com
+--- domains
+
+--- filters
+||d3pkae9owd2lcf.cloudfront.net/mb105.gz.js
+||lijit.com^
+--- filters
+
+ghostery_id: 18

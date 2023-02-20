@@ -1,0 +1,14 @@
+name: Hello Bar
+category: social_media
+website_url: https://www.hellobar.com/
+organization: crazy_egg
+
+--- domains
+hellobar.com
+--- domains
+
+--- filters
+/hellobar.js
+--- filters
+
+ghostery_id: 637

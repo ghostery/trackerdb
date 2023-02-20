@@ -1,0 +1,14 @@
+name: Google User Content
+category: cdn
+website_url: 
+organization: google
+
+--- domains
+googleusercontent.com
+--- domains
+
+--- filters
+||oauth.googleusercontent.com/gadgets/js
+--- filters
+
+ghostery_id: 2333

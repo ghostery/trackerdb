@@ -1,0 +1,14 @@
+name: AppMetrx
+category: advertising
+website_url: http://www.engago.com
+organization: engago_technologies
+
+--- domains
+appmetrx.com
+--- domains
+
+--- filters
+||appmetrx.com^
+--- filters
+
+ghostery_id: 802

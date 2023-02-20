@@ -1,0 +1,14 @@
+name: 4w Marketplace
+category: advertising
+website_url: http://www.4wmarketplace.com/
+organization: 4w_marketplace
+
+--- domains
+4wnet.com
+--- domains
+
+--- filters
+||4wnet.com^
+--- filters
+
+ghostery_id: 1366

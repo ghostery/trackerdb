@@ -1,0 +1,14 @@
+name: AdsenseCamp
+category: advertising
+website_url: http://adsensecamp.com
+organization: adsensecamp
+
+--- domains
+adsensecamp.com
+--- domains
+
+--- filters
+||adsensecamp.com/show/
+--- filters
+
+ghostery_id: 1036

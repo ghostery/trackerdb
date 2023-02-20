@@ -1,0 +1,14 @@
+name: BrightFunnel
+category: site_analytics
+website_url: 
+organization: brightfunnel
+
+--- domains
+munchkin.brightfunnel.com
+--- domains
+
+--- filters
+||munchkin.brightfunnel.com/js/build/bf-munchkin.min.js
+--- filters
+
+ghostery_id: 2879

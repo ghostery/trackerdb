@@ -1,0 +1,14 @@
+name: i.ua
+category: advertising
+website_url: http://www.i.ua/
+organization: i.ua
+
+--- domains
+r.i.ua
+--- domains
+
+--- filters
+||r.i.ua^
+--- filters
+
+ghostery_id: 590

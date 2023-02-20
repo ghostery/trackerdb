@@ -1,0 +1,15 @@
+name: Trackset ConversionLab
+category: advertising
+website_url: http://www.trackset.com/
+organization: trackset
+
+--- domains
+conversionlab.trackset.com
+--- domains
+
+--- filters
+||conversionlab.trackset.com/track/
+||tracking.conversionlab.it^
+--- filters
+
+ghostery_id: 383

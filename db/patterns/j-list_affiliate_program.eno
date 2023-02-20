@@ -1,0 +1,16 @@
+name: J-List Affiliate Program
+category: advertising
+website_url: http://www.jlist.com/page/affiliates.html
+organization: j-list
+
+--- domains
+jlist.com
+--- domains
+
+--- filters
+||jlist.com/ad/
+||jlist.com/feed.php
+||jlist.com/media/
+--- filters
+
+ghostery_id: 1247

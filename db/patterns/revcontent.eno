@@ -1,0 +1,14 @@
+name: RevContent
+category: advertising
+website_url: https://www.revcontent.com/
+organization: revcontent
+
+--- domains
+revcontent.com
+--- domains
+
+--- filters
+||revcontent.com^
+--- filters
+
+ghostery_id: 2195

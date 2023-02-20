@@ -1,0 +1,14 @@
+name: eADV
+category: advertising
+website_url: http://eadv.it/
+organization: eadv
+
+--- domains
+eadv.it
+--- domains
+
+--- filters
+||eadv.it^
+--- filters
+
+ghostery_id: 1006

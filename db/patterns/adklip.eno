@@ -1,0 +1,14 @@
+name: adklip
+category: advertising
+website_url: http://adklip.com
+organization: adklip
+
+--- domains
+adklip.com
+--- domains
+
+--- filters
+||adklip.com^
+--- filters
+
+ghostery_id: 1642

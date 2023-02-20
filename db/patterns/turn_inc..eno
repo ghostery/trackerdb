@@ -1,0 +1,14 @@
+name: Turn Inc.
+category: advertising
+website_url: https://www.amobee.com/company/
+organization: singtel
+
+--- domains
+turn.com
+--- domains
+
+--- filters
+||turn.com^
+--- filters
+
+ghostery_id: 177

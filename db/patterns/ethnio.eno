@@ -1,0 +1,15 @@
+name: Ethnio
+category: advertising
+website_url: http://ethn.io/
+organization: ethnio
+
+--- domains
+ethn.io
+--- domains
+
+--- filters
+||ethn.io/85330.js
+||ethn.io/remotes
+--- filters
+
+ghostery_id: 1597

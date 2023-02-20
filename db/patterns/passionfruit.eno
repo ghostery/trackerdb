@@ -1,0 +1,14 @@
+name: Passionfruit
+category: advertising
+website_url: http://passionfruitads.com/
+organization: passionfruit
+
+--- domains
+passionfruitads.com
+--- domains
+
+--- filters
+||passionfruitads.com^
+--- filters
+
+ghostery_id: 1630

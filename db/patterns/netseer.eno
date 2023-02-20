@@ -1,0 +1,14 @@
+name: NetSeer
+category: advertising
+website_url: http://www.netseer.com/
+organization: netseer
+
+--- domains
+netseer.com
+--- domains
+
+--- filters
+||netseer.com^
+--- filters
+
+ghostery_id: 608

@@ -1,0 +1,14 @@
+name: Leadback
+category: site_analytics
+website_url: 
+organization: leadback
+
+--- domains
+leadback.ru
+--- domains
+
+--- filters
+||leadback.ru/js/leadback.js
+--- filters
+
+ghostery_id: 2948

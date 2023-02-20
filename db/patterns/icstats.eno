@@ -1,0 +1,14 @@
+name: ICStats
+category: site_analytics
+website_url: http://www.icstats.nl/
+organization: icstats
+
+--- domains
+icstats.nl
+--- domains
+
+--- filters
+||icstats.nl^
+--- filters
+
+ghostery_id: 1248

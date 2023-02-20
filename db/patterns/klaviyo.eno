@@ -1,0 +1,14 @@
+name: Klaviyo
+category: site_analytics
+website_url: 
+organization: klaviyo
+
+--- domains
+a.klaviyo.com
+--- domains
+
+--- filters
+||a.klaviyo.com/media/js/analytics/analytics.js
+--- filters
+
+ghostery_id: 2768

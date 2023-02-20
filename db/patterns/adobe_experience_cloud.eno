@@ -1,0 +1,31 @@
+name: Adobe Experience Cloud
+category: site_analytics
+website_url: https://www.adobe.com/experience-cloud.html
+organization: adobe
+
+--- domains
+2o7.net
+du8783wkf05yr.cloudfront.net
+hitbox.com
+imageg.net
+nedstat.com
+omtrdc.net
+sitestat.com
+--- domains
+
+--- filters
+||.112.2o7.net^
+||.122.2o7.net^
+||adoberesources.net/alloy/*/alloy^
+/h10000/cma/tms/metrics.js
+/metrics\..*\.(com|net|org)\/b\/(s|ss)\//
+||2o7.net^
+||du8783wkf05yr.cloudfront.net^
+||hitbox.com^
+||imageg.net^
+||nedstat.com^
+||omtrdc.net^
+||sitestat.com^
+--- filters
+
+ghostery_id: 19

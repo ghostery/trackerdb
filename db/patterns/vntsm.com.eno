@@ -1,0 +1,14 @@
+name: Venatus Media
+category: advertising
+website_url: https://www.venatusmedia.com/
+organization: venatus
+
+--- domains
+vntsm.com
+--- domains
+
+--- filters
+||vntsm.com^
+--- filters
+
+ghostery_id: 1853

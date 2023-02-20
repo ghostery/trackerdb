@@ -1,0 +1,15 @@
+name: MediaAd
+category: advertising
+website_url: 
+organization: mediaad
+
+--- domains
+s1.mediaad.org
+--- domains
+
+--- filters
+||s1.mediaad.org/serve/aryabazar.com/loader.js
+||s1.mediaad.org/serve/tabnak.ir/loader.js
+--- filters
+
+ghostery_id: 3234

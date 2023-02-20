@@ -1,0 +1,14 @@
+name: Kixer
+category: advertising
+website_url: 
+organization: kixer
+
+--- domains
+kixer.com
+--- domains
+
+--- filters
+||kixer.com/ad/load.js
+--- filters
+
+ghostery_id: 2287

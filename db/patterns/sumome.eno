@@ -1,0 +1,16 @@
+name: Sumo
+category: site_analytics
+website_url: https://sumo.com/
+organization: sumome
+
+--- domains
+sumo.com
+sumome.com
+--- domains
+
+--- filters
+||sumo.com/api/load/
+||sumome.com^
+--- filters
+
+ghostery_id: 2177

@@ -1,0 +1,11 @@
+name: CryptoLoot
+website_url: https://crypto-loot.com/
+privacy_policy_url: https://crypto-loot.com/tos
+privacy_contact: 
+country: 
+description: The CryptoLoot JavaScript Miner allows you to embed a Monero (XMR) miner directly into your website. The miner itself does NOT come with a User Interface! It is your responsibility to tell your users what's going on and to provide stats on mined hashes. Ultimately, we aren't going to tell you how to run your business.
+
+--- notes
+--- notes
+
+ghostery_id: 5145

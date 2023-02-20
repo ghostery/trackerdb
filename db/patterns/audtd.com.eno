@@ -1,0 +1,14 @@
+name: Auditorius
+category: advertising
+website_url: http://www.auditorius.ru/
+organization: auditorius
+
+--- domains
+audtd.com
+--- domains
+
+--- filters
+||audtd.com^
+--- filters
+
+ghostery_id: 2113

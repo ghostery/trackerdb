@@ -1,0 +1,15 @@
+name: MADS
+category: advertising
+website_url: 
+organization: mads
+
+--- domains
+eu2.madsone.com
+--- domains
+
+--- filters
+||eu2.madsone.com/js/tags.js
+||eu2.madsone.com/mjs/1.2.3/MRAID_Interstitial_Base.js
+--- filters
+
+ghostery_id: 2886

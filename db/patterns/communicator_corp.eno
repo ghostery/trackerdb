@@ -1,0 +1,14 @@
+name: Communicator Corp
+category: advertising
+website_url: http://www.communicatorcorp.com/
+organization: communicator_corp
+
+--- domains
+communicatorcorp.com
+--- domains
+
+--- filters
+||communicatorcorp.com/public/scripts/conversiontracking.js
+--- filters
+
+ghostery_id: 809

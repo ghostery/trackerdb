@@ -1,0 +1,14 @@
+name: LogDNA
+category: advertising
+website_url: http://www.answerbook.com/
+organization: logdna
+
+--- domains
+ping.answerbook.com
+--- domains
+
+--- filters
+||ping.answerbook.com^
+--- filters
+
+ghostery_id: 2056

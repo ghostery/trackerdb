@@ -1,0 +1,14 @@
+name: Syncapse
+category: advertising
+website_url: http://www.clickable.com/
+organization: syncapse
+
+--- domains
+cn.clickable.net
+--- domains
+
+--- filters
+||cn.clickable.net/js/cct.js
+--- filters
+
+ghostery_id: 367

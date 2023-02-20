@@ -1,0 +1,26 @@
+name: Impact Radius
+category: essential
+website_url: http://www.impactradius.com/
+organization: impact_radius
+
+--- domains
+7eer.net
+d3cxv97fi8q177.cloudfront.net
+evyy.net
+impactradius-event.com
+impactradius-tag.com
+impactradius.com
+ojrq.net
+r7ls.net
+--- domains
+
+--- filters
+||7eer.net^
+||d3cxv97fi8q177.cloudfront.net^
+||evyy.net^
+||impactradius.com^
+||ojrq.net^
+||r7ls.net^
+--- filters
+
+ghostery_id: 1330

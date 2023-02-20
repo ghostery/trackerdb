@@ -1,0 +1,15 @@
+name: RedHelper
+category: customer_interaction
+website_url: http://redhelper.com/
+organization: redhelper
+
+--- domains
+redhelper.ru
+--- domains
+
+--- filters
+||data.redhelper.ru^
+||web.redhelper.ru/service/
+--- filters
+
+ghostery_id: 2126

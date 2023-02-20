@@ -1,0 +1,16 @@
+name: Adbooth
+category: advertising
+website_url: http://www.adbooth.com/
+organization: adbooth_media_group
+
+--- domains
+adbooth.com
+adbooth.net
+--- domains
+
+--- filters
+||adbooth.com^
+||adbooth.net^
+--- filters
+
+ghostery_id: 1969

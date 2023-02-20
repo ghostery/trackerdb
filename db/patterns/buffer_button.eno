@@ -1,0 +1,15 @@
+name: Buffer Button
+category: social_media
+website_url: http://www.bufferapp.com/
+organization: buffer
+
+--- domains
+bufferapp.com
+--- domains
+
+--- filters
+||bufferapp.com/button
+||bufferapp.com/js/button
+--- filters
+
+ghostery_id: 843

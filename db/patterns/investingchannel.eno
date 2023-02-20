@@ -1,0 +1,14 @@
+name: Investing Channel
+category: misc
+website_url: http://www.investingchannel.com/
+organization: investingchannel
+
+--- domains
+investingchannel.com
+--- domains
+
+--- filters
+||investingchannel.com^
+--- filters
+
+ghostery_id: 665

@@ -1,0 +1,16 @@
+name: Viral Loops
+category: customer_interaction
+website_url: 
+organization: viral-loops
+
+--- domains
+app.viral-loops.com
+--- domains
+
+--- filters
+||app.viral-loops.com/popup_assets/js/vl_bundle.min.js
+||app.viral-loops.com/popup_assets/js/vl_load.min.js
+||app.viral-loops.com/popup_assets/templates/sweepstake.min.js
+--- filters
+
+ghostery_id: 2516

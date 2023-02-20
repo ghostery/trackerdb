@@ -1,0 +1,14 @@
+name: RealClick
+category: advertising
+website_url: http://www.realclick.co.kr/
+organization: realclick
+
+--- domains
+realclick.co.kr
+--- domains
+
+--- filters
+||realclick.co.kr^
+--- filters
+
+ghostery_id: 2032

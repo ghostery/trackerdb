@@ -1,0 +1,16 @@
+name: wywy
+category: advertising
+website_url: http://wywy.com/
+organization: tvsquared
+
+--- domains
+wywy.com
+wywyuserservice.com
+--- domains
+
+--- filters
+||static.wywy.com/tracker.js
+||wywyuserservice.com/wyid.js
+--- filters
+
+ghostery_id: 3078

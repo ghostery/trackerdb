@@ -1,0 +1,14 @@
+name: Webmecanik
+category: site_analytics
+website_url: 
+organization: webmecanik
+
+--- domains
+automation.webmecanik.com
+--- domains
+
+--- filters
+||automation.webmecanik.com^
+--- filters
+
+ghostery_id: 2608

@@ -1,0 +1,17 @@
+name: Usersnap
+category: customer_interaction
+website_url: http://usersnap.com/
+organization: usersnap
+
+--- domains
+api.usersnap.com
+d3mvnvhjmkxpjz.cloudfront.net
+--- domains
+
+--- filters
+||api.usersnap.com^
+||d3mvnvhjmkxpjz.cloudfront.net/js/
+||d3mvnvhjmkxpjz.cloudfront.net^
+--- filters
+
+ghostery_id: 2076

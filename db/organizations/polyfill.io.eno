@@ -1,0 +1,11 @@
+name: Polyfill.io
+website_url: https://polyfill.io/v2/docs/
+privacy_policy_url: https://polyfill.io/docs/privacy-policy
+privacy_contact: 
+country: 
+description: Polyfill.io reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser. Tailor the response based on the features you're using in your app, and see our live examples to get started quickly.
+
+--- notes
+--- notes
+
+ghostery_id: 5076

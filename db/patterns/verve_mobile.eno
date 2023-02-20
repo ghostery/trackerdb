@@ -1,0 +1,16 @@
+name: Verve Mobile
+category: advertising
+website_url: http://www.vervemobile.com/
+organization: verve_mobile
+
+--- domains
+vrvm.com
+--- domains
+
+--- filters
+||adcel.vrvm.com/adtag.js
+||c.vrvm.com/pass/vrv/
+||go.vrvm.com/t
+--- filters
+
+ghostery_id: 1721

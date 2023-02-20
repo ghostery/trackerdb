@@ -1,0 +1,14 @@
+name: Survata
+category: advertising
+website_url: 
+organization: survata
+
+--- domains
+px.surveywall-api.survata.com
+--- domains
+
+--- filters
+||px.surveywall-api.survata.com/t
+--- filters
+
+ghostery_id: 3091

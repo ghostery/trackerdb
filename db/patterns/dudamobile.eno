@@ -1,0 +1,16 @@
+name: DudaMobile
+category: advertising
+website_url: 
+organization: dudamobile
+
+--- domains
+dd-cdn.multiscreensite.com
+px.multiscreensite.com
+--- domains
+
+--- filters
+||dd-cdn.multiscreensite.com/jscache/ga.js
+||px.multiscreensite.com^
+--- filters
+
+ghostery_id: 2929

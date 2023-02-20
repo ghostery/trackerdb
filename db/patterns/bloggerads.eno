@@ -1,0 +1,14 @@
+name: BloggerAds
+category: advertising
+website_url: http://www.bloggerads.net/
+organization: bloggerads
+
+--- domains
+bloggerads.net
+--- domains
+
+--- filters
+||bloggerads.net^
+--- filters
+
+ghostery_id: 1339

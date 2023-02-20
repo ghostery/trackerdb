@@ -1,0 +1,14 @@
+name: Adoric
+category: site_analytics
+website_url: 
+organization: adoric
+
+--- domains
+adoric.com
+--- domains
+
+--- filters
+||adoric.com/adoric.js
+--- filters
+
+ghostery_id: 2708

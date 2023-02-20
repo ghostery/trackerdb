@@ -1,0 +1,14 @@
+name: AdClickZone
+category: advertising
+website_url: 
+organization: adclickzone
+
+--- domains
+adclickzone.go2cloud.org
+--- domains
+
+--- filters
+||adclickzone.go2cloud.org^
+--- filters
+
+ghostery_id: 2736

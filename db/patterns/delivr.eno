@@ -1,0 +1,15 @@
+name: Delivr
+category: site_analytics
+website_url: http://www.percentmobile.com/
+organization: delivr
+
+--- domains
+tracking.percentmobile.com
+--- domains
+
+--- filters
+/percent_mobile.js
+||tracking.percentmobile.com^
+--- filters
+
+ghostery_id: 207

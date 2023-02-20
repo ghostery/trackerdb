@@ -1,0 +1,16 @@
+name: DemandMedia
+category: advertising
+website_url: http://www.demandmedia.com
+organization: leaf_group
+
+--- domains
+dmd53.com
+dmtracker.com
+--- domains
+
+--- filters
+||dmd53.com^
+||dmtracker.com/^
+--- filters
+
+ghostery_id: 304

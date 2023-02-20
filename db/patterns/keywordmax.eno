@@ -1,0 +1,14 @@
+name: KeywordMax
+category: advertising
+website_url: http://www.keywordmax.com/
+organization: digital_river
+
+--- domains
+keywordmax.com
+--- domains
+
+--- filters
+||keywordmax.com/tracking/
+--- filters
+
+ghostery_id: 336

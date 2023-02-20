@@ -1,0 +1,16 @@
+name: Monitus
+category: site_analytics
+website_url: http://www.monitus.net/
+organization: monitus
+
+--- domains
+monitus.net
+--- domains
+
+--- filters
+/monitus.js
+/monitus_tools.js
+||monitus.net^
+--- filters
+
+ghostery_id: 428

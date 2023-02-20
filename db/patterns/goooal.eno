@@ -1,0 +1,16 @@
+name: Goooal
+category: site_analytics
+website_url: http://mailchimp.com/
+organization: mailchimp
+
+--- domains
+gooal.herokuapp.com
+gooo.al
+--- domains
+
+--- filters
+||gooal.herokuapp.com^
+||gooo.al^
+--- filters
+
+ghostery_id: 1218

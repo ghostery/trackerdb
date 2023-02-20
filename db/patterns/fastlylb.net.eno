@@ -1,0 +1,11 @@
+name: Fastly
+category: cdn
+website_url: https://www.fastly.com/
+organization: fastly
+
+--- domains
+fastly.net
+fastlylb.net
+--- domains
+
+ghostery_id: 3545

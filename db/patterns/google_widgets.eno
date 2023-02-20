@@ -1,0 +1,14 @@
+name: Google Widgets
+category: customer_interaction
+website_url: http://www.google.com
+organization: google
+
+--- domains
+gmodules.com
+--- domains
+
+--- filters
+||gmodules.com^
+--- filters
+
+ghostery_id: 6

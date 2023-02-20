@@ -1,0 +1,16 @@
+name: Nativo
+category: advertising
+website_url: http://www.nativo.net/
+organization: nativo
+
+--- domains
+ntv.io
+postrelease.com
+--- domains
+
+--- filters
+||postrelease.com^
+||s.ntv.io/serve/load.js
+--- filters
+
+ghostery_id: 1528

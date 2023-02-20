@@ -1,0 +1,15 @@
+name: BidVertiser
+category: advertising
+website_url: http://www.bidvertiser.com/
+organization: bidvertiser
+
+--- domains
+bidvertiser.com
+--- domains
+
+--- filters
+||bdv.bidvertiser.com^
+||srv.bidvertiser.com^
+--- filters
+
+ghostery_id: 273

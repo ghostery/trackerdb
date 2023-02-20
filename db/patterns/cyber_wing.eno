@@ -1,0 +1,14 @@
+name: Cyber Wing
+category: advertising
+website_url: http://www.cyberwing.co.jp/
+organization: cyberwing
+
+--- domains
+cyberwing.co.jp
+--- domains
+
+--- filters
+||cyberwing.co.jp^
+--- filters
+
+ghostery_id: 1844

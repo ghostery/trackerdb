@@ -1,0 +1,14 @@
+name: Smart Selling
+category: customer_interaction
+website_url: 
+organization: smart_selling
+
+--- domains
+tracking.smartselling.cz
+--- domains
+
+--- filters
+||tracking.smartselling.cz^
+--- filters
+
+ghostery_id: 3182

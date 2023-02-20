@@ -1,0 +1,16 @@
+name: Platform161
+category: advertising
+website_url: https://platform161.com/
+organization: platform161
+
+--- domains
+creative-serving.com
+p161.net
+--- domains
+
+--- filters
+||ads.creative-serving.com^
+||p161.net^
+--- filters
+
+ghostery_id: 730

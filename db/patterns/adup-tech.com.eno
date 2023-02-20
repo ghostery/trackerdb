@@ -1,0 +1,16 @@
+name: AdUp Technology
+category: advertising
+website_url: https://www.adup-tech.com/
+organization: adup_technology
+
+--- domains
+adup-tech.com
+--- domains
+
+--- filters
+||d.adup-tech.com/t/uid
+||s.d.adup-tech.com/ads/display.js
+||s.d.adup-tech.com/jsapi
+--- filters
+
+ghostery_id: 3303

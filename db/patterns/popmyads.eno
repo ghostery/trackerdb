@@ -1,0 +1,14 @@
+name: PopMyAds
+category: advertising
+website_url: 
+organization: popmyads
+
+--- domains
+cdn.popmyads.com
+--- domains
+
+--- filters
+||cdn.popmyads.com/pma.js
+--- filters
+
+ghostery_id: 2461

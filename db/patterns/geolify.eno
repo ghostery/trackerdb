@@ -1,0 +1,14 @@
+name: Geolify
+category: advertising
+website_url: 
+organization: geolify
+
+--- domains
+geolify.com
+--- domains
+
+--- filters
+||geolify.com/geoblock.php
+--- filters
+
+ghostery_id: 3114

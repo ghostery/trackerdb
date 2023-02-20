@@ -1,0 +1,14 @@
+name: Next Performance
+category: advertising
+website_url: http://www.nextperformance.com/
+organization: nextperf
+
+--- domains
+nxtck.com
+--- domains
+
+--- filters
+||nxtck.com^
+--- filters
+
+ghostery_id: 706

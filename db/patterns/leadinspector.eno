@@ -1,0 +1,14 @@
+name: LeadInspector
+category: site_analytics
+website_url: 
+organization: leadinspector
+
+--- domains
+js.leadinspector.de
+--- domains
+
+--- filters
+||js.leadinspector.de^
+--- filters
+
+ghostery_id: 2345

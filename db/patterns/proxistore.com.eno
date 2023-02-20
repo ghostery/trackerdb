@@ -1,0 +1,14 @@
+name: Proxistore
+category: advertising
+website_url: https://www.proxistore.com/
+organization: proxistore
+
+--- domains
+proxistore.com
+--- domains
+
+--- filters
+||abs.proxistore.com^
+--- filters
+
+ghostery_id: 3229

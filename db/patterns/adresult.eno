@@ -1,0 +1,16 @@
+name: ADResult
+category: advertising
+website_url: http://www.adresult.jp/
+organization: adresult
+
+--- domains
+ad.vcm.jp
+adresult.jp
+--- domains
+
+--- filters
+||ad.vcm.jp^
+||adresult.jp^
+--- filters
+
+ghostery_id: 2064

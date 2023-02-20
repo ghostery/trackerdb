@@ -1,0 +1,18 @@
+name: Acxiom
+category: advertising
+website_url: http://www.acxiom.com
+organization: acxiom
+
+--- domains
+acxiom-online.com
+acxiom.com
+--- domains
+
+--- filters
+||acxiom-online.com^
+||acxiom.com^
+||mm7.net^
+||p-eu.acxiom-online.com^
+--- filters
+
+ghostery_id: 497

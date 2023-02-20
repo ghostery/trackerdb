@@ -1,0 +1,14 @@
+name: AdBrite
+category: advertising
+website_url: http://www.adbrite.com/
+organization: centro
+
+--- domains
+adbrite.com
+--- domains
+
+--- filters
+||adbrite.com^
+--- filters
+
+ghostery_id: 73

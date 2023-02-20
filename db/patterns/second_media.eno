@@ -1,0 +1,14 @@
+name: Second Media
+category: advertising
+website_url: http://www.secondmedia.com/
+organization: second_media
+
+--- domains
+tacticalrepublic.com
+--- domains
+
+--- filters
+||tacticalrepublic.com^
+--- filters
+
+ghostery_id: 2067

@@ -1,0 +1,14 @@
+name: Repost.us
+category: advertising
+website_url: http://www.freerangecontent.com/
+organization: repost
+
+--- domains
+rp-api.com
+--- domains
+
+--- filters
+||rp-api.com/rjs/repost
+--- filters
+
+ghostery_id: 1033

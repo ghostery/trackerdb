@@ -1,0 +1,16 @@
+name: Enecto Analytics
+category: site_analytics
+website_url: http://www.enecto.com/en/
+organization: enecto
+
+--- domains
+enectoanalytics.com
+trk.enecto.com
+--- domains
+
+--- filters
+||enectoanalytics.com^
+||trk.enecto.com^
+--- filters
+
+ghostery_id: 985

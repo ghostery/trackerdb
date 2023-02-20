@@ -1,0 +1,14 @@
+name: adsnative
+category: advertising
+website_url: http://www.adsnative.com/
+organization: adsnative
+
+--- domains
+adsnative.com
+--- domains
+
+--- filters
+||adsnative.com^
+--- filters
+
+ghostery_id: 2059

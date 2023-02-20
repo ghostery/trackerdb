@@ -1,0 +1,24 @@
+name: Adknowledge
+category: advertising
+website_url: http://www.adknowledge.com/
+organization: adknowledge
+
+--- domains
+adkengage.com
+adknowledge.com
+bidsystem.com
+blogads.com
+cubics.com
+yarpp.org
+--- domains
+
+--- filters
+||adkengage.com^
+||adknowledge.com^
+||bidsystem.com^
+||blogads.com^
+||cubics.com^
+||yarpp.org/pixels/
+--- filters
+
+ghostery_id: 145

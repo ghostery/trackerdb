@@ -1,0 +1,14 @@
+name: Publir
+category: advertising
+website_url: http://www.publir.com
+organization: publir
+
+--- domains
+intgr.net
+--- domains
+
+--- filters
+||intgr.net^
+--- filters
+
+ghostery_id: 2041

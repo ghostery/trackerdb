@@ -1,0 +1,14 @@
+name: Nanigans
+category: advertising
+website_url: http://www.nanigans.com/
+organization: nanigans
+
+--- domains
+nanigans.com
+--- domains
+
+--- filters
+||nanigans.com^
+--- filters
+
+ghostery_id: 1362

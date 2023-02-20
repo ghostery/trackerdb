@@ -1,0 +1,47 @@
+name: Tealium
+organization: tealium
+category: essential
+website_url: https://www.tealium.com/
+
+--- domains
+tealium.com
+tealium.hs.llnwd.net
+tealiumiq.com
+--- domains
+
+--- filters
+##.js-tealium-newsletter
+.tealium.$domain=~tealium.co.jp|~tealium.com
+/analytics/tealium-
+/ctd-tealium.
+/di-tealium.
+/js/tealium/*
+/o_tealium.
+/tealium-analytics.
+/tealium-api/*
+/tealium-udo.
+/tealium-utag-
+/tealium-utag-
+/tealium-web/*
+/tealium.html?
+/tealium.js
+/tealiumAnalytics.
+/tealiumTagsData.
+/tealiumpixel.
+/utag-dit.js
+/utag.ga.
+/utag.handler.js
+/utag.js
+/utag.loader-
+/utag.loader.
+/utag.loader.js
+/utag.sync.
+/utag_data.
+||tealium.com^
+||tealium.hs.llnwd.net^
+||tealiumiq.com^
+||tealiumiq.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|transfermarkt.de
+||tealiumiq.com^$third-party
+--- filters
+
+ghostery_id: 505

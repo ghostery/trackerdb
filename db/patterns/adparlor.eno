@@ -1,0 +1,16 @@
+name: AdParlor
+category: advertising
+website_url: http://www.adparlor.com/
+organization: fluent
+
+--- domains
+adparlor.com
+adparlour.com
+--- domains
+
+--- filters
+||adparlor.com^
+||adparlour.com^
+--- filters
+
+ghostery_id: 1775

@@ -1,0 +1,14 @@
+name: Mooxar
+category: advertising
+website_url: 
+organization: mooxar
+
+--- domains
+mooxar.com
+--- domains
+
+--- filters
+||mooxar.com^
+--- filters
+
+ghostery_id: 1986

@@ -1,0 +1,18 @@
+name: Adform
+category: advertising
+website_url: http://www.adform.com
+organization: adform
+
+--- domains
+adform.net
+adformdsp.net
+seadform.net
+--- domains
+
+--- filters
+||adform.net^
+||adformdsp.net^
+||track.adform.net/serving/scripts/trackpoint/async
+--- filters
+
+ghostery_id: 609

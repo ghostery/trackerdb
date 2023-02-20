@@ -1,0 +1,20 @@
+name: SpotX
+category: advertising
+website_url: https://www.spotx.tv/
+organization: rtl_group
+
+--- domains
+spotx.tv
+spotxcdn.com
+spotxchange.com
+--- domains
+
+--- filters
+||aka.spotxcdn.com^
+||js.spotx.tv/directsdk/v1/236177.js
+||js.spotx.tv/easi/v1
+||spotxchange.com/track
+||spotxchange.com^
+--- filters
+
+ghostery_id: 503

@@ -1,0 +1,14 @@
+name: CrossEngage
+category: site_analytics
+website_url: 
+organization: crossengage
+
+--- domains
+crossengage.io
+--- domains
+
+--- filters
+||app.crossengage.io/analytics.min.js
+--- filters
+
+ghostery_id: 2621

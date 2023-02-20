@@ -1,0 +1,15 @@
+name: ad:C media
+category: advertising
+website_url: http://www.adcmedia.de/en/
+organization: ad:c_media
+
+--- domains
+adc-serv.net
+adc-srv.net
+--- domains
+
+--- filters
+||adc-serv.net^
+--- filters
+
+ghostery_id: 1367

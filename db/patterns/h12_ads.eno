@@ -1,0 +1,16 @@
+name: H12 Ads
+category: advertising
+website_url: http://www.h12-media.com/
+organization: h12_media_ads
+
+--- domains
+h12-media.com
+h12-media.net
+--- domains
+
+--- filters
+||h12-media.com^
+||h12-media.net^
+--- filters
+
+ghostery_id: 1940

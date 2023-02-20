@@ -1,0 +1,19 @@
+name: Adhese
+category: advertising
+website_url: http://adhese.com
+organization: adhese
+
+--- domains
+adhese.be
+adhese.com
+adhese.net
+--- domains
+
+--- filters
+||1.adhesecdn.be/pool/lib/
+||adhese.be^
+||adhese.com^
+||adhese.net^
+--- filters
+
+ghostery_id: 958

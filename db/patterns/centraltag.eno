@@ -1,0 +1,14 @@
+name: CentralTag
+category: advertising
+website_url: http://www.centraltag.com/
+organization: centraltag
+
+--- domains
+centraltag.com
+--- domains
+
+--- filters
+||centraltag.com^
+--- filters
+
+ghostery_id: 1287

@@ -1,0 +1,15 @@
+name: Booster Video
+category: audio_video_player
+website_url: 
+organization: booster_video
+
+--- domains
+boostervideo.ru
+--- domains
+
+--- filters
+||boostervideo.ru/client/boostervideo.js
+||boostervideo.ru/getcode/boostervideo.js
+--- filters
+
+ghostery_id: 3296

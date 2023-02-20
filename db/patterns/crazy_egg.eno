@@ -1,0 +1,19 @@
+name: Crazy Egg
+category: site_analytics
+website_url: http://crazyegg.com/
+organization: crazy_egg
+
+--- domains
+cetrk.com
+crazyegg.com
+dnn506yrbagrg.cloudfront.net
+--- domains
+
+--- filters
+||cetrk.com^
+||crazyegg.com^
+||dnn506yrbagrg.cloudfront.net^
+||s3.amazonaws.com/new.cetrk.com
+--- filters
+
+ghostery_id: 20

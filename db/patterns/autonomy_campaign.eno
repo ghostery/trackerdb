@@ -1,0 +1,16 @@
+name: Autonomy Campaign
+category: advertising
+website_url: http://www.autonomy.com/
+organization: hp
+
+--- domains
+oc-track.autonomycloud.com
+track.yieldsoftware.com
+--- domains
+
+--- filters
+||oc-track.autonomycloud.com^
+||track.yieldsoftware.com^
+--- filters
+
+ghostery_id: 1631

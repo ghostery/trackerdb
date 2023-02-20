@@ -1,0 +1,16 @@
+name: FMAdserving
+category: advertising
+website_url: http://www.fmadserving.dk/
+organization: fm_adserving
+
+--- domains
+adservinghost.com
+adservinginternational.com
+--- domains
+
+--- filters
+||adservinghost.com^
+||adservinginternational.com^
+--- filters
+
+ghostery_id: 1994

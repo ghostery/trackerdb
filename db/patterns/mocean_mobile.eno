@@ -1,0 +1,16 @@
+name: mOcean Mobile
+category: advertising
+website_url: http://www.moceanmobile.com/
+organization: pubmatic
+
+--- domains
+ads.mocean.mobi
+ads.moceanads.com
+--- domains
+
+--- filters
+||ads.mocean.mobi^
+||ads.moceanads.com^
+--- filters
+
+ghostery_id: 1717

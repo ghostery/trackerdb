@@ -1,0 +1,15 @@
+name: ThreatMetrix
+category: site_analytics
+website_url: http://threatmetrix.com/
+organization: threatmetrix
+
+--- domains
+online-metrix.net
+--- domains
+
+--- filters
+||online-metrix.net/fp
+||online-metrix.net/fp/check.js
+--- filters
+
+ghostery_id: 1060

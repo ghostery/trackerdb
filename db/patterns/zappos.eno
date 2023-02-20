@@ -1,0 +1,14 @@
+name: Zappos
+category: advertising
+website_url: http://www.zappos.com/
+organization: zappos
+
+--- domains
+track.zappos.com
+--- domains
+
+--- filters
+||track.zappos.com^
+--- filters
+
+ghostery_id: 1682

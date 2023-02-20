@@ -1,0 +1,14 @@
+name: MyStat
+category: social_media
+website_url: http://mystat.hu/
+organization: myst_statistics
+
+--- domains
+stat.mystat.hu
+--- domains
+
+--- filters
+||stat.mystat.hu^
+--- filters
+
+ghostery_id: 1013

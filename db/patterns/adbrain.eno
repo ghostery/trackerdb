@@ -1,0 +1,14 @@
+name: Adbrain
+category: site_analytics
+website_url: https://www.adbrain.com/
+organization: adbrain
+
+--- domains
+adbrn.com
+--- domains
+
+--- filters
+||sp.adbrn.com/match
+--- filters
+
+ghostery_id: 2851

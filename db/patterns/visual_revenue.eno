@@ -1,0 +1,14 @@
+name: Visual Revenue
+category: site_analytics
+website_url: http://visualrevenue.com/
+organization: outbrain
+
+--- domains
+visualrevenue.com
+--- domains
+
+--- filters
+||visualrevenue.com^
+--- filters
+
+ghostery_id: 689

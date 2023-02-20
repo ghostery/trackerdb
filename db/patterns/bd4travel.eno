@@ -1,0 +1,14 @@
+name: bd4travel
+category: advertising
+website_url: 
+organization: bd4travel
+
+--- domains
+tracking.bd4travel.com
+--- domains
+
+--- filters
+||tracking.bd4travel.com^
+--- filters
+
+ghostery_id: 3171

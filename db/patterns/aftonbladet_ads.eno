@@ -1,0 +1,14 @@
+name: Aftonbladet Ads
+category: advertising
+website_url: http://annonswebb.aftonbladet.se/
+organization: aftonbladet
+
+--- domains
+ads.aftonbladet.se
+--- domains
+
+--- filters
+||ads.aftonbladet.se^
+--- filters
+
+ghostery_id: 1749

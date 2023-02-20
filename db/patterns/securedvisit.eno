@@ -1,0 +1,14 @@
+name: SecuredVisit
+category: advertising
+website_url: http://securedvisit.com/
+organization: securedvisit
+
+--- domains
+securedvisit.com
+--- domains
+
+--- filters
+||securedvisit.com^
+--- filters
+
+ghostery_id: 1335

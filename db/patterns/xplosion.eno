@@ -1,0 +1,14 @@
+name: xplosion
+category: advertising
+website_url: http://www.xplosion.de/
+organization: xplosion_interactive
+
+--- domains
+xplosion.de
+--- domains
+
+--- filters
+||xplosion.de^
+--- filters
+
+ghostery_id: 892

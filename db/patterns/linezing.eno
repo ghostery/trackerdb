@@ -1,0 +1,14 @@
+name: LineZing
+category: advertising
+website_url: http://www.linezing.com/
+organization: linezing
+
+--- domains
+tongji.linezing.com
+--- domains
+
+--- filters
+||tongji.linezing.com^
+--- filters
+
+ghostery_id: 777

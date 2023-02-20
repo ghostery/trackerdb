@@ -1,0 +1,28 @@
+name: Google Adsense
+category: advertising
+website_url: https://www.google.com/adsense/
+organization: google
+alias: google_syndication
+
+--- filters
+||ade.googlesyndication.com/ddm/activity_ext
+||adservice.google.com/adsid/integrator.js
+||feedads.g.doubleclick.net^
+||google.com/adsense/domains/caf.js
+||google.com/adsense/search/ads.js
+||google.com/adsense/search/async-ads.js
+||google.com/afsonline/show_afs_ads.js
+||google.com/uds/afs
+||googleadservices.com/pagead/aclk
+||googlesyndication.com/apps/domainpark/
+||googlesyndication.com/pagead/
+||googlesyndication.com/simgad/
+||pagead2.googlesyndication.com/activeview
+||pagead2.googlesyndication.com/bg
+||pagead2.googlesyndication.com/pagead/osd.js
+||pagead2.googlesyndication.com/pub-config/*/ca-pub-*.js^
+||partner.googleadservices.com/gampad/
+||tpc.googlesyndication.com/sodar
+--- filters
+
+ghostery_id: 37

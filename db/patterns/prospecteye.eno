@@ -1,0 +1,14 @@
+name: ProspectEye
+category: advertising
+website_url: https://www.prospecteye.com/
+organization: prospecteye
+
+--- domains
+tr.prospecteye.com
+--- domains
+
+--- filters
+||tr.prospecteye.com^
+--- filters
+
+ghostery_id: 1968

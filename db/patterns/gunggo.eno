@@ -1,0 +1,14 @@
+name: Gunggo
+category: advertising
+website_url: http://www.gunggo.com/
+organization: gunggo
+
+--- domains
+gunggo.com
+--- domains
+
+--- filters
+||gunggo.com^
+--- filters
+
+ghostery_id: 75

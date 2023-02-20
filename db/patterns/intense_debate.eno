@@ -1,0 +1,14 @@
+name: Intense Debate
+category: customer_interaction
+website_url: http://intensedebate.com/
+organization: automattic
+
+--- domains
+intensedebate.com
+--- domains
+
+--- filters
+||intensedebate.com/js/
+--- filters
+
+ghostery_id: 92

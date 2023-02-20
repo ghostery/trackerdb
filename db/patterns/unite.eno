@@ -1,0 +1,14 @@
+name: Unite
+category: advertising
+website_url: http://unite.me/#
+organization: unite
+
+--- domains
+uadx.com
+--- domains
+
+--- filters
+||uadx.com^
+--- filters
+
+ghostery_id: 1761

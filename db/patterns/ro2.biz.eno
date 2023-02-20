@@ -1,0 +1,14 @@
+name: Ro2.biz
+category: advertising
+website_url: http://ro2.biz/index.php?r=adikku
+organization: ro2.biz
+
+--- domains
+ro2.biz
+--- domains
+
+--- filters
+||ro2.biz^
+--- filters
+
+ghostery_id: 1818

@@ -1,0 +1,14 @@
+name: Earnify
+category: advertising
+website_url: 
+organization: earnify
+
+--- domains
+cdn.earnify.com
+--- domains
+
+--- filters
+||cdn.earnify.com^
+--- filters
+
+ghostery_id: 2547

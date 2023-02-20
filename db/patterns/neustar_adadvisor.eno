@@ -1,0 +1,14 @@
+name: Neustar AdAdvisor
+category: advertising
+website_url: http://www.targusinfo.com/
+organization: neustar
+
+--- domains
+adadvisor.net
+--- domains
+
+--- filters
+||adadvisor.net^
+--- filters
+
+ghostery_id: 443

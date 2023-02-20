@@ -1,0 +1,20 @@
+name: ResponseTap
+category: advertising
+website_url: http://www.adinsight.eu/
+organization: responsetap
+
+--- domains
+adinsight.com
+adinsight.eu
+responsetap.com
+--- domains
+
+--- filters
+||adinsight.com^
+||adinsight.eu^
+||metrics.responsetap.com/static/scripts/rtaptrack.min.js
+||responsetap.com^
+||static-ssl.responsetap.com/static/scripts/rTapTrack.min.js
+--- filters
+
+ghostery_id: 889

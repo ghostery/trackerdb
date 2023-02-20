@@ -1,0 +1,15 @@
+name: AdFocus
+category: advertising
+website_url: http://adfoc.us/
+organization: adfoc.us
+
+--- domains
+adfoc.us
+--- domains
+
+--- filters
+||adfoc.us/js/fullpage/script.js
+||adfoc.us/js/siteoverlay/script.js
+--- filters
+
+ghostery_id: 1995

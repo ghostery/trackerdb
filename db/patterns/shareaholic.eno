@@ -1,0 +1,20 @@
+name: Shareaholic
+category: site_analytics
+website_url: https://www.shareaholic.com/
+organization: shareaholic
+
+--- domains
+dtym7iokkjlif.cloudfront.net
+shareaholic.com
+--- domains
+
+--- filters
+||analytics.shareaholic.com^
+||cdn.shareaholic.com/media/js/
+||cm.shareaholic.com^
+||dtym7iokkjlif.cloudfront.net/dough/1.0/
+||dtym7iokkjlif.cloudfront.net/media/js/
+||shareaholic.com/analytics_frame.html
+--- filters
+
+ghostery_id: 1421

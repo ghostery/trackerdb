@@ -1,0 +1,14 @@
+name: Maxlab
+category: advertising
+website_url: http://maxlab.ru
+organization: maxlab
+
+--- domains
+maxlab.ru
+--- domains
+
+--- filters
+||maxlab.ru^
+--- filters
+
+ghostery_id: 1311

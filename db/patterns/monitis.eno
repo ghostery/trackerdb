@@ -1,0 +1,14 @@
+name: Monitis
+category: site_analytics
+website_url: http://www.monitis.com/
+organization: monitis
+
+--- domains
+track.monitis.com
+--- domains
+
+--- filters
+||track.monitis.com^
+--- filters
+
+ghostery_id: 1416

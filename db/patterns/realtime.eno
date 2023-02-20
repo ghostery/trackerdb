@@ -1,0 +1,16 @@
+name: Realtime
+category: customer_interaction
+website_url: http://www.realtime.co/
+organization: realtime
+
+--- domains
+powermarketing.com
+realtime.co
+webspectator.com
+--- domains
+
+--- filters
+||realtime.co^
+--- filters
+
+ghostery_id: 1211

@@ -1,0 +1,16 @@
+name: BridgeTrack
+category: advertising
+website_url: http://www.bridgetrack.com/
+organization: bridgetrack
+
+--- domains
+bridgetrack.com
+--- domains
+
+--- filters
+||ads.bridgetrack.com^
+||bridgetrack.com/a/s/
+||bridgetrack.com/track
+--- filters
+
+ghostery_id: 361

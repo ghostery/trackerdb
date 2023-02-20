@@ -1,0 +1,14 @@
+name: SingleFeed
+category: advertising
+website_url: https://www.singlefeed.com/
+organization: singlefeed
+
+--- domains
+reporting.singlefeed.com
+--- domains
+
+--- filters
+||reporting.singlefeed.com^
+--- filters
+
+ghostery_id: 816

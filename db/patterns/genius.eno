@@ -1,0 +1,14 @@
+name: Genius
+category: site_analytics
+website_url: http://www.genius.com/
+organization: genius
+
+--- domains
+rsvpgenius.com
+--- domains
+
+--- filters
+||rsvpgenius.com^
+--- filters
+
+ghostery_id: 234

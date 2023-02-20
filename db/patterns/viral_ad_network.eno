@@ -1,0 +1,14 @@
+name: Viral Ad Network
+category: advertising
+website_url: http://viraladnetwork.joinvan.com/
+organization: viral_ad_network
+
+--- domains
+viraladnetwork.net
+--- domains
+
+--- filters
+||viraladnetwork.net^
+--- filters
+
+ghostery_id: 2030

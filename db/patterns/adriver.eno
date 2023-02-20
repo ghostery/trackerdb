@@ -1,0 +1,14 @@
+name: AdRiver
+category: advertising
+website_url: http://www.adriver.ru/
+organization: ad_river
+
+--- domains
+adriver.ru
+--- domains
+
+--- filters
+||adriver.ru^
+--- filters
+
+ghostery_id: 209

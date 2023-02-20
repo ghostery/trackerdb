@@ -1,0 +1,14 @@
+name: StickyAds
+category: advertising
+website_url: 
+organization: comcast
+
+--- domains
+stickyadstv.com
+--- domains
+
+--- filters
+||ads.stickyadstv.com^
+--- filters
+
+ghostery_id: 2348

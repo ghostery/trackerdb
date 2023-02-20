@@ -1,0 +1,14 @@
+name: Spongecell
+category: advertising
+website_url: http://www.spongecell.com/
+organization: spongecell
+
+--- domains
+spongecell.com
+--- domains
+
+--- filters
+||spongecell.com^
+--- filters
+
+ghostery_id: 528

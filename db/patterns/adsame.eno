@@ -1,0 +1,14 @@
+name: Adsame
+category: advertising
+website_url: http://adsame.com/
+organization: adsame
+
+--- domains
+adsame.com
+--- domains
+
+--- filters
+||adsame.com^
+--- filters
+
+ghostery_id: 1242

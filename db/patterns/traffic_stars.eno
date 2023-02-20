@@ -1,0 +1,15 @@
+name: Traffic Stars
+category: pornvertising
+website_url: 
+organization: traffic_stars
+
+--- domains
+trafficstars.com
+tsyndicate.com
+--- domains
+
+--- filters
+||cdn.trafficstars.com/sdk/v1/bi.js
+--- filters
+
+ghostery_id: 2817

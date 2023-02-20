@@ -1,0 +1,23 @@
+name: eBay Stats
+category: advertising
+website_url: https://partnernetwork.ebay.com/
+organization: ebay_partner_network
+
+--- domains
+classistatic.de
+ebay-us.com
+ebay.com
+ebay.de
+ebayclassifiedsgroup.com
+ebaycommercenetwork.com
+ebaydesc.com
+ebayimg.com
+ebayrtm.com
+ebaystatic.com
+--- domains
+
+--- filters
+||rover.ebay.com^
+--- filters
+
+ghostery_id: 233

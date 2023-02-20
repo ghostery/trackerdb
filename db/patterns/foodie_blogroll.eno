@@ -1,0 +1,15 @@
+name: Foodie Blogroll
+category: social_media
+website_url: http://www.foodieblogroll.com
+organization: foodie_blogroll
+
+--- domains
+foodieblogroll.com
+--- domains
+
+--- filters
+||ads.foodieblogroll.com^
+||widget.foodieblogroll.com^
+--- filters
+
+ghostery_id: 1034

@@ -1,0 +1,14 @@
+name: Admixer
+category: advertising
+website_url: https://admixer.net/
+organization: admixer
+
+--- domains
+admixer.net
+--- domains
+
+--- filters
+||admixer.net^
+--- filters
+
+ghostery_id: 1852

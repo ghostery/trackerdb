@@ -1,0 +1,14 @@
+name: uTarget
+category: advertising
+website_url: http://utarget.ru/
+organization: utarget
+
+--- domains
+utarget.ru
+--- domains
+
+--- filters
+||utarget.ru/jsclck
+--- filters
+
+ghostery_id: 1318

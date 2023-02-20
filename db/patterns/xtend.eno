@@ -1,0 +1,14 @@
+name: XTEND
+category: advertising
+website_url: http://www.xtendmedia.com/
+organization: matomy_media
+
+--- domains
+xtendmedia.com
+--- domains
+
+--- filters
+||xtendmedia.com^
+--- filters
+
+ghostery_id: 344

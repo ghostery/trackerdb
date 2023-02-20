@@ -1,0 +1,16 @@
+name: Active Performance
+category: advertising
+website_url: http://www.active-performance.de/
+organization: active_performance
+
+--- domains
+active-srv02.de
+active-tracking.de
+--- domains
+
+--- filters
+||active-srv02.de^
+||active-tracking.de^
+--- filters
+
+ghostery_id: 1580

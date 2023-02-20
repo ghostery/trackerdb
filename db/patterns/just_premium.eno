@@ -1,0 +1,16 @@
+name: Just Premium
+category: advertising
+website_url: http://justpremium.com/
+organization: just_premium
+
+--- domains
+justpremium.com
+justpremium.nl
+--- domains
+
+--- filters
+||justpremium.com^
+||justpremium.nl^
+--- filters
+
+ghostery_id: 1786

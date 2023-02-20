@@ -1,0 +1,14 @@
+name: Magna Advertise
+category: advertising
+website_url: http://magna.ru/
+organization: magna_advertise
+
+--- domains
+magna.ru
+--- domains
+
+--- filters
+||magna.ru^
+--- filters
+
+ghostery_id: 1307

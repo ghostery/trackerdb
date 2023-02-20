@@ -1,0 +1,14 @@
+name: Jetpack Digital
+category: site_analytics
+website_url: http://www.jetpack.com/
+organization: jetpack_digital
+
+--- domains
+jetpackdigital.com
+--- domains
+
+--- filters
+||jetpackdigital.com^
+--- filters
+
+ghostery_id: 1087

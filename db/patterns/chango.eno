@@ -1,0 +1,16 @@
+name: Chango
+category: advertising
+website_url: http://www.chango.com/
+organization: rubicon_project
+
+--- domains
+chango.ca
+chango.com
+--- domains
+
+--- filters
+||chango.ca^
+||chango.com^
+--- filters
+
+ghostery_id: 465

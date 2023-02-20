@@ -1,0 +1,16 @@
+name: Netmining
+category: advertising
+website_url: http://www.netmining.com/
+organization: zeta
+
+--- domains
+netmining.com
+netmng.com
+--- domains
+
+--- filters
+||netmining.com^
+||netmng.com^
+--- filters
+
+ghostery_id: 358

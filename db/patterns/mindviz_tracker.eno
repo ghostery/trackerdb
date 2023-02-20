@@ -1,0 +1,20 @@
+name: MindViz Tracker
+category: advertising
+website_url: http://mvtracker.com/
+organization: mindviz
+
+--- domains
+mvtracker.com
+--- domains
+
+--- filters
+||mvtracker.com/counter
+||mvtracker.com/digits
+||mvtracker.com/mvlive
+||mvtracker.com/stats
+||mvtracker.com/tr.x
+||mvtracker.com/ts
+||mvtracker.com/tss
+--- filters
+
+ghostery_id: 372

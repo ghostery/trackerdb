@@ -1,0 +1,14 @@
+name: Monetate
+category: site_analytics
+website_url: http://monetate.com
+organization: monetate
+
+--- domains
+monetate.net
+--- domains
+
+--- filters
+||monetate.net^
+--- filters
+
+ghostery_id: 398

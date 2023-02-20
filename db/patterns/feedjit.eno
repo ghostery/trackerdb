@@ -1,0 +1,18 @@
+name: Feedjit
+category: advertising
+website_url: http://feedjit.com/
+organization: feedjit
+
+--- domains
+feedjit.com
+log.feedjit.com
+--- domains
+
+--- filters
+||feedjit.com/b/
+||feedjit.com/map/
+||feedjit.com/serve/
+||log.feedjit.com^
+--- filters
+
+ghostery_id: 36

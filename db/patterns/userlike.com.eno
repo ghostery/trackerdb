@@ -1,0 +1,17 @@
+name: Userlike
+category: customer_interaction
+website_url: https://www.userlike.com/
+organization: userlike
+
+--- domains
+dq4irj27fs462.cloudfront.net
+userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
+userlike.com
+--- domains
+
+--- filters
+||api.userlike.com^
+||userlike-cdn-widgets.s3-eu-west-1.amazonaws.com^
+--- filters
+
+ghostery_id: 3155

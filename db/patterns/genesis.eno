@@ -1,0 +1,14 @@
+name: Genesis
+category: advertising
+website_url: http://genesismedia.com/
+organization: genesis_media
+
+--- domains
+genesismedia.com
+--- domains
+
+--- filters
+||genesismedia.com^
+--- filters
+
+ghostery_id: 1913

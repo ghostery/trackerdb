@@ -1,0 +1,17 @@
+name: ChartBeat
+category: site_analytics
+website_url: http://chartbeat.com/
+organization: chartbeat
+
+--- domains
+chartbeat.com
+chartbeat.net
+--- domains
+
+--- filters
+/chartbeat.js
+||chartbeat.com^
+||chartbeat.net^
+--- filters
+
+ghostery_id: 58

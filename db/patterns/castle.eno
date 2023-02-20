@@ -1,0 +1,14 @@
+name: Castle
+category: customer_interaction
+website_url: 
+organization: castle
+
+--- domains
+t.castle.io
+--- domains
+
+--- filters
+||t.castle.io/v1
+--- filters
+
+ghostery_id: 3192

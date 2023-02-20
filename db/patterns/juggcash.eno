@@ -1,0 +1,16 @@
+name: JuggCash
+category: pornvertising
+website_url: http://www.juggcash.com
+organization: juggcash
+
+--- domains
+contentabc.com
+mofos.com
+--- domains
+
+--- filters
+||ads.mofos.com^
+||contentabc.com^
+--- filters
+
+ghostery_id: 1148

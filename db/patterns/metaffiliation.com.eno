@@ -1,0 +1,16 @@
+name: Netaffiliation
+category: advertising
+website_url: http://netaffiliation.com/
+organization: kwanko
+
+--- domains
+metaffiliation.com
+netaffiliation.com
+--- domains
+
+--- filters
+||metaffiliation.com^
+||netaffiliation.com^
+--- filters
+
+ghostery_id: 1015

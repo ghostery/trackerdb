@@ -1,0 +1,11 @@
+name: Google Website Optimizer
+category: site_analytics
+website_url: https://www.google.com/analytics/siteopt/prev
+organization: google
+alias: google_analytics
+
+--- filters
+||google-analytics.com/siteopt.js
+--- filters
+
+ghostery_id: 225

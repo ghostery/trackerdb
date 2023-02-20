@@ -1,0 +1,14 @@
+name: Cooliris
+category: customer_interaction
+website_url: http://www.cooliris.com
+organization: cooliris
+
+--- domains
+lite.piclens.com
+--- domains
+
+--- filters
+||lite.piclens.com^
+--- filters
+
+ghostery_id: 1609

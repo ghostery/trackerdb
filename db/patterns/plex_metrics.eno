@@ -1,0 +1,16 @@
+name: Plex Metrics
+category: site_analytics
+website_url: 
+organization: plex
+
+--- domains
+analytics.plex.tv
+metrics.plex.tv
+--- domains
+
+--- filters
+||analytics.plex.tv^
+||metrics.plex.tv^
+--- filters
+
+ghostery_id: 3020

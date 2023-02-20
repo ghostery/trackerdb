@@ -1,0 +1,14 @@
+name: Marktest
+category: advertising
+website_url: http://www.marktest.com/
+organization: marktest_group
+
+--- domains
+netscope.data.marktest.pt
+--- domains
+
+--- filters
+||netscope.data.marktest.pt^
+--- filters
+
+ghostery_id: 687

@@ -1,0 +1,14 @@
+name: Adslot
+category: advertising
+website_url: http://www.adslot.com/
+organization: adslot
+
+--- domains
+adslot.com
+--- domains
+
+--- filters
+||adslot.com^
+--- filters
+
+ghostery_id: 1840

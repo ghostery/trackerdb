@@ -1,0 +1,14 @@
+name: Nativeroll
+category: audio_video_player
+website_url: 
+organization: native_roll
+
+--- domains
+cdn01.nativeroll.tv
+--- domains
+
+--- filters
+||cdn01.nativeroll.tv/js/seedr-player.min.js
+--- filters
+
+ghostery_id: 3022

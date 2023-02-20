@@ -1,0 +1,14 @@
+name: Intimate Merger
+category: site_analytics
+website_url: 
+organization: intimate_merger
+
+--- domains
+im-apps.net
+--- domains
+
+--- filters
+||sync.im-apps.net^
+--- filters
+
+ghostery_id: 2588

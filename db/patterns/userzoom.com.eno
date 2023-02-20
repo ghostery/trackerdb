@@ -1,0 +1,14 @@
+name: UserZoom
+category: customer_interaction
+website_url: https://www.userzoom.com/
+organization: userzoom
+
+--- domains
+userzoom.com
+--- domains
+
+--- filters
+||userzoom.com^
+--- filters
+
+ghostery_id: 1219

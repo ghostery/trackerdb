@@ -1,0 +1,15 @@
+name: Spicy
+category: advertising
+website_url: 
+organization: spicy_ssp
+
+--- domains
+static.sspicy.ru
+--- domains
+
+--- filters
+||adv.sspicy.ru/load
+||static.sspicy.ru/theme/sspicy/adload_async.js
+--- filters
+
+ghostery_id: 3025

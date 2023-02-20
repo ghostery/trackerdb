@@ -1,0 +1,14 @@
+name: QCRI Analytics
+category: site_analytics
+website_url: http://qcri.org/
+organization: qatar_computing_research_institute
+
+--- domains
+track.qcri.org
+--- domains
+
+--- filters
+||track.qcri.org^
+--- filters
+
+ghostery_id: 1396

@@ -1,0 +1,14 @@
+name: sendinblue
+category: advertising
+website_url: 
+organization: sendinblue
+
+--- domains
+sibautomation.com
+--- domains
+
+--- filters
+||sibautomation.com/sa.js
+--- filters
+
+ghostery_id: 3196

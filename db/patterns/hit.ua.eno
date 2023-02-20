@@ -1,0 +1,14 @@
+name: HIT.UA
+category: advertising
+website_url: http://hit.ua/
+organization: hit.ua
+
+--- domains
+hit.ua
+--- domains
+
+--- filters
+||hit.ua^
+--- filters
+
+ghostery_id: 1327

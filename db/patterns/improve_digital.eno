@@ -1,0 +1,14 @@
+name: Improve Digital
+category: advertising
+website_url: http://www.improvedigital.com/
+organization: improve_digital
+
+--- domains
+360yield.com
+--- domains
+
+--- filters
+||ad.360yield.com^
+--- filters
+
+ghostery_id: 893

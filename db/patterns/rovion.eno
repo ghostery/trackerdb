@@ -1,0 +1,14 @@
+name: Rovion
+category: advertising
+website_url: http://www.rovion.com/
+organization: rovion
+
+--- domains
+rovion.com
+--- domains
+
+--- filters
+||rovion.com^
+--- filters
+
+ghostery_id: 748

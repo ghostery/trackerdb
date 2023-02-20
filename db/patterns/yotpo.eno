@@ -1,0 +1,14 @@
+name: Yotpo
+category: comments
+website_url: https://www.yotpo.com/
+organization: yotpo
+
+--- domains
+yotpo.com
+--- domains
+
+--- filters
+||yotpo.com^
+--- filters
+
+ghostery_id: 1622

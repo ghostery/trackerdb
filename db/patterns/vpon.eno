@@ -1,0 +1,14 @@
+name: VPON
+category: advertising
+website_url: 
+organization: vpon
+
+--- domains
+c-dsp.vpadn.com
+--- domains
+
+--- filters
+||c-dsp.vpadn.com/segment
+--- filters
+
+ghostery_id: 3032

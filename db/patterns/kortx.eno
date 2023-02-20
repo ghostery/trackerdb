@@ -1,0 +1,15 @@
+name: Kortx
+category: site_analytics
+website_url: 
+organization: kortx
+
+--- domains
+trackit.ktxlytics.io
+--- domains
+
+--- filters
+||tagit.ktxlytics.io/containers/30.js
+||trackit.ktxlytics.io/ktx.js
+--- filters
+
+ghostery_id: 2577

@@ -1,0 +1,14 @@
+name: Ruhrgebiet
+category: advertising
+website_url: 
+organization: ruhrgebiet
+
+--- domains
+tracker.ruhrgebiet-onlineservices.de
+--- domains
+
+--- filters
+||tracker.ruhrgebiet-onlineservices.de/tracker.js
+--- filters
+
+ghostery_id: 2908

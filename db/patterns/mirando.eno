@@ -1,0 +1,14 @@
+name: Mirando
+category: advertising
+website_url: http://mirando.de
+organization: mirando
+
+--- domains
+get.mirando.de
+--- domains
+
+--- filters
+||get.mirando.de^
+--- filters
+
+ghostery_id: 275

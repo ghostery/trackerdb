@@ -1,0 +1,14 @@
+name: Storify
+category: advertising
+website_url: https://storify.com/
+organization: adobe
+
+--- domains
+storify.com
+--- domains
+
+--- filters
+||storify.com^
+--- filters
+
+ghostery_id: 2581

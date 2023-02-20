@@ -1,0 +1,14 @@
+name: Bench Platform
+category: advertising
+website_url: 
+organization: bench_platform
+
+--- domains
+tag.benchplatform.com
+--- domains
+
+--- filters
+||tag.benchplatform.com/benchmarketingsmarttag/
+--- filters
+
+ghostery_id: 3231

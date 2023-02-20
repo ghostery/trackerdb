@@ -1,0 +1,14 @@
+name: Yandex AdExchange
+category: advertising
+website_url: 
+organization: yandex
+
+--- domains
+yandexadexchange.net
+--- domains
+
+--- filters
+||st.yandexadexchange.net^
+--- filters
+
+ghostery_id: 2914

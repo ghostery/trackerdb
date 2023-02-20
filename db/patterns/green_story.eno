@@ -1,0 +1,14 @@
+name: Green Story
+category: site_analytics
+website_url: https://greenstory.ca/
+organization: green_story
+
+--- domains
+greenstory.ca
+--- domains
+
+--- filters
+||greenstory.ca^
+--- filters
+
+ghostery_id: 4030

@@ -1,0 +1,15 @@
+name: Anametrix
+category: site_analytics
+website_url: http://anametrix.com/
+organization: anametrix
+
+--- domains
+anametrix.net
+--- domains
+
+--- filters
+/anametrix.js
+||anametrix.net^
+--- filters
+
+ghostery_id: 1465

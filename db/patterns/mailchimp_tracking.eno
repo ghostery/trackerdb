@@ -1,0 +1,17 @@
+name: MailChimp Tracking
+category: advertising
+website_url: http://mailchimp.com/
+organization: mailchimp
+
+--- domains
+chimpstatic.com
+list-manage.com
+mailchimp.com
+--- domains
+
+--- filters
+||list-manage*.com/track/
+||list-manage.com/track/
+--- filters
+
+ghostery_id: 810

@@ -1,0 +1,14 @@
+name: Envolve
+category: customer_interaction
+website_url: https://www.envolve.com/
+organization: envolve
+
+--- domains
+envolve.com
+--- domains
+
+--- filters
+||envolve.com^
+--- filters
+
+ghostery_id: 1757

@@ -1,0 +1,14 @@
+name: Acuity Ads
+category: advertising
+website_url: http://www.acuityads.com/
+organization: acuity_ads
+
+--- domains
+acuityplatform.com
+--- domains
+
+--- filters
+||acuityplatform.com^
+--- filters
+
+ghostery_id: 1250

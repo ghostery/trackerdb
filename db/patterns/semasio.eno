@@ -1,0 +1,14 @@
+name: Semasio
+category: advertising
+website_url: http://semasio.com/
+organization: semasio
+
+--- domains
+semasio.net
+--- domains
+
+--- filters
+||semasio.net^
+--- filters
+
+ghostery_id: 1195

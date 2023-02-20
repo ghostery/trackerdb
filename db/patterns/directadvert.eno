@@ -1,0 +1,14 @@
+name: Direct/ADVERT
+category: advertising
+website_url: http://www.directadvert.ru/
+organization: directadvert
+
+--- domains
+directadvert.ru
+--- domains
+
+--- filters
+||directadvert.ru^
+--- filters
+
+ghostery_id: 1112

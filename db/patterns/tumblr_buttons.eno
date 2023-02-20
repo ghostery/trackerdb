@@ -1,0 +1,15 @@
+name: Tumblr Buttons
+category: social_media
+website_url: http://www.tumblr.com/
+organization: verizon
+
+--- domains
+platform.tumblr.com
+--- domains
+
+--- filters
+||platform.tumblr.com/v1/follow_button.html
+||platform.tumblr.com/v1/share
+--- filters
+
+ghostery_id: 1205

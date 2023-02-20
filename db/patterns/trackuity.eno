@@ -1,0 +1,15 @@
+name: Trackuity
+category: customer_interaction
+website_url: http://www.trackuity.com/
+organization: trackuity
+
+--- domains
+trackuity.com
+--- domains
+
+--- filters
+||trackuity.
+||trackuity.com^
+--- filters
+
+ghostery_id: 2208

@@ -1,0 +1,14 @@
+name: SmarterTrack
+category: advertising
+website_url: http://www.smartertrack.com/
+organization: smartertrack
+
+--- domains
+smartertrack.com
+--- domains
+
+--- filters
+||smartertrack.com^
+--- filters
+
+ghostery_id: 2079

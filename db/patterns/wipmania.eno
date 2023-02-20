@@ -1,0 +1,14 @@
+name: WIPmania
+category: site_analytics
+website_url: http://www.wipmania.com/
+organization: wipmania
+
+--- domains
+api.wipmania.com
+--- domains
+
+--- filters
+||api.wipmania.com^
+--- filters
+
+ghostery_id: 1555

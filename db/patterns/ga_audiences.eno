@@ -1,0 +1,11 @@
+name: GA Audiences
+category: site_analytics
+website_url: 
+organization: google
+alias: google
+
+--- filters
+||google.com/ads/ga-audiences
+--- filters
+
+ghostery_id: 2827

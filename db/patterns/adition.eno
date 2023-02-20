@@ -1,0 +1,14 @@
+name: Adition
+category: advertising
+website_url: http://en.adition.com/
+organization: prosieben_sat1
+
+--- domains
+adition.com
+--- domains
+
+--- filters
+||adition.com^
+--- filters
+
+ghostery_id: 612

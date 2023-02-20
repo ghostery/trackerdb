@@ -1,0 +1,16 @@
+name: Sociable Labs
+category: advertising
+website_url: http://www.sociablelabs.com/
+organization: sociable_labs
+
+--- domains
+sociablelabs.com
+--- domains
+
+--- filters
+||api.sociablelabs.net/integration/api
+||d2ibutkotxl0ax.cloudfront.net/prod/sociable-tag.js
+||sociablelabs.com^
+--- filters
+
+ghostery_id: 1575

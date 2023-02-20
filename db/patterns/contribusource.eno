@@ -1,0 +1,14 @@
+name: Contribusource
+category: advertising
+website_url: 
+organization: contribusource
+
+--- domains
+s2.contribusourcesyndication.com
+--- domains
+
+--- filters
+||s2.contribusourcesyndication.com/trending.js.php
+--- filters
+
+ghostery_id: 2860

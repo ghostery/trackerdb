@@ -1,0 +1,15 @@
+name: Aurea ClickTracks
+category: advertising
+website_url: http://www.clicktracks.com/
+organization: aurea
+
+--- domains
+clicktracks.com
+--- domains
+
+--- filters
+/images/mlopen_track.html
+||clicktracks.com^
+--- filters
+
+ghostery_id: 153

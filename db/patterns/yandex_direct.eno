@@ -1,0 +1,19 @@
+name: Yandex.Direct
+category: site_analytics
+website_url: https://direct.yandex.com/
+organization: yandex
+
+--- domains
+an.webvisor.org
+an.yandex.ru
+bs.yandex.ru
+--- domains
+
+--- filters
+||an.webvisor.org/count
+||an.yandex.ru^
+||bs.yandex.ru/code/
+||yastatic.net/pcode/adfox/loader.js
+--- filters
+
+ghostery_id: 2992

@@ -1,0 +1,14 @@
+name: Revenue
+category: advertising
+website_url: 
+organization: revenue
+
+--- domains
+revenue.com
+--- domains
+
+--- filters
+||revenue.com/infusion.php
+--- filters
+
+ghostery_id: 2475

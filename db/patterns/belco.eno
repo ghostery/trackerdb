@@ -1,0 +1,14 @@
+name: Belco
+category: customer_interaction
+website_url: 
+organization: belco
+
+--- domains
+cdn.belco.io
+--- domains
+
+--- filters
+||cdn.belco.io/widget.min.js
+--- filters
+
+ghostery_id: 3160

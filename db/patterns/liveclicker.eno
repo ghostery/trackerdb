@@ -1,0 +1,14 @@
+name: Liveclicker
+category: customer_interaction
+website_url: http://www.liveclicker.com
+organization: liveclicker
+
+--- domains
+liveclicker.net
+--- domains
+
+--- filters
+||liveclicker.net^
+--- filters
+
+ghostery_id: 1556

@@ -1,0 +1,14 @@
+name: Gravatar
+category: social_media
+website_url: http://en.gravatar.com/
+organization: automattic
+
+--- domains
+gravatar.com
+--- domains
+
+--- filters
+||gravatar.com^
+--- filters
+
+ghostery_id: 1773

@@ -1,0 +1,20 @@
+name: Yahoo!
+category: site_analytics
+website_url: https://yahoo.com
+organization: verizon
+
+--- domains
+tumblr.com
+yahoo.com
+yahooapis.com
+yimg.com
+--- domains
+
+--- filters
+||beap.gemini.yahoo.com/mbclk
+||d.yimg.com/ds/badge.js
+||na.ads.yahoo.com^
+||s.yimg.com/rq/darla/2-9-20/js/sfext-min.js
+--- filters
+
+ghostery_id: 97

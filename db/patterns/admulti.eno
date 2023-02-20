@@ -1,0 +1,14 @@
+name: ADmulti
+category: advertising
+website_url: http://admulti.com
+organization: admulti
+
+--- domains
+admulti.com
+--- domains
+
+--- filters
+||admulti.com^
+--- filters
+
+ghostery_id: 1312

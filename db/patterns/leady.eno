@@ -1,0 +1,16 @@
+name: Leady
+category: advertising
+website_url: http://www.leady.cz/
+organization: leady
+
+--- domains
+leady.com
+leady.cz
+--- domains
+
+--- filters
+||leady.com^
+||leady.cz^
+--- filters
+
+ghostery_id: 2001

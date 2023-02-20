@@ -1,0 +1,14 @@
+name: Meebo Bar
+category: social_media
+website_url: http://bar.meebo.com/
+organization: google
+
+--- domains
+cim.meebo.com
+--- domains
+
+--- filters
+||cim.meebo.com/cim
+--- filters
+
+ghostery_id: 260

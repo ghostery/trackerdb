@@ -1,0 +1,11 @@
+name: Matomo
+website_url: https://matomo.org/
+privacy_policy_url: https://matomo.org/privacy-policy/
+privacy_contact: hello@matomo.org
+country: US
+description: PiWiK is open source analytics software. Similar to Google Analytics, Piwik uses a simple javascript embed to collect data and can be hosted independently on a separate server. Real-time reports include data on web site visitors, search engines, keywords, language and popular pages.
+
+--- notes
+--- notes
+
+ghostery_id: 299

@@ -1,0 +1,14 @@
+name: SaleSpider Media
+category: advertising
+website_url: http://salespidermedia.com/
+organization: salespider_media
+
+--- domains
+salespidermedia.com
+--- domains
+
+--- filters
+||salespidermedia.com^
+--- filters
+
+ghostery_id: 1621

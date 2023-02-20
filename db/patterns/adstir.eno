@@ -1,0 +1,14 @@
+name: adstir
+category: advertising
+website_url: https://en.ad-stir.com/
+organization: united_inc
+
+--- domains
+ad-stir.com
+--- domains
+
+--- filters
+||ad-stir.com^
+--- filters
+
+ghostery_id: 2039

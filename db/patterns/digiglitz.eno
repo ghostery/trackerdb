@@ -1,0 +1,14 @@
+name: Digiglitz
+category: site_analytics
+website_url: 
+organization: digiglitz
+
+--- domains
+digiglitzmarketing.go2cloud.org
+--- domains
+
+--- filters
+||digiglitzmarketing.go2cloud.org^
+--- filters
+
+ghostery_id: 2710

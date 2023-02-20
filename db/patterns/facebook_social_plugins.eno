@@ -1,0 +1,14 @@
+name: Facebook Social Plugins
+category: social_media
+website_url: https://developers.facebook.com/plugins
+organization: facebook
+alias: facebook
+
+--- filters
+/facebook\.com\/(v2\.0\/)?(plugins|widgets)\/.*\.php/
+||badge.facebook.com^
+||fbcdn.net/connect.php/js/fb.loader
+||fbcdn.net/connect.php/js/fb.share
+--- filters
+
+ghostery_id: 464

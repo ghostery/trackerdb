@@ -1,0 +1,14 @@
+name: Skroutz
+category: site_analytics
+website_url: 
+organization: skroutz
+
+--- domains
+analytics.skroutz.gr
+--- domains
+
+--- filters
+||analytics.skroutz.gr/analytics.min.js
+--- filters
+
+ghostery_id: 3241

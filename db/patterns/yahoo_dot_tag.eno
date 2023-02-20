@@ -1,0 +1,11 @@
+name: Yahoo! DOT tag
+category: advertising
+website_url: 
+organization: verizon
+alias: yahoo
+
+--- filters
+||s.yimg.com/wi/ytc.js
+--- filters
+
+ghostery_id: 2717

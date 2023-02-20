@@ -1,0 +1,16 @@
+name: Zendesk
+category: customer_interaction
+website_url: http://www.zendesk.com/
+organization: zendesk
+
+--- domains
+zendesk.com
+--- domains
+
+--- filters
+||4kdownload.zendesk.com/embeddable/config
+||assets.zendesk.com/embeddable_framework/main.js
+||zendesk.com/external/zenbox/overlay.js
+--- filters
+
+ghostery_id: 222

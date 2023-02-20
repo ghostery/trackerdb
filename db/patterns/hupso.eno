@@ -1,0 +1,15 @@
+name: Hupso
+category: social_media
+website_url: http://www.hupso.com/
+organization: hupso
+
+--- domains
+hupso.com
+--- domains
+
+--- filters
+||hupso.com/share/img/services/
+||static.hupso.com/share/
+--- filters
+
+ghostery_id: 2166

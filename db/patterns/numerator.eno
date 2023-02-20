@@ -1,0 +1,14 @@
+name: Numerator
+category: essential
+website_url: http://www.channeliq.com/
+organization: numerator
+
+--- domains
+channeliq.com
+--- domains
+
+--- filters
+||channeliq.com^
+--- filters
+
+ghostery_id: 1612

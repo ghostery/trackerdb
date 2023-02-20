@@ -1,0 +1,19 @@
+name: Adyoulike
+category: advertising
+website_url: http://www.adyoulike.com/
+organization: adyoulike
+
+--- domains
+adyoulike.com
+omnitagjs.com
+--- domains
+
+--- filters
+||adyoulike.com^
+||adyoulike.omnitagjs.com^
+||fo-api.omnitagjs.com/fo-api/omnitag
+||fo-static.omnitagjs.com/fo-static/build/*.chunk.js^
+||tracking.omnitagjs.com/tracking/pixel
+--- filters
+
+ghostery_id: 1596

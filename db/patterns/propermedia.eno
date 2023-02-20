@@ -1,0 +1,14 @@
+name: Proper Media
+category: advertising
+website_url: https://proper.io/
+organization: propermedia
+
+--- domains
+proper.io
+--- domains
+
+--- filters
+||global.proper.io^
+--- filters
+
+ghostery_id: 3248

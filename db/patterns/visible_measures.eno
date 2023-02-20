@@ -1,0 +1,16 @@
+name: Visible Measures
+category: advertising
+website_url: http://www.visiblemeasures.com/
+organization: visible_measures
+
+--- domains
+viewablemedia.net
+visiblemeasures.com
+--- domains
+
+--- filters
+||viewablemedia.net^
+||visiblemeasures.com^
+--- filters
+
+ghostery_id: 450

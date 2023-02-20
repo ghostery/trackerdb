@@ -1,0 +1,16 @@
+name: Sourcepoint
+category: advertising
+website_url: https://www.sourcepoint.com/
+organization: sourcepoint
+
+--- domains
+decenthat.com
+summerhamster.com
+--- domains
+
+--- filters
+||icons.wxug.com/scripts/sourcepoint/mms_client.js
+||icons.wxug.com/scripts/sourcepoint/msg.js
+--- filters
+
+ghostery_id: 3262

@@ -1,0 +1,14 @@
+name: Deqwas
+category: site_analytics
+website_url: http://www.deqwas.com/
+organization: deqwas
+
+--- domains
+deqwas.net
+--- domains
+
+--- filters
+||deqwas.net^
+--- filters
+
+ghostery_id: 2159

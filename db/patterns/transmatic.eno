@@ -1,0 +1,14 @@
+name: Transmatic
+category: site_analytics
+website_url: 
+organization: transmatico
+
+--- domains
+backoffice.transmatico.com
+--- domains
+
+--- filters
+||backoffice.transmatico.com/get
+--- filters
+
+ghostery_id: 3193

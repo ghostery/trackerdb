@@ -1,0 +1,16 @@
+name: GroupM Server
+category: advertising
+website_url: http://www.groupm.com/
+organization: wpp
+
+--- domains
+gmads.net
+grmtech.net
+--- domains
+
+--- filters
+||gmads.net^
+||grmtech.net^
+--- filters
+
+ghostery_id: 456

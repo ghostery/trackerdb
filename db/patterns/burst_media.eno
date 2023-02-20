@@ -1,0 +1,16 @@
+name: Burst Media
+category: advertising
+website_url: http://www.burstmedia.com/
+organization: rhythmone
+
+--- domains
+burstbeacon.com
+burstnet.com
+--- domains
+
+--- filters
+||burstbeacon.com^
+||burstnet.com^
+--- filters
+
+ghostery_id: 143

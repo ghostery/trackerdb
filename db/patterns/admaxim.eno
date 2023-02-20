@@ -1,0 +1,14 @@
+name: AdMaxim
+category: advertising
+website_url: http://admaxim.com/
+organization: admaxim
+
+--- domains
+admaxim.com
+--- domains
+
+--- filters
+||admaxim.com^
+--- filters
+
+ghostery_id: 1707

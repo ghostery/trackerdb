@@ -1,0 +1,16 @@
+name: GTop
+category: site_analytics
+website_url: http://www.gtopstats.com
+organization: gtopstats
+
+--- domains
+fx.gtop.ro
+fx.gtopstats.com
+--- domains
+
+--- filters
+||fx.gtop.ro/js/gtop.js
+||fx.gtopstats.com/js/gtop.js
+--- filters
+
+ghostery_id: 451

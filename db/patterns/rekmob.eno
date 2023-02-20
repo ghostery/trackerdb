@@ -1,0 +1,14 @@
+name: Rekmob
+category: advertising
+website_url: 
+organization: rekmob
+
+--- domains
+adimg.rekmob.com
+--- domains
+
+--- filters
+||adimg.rekmob.com/js/rekmob.js
+--- filters
+
+ghostery_id: 2767

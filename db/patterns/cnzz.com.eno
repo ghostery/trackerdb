@@ -1,0 +1,15 @@
+name: Umeng
+category: site_analytics
+website_url: http://www.umeng.com/
+organization: umeng
+
+--- domains
+cnzz.com
+umeng.com
+--- domains
+
+--- filters
+||cnzz.com^
+--- filters
+
+ghostery_id: 704

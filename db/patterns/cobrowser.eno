@@ -1,0 +1,14 @@
+name: CoBrowser
+category: customer_interaction
+website_url: https://www.cobrowser.net/
+organization: cobrowser.net
+
+--- domains
+client.cobrowser.net
+--- domains
+
+--- filters
+||client.cobrowser.net^
+--- filters
+
+ghostery_id: 2114

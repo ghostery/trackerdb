@@ -1,0 +1,14 @@
+name: TeleTech
+category: advertising
+website_url: http://www.webmetro.com/whoweare/technology.aspx
+organization: teletech
+
+--- domains
+tracking.dsmmadvantage.com
+--- domains
+
+--- filters
+||tracking.dsmmadvantage.com/clients/
+--- filters
+
+ghostery_id: 369

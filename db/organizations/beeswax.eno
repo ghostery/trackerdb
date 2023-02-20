@@ -1,0 +1,14 @@
+name: Beeswax
+website_url: http://beeswax.com/
+privacy_policy_url: https://www.beeswax.com/privacy.html
+privacy_contact: privacy@beeswax.com
+country: 
+description: "Beeswax hosts a dedicated RTB bidder for you in our cloud. You only listen to the auction traffic you want and you can extend and customize the bidder with your own code and services. 
+|  We connect to all the major exchanges and normalize the supply into a single, clean OpenRTB stream across display, banners, and video. You set the specific filters you want and fine-tune supply to meet your needs.
+| The Beeswax Bidder-as-a-Service™ comes with a full featured campaign management and reporting system we call "Buzz". So while your tech team builds cutting edge integrations with your bidder, ad ops gets to work in a familiar DSP-style interface."
+| 
+
+--- notes
+--- notes
+
+ghostery_id: 4160

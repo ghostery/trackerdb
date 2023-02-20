@@ -1,0 +1,13 @@
+name: Google Programmable Search Engine
+category: essential
+website_url: https://programmablesearchengine.google.com/about/
+organization: google
+alias: google
+
+--- filters
+||google.com/afsonline/show_afs_search.js
+||google.com/coop/cse/brand
+||gstatic.com/prose/brandjs.js
+--- filters
+
+ghostery_id: 70

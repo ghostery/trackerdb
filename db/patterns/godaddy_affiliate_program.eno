@@ -1,0 +1,14 @@
+name: GoDaddy Affiliate Program
+category: advertising
+website_url: http://www.godaddy.com/
+organization: godaddy
+
+--- domains
+affiliate.godaddy.com
+--- domains
+
+--- filters
+||affiliate.godaddy.com^
+--- filters
+
+ghostery_id: 971

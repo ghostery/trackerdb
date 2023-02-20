@@ -1,0 +1,14 @@
+name: GMO
+category: advertising
+website_url: 
+organization: gmo_media
+
+--- domains
+ad.atown.jp
+--- domains
+
+--- filters
+||ad.atown.jp/adserver/ap
+--- filters
+
+ghostery_id: 2596

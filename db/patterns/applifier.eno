@@ -1,0 +1,14 @@
+name: Applifier
+category: advertising
+website_url: http://www.applifier.com/
+organization: applifier
+
+--- domains
+applifier.com
+--- domains
+
+--- filters
+||applifier.com^
+--- filters
+
+ghostery_id: 1893

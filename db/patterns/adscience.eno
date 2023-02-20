@@ -1,0 +1,14 @@
+name: Adscience
+category: advertising
+website_url: http://www.adscience.nl/
+organization: adscience
+
+--- domains
+adscience.nl
+--- domains
+
+--- filters
+||adscience.nl^
+--- filters
+
+ghostery_id: 2090

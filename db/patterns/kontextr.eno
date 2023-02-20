@@ -1,0 +1,14 @@
+name: Kontextr
+category: advertising
+website_url: 
+organization: kontext
+
+--- domains
+ktxtr.com
+--- domains
+
+--- filters
+||s.ktxtr.com/kx.js
+--- filters
+
+ghostery_id: 2803

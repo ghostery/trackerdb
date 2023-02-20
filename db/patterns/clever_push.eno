@@ -1,0 +1,15 @@
+name: Clever Push
+category: site_analytics
+website_url: https://clevertap.com/
+organization: clever_push
+
+--- domains
+cleverpush.com
+--- domains
+
+--- filters
+||cleverpush.com/loader.js
+||static.cleverpush.com/sdk/cleverpush.js
+--- filters
+
+ghostery_id: 2618

@@ -1,0 +1,15 @@
+name: Vcita
+category: site_analytics
+website_url: 
+organization: vcita
+
+--- domains
+vcita.com
+--- domains
+
+--- filters
+||impress.vcita.com/imp/
+||vcita.com/widgets/active_engage/configuration
+--- filters
+
+ghostery_id: 2933

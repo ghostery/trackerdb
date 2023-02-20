@@ -1,0 +1,14 @@
+name: m-pathy
+category: advertising
+website_url: http://www.m-pathy.com/
+organization: m-pathy
+
+--- domains
+m-pathy.com
+--- domains
+
+--- filters
+||m-pathy.com^
+--- filters
+
+ghostery_id: 2104

@@ -1,0 +1,11 @@
+name: Outbrain Widgets
+category: advertising
+website_url: 
+organization: outbrain
+alias: outbrain
+
+--- filters
+||widgetmonitor.outbrain.com/widgeterrormonitor/api/report
+--- filters
+
+ghostery_id: 2895

@@ -1,0 +1,14 @@
+name: X-lift
+category: advertising
+website_url: 
+organization: x-lift
+
+--- domains
+cdn.x-lift.jp
+--- domains
+
+--- filters
+||cdn.x-lift.jp/js/site/
+--- filters
+
+ghostery_id: 3243

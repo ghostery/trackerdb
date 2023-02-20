@@ -1,0 +1,14 @@
+name: Underdog Media
+category: advertising
+website_url: http://www.underdogmedia.com
+organization: underdog_media
+
+--- domains
+udmserve.net
+--- domains
+
+--- filters
+||udmserve.net^
+--- filters
+
+ghostery_id: 474

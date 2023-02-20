@@ -1,0 +1,16 @@
+name: AdTaily
+category: advertising
+website_url: http://www.adtaily.pl/
+organization: adtaily
+
+--- domains
+adtaily.com
+adtaily.pl
+--- domains
+
+--- filters
+||adtaily.com^
+||adtaily.pl^
+--- filters
+
+ghostery_id: 1000

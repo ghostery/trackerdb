@@ -1,0 +1,15 @@
+name: Bugsnag
+category: site_analytics
+website_url: https://bugsnag.com
+organization: bugsnag
+
+--- domains
+bugsnag.com
+d2wy8f7a9ursnm.cloudfront.net
+--- domains
+
+--- filters
+||d2wy8f7a9ursnm.cloudfront.net^
+--- filters
+
+ghostery_id: 2091

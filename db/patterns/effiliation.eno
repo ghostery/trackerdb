@@ -1,0 +1,14 @@
+name: Effiliation
+category: advertising
+website_url: http://www.effiliation.com/
+organization: effiliation
+
+--- domains
+effiliation.com
+--- domains
+
+--- filters
+||effiliation.com^
+--- filters
+
+ghostery_id: 1843

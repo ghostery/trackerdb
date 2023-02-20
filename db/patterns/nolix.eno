@@ -1,0 +1,14 @@
+name: Nolix
+category: advertising
+website_url: http://nolix.ru/
+organization: nolix
+
+--- domains
+contextbar.ru
+--- domains
+
+--- filters
+||contextbar.ru^
+--- filters
+
+ghostery_id: 1864

@@ -1,0 +1,14 @@
+name: Formisimo
+category: advertising
+website_url: 
+organization: formisimo
+
+--- domains
+cdn-static.formisimo.com
+--- domains
+
+--- filters
+||cdn-static.formisimo.com/tracking/js/tracking.js
+--- filters
+
+ghostery_id: 3146

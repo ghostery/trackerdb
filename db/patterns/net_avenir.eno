@@ -1,0 +1,14 @@
+name: Net Avenir
+category: advertising
+website_url: http://www.netavenir.com/
+organization: net_avenir
+
+--- domains
+netavenir.com
+--- domains
+
+--- filters
+||netavenir.com^
+--- filters
+
+ghostery_id: 1694

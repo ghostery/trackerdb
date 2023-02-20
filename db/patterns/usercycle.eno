@@ -1,0 +1,14 @@
+name: USERcycle
+category: site_analytics
+website_url: http://usercycle.com/
+organization: usercycle
+
+--- domains
+api.usercycle.com
+--- domains
+
+--- filters
+||api.usercycle.com^
+--- filters
+
+ghostery_id: 1821

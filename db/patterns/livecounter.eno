@@ -1,0 +1,14 @@
+name: Livecounter
+category: site_analytics
+website_url: http://www.livecounter.dk/
+organization: livecounter
+
+--- domains
+livecounter.dk
+--- domains
+
+--- filters
+||livecounter.dk/counter
+--- filters
+
+ghostery_id: 967

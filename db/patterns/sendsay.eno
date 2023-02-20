@@ -1,0 +1,14 @@
+name: Sendsay
+category: customer_interaction
+website_url: 
+organization: sendsay
+
+--- domains
+sendsay.ru
+--- domains
+
+--- filters
+||sendsay.ru/js/target/tracking.js
+--- filters
+
+ghostery_id: 3242

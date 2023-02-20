@@ -1,0 +1,15 @@
+name: Fresh8
+category: site_analytics
+website_url: 
+organization: fresh_8_gaming
+
+--- domains
+heimdall.fresh8.co
+--- domains
+
+--- filters
+||cdn.fresh8.co/assets/analytics/
+||heimdall.fresh8.co^
+--- filters
+
+ghostery_id: 3147

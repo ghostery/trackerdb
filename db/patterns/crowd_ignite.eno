@@ -1,0 +1,14 @@
+name: Crowd Ignite
+category: advertising
+website_url: http://get.crowdignite.com/
+organization: gorilla_nation_media
+
+--- domains
+widget.crowdignite.com
+--- domains
+
+--- filters
+||widget.crowdignite.com/widgets
+--- filters
+
+ghostery_id: 947

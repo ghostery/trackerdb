@@ -1,0 +1,14 @@
+name: Hatchbuck
+category: site_analytics
+website_url: 
+organization: hatchbuck
+
+--- domains
+app.hatchbuck.com
+--- domains
+
+--- filters
+||app.hatchbuck.com/trackwebpage
+--- filters
+
+ghostery_id: 2411

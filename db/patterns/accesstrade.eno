@@ -1,0 +1,14 @@
+name: AccessTrade
+category: advertising
+website_url: http://accesstrade.net/
+organization: accesstrade
+
+--- domains
+accesstrade.net
+--- domains
+
+--- filters
+||accesstrade.net^
+--- filters
+
+ghostery_id: 1182

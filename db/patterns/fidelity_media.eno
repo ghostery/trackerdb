@@ -1,0 +1,14 @@
+name: Fidelity Media
+category: advertising
+website_url: http://fidelity-media.com/
+organization: fidelity_media
+
+--- domains
+fidelity-media.com
+--- domains
+
+--- filters
+||fidelity-media.com^
+--- filters
+
+ghostery_id: 2078

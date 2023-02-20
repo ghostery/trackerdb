@@ -1,0 +1,14 @@
+name: IHS Markit Online Shopper Insigh
+category: site_analytics
+website_url: http://www.visicogn.com/vcu.htm
+organization: ihs
+
+--- domains
+collserve.com
+--- domains
+
+--- filters
+||collserve.com^
+--- filters
+
+ghostery_id: 812

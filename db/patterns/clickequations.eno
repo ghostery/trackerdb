@@ -1,0 +1,15 @@
+name: ClickEquations
+category: advertising
+website_url: http://www.clickequations.com/
+organization: acquisio
+
+--- domains
+clickequations.net
+--- domains
+
+--- filters
+||beacon.clickequations.net^
+||js.clickequations.net^
+--- filters
+
+ghostery_id: 324

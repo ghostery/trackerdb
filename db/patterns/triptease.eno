@@ -1,0 +1,14 @@
+name: Triptease
+category: customer_interaction
+website_url: 
+organization: triptease
+
+--- domains
+static.triptease.io
+--- domains
+
+--- filters
+||static.triptease.io^
+--- filters
+
+ghostery_id: 3253

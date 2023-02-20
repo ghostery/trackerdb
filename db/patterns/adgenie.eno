@@ -1,0 +1,14 @@
+name: adGENIE
+category: advertising
+website_url: http://www.adgenie.co.uk/
+organization: ve
+
+--- domains
+adgenie.co.uk
+--- domains
+
+--- filters
+||adgenie.co.uk^
+--- filters
+
+ghostery_id: 1467

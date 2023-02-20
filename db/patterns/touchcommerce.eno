@@ -1,0 +1,14 @@
+name: Nuance
+category: customer_interaction
+website_url: https://www.nuance.com/omni-channel-customer-engagement/digital.html
+organization: touchcommerce
+
+--- domains
+inq.com
+--- domains
+
+--- filters
+||inq.com^
+--- filters
+
+ghostery_id: 243

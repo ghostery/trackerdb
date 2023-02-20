@@ -1,0 +1,20 @@
+name: Outbrain
+category: advertising
+website_url: https://www.outbrain.com/
+organization: outbrain
+
+--- domains
+outbrain.com
+outbrainimg.com
+--- domains
+
+--- filters
+||odb.outbrain.com/utils/get
+||revee.outbrain.com/page/update
+||revee.outbrain.com/page/view
+||sync.outbrain.com^
+||traffic.outbrain.com/network/trackpxl
+||widgets.outbrain.com^
+--- filters
+
+ghostery_id: 68

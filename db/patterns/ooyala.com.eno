@@ -1,0 +1,14 @@
+name: Ooyala Player
+category: audio_video_player
+website_url: https://www.ooyala.com/
+organization: telstra
+
+--- domains
+ooyala.com
+--- domains
+
+--- filters
+||player.ooyala.com^
+--- filters
+
+ghostery_id: 2611

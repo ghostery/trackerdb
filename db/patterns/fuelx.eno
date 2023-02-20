@@ -1,0 +1,16 @@
+name: FuelX
+category: advertising
+website_url: 
+organization: fuelx
+
+--- domains
+cookie.fuel451.com
+--- domains
+
+--- filters
+||cookie.fuel451.com/tracksa.min.js
+||fsr.fuel451.com^
+||tr.fuelx.com^
+--- filters
+
+ghostery_id: 2436

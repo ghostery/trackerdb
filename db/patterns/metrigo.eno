@@ -1,0 +1,14 @@
+name: Metrigo
+category: advertising
+website_url: http://metrigo.com/
+organization: metrigo
+
+--- domains
+metrigo.com
+--- domains
+
+--- filters
+||metrigo.com^
+--- filters
+
+ghostery_id: 1471

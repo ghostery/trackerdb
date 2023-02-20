@@ -1,0 +1,14 @@
+name: Conversions Box
+category: social_media
+website_url: http://www.conversionsbox.com/
+organization: conversions_box
+
+--- domains
+conversionsbox.com
+--- domains
+
+--- filters
+||conversionsbox.com/cb.js
+--- filters
+
+ghostery_id: 1917

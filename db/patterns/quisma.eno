@@ -1,0 +1,16 @@
+name: Quisma
+category: advertising
+website_url: http://www.quisma.com/en/
+organization: wpp
+
+--- domains
+qservz.com
+quisma.com
+--- domains
+
+--- filters
+||qservz.com^
+||tracking.quisma.com^
+--- filters
+
+ghostery_id: 537

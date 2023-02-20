@@ -1,0 +1,14 @@
+name: Refericon
+category: advertising
+website_url: https://refericon.pl/#
+organization: refericon
+
+--- domains
+refericon.pl
+--- domains
+
+--- filters
+||app.refericon.pl/js
+--- filters
+
+ghostery_id: 3280

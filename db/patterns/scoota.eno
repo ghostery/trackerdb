@@ -1,0 +1,14 @@
+name: Scoota
+category: advertising
+website_url: http://scoota.com/
+organization: rockabox
+
+--- domains
+rockabox.co
+--- domains
+
+--- filters
+||adserving.rockabox.co^
+--- filters
+
+ghostery_id: 2738

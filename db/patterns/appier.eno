@@ -1,0 +1,14 @@
+name: Appier
+category: advertising
+website_url: 
+organization: appier
+
+--- domains
+jscdn.appier.net
+--- domains
+
+--- filters
+||jscdn.appier.net/aa.js
+--- filters
+
+ghostery_id: 2927

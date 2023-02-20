@@ -1,0 +1,16 @@
+name: Akanoo
+category: site_analytics
+website_url: http://www.akanoo.com/
+organization: akanoo
+
+--- domains
+akanoo.com
+--- domains
+
+--- filters
+||akanoo.com/aa
+||akanoo.com/t
+||akanoo.com/tracker
+--- filters
+
+ghostery_id: 2150

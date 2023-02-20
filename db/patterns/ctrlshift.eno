@@ -1,0 +1,14 @@
+name: CtrlShift
+category: advertising
+website_url: http://www.adzcentral.com/
+organization: ctrlshift
+
+--- domains
+adzhub.com
+--- domains
+
+--- filters
+||adzhub.com^
+--- filters
+
+ghostery_id: 1512

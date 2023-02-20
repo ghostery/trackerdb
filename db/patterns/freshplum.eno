@@ -1,0 +1,15 @@
+name: Freshplum
+category: advertising
+website_url: https://freshplum.com/
+organization: freshplum
+
+--- domains
+freshplum.com
+--- domains
+
+--- filters
+||freshplum.com^
+||s3.amazonaws.com/freshplum
+--- filters
+
+ghostery_id: 1584

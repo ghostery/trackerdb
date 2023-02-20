@@ -1,0 +1,15 @@
+name: GetMyAd
+category: advertising
+website_url: http://yottos.com
+organization: yottos
+
+--- domains
+yottos.com
+--- domains
+
+--- filters
+||cdn.yottos.com/adsbyyottos.js
+||yottos.com/getmyad
+--- filters
+
+ghostery_id: 1851

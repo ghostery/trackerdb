@@ -1,0 +1,14 @@
+name: LeadDyno
+category: advertising
+website_url: http://www.leaddyno.com
+organization: leaddyno
+
+--- domains
+leaddyno.com
+--- domains
+
+--- filters
+||leaddyno.com^
+--- filters
+
+ghostery_id: 2118

@@ -1,0 +1,14 @@
+name: TrafficHaus
+category: pornvertising
+website_url: http://www.traffichaus.com
+organization: traffichaus
+
+--- domains
+traffichaus.com
+--- domains
+
+--- filters
+||traffichaus.com^
+--- filters
+
+ghostery_id: 1077

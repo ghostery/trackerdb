@@ -1,0 +1,22 @@
+name: ad6media
+category: advertising
+website_url: https://www.ad6media.fr/
+organization: ad6media
+
+--- domains
+ad6.fr
+ad6media.co.uk
+ad6media.com
+ad6media.es
+ad6media.fr
+--- domains
+
+--- filters
+||ad6.fr^
+||ad6media.co.uk^
+||ad6media.com^
+||ad6media.es^
+||ad6media.fr^
+--- filters
+
+ghostery_id: 954

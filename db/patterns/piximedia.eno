@@ -1,0 +1,14 @@
+name: Piximedia
+category: advertising
+website_url: http://www.piximedia.com/piximedia?en
+organization: piximedia
+
+--- domains
+piximedia.com
+--- domains
+
+--- filters
+||piximedia.com^
+--- filters
+
+ghostery_id: 1268

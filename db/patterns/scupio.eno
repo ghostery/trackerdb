@@ -1,0 +1,14 @@
+name: Scupio
+category: advertising
+website_url: http://ad.scupio.com/
+organization: bridgewell
+
+--- domains
+scupio.com
+--- domains
+
+--- filters
+||scupio.com^
+--- filters
+
+ghostery_id: 1338

@@ -1,0 +1,14 @@
+name: Yesware
+category: customer_interaction
+website_url: http://www.yesware.com/
+organization: yesware
+
+--- domains
+app.yesware.com
+--- domains
+
+--- filters
+||app.yesware.com/t/
+--- filters
+
+ghostery_id: 1774

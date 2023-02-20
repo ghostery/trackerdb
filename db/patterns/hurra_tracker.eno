@@ -1,0 +1,15 @@
+name: Hurra Tracker
+category: advertising
+website_url: http://www.hurra.com/en/
+organization: hurra_communications
+
+--- domains
+hurra.com
+--- domains
+
+--- filters
+||hurra.com/ostracker.js
+||hurra.com^
+--- filters
+
+ghostery_id: 580

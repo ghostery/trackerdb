@@ -1,0 +1,19 @@
+name: SkimLinks
+category: advertising
+website_url: http://www.skimlinks.com/
+organization: skimlinks
+
+--- domains
+redirectingat.com
+skimlinks.com
+skimresources.com
+--- domains
+
+--- filters
+||redirectingat.com^
+||skimlinks.com/api/
+||skimlinks.com/js/
+||skimresources.com^
+--- filters
+
+ghostery_id: 375

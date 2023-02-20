@@ -1,0 +1,15 @@
+name: DiVa
+category: site_analytics
+website_url: http://www.vertriebsassistent.de/
+organization: diva
+
+--- domains
+stats.vertriebsassistent.de
+--- domains
+
+--- filters
+||stats.vertriebsassistent.de/track/count.js
+||stats.vertriebsassistent.de^
+--- filters
+
+ghostery_id: 1284

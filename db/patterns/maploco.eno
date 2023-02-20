@@ -1,0 +1,14 @@
+name: MapLoco
+category: advertising
+website_url: http://www.maploco.com/
+organization: maploco
+
+--- domains
+www.maploco.com
+--- domains
+
+--- filters
+||www.maploco.com/vm
+--- filters
+
+ghostery_id: 1734

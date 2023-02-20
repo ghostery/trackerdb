@@ -1,0 +1,14 @@
+name: Box UK
+category: site_analytics
+website_url: http://www.clickdensity.com
+organization: box_uk
+
+--- domains
+j.clickdensity.com
+--- domains
+
+--- filters
+||j.clickdensity.com/cr.js
+--- filters
+
+ghostery_id: 392

@@ -1,0 +1,14 @@
+name: Datalicious DataCollector
+category: site_analytics
+website_url: http://www.datalicious.com/
+organization: datalicious
+
+--- domains
+optimahub.com
+--- domains
+
+--- filters
+||optimahub.com^
+--- filters
+
+ghostery_id: 2051

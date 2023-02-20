@@ -1,0 +1,14 @@
+name: Props
+category: advertising
+website_url: 
+organization: props
+
+--- domains
+st-a.props.id
+--- domains
+
+--- filters
+||st-a.props.id/ai.js
+--- filters
+
+ghostery_id: 3199

@@ -1,0 +1,16 @@
+name: Europecash
+category: advertising
+website_url: 
+organization: europacash
+
+--- domains
+newpromo.europacash.com
+--- domains
+
+--- filters
+||clk.europacash.com/click.php
+||medias.europacash.com/adv/
+||newpromo.europacash.com^
+--- filters
+
+ghostery_id: 2678

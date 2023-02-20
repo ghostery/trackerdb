@@ -1,0 +1,14 @@
+name: 5min Media
+category: audio_video_player
+website_url: http://www.5min.com/
+organization: verizon
+
+--- domains
+5min.com
+--- domains
+
+--- filters
+||5min.com^
+--- filters
+
+ghostery_id: 541

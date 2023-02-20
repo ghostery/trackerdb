@@ -1,0 +1,14 @@
+name: Bid Run
+category: advertising
+website_url: http://bid.run/
+organization: bid.run
+
+--- domains
+bid.run
+--- domains
+
+--- filters
+||spb.bid.run/sync/
+--- filters
+
+ghostery_id: 3024

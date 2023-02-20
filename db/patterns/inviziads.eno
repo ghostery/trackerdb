@@ -1,0 +1,14 @@
+name: InviziAds
+category: advertising
+website_url: http://www.inviziads.com
+organization: inviziads
+
+--- domains
+inviziads.com
+--- domains
+
+--- filters
+||inviziads.com^
+--- filters
+
+ghostery_id: 1119

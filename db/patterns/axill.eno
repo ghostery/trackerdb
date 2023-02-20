@@ -1,0 +1,14 @@
+name: Axill
+category: advertising
+website_url: http://www.axill.com/
+organization: axill
+
+--- domains
+ad.globe7.com
+--- domains
+
+--- filters
+||ad.globe7.com^
+--- filters
+
+ghostery_id: 864

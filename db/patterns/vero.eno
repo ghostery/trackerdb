@@ -1,0 +1,16 @@
+name: Vero
+category: advertising
+website_url: http://www.getvero.com/
+organization: vero
+
+--- domains
+d3qxef4rp70elm.cloudfront.net
+getvero.com
+--- domains
+
+--- filters
+||d3qxef4rp70elm.cloudfront.net^
+||getvero.com/assets/m.js
+--- filters
+
+ghostery_id: 1676

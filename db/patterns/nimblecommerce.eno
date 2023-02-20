@@ -1,0 +1,15 @@
+name: NimbleCommerce
+category: advertising
+website_url: http://www.nimblecommerce.com/
+organization: nimblecommerce
+
+--- domains
+nimblecommerce.com
+--- domains
+
+--- filters
+||us2widget.nimblecommerce.com^
+||us3widget.nimblecommerce.com^
+--- filters
+
+ghostery_id: 2026

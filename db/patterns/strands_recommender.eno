@@ -1,0 +1,14 @@
+name: Strands Recommender
+category: advertising
+website_url: http://recommender.strands.com
+organization: strands
+
+--- domains
+bizsolutions.strands.com
+--- domains
+
+--- filters
+||bizsolutions.strands.com^
+--- filters
+
+ghostery_id: 981

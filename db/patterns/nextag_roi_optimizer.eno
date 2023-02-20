@@ -1,0 +1,14 @@
+name: Nextag ROI Optimizer
+category: advertising
+website_url: http://www.nextag.com/
+organization: nextag
+
+--- domains
+imgsrv.nextag.com
+--- domains
+
+--- filters
+||imgsrv.nextag.com/imagefiles/includes/roitrack.js
+--- filters
+
+ghostery_id: 598

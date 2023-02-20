@@ -1,0 +1,14 @@
+name: Everyday Health
+category: social_media
+website_url: http://www.everydayhealth.com/
+organization: everyday_health
+
+--- domains
+waterfrontmedia.com
+--- domains
+
+--- filters
+||waterfrontmedia.com^
+--- filters
+
+ghostery_id: 622

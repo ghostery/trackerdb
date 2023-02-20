@@ -1,0 +1,14 @@
+name: Adtrue
+category: advertising
+website_url: 
+organization: adtrue
+
+--- domains
+adtrue.com
+--- domains
+
+--- filters
+||cdn.adtrue.com/rtb/async.js
+--- filters
+
+ghostery_id: 2730

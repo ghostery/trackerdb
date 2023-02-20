@@ -1,0 +1,14 @@
+name: Medigo
+category: advertising
+website_url: 
+organization: mediego
+
+--- domains
+mediego.com
+--- domains
+
+--- filters
+||mediego.com/tracker.js
+--- filters
+
+ghostery_id: 2983

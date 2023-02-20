@@ -1,0 +1,15 @@
+name: StreamRail
+category: advertising
+website_url: https://www.streamrail.com/
+organization: ironsource
+
+--- domains
+streamrail.com
+streamrail.net
+--- domains
+
+--- filters
+||sdk.streamrail.com/vpaid/js/*/sam.js^
+--- filters
+
+ghostery_id: 3053

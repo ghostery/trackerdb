@@ -1,0 +1,14 @@
+name: Vdopia
+category: advertising
+website_url: http://mobile.vdopia.com/
+organization: vdopia
+
+--- domains
+vdopia.com
+--- domains
+
+--- filters
+||vdopia.com^
+--- filters
+
+ghostery_id: 791

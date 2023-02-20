@@ -1,0 +1,14 @@
+name: Oplytic
+category: site_analytics
+website_url: 
+organization: oplytic
+
+--- domains
+emagazines.com
+--- domains
+
+--- filters
+||emagazines.com/insight/javascript/emags_fingerprint.js
+--- filters
+
+ghostery_id: 2281

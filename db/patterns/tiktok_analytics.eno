@@ -1,0 +1,14 @@
+name: TikTok Analytics
+category: site_analytics
+website_url: https://analytics.tiktok.com
+organization: bytedance_inc
+
+--- domains
+analytics.tiktok.com
+--- domains
+
+--- filters
+||analytics.tiktok.com^
+--- filters
+
+ghostery_id: 4050

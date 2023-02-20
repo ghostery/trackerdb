@@ -1,0 +1,14 @@
+name: Hype Exchange
+category: advertising
+website_url: http://www.hypeexchange.com/
+organization: hype_exchange
+
+--- domains
+hypeads.org
+--- domains
+
+--- filters
+||hypeads.org^
+--- filters
+
+ghostery_id: 1064

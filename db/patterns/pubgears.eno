@@ -1,0 +1,14 @@
+name: PubGears
+category: advertising
+website_url: http://pubgears.com/
+organization: pubgears
+
+--- domains
+pubgears.com
+--- domains
+
+--- filters
+||pubgears.com^
+--- filters
+
+ghostery_id: 1333

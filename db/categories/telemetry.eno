@@ -1,0 +1,3 @@
+name: Telemetry
+color: #b26859
+description: Gather information about user interaction, error reports and performance. Data is used to improved products and should shared with 3rd parties.

@@ -1,0 +1,14 @@
+name: eProof
+category: site_analytics
+website_url: http://www.eproof.com/
+organization: eproof
+
+--- domains
+eproof.com
+--- domains
+
+--- filters
+||eproof.com^
+--- filters
+
+ghostery_id: 263

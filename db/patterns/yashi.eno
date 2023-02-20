@@ -1,0 +1,14 @@
+name: Yashi
+category: advertising
+website_url: http://www.yashi.com/
+organization: mass2
+
+--- domains
+yashi.com
+--- domains
+
+--- filters
+||yashi.com^
+--- filters
+
+ghostery_id: 1297

@@ -1,0 +1,16 @@
+name: Xing
+category: site_analytics
+website_url: 
+organization: xing
+
+--- domains
+xing-share.com
+xing.com
+--- domains
+
+--- filters
+||xing-share.com/plugins/follow.js
+||xing-share.com/plugins/share.js
+--- filters
+
+ghostery_id: 2636

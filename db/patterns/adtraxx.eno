@@ -1,0 +1,14 @@
+name: AdTraxx
+category: advertising
+website_url: https://www1.adtraxx.de/
+organization: adtrax
+
+--- domains
+adtraxx.de
+--- domains
+
+--- filters
+||adtraxx.de^
+--- filters
+
+ghostery_id: 1274

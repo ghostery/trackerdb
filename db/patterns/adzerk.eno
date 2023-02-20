@@ -1,0 +1,14 @@
+name: Adzerk
+category: advertising
+website_url: http://adzerk.com/
+organization: adzerk
+
+--- domains
+adzerk.net
+--- domains
+
+--- filters
+||adzerk.net^
+--- filters
+
+ghostery_id: 1066

@@ -1,0 +1,14 @@
+name: CrowdProcess
+category: customer_interaction
+website_url: https://crowdprocess.com
+organization: crowdprocess
+
+--- domains
+ss.crowdprocess.com
+--- domains
+
+--- filters
+||ss.crowdprocess.com^
+--- filters
+
+ghostery_id: 1967

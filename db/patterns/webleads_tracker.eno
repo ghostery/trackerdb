@@ -1,0 +1,14 @@
+name: Webleads Tracker
+category: site_analytics
+website_url: http://www.webleads-tracker.fr/
+organization: webleads_tracker
+
+--- domains
+webleads-tracker.com
+--- domains
+
+--- filters
+||webleads-tracker.com^
+--- filters
+
+ghostery_id: 1891

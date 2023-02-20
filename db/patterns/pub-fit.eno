@@ -1,0 +1,14 @@
+name: Pub-Fit
+category: advertising
+website_url: http://www.pub-fit.com/
+organization: pub-fit
+
+--- domains
+pub-fit.com
+--- domains
+
+--- filters
+||pub-fit.com^
+--- filters
+
+ghostery_id: 1808

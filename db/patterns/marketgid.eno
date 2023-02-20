@@ -1,0 +1,23 @@
+name: MarketGid
+category: advertising
+website_url: http://www.mgid.com/
+organization: marketgid_usa
+
+--- domains
+dt00.net
+dt07.net
+marketgid.com
+mgid.com
+--- domains
+
+--- filters
+||dt00.net^
+||dt07.net^
+||jsc.marketgid.com/h/d/
+||jsc.marketgid.com/z/f/zf.fm.651704.js
+||jsc.mgid.com^
+||servicer.marketgid.com^
+||servicer.mgid.com^
+--- filters
+
+ghostery_id: 364

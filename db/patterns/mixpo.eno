@@ -1,0 +1,14 @@
+name: Mixpo
+category: advertising
+website_url: 
+organization: mixpo
+
+--- domains
+swf.mixpo.com
+--- domains
+
+--- filters
+||swf.mixpo.com/js/loader.js
+--- filters
+
+ghostery_id: 2974

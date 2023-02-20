@@ -1,0 +1,16 @@
+name: Korrelate
+category: advertising
+website_url: http://korrelate.com/
+organization: korrelate
+
+--- domains
+cleanrm.net
+korrelate.net
+--- domains
+
+--- filters
+||cleanrm.net^
+||korrelate.net^
+--- filters
+
+ghostery_id: 728

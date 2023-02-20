@@ -1,0 +1,14 @@
+name: AdTiger
+category: advertising
+website_url: http://www.adtiger.de/
+organization: adtiger
+
+--- domains
+adtiger.de
+--- domains
+
+--- filters
+||ads.adtiger.de^
+--- filters
+
+ghostery_id: 276

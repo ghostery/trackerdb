@@ -1,0 +1,14 @@
+name: Gannett Media
+category: audio_video_player
+website_url: https://www.gannett.com/
+organization: gannett_digital_media_network
+
+--- domains
+gannett-cdn.com
+--- domains
+
+--- filters
+||gannett-cdn.com/360player/comscore/streamsense.5.1.1.160316.min.js
+--- filters
+
+ghostery_id: 2558

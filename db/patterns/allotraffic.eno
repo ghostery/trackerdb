@@ -1,0 +1,14 @@
+name: AlloTraffic
+category: advertising
+website_url: http://www.allotraffic.com/
+organization: allotraffic
+
+--- domains
+allotraffic.com
+--- domains
+
+--- filters
+||allotraffic.com^
+--- filters
+
+ghostery_id: 1997

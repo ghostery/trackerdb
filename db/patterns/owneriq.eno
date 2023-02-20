@@ -1,0 +1,15 @@
+name: OwnerIQ
+category: advertising
+website_url: http://www.owneriq.com/
+organization: owneriq
+
+--- domains
+owneriq.net
+--- domains
+
+--- filters
+||owneriq.net^
+||px.owneriq.net^
+--- filters
+
+ghostery_id: 359

@@ -1,0 +1,16 @@
+name: AdSpeed
+category: advertising
+website_url: http://www.adspeed.com/
+organization: adspeed
+
+--- domains
+adspeed.com
+adspeed.net
+--- domains
+
+--- filters
+||adspeed.com/ad.php
+||adspeed.net/ad.php
+--- filters
+
+ghostery_id: 406

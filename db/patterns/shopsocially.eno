@@ -1,0 +1,14 @@
+name: ShopSocially
+category: customer_interaction
+website_url: http://shopsocially.com/
+organization: shopsocially
+
+--- domains
+shopsocially.com
+--- domains
+
+--- filters
+||shopsocially.com/js
+--- filters
+
+ghostery_id: 1619

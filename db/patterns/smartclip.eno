@@ -1,0 +1,14 @@
+name: SmartClip
+category: advertising
+website_url: 
+organization: smartclip
+
+--- domains
+smartclip.net
+--- domains
+
+--- filters
+||ad.sxp.smartclip.net^
+--- filters
+
+ghostery_id: 2347

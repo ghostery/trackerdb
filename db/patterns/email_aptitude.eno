@@ -1,0 +1,14 @@
+name: Email Aptitude
+category: advertising
+website_url: http://www.emailaptitude.com/
+organization: email_aptitude
+
+--- domains
+tracker.emailaptitude.com
+--- domains
+
+--- filters
+||tracker.emailaptitude.com^
+--- filters
+
+ghostery_id: 2096

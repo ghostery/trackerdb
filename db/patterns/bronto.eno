@@ -1,0 +1,14 @@
+name: Bronto
+category: advertising
+website_url: http://bronto.com/
+organization: bronto
+
+--- domains
+bm23.com
+--- domains
+
+--- filters
+||bm23.com^
+--- filters
+
+ghostery_id: 1516

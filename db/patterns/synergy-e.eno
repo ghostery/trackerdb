@@ -1,0 +1,14 @@
+name: Synergy-E
+category: advertising
+website_url: http://synergy-e.com/
+organization: synergy-e
+
+--- domains
+synergy-e.com
+--- domains
+
+--- filters
+||synergy-e.com^
+--- filters
+
+ghostery_id: 1358

@@ -1,0 +1,17 @@
+name: ZergNet
+category: customer_interaction
+website_url: http://www.zergnet.com/info
+organization: zergnet
+
+--- domains
+zergnet.com
+--- domains
+
+--- filters
+||www.zergnet.com/zerg-inf.js
+||zergnet.com/zerg-inf-multi.js
+||zergnet.com/zerg-manual.js
+||zergnet.com/zerg.js
+--- filters
+
+ghostery_id: 1124

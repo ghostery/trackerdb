@@ -1,0 +1,14 @@
+name: Chin Media
+category: advertising
+website_url: 
+organization: chin_media
+
+--- domains
+tracker.chinmedia.vn
+--- domains
+
+--- filters
+||tracker.chinmedia.vn/chintracker.js
+--- filters
+
+ghostery_id: 2442

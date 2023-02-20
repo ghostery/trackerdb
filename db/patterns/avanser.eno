@@ -1,0 +1,14 @@
+name: AVANSER
+category: customer_interaction
+website_url: http://www.avanser.com.au/
+organization: avanser
+
+--- domains
+analytics.avanser.com.au
+--- domains
+
+--- filters
+||analytics.avanser.com.au^
+--- filters
+
+ghostery_id: 2187

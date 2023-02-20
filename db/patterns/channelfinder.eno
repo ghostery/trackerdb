@@ -1,0 +1,14 @@
+name: ChannelFinder
+category: advertising
+website_url: http://www.kpicentral.com/
+organization: kaleidoscope_promotions
+
+--- domains
+channelfinder.net
+--- domains
+
+--- filters
+||channelfinder.net/js/embed_cf
+--- filters
+
+ghostery_id: 944

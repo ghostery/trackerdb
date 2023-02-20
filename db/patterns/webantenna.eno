@@ -1,0 +1,14 @@
+name: WebAntenna
+category: site_analytics
+website_url: http://www.bebit.co.jp/webantenna/
+organization: webantenna
+
+--- domains
+tr.webantenna.info
+--- domains
+
+--- filters
+||tr.webantenna.info^
+--- filters
+
+ghostery_id: 1308

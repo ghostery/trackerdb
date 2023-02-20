@@ -1,0 +1,14 @@
+name: CTnetwork
+category: advertising
+website_url: http://ctnetwork.hu/
+organization: ctnetwork
+
+--- domains
+ctnetwork.hu
+--- domains
+
+--- filters
+||ctnetwork.hu^
+--- filters
+
+ghostery_id: 1135

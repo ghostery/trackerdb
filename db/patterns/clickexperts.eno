@@ -1,0 +1,14 @@
+name: ClickExperts
+category: advertising
+website_url: http://clickexperts.com/corp/index.php?lang=en
+organization: clickexperts
+
+--- domains
+clickexperts.net
+--- domains
+
+--- filters
+||clickexperts.net^
+--- filters
+
+ghostery_id: 1262

@@ -1,0 +1,14 @@
+name: YieldSquare
+category: advertising
+website_url: http://www.yieldsquare.com/
+organization: yieldsquare
+
+--- domains
+yieldsquare.com
+--- domains
+
+--- filters
+||yieldsquare.com^
+--- filters
+
+ghostery_id: 1570

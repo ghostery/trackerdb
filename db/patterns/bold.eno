@@ -1,0 +1,16 @@
+name: Bold
+category: advertising
+website_url: 
+organization: bold
+
+--- domains
+qb.boldapps.net
+secure.apps.shappify.com
+--- domains
+
+--- filters
+||qb.boldapps.net/get_suggestions.php
+||secure.apps.shappify.com/apps/quantity/quantity_breaks.php
+--- filters
+
+ghostery_id: 3086

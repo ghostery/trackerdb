@@ -1,0 +1,14 @@
+name: Aumago
+category: advertising
+website_url: http://www.aumago.com/
+organization: aumago
+
+--- domains
+aumago.com
+--- domains
+
+--- filters
+||aumago.com^
+--- filters
+
+ghostery_id: 2053

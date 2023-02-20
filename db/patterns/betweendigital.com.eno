@@ -1,0 +1,16 @@
+name: Between Digital
+category: advertising
+website_url: http://betweendigital.ru/ssp
+organization: between_digital
+
+--- domains
+betweendigital.com
+intencysrv.com
+--- domains
+
+--- filters
+||betweendigital.com^
+||intencysrv.com^
+--- filters
+
+ghostery_id: 1488

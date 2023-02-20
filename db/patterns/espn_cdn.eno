@@ -1,0 +1,14 @@
+name: ESPN CDN
+category: cdn
+website_url: http://www.espn.com/
+organization: disney
+
+--- domains
+espncdn.com
+--- domains
+
+--- filters
+||a.espncdn.com/redesign/*/js/espn-analytics.js^
+--- filters
+
+ghostery_id: 3063

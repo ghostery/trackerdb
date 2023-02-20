@@ -1,0 +1,15 @@
+name: Scroll
+category: essential
+website_url: https://scroll.com/
+organization: scroll
+
+--- domains
+scroll.com
+--- domains
+
+--- filters
+||connect.scroll.com/embed/check
+||static.scroll.com/js/scroll.js
+--- filters
+
+ghostery_id: 3227

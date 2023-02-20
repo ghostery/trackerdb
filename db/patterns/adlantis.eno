@@ -1,0 +1,16 @@
+name: AdLantis
+category: advertising
+website_url: http://www.adlantis.jp/
+organization: adlantis
+
+--- domains
+adimg.net
+adlantis.jp
+--- domains
+
+--- filters
+||adimg.net^
+||adlantis.jp^
+--- filters
+
+ghostery_id: 684

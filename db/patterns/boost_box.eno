@@ -1,0 +1,14 @@
+name: Boost Box
+category: site_analytics
+website_url: 
+organization: boost_box
+
+--- domains
+boostbox.com.br
+--- domains
+
+--- filters
+||boostbox.com.br/scripts/send_data.js
+--- filters
+
+ghostery_id: 3213

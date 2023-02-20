@@ -1,0 +1,14 @@
+name: eBay Partner Network
+category: advertising
+website_url: https://www.ebaypartnernetwork.com/files/hub/en-US/index.html
+organization: ebay_partner_network
+
+--- domains
+adn.ebay.com
+--- domains
+
+--- filters
+||adn.ebay.com^
+--- filters
+
+ghostery_id: 2031

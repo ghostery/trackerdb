@@ -1,0 +1,15 @@
+name: Rating@Mail.Ru
+category: social_media
+website_url: http://list.ru/
+organization: megafon
+
+--- domains
+list.ru
+--- domains
+
+--- filters
+||list.ru/counter
+||list.ru/tracker
+--- filters
+
+ghostery_id: 1458

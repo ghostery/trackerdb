@@ -1,0 +1,14 @@
+name: Anetwork
+category: advertising
+website_url: http://anetwork.ir/
+organization: anetwork
+
+--- domains
+anetwork.ir
+--- domains
+
+--- filters
+||anetwork.ir^
+--- filters
+
+ghostery_id: 1730

@@ -1,0 +1,14 @@
+name: Qualia
+category: advertising
+website_url: http://www.bluecava.com/
+organization: qualia
+
+--- domains
+bluecava.com
+--- domains
+
+--- filters
+||bluecava.com^
+--- filters
+
+ghostery_id: 427

@@ -1,0 +1,14 @@
+name: Sojern
+category: advertising
+website_url: http://www.sojern.com/
+organization: sojern
+
+--- domains
+sojern.com
+--- domains
+
+--- filters
+||sojern.com^
+--- filters
+
+ghostery_id: 1698

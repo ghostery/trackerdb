@@ -1,0 +1,14 @@
+name: Teaser.cc
+category: advertising
+website_url: http://www.teaser.cc/
+organization: teaser.cc
+
+--- domains
+teaser.cc
+--- domains
+
+--- filters
+||teaser.cc^
+--- filters
+
+ghostery_id: 1980

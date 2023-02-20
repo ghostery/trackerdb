@@ -1,0 +1,14 @@
+name: Mediapost Communications
+category: site_analytics
+website_url: 
+organization: mediapost_communications
+
+--- domains
+mt.mediapostcommunication.net
+--- domains
+
+--- filters
+||mt.mediapostcommunication.net^
+--- filters
+
+ghostery_id: 2375

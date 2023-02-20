@@ -1,0 +1,15 @@
+name: Limk
+category: advertising
+website_url: 
+organization: limk
+
+--- domains
+limk.com
+--- domains
+
+--- filters
+||cdn.limk.com/assets/shared/js/loader.min.js
+||cdn.limk.com/user-widget
+--- filters
+
+ghostery_id: 2474

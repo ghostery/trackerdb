@@ -1,0 +1,14 @@
+name: Clickwinks
+category: advertising
+website_url: http://www.clickwinks.com/
+organization: clickwinks
+
+--- domains
+clickwinks.com
+--- domains
+
+--- filters
+||clickwinks.com^
+--- filters
+
+ghostery_id: 832

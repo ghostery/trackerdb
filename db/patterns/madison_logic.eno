@@ -1,0 +1,16 @@
+name: Madison Logic
+category: advertising
+website_url: http://www.madisonlogic.com/
+organization: madison_logic
+
+--- domains
+dinclinx.com
+madisonlogic.com
+--- domains
+
+--- filters
+||dinclinx.com^
+||madisonlogic.com/jsc
+--- filters
+
+ghostery_id: 604

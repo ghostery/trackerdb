@@ -1,0 +1,14 @@
+name: Pathful
+category: site_analytics
+website_url: http://www.pathful.com/
+organization: pathful
+
+--- domains
+pathful.com
+--- domains
+
+--- filters
+||pathful.com/js/scripts/
+--- filters
+
+ghostery_id: 1904

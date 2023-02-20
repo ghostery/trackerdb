@@ -1,0 +1,14 @@
+name: Plan.net Experience Cloud
+category: site_analytics
+website_url: 
+organization: serviceplan
+
+--- domains
+tag.bi.serviceplan.com
+--- domains
+
+--- filters
+||tag.bi.serviceplan.com^
+--- filters
+
+ghostery_id: 3247

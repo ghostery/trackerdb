@@ -1,0 +1,14 @@
+name: ReferLocal
+category: advertising
+website_url: http://referlocal.com/
+organization: referlocal
+
+--- domains
+ads.referlocal.com
+--- domains
+
+--- filters
+||ads.referlocal.com^
+--- filters
+
+ghostery_id: 1088

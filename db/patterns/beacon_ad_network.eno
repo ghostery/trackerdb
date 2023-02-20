@@ -1,0 +1,14 @@
+name: Beacon Ad Network
+category: advertising
+website_url: http://beaconads.com/
+organization: beacon_ad_network
+
+--- domains
+beaconads.com
+--- domains
+
+--- filters
+||beaconads.com/ac/
+--- filters
+
+ghostery_id: 896

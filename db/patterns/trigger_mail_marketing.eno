@@ -1,0 +1,14 @@
+name: Trigger Mail Marketing
+category: advertising
+website_url: 
+organization: trigger_mail_marketing
+
+--- domains
+api.temails.com
+--- domains
+
+--- filters
+||api.temails.com/cs/
+--- filters
+
+ghostery_id: 2418

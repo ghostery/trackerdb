@@ -1,0 +1,14 @@
+name: Bilin
+category: advertising
+website_url: 
+organization: bilin
+
+--- domains
+pixel.bilinmedia.net
+--- domains
+
+--- filters
+||pixel.bilinmedia.net^
+--- filters
+
+ghostery_id: 2741

@@ -1,0 +1,16 @@
+name: Amobee
+category: advertising
+website_url: https://www.amobee.com/
+organization: singtel
+
+--- domains
+ad.amgdgt.com
+ads.amgdgt.com
+amobee.com
+--- domains
+
+--- filters
+||amobee.com^
+--- filters
+
+ghostery_id: 1693

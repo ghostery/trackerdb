@@ -1,0 +1,14 @@
+name: Flocktory
+category: site_analytics
+website_url: https://www.flocktory.com/
+organization: flocktory
+
+--- domains
+flocktory.com
+--- domains
+
+--- filters
+||api.flocktory.com/v2/loader.js
+--- filters
+
+ghostery_id: 2761

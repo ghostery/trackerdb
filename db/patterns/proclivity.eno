@@ -1,0 +1,14 @@
+name: Proclivity
+category: advertising
+website_url: http://www.proclivitysystems.com/
+organization: proclivity_media
+
+--- domains
+pswec.com
+--- domains
+
+--- filters
+||pswec.com^
+--- filters
+
+ghostery_id: 934

@@ -1,0 +1,12 @@
+name: Amazon CDN
+category: cdn
+website_url: https://www.amazon.com
+organization: amazon_associates
+
+--- domains
+images-amazon.com
+media-amazon.com
+ssl-images-amazon.com
+--- domains
+
+ghostery_id: 3351

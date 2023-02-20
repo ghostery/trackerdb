@@ -1,0 +1,16 @@
+name: Matomy Market
+category: advertising
+website_url: http://www.matomymarket.com/
+organization: matomy_media
+
+--- domains
+adsmarket.com
+m2pub.com
+--- domains
+
+--- filters
+||adsmarket.com^
+||m2pub.com^
+--- filters
+
+ghostery_id: 1118

@@ -1,0 +1,15 @@
+name: ADGoto
+category: advertising
+website_url: http://adgoto.com/
+organization: adgoto
+
+--- domains
+adgoto.com
+--- domains
+
+--- filters
+||adedy.com/creatives
+||adgoto.com^
+--- filters
+
+ghostery_id: 1280

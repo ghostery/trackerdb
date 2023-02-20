@@ -1,0 +1,14 @@
+name: Yo Button
+category: customer_interaction
+website_url: http://www.justyo.co/
+organization: yo
+
+--- domains
+yoapp.s3.amazonaws.com
+--- domains
+
+--- filters
+||yoapp.s3.amazonaws.com^
+--- filters
+
+ghostery_id: 2174

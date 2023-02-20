@@ -1,0 +1,16 @@
+name: Wahoha
+category: customer_interaction
+website_url: http://wahoha.com/
+organization: wahoha
+
+--- domains
+contentwidgets.net
+wahoha.com
+--- domains
+
+--- filters
+||contentwidgets.net^
+||wahoha.com^
+--- filters
+
+ghostery_id: 666

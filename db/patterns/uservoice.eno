@@ -1,0 +1,16 @@
+name: UserVoice
+category: customer_interaction
+website_url: http://uservoice.com/
+organization: uservoice
+
+--- domains
+uservoice.com
+--- domains
+
+--- filters
+||uservoice.com/api
+||uservoice.com/javascripts/widget
+||widget.uservoice.com^
+--- filters
+
+ghostery_id: 59

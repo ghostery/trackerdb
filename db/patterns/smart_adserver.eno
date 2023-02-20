@@ -1,0 +1,21 @@
+name: SMART AdServer
+category: advertising
+website_url: https://smartadserver.com/
+organization: smart_adserver
+
+--- domains
+sascdn.com
+smartadserver.com
+styria-digital.com
+yoc-adserver.com
+--- domains
+
+--- filters
+||ak.sascdn.com^
+||ec-ns.sascdn.com^
+||smartadserver.com^
+||styria-digital.com^
+||yoc-adserver.com^
+--- filters
+
+ghostery_id: 502

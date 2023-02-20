@@ -1,0 +1,14 @@
+name: WordStream
+category: site_analytics
+website_url: http://www.wordstream.com/
+organization: wordstream
+
+--- domains
+tracker.wordstream.com
+--- domains
+
+--- filters
+||tracker.wordstream.com^
+--- filters
+
+ghostery_id: 249

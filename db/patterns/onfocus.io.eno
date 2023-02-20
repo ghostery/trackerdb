@@ -1,0 +1,16 @@
+name: OnFocus
+category: advertising
+website_url: http://onfocus.io/
+organization: onfocus
+
+--- domains
+fogl1onf.com
+onfocus.io
+--- domains
+
+--- filters
+||fogl1onf.com/1561/b.js
+||iq.onfocus.io/hudactive.html
+--- filters
+
+ghostery_id: 3071

@@ -1,0 +1,16 @@
+name: AnyClip
+category: audio_video_player
+website_url: 
+organization: anyclip
+
+--- domains
+player.anyclip.com
+--- domains
+
+--- filters
+||player.anyclip.com/anyclip-widget/lre-widget/assets/js
+||player.anyclip.com/anyclip-widget/lre-widget/prod/v1/metasrccom/0011r00001yyebx_352/conf.js
+||player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js
+--- filters
+
+ghostery_id: 3293

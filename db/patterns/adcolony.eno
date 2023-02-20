@@ -1,0 +1,16 @@
+name: AdColony
+category: advertising
+website_url: https://www.admarvel.com/
+organization: adcolony
+
+--- domains
+admarvel.s3.amazonaws.com
+ads.admarvel.com
+--- domains
+
+--- filters
+||admarvel.s3.amazonaws.com^
+||ads.admarvel.com^
+--- filters
+
+ghostery_id: 1050

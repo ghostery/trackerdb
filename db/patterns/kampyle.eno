@@ -1,0 +1,14 @@
+name: Medallia
+category: customer_interaction
+website_url: http://www.kampyle.com/
+organization: medallia
+
+--- domains
+kampyle.com
+--- domains
+
+--- filters
+||nebula-cdn.kampyle.com/resources/onsite/js/
+--- filters
+
+ghostery_id: 107

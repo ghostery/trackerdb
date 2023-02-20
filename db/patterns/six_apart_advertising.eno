@@ -1,0 +1,14 @@
+name: Six Apart Advertising
+category: advertising
+website_url: http://www.sixapart.com/advertising/
+organization: six_apart
+
+--- domains
+ads.sixapart.com
+--- domains
+
+--- filters
+||ads.sixapart.com^
+--- filters
+
+ghostery_id: 86

@@ -1,0 +1,14 @@
+name: Affiliaweb
+category: advertising
+website_url: http://affiliaweb.fr/
+organization: affiliaweb
+
+--- domains
+affiliaweb.fr
+--- domains
+
+--- filters
+||affiliaweb.fr^
+--- filters
+
+ghostery_id: 1999

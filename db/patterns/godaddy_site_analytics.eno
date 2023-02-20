@@ -1,0 +1,14 @@
+name: GoDaddy Site Analytics
+category: site_analytics
+website_url: https://www.godaddy.com/gdshop/hosting/stats_
+organization: godaddy
+
+--- domains
+trafficfacts.com
+--- domains
+
+--- filters
+||trafficfacts.com^
+--- filters
+
+ghostery_id: 169

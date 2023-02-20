@@ -1,0 +1,14 @@
+name: ReaderBoard
+category: social_media
+website_url: http://www.readrboard.com
+organization: centre_phi
+
+--- domains
+readrboard.com
+--- domains
+
+--- filters
+||readrboard.com^
+--- filters
+
+ghostery_id: 1916

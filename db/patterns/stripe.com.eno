@@ -1,0 +1,10 @@
+name: Stripe
+category: customer_interaction
+website_url: https://stripe.com/
+
+--- domains
+stripe.com
+stripe.network
+--- domains
+
+ghostery_id: 3007

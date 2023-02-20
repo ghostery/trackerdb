@@ -1,0 +1,16 @@
+name: Be Opinion
+category: customer_interaction
+website_url: 
+organization: be_opinion
+
+--- domains
+beopinion.com
+--- domains
+
+--- filters
+||data.beopinion.com/serve
+||t.beopinion.com^
+||widget.beopinion.com/sdk-2.0.0.js
+--- filters
+
+ghostery_id: 3073

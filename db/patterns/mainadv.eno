@@ -1,0 +1,14 @@
+name: mainADV
+category: advertising
+website_url: http://www.mainadv.com/
+organization: mainadv
+
+--- domains
+mainadv.com
+--- domains
+
+--- filters
+||mainadv.com^
+--- filters
+
+ghostery_id: 2146

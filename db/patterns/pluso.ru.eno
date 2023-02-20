@@ -1,0 +1,14 @@
+name: Pluso
+category: social_media
+website_url: https://share.pluso.ru/
+organization: pluso
+
+--- domains
+pluso.ru
+--- domains
+
+--- filters
+||share.pluso.ru^
+--- filters
+
+ghostery_id: 1982

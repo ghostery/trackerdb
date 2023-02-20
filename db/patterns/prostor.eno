@@ -1,0 +1,14 @@
+name: Prostor
+category: advertising
+website_url: 
+organization: prostor
+
+--- domains
+prostor-lite.ru
+--- domains
+
+--- filters
+||prostor-lite.ru/gtm
+--- filters
+
+ghostery_id: 2959

@@ -1,0 +1,14 @@
+name: Vicomi
+category: site_analytics
+website_url: http://www.vicomi.com/
+organization: vicomi
+
+--- domains
+vicomi.com
+--- domains
+
+--- filters
+||api.vicomi.com^
+--- filters
+
+ghostery_id: 3191

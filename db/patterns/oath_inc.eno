@@ -1,0 +1,14 @@
+name: Oath
+category: misc
+website_url: https://www.oath.com/
+organization: verizon
+
+--- domains
+oath.com
+--- domains
+
+--- filters
+||consent.cmp.oath.com/cmpstub.min.js
+--- filters
+
+ghostery_id: 3238

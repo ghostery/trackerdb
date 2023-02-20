@@ -1,0 +1,14 @@
+name: imho vi
+category: advertising
+website_url: http://www.imho.ru
+organization: imho
+
+--- domains
+vidigital.ru
+--- domains
+
+--- filters
+||vidigital.ru^
+--- filters
+
+ghostery_id: 1304

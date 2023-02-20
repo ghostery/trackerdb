@@ -1,0 +1,14 @@
+name: Sprinklr
+category: advertising
+website_url: 
+organization: sprinklr
+
+--- domains
+pixel.sprinklr.com
+--- domains
+
+--- filters
+||pixel.sprinklr.com/btp
+--- filters
+
+ghostery_id: 2876

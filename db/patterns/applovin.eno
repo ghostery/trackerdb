@@ -1,0 +1,14 @@
+name: AppLovin
+category: advertising
+website_url: 
+organization: applovin
+
+--- domains
+assets.applovin.com
+--- domains
+
+--- filters
+||assets.applovin.com/js/applovin-mw-min.js
+--- filters
+
+ghostery_id: 2369

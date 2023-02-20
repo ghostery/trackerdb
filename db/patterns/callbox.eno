@@ -1,0 +1,14 @@
+name: CallBox
+category: customer_interaction
+website_url: http://www.centuryinteractive.com
+organization: callbox
+
+--- domains
+callmeasurement.com
+--- domains
+
+--- filters
+||callmeasurement.com^
+--- filters
+
+ghostery_id: 1423

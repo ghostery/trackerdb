@@ -1,0 +1,14 @@
+name: AWeber
+category: advertising
+website_url: http://www.aweber.com/
+organization: aweber_communications
+
+--- domains
+aweber.com
+--- domains
+
+--- filters
+||aweber.com^
+--- filters
+
+ghostery_id: 867

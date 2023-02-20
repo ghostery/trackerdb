@@ -1,0 +1,14 @@
+name: Adnymics
+category: advertising
+website_url: 
+organization: adnymics
+
+--- domains
+adnymics.com
+--- domains
+
+--- filters
+||adnymics.com/piwik.js
+--- filters
+
+ghostery_id: 2463

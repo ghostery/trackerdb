@@ -1,0 +1,14 @@
+name: BlogAD
+category: advertising
+website_url: http://www.blogad.com.tw/
+organization: blogad
+
+--- domains
+blogad.com.tw
+--- domains
+
+--- filters
+||blogad.com.tw^
+--- filters
+
+ghostery_id: 1832

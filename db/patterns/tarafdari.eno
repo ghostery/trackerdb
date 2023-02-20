@@ -1,0 +1,14 @@
+name: Tarafdari
+category: advertising
+website_url: 
+organization: tarafdari
+
+--- domains
+tarafdari.com
+--- domains
+
+--- filters
+||tarafdari.com^
+--- filters
+
+ghostery_id: 3031

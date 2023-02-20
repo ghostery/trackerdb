@@ -1,0 +1,14 @@
+name: Campus Explorer
+category: site_analytics
+website_url: 
+organization: campus_explorer
+
+--- domains
+s.edkay.com
+--- domains
+
+--- filters
+||s.edkay.com/api/sync/1/
+--- filters
+
+ghostery_id: 2365

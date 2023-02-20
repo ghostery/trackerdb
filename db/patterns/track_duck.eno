@@ -1,0 +1,14 @@
+name: Track Duck
+category: site_analytics
+website_url: 
+organization: track_duck
+
+--- domains
+cdn.trackduck.com
+--- domains
+
+--- filters
+||cdn.trackduck.com/toolbar/prod/td.js
+--- filters
+
+ghostery_id: 2757

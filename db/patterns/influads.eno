@@ -1,0 +1,14 @@
+name: InfluAds
+category: advertising
+website_url: http://www.influads.com/
+organization: influads
+
+--- domains
+engine.influads.com
+--- domains
+
+--- filters
+||engine.influads.com^
+--- filters
+
+ghostery_id: 1061

@@ -1,0 +1,13 @@
+name: YouTube
+category: audio_video_player
+website_url: https://www.youtube.com/
+organization: google
+
+--- domains
+googlevideo.com
+youtube-nocookie.com
+youtube.com
+ytimg.com
+--- domains
+
+ghostery_id: 2303

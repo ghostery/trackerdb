@@ -1,0 +1,14 @@
+name: Accelia
+category: advertising
+website_url: http://www.durasite.net/
+organization: accelia
+
+--- domains
+durasite.net
+--- domains
+
+--- filters
+||durasite.net^
+--- filters
+
+ghostery_id: 676

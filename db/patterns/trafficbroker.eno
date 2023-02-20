@@ -1,0 +1,14 @@
+name: TrafficBroker
+category: advertising
+website_url: http://trafficbroker.com/
+organization: trafficbroker
+
+--- domains
+trafficbroker.com
+--- domains
+
+--- filters
+||trafficbroker.com^
+--- filters
+
+ghostery_id: 1290

@@ -1,0 +1,14 @@
+name: Alenty
+category: advertising
+website_url: http://www.alenty.com/
+organization: appnexus
+
+--- domains
+alenty.com
+--- domains
+
+--- filters
+||alenty.com^
+--- filters
+
+ghostery_id: 1199

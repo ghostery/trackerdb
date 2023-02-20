@@ -1,0 +1,19 @@
+name: Dealer.com
+category: site_analytics
+website_url: 
+organization: dealer.com
+
+--- domains
+cc2.dealer.com
+d9lq0o81skkdj.cloudfront.net
+esm1.net
+static.dealer.com
+--- domains
+
+--- filters
+||cc2.dealer.com/off-platform/pixall.js
+||esm1.net^
+||static.dealer.com/dist/v9/media/js/ddc/v1/dist/ddc.jquery.min.js
+--- filters
+
+ghostery_id: 2715

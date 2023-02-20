@@ -1,0 +1,15 @@
+name: Yieldr Air
+category: site_analytics
+website_url: 
+organization: yieldr
+
+--- domains
+collect.yldr.io
+--- domains
+
+--- filters
+||cdn.yldr.io/yldr.v*.min.js^
+||collect.yldr.io^
+--- filters
+
+ghostery_id: 3215

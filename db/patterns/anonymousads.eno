@@ -1,0 +1,14 @@
+name: AnonymousAds
+category: advertising
+website_url: https://a-ads.com/
+organization: anonymousads
+
+--- domains
+a-ads.com
+--- domains
+
+--- filters
+||a-ads.com^
+--- filters
+
+ghostery_id: 1755

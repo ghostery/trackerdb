@@ -1,0 +1,14 @@
+name: Leadsius
+category: advertising
+website_url: http://www.leadsius.com/
+organization: leadsius
+
+--- domains
+tracker.leadsius.com
+--- domains
+
+--- filters
+||tracker.leadsius.com^
+--- filters
+
+ghostery_id: 1966

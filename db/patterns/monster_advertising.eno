@@ -1,0 +1,14 @@
+name: Monster Advertising
+category: advertising
+website_url: http://www.monster.com/
+organization: monster_worldwide
+
+--- domains
+monster.com
+--- domains
+
+--- filters
+||jdn.monster.com^
+--- filters
+
+ghostery_id: 1534

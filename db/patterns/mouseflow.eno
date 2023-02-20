@@ -1,0 +1,14 @@
+name: Mouseflow
+category: site_analytics
+website_url: http://mouseflow.com/
+organization: mouseflow
+
+--- domains
+mouseflow.com
+--- domains
+
+--- filters
+||mouseflow.com^
+--- filters
+
+ghostery_id: 347

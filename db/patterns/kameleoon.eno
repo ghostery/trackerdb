@@ -1,0 +1,15 @@
+name: Kameleoon
+category: site_analytics
+website_url: http://www.kameleoon.com/
+organization: kameleoon
+
+--- domains
+kameleoon.com
+kameleoon.eu
+--- domains
+
+--- filters
+||kameleoon.com^
+--- filters
+
+ghostery_id: 1938

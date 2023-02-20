@@ -1,0 +1,15 @@
+name: Decibel Insight
+category: site_analytics
+website_url: 
+organization: decibel_insight
+
+--- domains
+decibelinsight.net
+--- domains
+
+--- filters
+||cdn.decibelinsight.net/i/13498/di.js
+||cdn.decibelinsight.net^
+--- filters
+
+ghostery_id: 2232

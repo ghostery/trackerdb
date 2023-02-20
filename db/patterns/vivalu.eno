@@ -1,0 +1,15 @@
+name: VIVALU
+category: advertising
+website_url: https://www.vivalu.com/
+organization: vivalu
+
+--- domains
+vi-tag.net
+--- domains
+
+--- filters
+||ad.vi-tag.net^
+||vi-tag.net^
+--- filters
+
+ghostery_id: 2290

@@ -1,0 +1,14 @@
+name: Brand Affinity
+category: advertising
+website_url: http://brandaffinity.net/about
+organization: yoonla
+
+--- domains
+brandaffinity.net
+--- domains
+
+--- filters
+||brandaffinity.net^
+--- filters
+
+ghostery_id: 713

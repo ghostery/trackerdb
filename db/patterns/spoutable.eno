@@ -1,0 +1,16 @@
+name: Spoutable
+category: advertising
+website_url: http://spoutable.com/
+organization: spoutable
+
+--- domains
+spoutable.com
+--- domains
+
+--- filters
+||cdn.spoutable.com^
+||e.spoutable.com/e
+||s.spoutable.com^
+--- filters
+
+ghostery_id: 2472

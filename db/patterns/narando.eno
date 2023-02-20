@@ -1,0 +1,15 @@
+name: Narando
+category: audio_video_player
+website_url: 
+organization: narando
+
+--- domains
+narando.com
+--- domains
+
+--- filters
+||narando.com/assets/narando.player.js
+||narando.com/s
+--- filters
+
+ghostery_id: 2973

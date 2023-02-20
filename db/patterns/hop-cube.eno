@@ -1,0 +1,14 @@
+name: Hop-Cube
+category: advertising
+website_url: http://www.hop-cube.com/
+organization: hop-cube
+
+--- domains
+apiae.hopscore.com
+--- domains
+
+--- filters
+||apiae.hopscore.com^
+--- filters
+
+ghostery_id: 1589

@@ -1,0 +1,14 @@
+name: WebProspector
+category: site_analytics
+website_url: http://www.webprospector.de/
+organization: webprospector
+
+--- domains
+webprospector.de
+--- domains
+
+--- filters
+||webprospector.de^
+--- filters
+
+ghostery_id: 921

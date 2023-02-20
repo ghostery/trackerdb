@@ -1,0 +1,15 @@
+name: Mopinion
+category: customer_interaction
+website_url: https://mopinion.com/
+organization: mopinion
+
+--- domains
+mopinion.com
+--- domains
+
+--- filters
+||collect.mopinion.com/assets/surveys/1.3/js
+||deploy.mopinion.com/js
+--- filters
+
+ghostery_id: 3261

@@ -1,0 +1,15 @@
+name: Wibiya Toolbar
+category: social_media
+website_url: http://www.wibiya.com/
+organization: wibiya
+
+--- domains
+cdn.wibiya.com
+--- domains
+
+--- filters
+||cdn.wibiya.com/loaders
+||cdn.wibiya.com/toolbars
+--- filters
+
+ghostery_id: 280

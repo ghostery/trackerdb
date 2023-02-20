@@ -1,0 +1,14 @@
+name: iJento
+category: site_analytics
+website_url: http://www.ijento.com/
+organization: ijento
+
+--- domains
+ijento.com
+--- domains
+
+--- filters
+||ijento.com^
+--- filters
+
+ghostery_id: 2049

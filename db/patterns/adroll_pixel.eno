@@ -1,0 +1,13 @@
+name: AdRoll Pixel
+category: advertising
+website_url: 
+organization: adroll
+alias: adroll
+
+--- filters
+||a.adroll.com/pixel
+||d.adroll.com/pixel
+||s.adroll.com/pixel
+--- filters
+
+ghostery_id: 2890

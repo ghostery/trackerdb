@@ -1,0 +1,14 @@
+name: Smart Call
+category: customer_interaction
+website_url: 
+organization: smart_call
+
+--- domains
+smartcall.kz
+--- domains
+
+--- filters
+||smartcall.kz/js/smartcall.js
+--- filters
+
+ghostery_id: 3021

@@ -1,0 +1,14 @@
+name: AddFreeStats
+category: site_analytics
+website_url: http://www.addfreestats.com/
+organization: 3dstats
+
+--- domains
+addfreestats.com
+--- domains
+
+--- filters
+||addfreestats.com/cgi-bin/afstrack.cgi
+--- filters
+
+ghostery_id: 268

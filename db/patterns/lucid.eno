@@ -1,0 +1,14 @@
+name: Lucid
+category: advertising
+website_url: 
+organization: luc.id
+
+--- domains
+tracker.samplicio.us
+--- domains
+
+--- filters
+||tracker.samplicio.us/tracker/
+--- filters
+
+ghostery_id: 2580

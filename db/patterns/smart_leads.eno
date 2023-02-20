@@ -1,0 +1,14 @@
+name: Smart Leads
+category: advertising
+website_url: http://www.cnt.my/
+organization: smart_leads
+
+--- domains
+x.cnt.my
+--- domains
+
+--- filters
+||x.cnt.my^
+--- filters
+
+ghostery_id: 1848

@@ -1,0 +1,16 @@
+name: advmaker.ru
+category: advertising
+website_url: http://advmaker.ru/
+organization: advmaker.ru
+
+--- domains
+am10.ru
+am15.net
+--- domains
+
+--- filters
+||am10.ru^
+||am15.net^
+--- filters
+
+ghostery_id: 952

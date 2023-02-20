@@ -1,0 +1,14 @@
+name: FinanceADs
+category: advertising
+website_url: 
+organization: financeads_gmbh_&_co._kg
+
+--- domains
+tools.financeads.net
+--- domains
+
+--- filters
+||tools.financeads.net/girokontorechner.php
+--- filters
+
+ghostery_id: 2377

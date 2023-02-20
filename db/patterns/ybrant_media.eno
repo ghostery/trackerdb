@@ -1,0 +1,14 @@
+name: Ybrant Media
+category: advertising
+website_url: http://www.addynamix.com/index.html
+organization: ybrant_media
+
+--- domains
+ad.adserverplus.com
+--- domains
+
+--- filters
+||ad.adserverplus.com^
+--- filters
+
+ghostery_id: 471

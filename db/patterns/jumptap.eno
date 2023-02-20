@@ -1,0 +1,15 @@
+name: Jumptap
+category: advertising
+website_url: http://www.jumptap.com/
+organization: verizon
+
+--- domains
+jumptap.com
+--- domains
+
+--- filters
+||jumptap.com^
+||sa.jumptap.com^
+--- filters
+
+ghostery_id: 1476

@@ -1,0 +1,15 @@
+name: Net Communities
+category: advertising
+website_url: http://www.netcommunities.com/
+organization: net_communities
+
+--- domains
+netcommunities.com
+--- domains
+
+--- filters
+||ad.netcommunities.com^
+||ads.netcommunities.com^
+--- filters
+
+ghostery_id: 1455

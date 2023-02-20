@@ -1,0 +1,21 @@
+name: CBS Interactive
+category: audio_video_player
+website_url: http://www.cbsinteractive.com/
+organization: cbs_interactive
+
+--- domains
+adlog.com.com
+cbsinteractive.com
+dw.com.com
+--- domains
+
+--- filters
+||adlog.com.com^
+||bwp.cnet.com^
+||can.cbs.com/thunder/player/chrome/smart_tag/1_2_0/tag.iife.min.js
+||dw.com.com^
+||i.i.com.com/cnwk.1d/ads/
+||vidtech.cbsinteractive.com/uvpjs/2.5.8/lib/tracking/comscore/streamsense.5.1.1.160316.min.js
+--- filters
+
+ghostery_id: 357

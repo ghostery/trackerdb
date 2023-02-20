@@ -1,0 +1,14 @@
+name: Flite
+category: advertising
+website_url: http://www.flite.com/
+organization: flite
+
+--- domains
+flite.com
+--- domains
+
+--- filters
+||flite.com^
+--- filters
+
+ghostery_id: 1566

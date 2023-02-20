@@ -1,0 +1,14 @@
+name: AdChakra
+category: site_analytics
+website_url: 
+organization: adchakra
+
+--- domains
+vuroll.in
+--- domains
+
+--- filters
+||vuroll.in^
+--- filters
+
+ghostery_id: 2705

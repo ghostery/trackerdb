@@ -1,0 +1,14 @@
+name: Advertise.com
+category: advertising
+website_url: http://advertise.com/
+organization: advertise.com
+
+--- domains
+advertise.com
+--- domains
+
+--- filters
+||advertise.com^
+--- filters
+
+ghostery_id: 686

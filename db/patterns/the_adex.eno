@@ -1,0 +1,14 @@
+name: The ADEX
+category: advertising
+website_url: http://www.theadex.com/
+organization: prosieben_sat1
+
+--- domains
+theadex.com
+--- domains
+
+--- filters
+||dmp.theadex.com^
+--- filters
+
+ghostery_id: 2141

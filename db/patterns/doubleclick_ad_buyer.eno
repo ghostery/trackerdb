@@ -1,0 +1,12 @@
+name: DoubleClick Ad Exchange-Buyer
+category: advertising
+website_url: 
+organization: google
+alias: google_adservices
+
+--- filters
+||googleadservices.com/pagead/conversion.js
+||googleadservices.com/pagead/conversion/
+--- filters
+
+ghostery_id: 2532

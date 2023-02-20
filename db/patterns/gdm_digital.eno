@@ -1,0 +1,14 @@
+name: GDM Digital
+category: advertising
+website_url: http://www.gdmdigital.com/
+organization: ve_interactive
+
+--- domains
+gdmdigital.com
+--- domains
+
+--- filters
+||hfp.gdmdigital.com^
+--- filters
+
+ghostery_id: 2137

@@ -1,0 +1,15 @@
+name: Sonobi
+category: advertising
+website_url: http://sonobi.com/
+organization: sonobi
+
+--- domains
+sonobi.com
+--- domains
+
+--- filters
+||ads.sonobi.com^
+||go.sonobi.com^
+--- filters
+
+ghostery_id: 917

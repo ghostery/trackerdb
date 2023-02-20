@@ -1,0 +1,14 @@
+name: Hsoub
+category: advertising
+website_url: http://www.hsoub.com/
+organization: hsoub
+
+--- domains
+hsoub.com
+--- domains
+
+--- filters
+||hsoub.com^
+--- filters
+
+ghostery_id: 2107

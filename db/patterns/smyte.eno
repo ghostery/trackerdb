@@ -1,0 +1,14 @@
+name: Smyte
+category: site_analytics
+website_url: https://www.smyte.com/
+organization: smyte
+
+--- domains
+smyte.com
+--- domains
+
+--- filters
+||ping.smyte.com/p.js
+--- filters
+
+ghostery_id: 3201

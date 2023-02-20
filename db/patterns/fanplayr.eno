@@ -1,0 +1,14 @@
+name: Fanplayr
+category: advertising
+website_url: http://www.fanplayr.com/
+organization: fanplayr
+
+--- domains
+d1q7pknmpq2wkm.cloudfront.net
+--- domains
+
+--- filters
+||d1q7pknmpq2wkm.cloudfront.net^
+--- filters
+
+ghostery_id: 2172

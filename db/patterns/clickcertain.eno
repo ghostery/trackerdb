@@ -1,0 +1,16 @@
+name: ClickCertain
+category: advertising
+website_url: http://www.clickcertain.com
+organization: clickcertain
+
+--- domains
+clickcertain.com
+remarketstats.com
+--- domains
+
+--- filters
+||clickcertain.com^
+||remarketstats.com^
+--- filters
+
+ghostery_id: 1629

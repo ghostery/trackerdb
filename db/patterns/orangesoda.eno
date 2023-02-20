@@ -1,0 +1,14 @@
+name: OrangeSoda
+category: advertising
+website_url: http://www.orangesoda.com/
+organization: orangesoda
+
+--- domains
+otracking.com
+--- domains
+
+--- filters
+||otracking.com/js
+--- filters
+
+ghostery_id: 28

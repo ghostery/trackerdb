@@ -1,0 +1,14 @@
+name: Adgorithms
+category: advertising
+website_url: http://www.adgorithms.com/
+organization: albert
+
+--- domains
+adgorithms.com
+--- domains
+
+--- filters
+||adgorithms.com^
+--- filters
+
+ghostery_id: 1914

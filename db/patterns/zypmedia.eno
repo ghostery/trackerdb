@@ -1,0 +1,14 @@
+name: ZypMedia
+category: advertising
+website_url: http://www.zypmedia.com/
+organization: zypmedia
+
+--- domains
+extend.tv
+--- domains
+
+--- filters
+||sync.extend.tv^
+--- filters
+
+ghostery_id: 2742

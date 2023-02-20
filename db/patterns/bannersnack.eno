@@ -1,0 +1,14 @@
+name: Bannersnack
+category: advertising
+website_url: 
+organization: bannersnack
+
+--- domains
+cdn.bannersnack.com
+--- domains
+
+--- filters
+||cdn.bannersnack.com^
+--- filters
+
+ghostery_id: 2465

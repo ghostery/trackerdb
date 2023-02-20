@@ -1,0 +1,14 @@
+name: Personyze
+category: customer_interaction
+website_url: http://personyze.com/
+organization: personyze
+
+--- domains
+counter.personyze.com
+--- domains
+
+--- filters
+||counter.personyze.com^
+--- filters
+
+ghostery_id: 1044

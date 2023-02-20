@@ -1,0 +1,14 @@
+name: Boldchat
+category: customer_interaction
+website_url: http://www.boldchat.com/
+organization: boldchat
+
+--- domains
+boldchat.com
+--- domains
+
+--- filters
+||boldchat.com^
+--- filters
+
+ghostery_id: 1537

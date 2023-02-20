@@ -1,0 +1,16 @@
+name: Hybrid Theory
+category: advertising
+website_url: https://hybridtheory.com/
+organization: affectv
+
+--- domains
+affectv.com
+go.affec.tv
+hybridtheory.com
+--- domains
+
+--- filters
+||go.affec.tv^
+--- filters
+
+ghostery_id: 1468

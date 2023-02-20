@@ -1,0 +1,15 @@
+name: CQuotient
+category: site_analytics
+website_url: https://www.demandware.com/#cquotient
+organization: salesforce
+
+--- domains
+cquotient.com
+--- domains
+
+--- filters
+||cdn.cquotient.com/js/v2
+||p.cquotient.com^
+--- filters
+
+ghostery_id: 2989

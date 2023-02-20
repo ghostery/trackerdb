@@ -1,0 +1,14 @@
+name: WhosOn
+category: site_analytics
+website_url: http://www.whoson.com/
+organization: whoson
+
+--- domains
+whoson.com
+--- domains
+
+--- filters
+||whoson.com^
+--- filters
+
+ghostery_id: 996

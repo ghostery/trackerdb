@@ -1,0 +1,14 @@
+name: Pressly
+category: advertising
+website_url: https://www.pressly.com/
+organization: pressly
+
+--- domains
+api.pressly.com
+--- domains
+
+--- filters
+||api.pressly.com/metrix
+--- filters
+
+ghostery_id: 2213

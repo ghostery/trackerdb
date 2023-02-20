@@ -1,0 +1,14 @@
+name: MyBlogLog
+category: social_media
+website_url: http://www.mybloglog.com/
+organization: verizon
+
+--- domains
+mybloglog.com
+--- domains
+
+--- filters
+||mybloglog.com^
+--- filters
+
+ghostery_id: 15

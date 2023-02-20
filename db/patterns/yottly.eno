@@ -1,0 +1,14 @@
+name: Yottly
+category: advertising
+website_url: 
+organization: yottly
+
+--- domains
+yottlyscript.com
+--- domains
+
+--- filters
+||yottlyscript.com/customer-tracking.js
+--- filters
+
+ghostery_id: 2523

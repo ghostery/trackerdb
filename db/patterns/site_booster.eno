@@ -1,0 +1,14 @@
+name: Site Booster
+category: social_media
+website_url: 
+organization: site_booster
+
+--- domains
+sitebooster-fjfmworld-production.azureedge.net
+--- domains
+
+--- filters
+||sitebooster-fjfmworld-production.azureedge.net/sitebooster.min.js
+--- filters
+
+ghostery_id: 3136

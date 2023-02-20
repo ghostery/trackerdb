@@ -1,0 +1,14 @@
+name: LeadHit
+category: customer_interaction
+website_url: http://leadhit.ru/
+organization: leadhit
+
+--- domains
+leadhit.ru
+--- domains
+
+--- filters
+||leadhit.ru^
+--- filters
+
+ghostery_id: 1861

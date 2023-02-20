@@ -1,0 +1,14 @@
+name: Adtraction
+category: advertising
+website_url: http://adtraction.com/
+organization: adtraction
+
+--- domains
+track.adtraction.com
+--- domains
+
+--- filters
+||track.adtraction.com^
+--- filters
+
+ghostery_id: 1001

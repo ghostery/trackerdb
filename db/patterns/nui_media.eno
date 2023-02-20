@@ -1,0 +1,16 @@
+name: NUI Media
+category: advertising
+website_url: http://adjuggler.com/
+organization: nui_media
+
+--- domains
+rotator.adjuggler.com
+--- domains
+
+--- filters
+/banners/ajtg.js
+/servlet/ajrotator^
+||rotator.adjuggler.com^
+--- filters
+
+ghostery_id: 348

@@ -1,0 +1,14 @@
+name: BehavioralEngine
+category: advertising
+website_url: http://www.behavioralengine.com/
+organization: behavioralengine
+
+--- domains
+behavioralengine.com
+--- domains
+
+--- filters
+||behavioralengine.com^
+--- filters
+
+ghostery_id: 1817

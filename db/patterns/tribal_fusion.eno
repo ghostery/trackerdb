@@ -1,0 +1,16 @@
+name: Tribal Fusion
+category: advertising
+website_url: http://www.tribalfusion.com/
+organization: exponential_interactive
+
+--- domains
+exponential.com
+tribalfusion.com
+--- domains
+
+--- filters
+||tags.expo9.exponential.com/tags/
+||tribalfusion.com^
+--- filters
+
+ghostery_id: 84

@@ -1,0 +1,14 @@
+name: Klikki
+category: advertising
+website_url: http://www.klikki.com/
+organization: klikki
+
+--- domains
+klikki.com
+--- domains
+
+--- filters
+||klikki.com^
+--- filters
+
+ghostery_id: 1352

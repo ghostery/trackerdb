@@ -1,0 +1,14 @@
+name: GM Delivery
+category: advertising
+website_url: 
+organization: gm_delivery
+
+--- domains
+a.gmdelivery.com
+--- domains
+
+--- filters
+||a.gmdelivery.com/script/main.js
+--- filters
+
+ghostery_id: 2939

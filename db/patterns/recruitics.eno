@@ -1,0 +1,14 @@
+name: Recruitics
+category: site_analytics
+website_url: http://recruitics.com/
+organization: recruitics
+
+--- domains
+analytics.recruitics.com
+--- domains
+
+--- filters
+||analytics.recruitics.com^
+--- filters
+
+ghostery_id: 2066

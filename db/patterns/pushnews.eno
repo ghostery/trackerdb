@@ -1,0 +1,14 @@
+name: Pushnews
+category: advertising
+website_url: 
+organization: pushnews
+
+--- domains
+cdn.pushnews.eu
+--- domains
+
+--- filters
+||cdn.pushnews.eu/push/ilabspush.min.js
+--- filters
+
+ghostery_id: 3237

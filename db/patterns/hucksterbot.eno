@@ -1,0 +1,14 @@
+name: HucksterBot
+category: advertising
+website_url: 
+organization: hucksterbot
+
+--- domains
+files.hucksterbot.com
+--- domains
+
+--- filters
+||files.hucksterbot.com/app/huckster.min.js
+--- filters
+
+ghostery_id: 2924

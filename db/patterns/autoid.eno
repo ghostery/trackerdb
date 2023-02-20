@@ -1,0 +1,14 @@
+name: AutoID
+category: site_analytics
+website_url: 
+organization: autoid
+
+--- domains
+ai.autoid.com
+--- domains
+
+--- filters
+||ai.autoid.com/ai.js
+--- filters
+
+ghostery_id: 3173

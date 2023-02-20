@@ -1,0 +1,16 @@
+name: Jornaya
+category: site_analytics
+website_url: http://leadid.com/
+organization: jornaya
+
+--- domains
+create.leadid.com
+d1tprjo2w7krrh.cloudfront.net
+--- domains
+
+--- filters
+||create.leadid.com^
+||d1tprjo2w7krrh.cloudfront.net^
+--- filters
+
+ghostery_id: 1937

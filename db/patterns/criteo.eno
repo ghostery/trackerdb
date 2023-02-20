@@ -1,0 +1,16 @@
+name: Criteo
+category: advertising
+website_url: http://www.criteo.com/
+organization: criteo
+
+--- domains
+criteo.com
+criteo.net
+--- domains
+
+--- filters
+||criteo.com^
+||criteo.net^
+--- filters
+
+ghostery_id: 64

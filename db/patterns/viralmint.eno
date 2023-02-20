@@ -1,0 +1,14 @@
+name: ViralMint
+category: social_media
+website_url: http://www.viralmint.com
+organization: viralmint
+
+--- domains
+viralmint.com
+--- domains
+
+--- filters
+||viralmint.com^
+--- filters
+
+ghostery_id: 2119

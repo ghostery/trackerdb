@@ -1,0 +1,15 @@
+name: WebVisor
+category: site_analytics
+website_url: http://webvisor.ru
+organization: yandex
+
+--- domains
+web-visor.com
+--- domains
+
+--- filters
+||beta.web-visor.com/c.js
+||c1.web-visor.com/c.js
+--- filters
+
+ghostery_id: 261

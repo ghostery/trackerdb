@@ -1,0 +1,15 @@
+name: AliveChat
+category: customer_interaction
+website_url: http://www.websitealive.com/
+organization: websitealive
+
+--- domains
+websitealive.com
+--- domains
+
+--- filters
+||websitealive*.com^
+||websitealive.com^
+--- filters
+
+ghostery_id: 397

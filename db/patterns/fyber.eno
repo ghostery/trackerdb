@@ -1,0 +1,16 @@
+name: Fyber
+category: advertising
+website_url: https://www.fyber.com/
+organization: fyber
+
+--- domains
+angsrvr.com
+fyber.com
+--- domains
+
+--- filters
+||as.eu.angsrvr.com/select
+||rtbcc.fyber.com/vpaid/angusersyncer-9.js
+--- filters
+
+ghostery_id: 3090

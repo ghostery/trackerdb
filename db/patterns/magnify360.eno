@@ -1,0 +1,14 @@
+name: Magnify360
+category: site_analytics
+website_url: http://www.magnify360.com/
+organization: magnify360
+
+--- domains
+magnify360.com
+--- domains
+
+--- filters
+||magnify360.com^
+--- filters
+
+ghostery_id: 164

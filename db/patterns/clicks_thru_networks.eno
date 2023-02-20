@@ -1,0 +1,14 @@
+name: Clicks Thru Networks
+category: advertising
+website_url: 
+organization: clicksthrunetwork
+
+--- domains
+ctn.go2cloud.org
+--- domains
+
+--- filters
+||ctn.go2cloud.org^
+--- filters
+
+ghostery_id: 2712

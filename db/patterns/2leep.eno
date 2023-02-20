@@ -1,0 +1,14 @@
+name: 2leep
+category: advertising
+website_url: http://2leep.com/
+organization: 2leep
+
+--- domains
+2leep.com
+--- domains
+
+--- filters
+||2leep.com^
+--- filters
+
+ghostery_id: 671

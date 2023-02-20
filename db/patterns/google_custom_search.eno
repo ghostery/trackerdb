@@ -1,0 +1,15 @@
+name: Google Custom Search Ads
+category: advertising
+website_url: https://developers.google.com/custom-search-ads/
+organization: google
+
+--- domains
+adsensecustomsearchads.com
+--- domains
+
+--- filters
+||adsensecustomsearchads.com/adsense/search/async-ads.js
+||google.com/cse/cse.js
+--- filters
+
+ghostery_id: 2829

@@ -1,0 +1,14 @@
+name: DirectREV
+category: advertising
+website_url: http://www.directrev.com/
+organization: directrev
+
+--- domains
+directrev.com
+--- domains
+
+--- filters
+||directrev.com^
+--- filters
+
+ghostery_id: 1405

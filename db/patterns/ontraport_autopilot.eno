@@ -1,0 +1,16 @@
+name: Ontraport Autopilot
+category: advertising
+website_url: http://www.moon-ray.com/
+organization: ontraport
+
+--- domains
+moon-ray.com
+moonraymarketing.com
+--- domains
+
+--- filters
+||moon-ray.com^
+||moonraymarketing.com/tracking.js
+--- filters
+
+ghostery_id: 984

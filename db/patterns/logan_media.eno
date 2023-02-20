@@ -1,0 +1,14 @@
+name: Logan Media
+category: site_analytics
+website_url: 
+organization: logan_media
+
+--- domains
+pixel.loganmedia.mobi
+--- domains
+
+--- filters
+||pixel.loganmedia.mobi/pixel/c/
+--- filters
+
+ghostery_id: 2772

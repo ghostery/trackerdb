@@ -1,0 +1,14 @@
+name: Navegg
+category: site_analytics
+website_url: https://www.navegg.com/en/
+organization: navegg
+
+--- domains
+navdmp.com
+--- domains
+
+--- filters
+||navdmp.com^
+--- filters
+
+ghostery_id: 226

@@ -1,0 +1,15 @@
+name: Linker
+category: advertising
+website_url: https://linker.hr/
+organization: linker
+
+--- domains
+linker.hr
+--- domains
+
+--- filters
+||linker.hr/lw.js
+||linker.hr/w.js
+--- filters
+
+ghostery_id: 3150

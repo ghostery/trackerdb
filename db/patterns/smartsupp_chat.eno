@@ -1,0 +1,14 @@
+name: Smartsupp Chat
+category: customer_interaction
+website_url: 
+organization: smartsuppp
+
+--- domains
+smartsuppchat.com
+--- domains
+
+--- filters
+||smartsuppchat.com/loader.js
+--- filters
+
+ghostery_id: 2778

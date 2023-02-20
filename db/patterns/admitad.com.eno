@@ -1,0 +1,15 @@
+name: Admitad
+category: advertising
+website_url: https://www.admitad.com/en/#
+organization: admitad
+
+--- domains
+admitad.com
+--- domains
+
+--- filters
+||adbmit.com/static/js/pixil.min.js
+||admitad.com^
+--- filters
+
+ghostery_id: 1306

@@ -1,0 +1,14 @@
+name: Struq
+category: advertising
+website_url: http://www.struq.com/
+organization: quantcast
+
+--- domains
+struq.com
+--- domains
+
+--- filters
+||struq.com^
+--- filters
+
+ghostery_id: 515

@@ -1,0 +1,14 @@
+name: Bizcn
+category: advertising
+website_url: 
+organization: bizcn
+
+--- domains
+traffic.adxprts.com
+--- domains
+
+--- filters
+||traffic.adxprts.com^
+--- filters
+
+ghostery_id: 2775

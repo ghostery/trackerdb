@@ -1,0 +1,16 @@
+name: Valassis
+category: advertising
+website_url: http://www.brand.net/
+organization: valassis
+
+--- domains
+ads.brand.net
+vdrn.redplum.com
+--- domains
+
+--- filters
+||ads.brand.net^
+||vdrn.redplum.com^
+--- filters
+
+ghostery_id: 535

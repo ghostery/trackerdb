@@ -1,0 +1,62 @@
+name: ad4mat
+category: advertising
+website_url: http://ad4mat.info
+organization: ad4mat
+
+--- domains
+ad4mat.ar
+ad4mat.at
+ad4mat.be
+ad4mat.bg
+ad4mat.br
+ad4mat.ch
+ad4mat.co.uk
+ad4mat.cz
+ad4mat.de
+ad4mat.dk
+ad4mat.es
+ad4mat.fi
+ad4mat.fr
+ad4mat.gr
+ad4mat.hu
+ad4mat.it
+ad4mat.mx
+ad4mat.net
+ad4mat.nl
+ad4mat.no
+ad4mat.pl
+ad4mat.ro
+ad4mat.ru
+ad4mat.se
+ad4mat.tr
+--- domains
+
+--- filters
+||ad4mat.ar^
+||ad4mat.at^
+||ad4mat.be^
+||ad4mat.bg^
+||ad4mat.br^
+||ad4mat.ch^
+||ad4mat.co.uk^
+||ad4mat.cz^
+||ad4mat.de^
+||ad4mat.dk^
+||ad4mat.es^
+||ad4mat.fi^
+||ad4mat.fr^
+||ad4mat.gr^
+||ad4mat.hu^
+||ad4mat.it^
+||ad4mat.mx^
+||ad4mat.net^
+||ad4mat.nl^
+||ad4mat.no^
+||ad4mat.pl^
+||ad4mat.ro^
+||ad4mat.ru^
+||ad4mat.se^
+||ad4mat.tr^
+--- filters
+
+ghostery_id: 1288

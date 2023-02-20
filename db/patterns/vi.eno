@@ -1,0 +1,14 @@
+name: Vi
+category: advertising
+website_url: http://www.vi.ru/
+organization: vi
+
+--- domains
+digitaltarget.ru
+--- domains
+
+--- filters
+||digitaltarget.ru^
+--- filters
+
+ghostery_id: 2006

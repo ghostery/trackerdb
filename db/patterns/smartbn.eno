@@ -1,0 +1,14 @@
+name: SmartBN
+category: advertising
+website_url: http://smartbn.ru/
+organization: smartbn
+
+--- domains
+smartbn.ru
+--- domains
+
+--- filters
+||smartbn.ru^
+--- filters
+
+ghostery_id: 1320

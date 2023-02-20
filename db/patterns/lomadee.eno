@@ -1,0 +1,14 @@
+name: Lomadee
+category: advertising
+website_url: http://lomadee.com
+organization: lomadee
+
+--- domains
+lomadee.com
+--- domains
+
+--- filters
+||lomadee.com^
+--- filters
+
+ghostery_id: 1253

@@ -1,0 +1,15 @@
+name: ucfunnel
+category: advertising
+website_url: https://www.ucfunnel.com/
+organization: ucfunnel
+
+--- domains
+aralego.net
+ucfunnel.com
+--- domains
+
+--- filters
+||cdn.aralego.net/uacode/uacode.js
+--- filters
+
+ghostery_id: 4037

@@ -1,0 +1,18 @@
+name: Parse.ly
+category: site_analytics
+website_url: https://www.parse.ly/
+organization: parse.ly
+
+--- domains
+d1z2jf7jlzjs58.cloudfront.net
+parsely.com
+--- domains
+
+--- filters
+||d1z2jf7jlzjs58.cloudfront.net^
+||parsely.com^
+||srv.pixel.parsely.com/plogger
+||static.parsely.com^
+--- filters
+
+ghostery_id: 2613

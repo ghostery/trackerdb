@@ -1,0 +1,11 @@
+name: Optimizely Geographical Targeting
+category: site_analytics
+website_url: 
+organization: optimizely
+alias: optimizely
+
+--- filters
+||cdn3.optimizely.com/js/geo2.js
+--- filters
+
+ghostery_id: 2975

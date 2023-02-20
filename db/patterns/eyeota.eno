@@ -1,0 +1,14 @@
+name: Eyeota
+category: advertising
+website_url: http://www.eyeota.com/
+organization: eyeota
+
+--- domains
+eyeota.net
+--- domains
+
+--- filters
+||eyeota.net^
+--- filters
+
+ghostery_id: 1336

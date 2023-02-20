@@ -1,0 +1,14 @@
+name: PurLive
+category: advertising
+website_url: 
+organization: purlive
+
+--- domains
+oopt.fr
+--- domains
+
+--- filters
+||oopt.fr^
+--- filters
+
+ghostery_id: 2826

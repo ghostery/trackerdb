@@ -1,0 +1,16 @@
+name: Voxus
+category: advertising
+website_url: 
+organization: voxus
+
+--- domains
+embed.voxus.tv
+voxus-targeting-voxusmidia.netdna-ssl.com
+--- domains
+
+--- filters
+||embed.voxus.tv/player/midcontent/
+||voxus-targeting-voxusmidia.netdna-ssl.com^
+--- filters
+
+ghostery_id: 3054

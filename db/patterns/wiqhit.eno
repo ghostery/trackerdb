@@ -1,0 +1,14 @@
+name: WiQhit
+category: site_analytics
+website_url: 
+organization: wiqhit
+
+--- domains
+col1.wiqhit.com
+--- domains
+
+--- filters
+||col1.wiqhit.com^
+--- filters
+
+ghostery_id: 2805

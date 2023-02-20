@@ -1,0 +1,14 @@
+name: Medley
+category: advertising
+website_url: http://medley.com/
+organization: friendfinder_networks
+
+--- domains
+medleyads.com
+--- domains
+
+--- filters
+||medleyads.com^
+--- filters
+
+ghostery_id: 988

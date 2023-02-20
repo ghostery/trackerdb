@@ -1,0 +1,16 @@
+name: AdF.ly
+category: advertising
+website_url: http://adf.ly/
+organization: adf.ly
+
+--- domains
+adf.ly
+--- domains
+
+--- filters
+||adf.ly/conv
+||adf.ly/js/entry
+||adf.ly/js/link
+--- filters
+
+ghostery_id: 872

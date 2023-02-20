@@ -1,0 +1,14 @@
+name: Trovus Revelations
+category: advertising
+website_url: http://www.trovus.co.uk/
+organization: trovus_revelations
+
+--- domains
+revelations.trovus.co.uk
+--- domains
+
+--- filters
+||revelations.trovus.co.uk/tracker/
+--- filters
+
+ghostery_id: 112

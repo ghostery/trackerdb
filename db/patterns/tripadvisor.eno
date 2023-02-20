@@ -1,0 +1,15 @@
+name: TripAdvisor
+category: misc
+website_url: 
+organization: iac_apps
+
+--- domains
+jscache.com
+tacdn.com
+tamgrt.com
+tripadvisor.co.uk
+tripadvisor.com
+tripadvisor.de
+--- domains
+
+ghostery_id: 3914

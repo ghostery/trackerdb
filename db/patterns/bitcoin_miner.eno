@@ -1,0 +1,14 @@
+name: Bitcoin Miner
+category: customer_interaction
+website_url: http://www.bitcoinplus.com/
+organization: bitcoin_plus
+
+--- domains
+bitcoinplus.com
+--- domains
+
+--- filters
+||bitcoinplus.com/js/miner.js
+--- filters
+
+ghostery_id: 886

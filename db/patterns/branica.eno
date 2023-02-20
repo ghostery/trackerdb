@@ -1,0 +1,14 @@
+name: Branica
+category: advertising
+website_url: http://www.branica.com/
+organization: branica
+
+--- domains
+branica.com
+--- domains
+
+--- filters
+||branica.com^
+--- filters
+
+ghostery_id: 842

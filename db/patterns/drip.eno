@@ -1,0 +1,14 @@
+name: Drip
+category: customer_interaction
+website_url: https://www.getdrip.com
+organization: drip
+
+--- domains
+getdrip.com
+--- domains
+
+--- filters
+||getdrip.com^
+--- filters
+
+ghostery_id: 1909

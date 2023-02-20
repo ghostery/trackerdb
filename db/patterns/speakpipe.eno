@@ -1,0 +1,14 @@
+name: SpeakPipe
+category: customer_interaction
+website_url: http://www.speakpipe.com/
+organization: speakpipe
+
+--- domains
+speakpipe.com
+--- domains
+
+--- filters
+||speakpipe.com^
+--- filters
+
+ghostery_id: 1604

@@ -1,0 +1,16 @@
+name: Twitter Advertising
+category: advertising
+website_url: http://twitter.com/widgets
+organization: twitter
+
+--- domains
+ads-twitter.com
+--- domains
+
+--- filters
+||platform.twitter.com/oct.js
+||static.ads-twitter.com/oct.js
+||static.ads-twitter.com/uwt.js
+--- filters
+
+ghostery_id: 1521

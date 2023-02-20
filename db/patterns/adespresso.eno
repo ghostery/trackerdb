@@ -1,0 +1,14 @@
+name: AdEspresso
+category: advertising
+website_url: http://adespresso.com
+organization: adespresso
+
+--- domains
+adespresso.com
+--- domains
+
+--- filters
+||adespresso.com^
+--- filters
+
+ghostery_id: 1926

@@ -1,0 +1,14 @@
+name: Binotel
+category: advertising
+website_url: 
+organization: binotel
+
+--- domains
+widgets.binotel.com
+--- domains
+
+--- filters
+||widgets.binotel.com/calltracking/widgets
+--- filters
+
+ghostery_id: 2870

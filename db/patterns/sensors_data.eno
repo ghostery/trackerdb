@@ -1,0 +1,14 @@
+name: Sensors Data
+category: site_analytics
+website_url: 
+organization: sensors_data
+
+--- domains
+static.sensorsdata.cn
+--- domains
+
+--- filters
+||static.sensorsdata.cn/sdk/1.10.1/sensorsdata.min.js
+--- filters
+
+ghostery_id: 3288

@@ -1,0 +1,17 @@
+name: Dynamic Yield
+category: essential
+website_url: 
+organization: dynamic_yield
+
+--- domains
+dynamicyield.com
+--- domains
+
+--- filters
+||cdn.dynamicyield.com/api/*/api_dynamic.js^
+||static.dynamicyield.com/scripts/*/dy-coll-min.js^
+||px.dynamicyield.com^
+||st.dynamicyield.com^
+--- filters
+
+ghostery_id: 2822

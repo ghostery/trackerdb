@@ -1,0 +1,14 @@
+name: Customer.io
+category: customer_interaction
+website_url: http://www.customer.io/
+organization: customer.io
+
+--- domains
+assets.customer.io
+--- domains
+
+--- filters
+||assets.customer.io/assets/track.js
+--- filters
+
+ghostery_id: 1684

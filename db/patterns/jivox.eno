@@ -1,0 +1,14 @@
+name: Jivox
+category: advertising
+website_url: http://www.jivox.com/
+organization: jivox
+
+--- domains
+jivox.com
+--- domains
+
+--- filters
+||jivox.com^
+--- filters
+
+ghostery_id: 1690

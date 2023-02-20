@@ -1,0 +1,15 @@
+name: MineWhat
+category: advertising
+website_url: http://www.minewhat.com
+organization: minewhat
+
+--- domains
+minewhat.com
+--- domains
+
+--- filters
+||d2ft2mgd1hddln.cloudfront.net/site/ethno/lazyoaf505/minewhat.js
+||minewhat.com^
+--- filters
+
+ghostery_id: 1437

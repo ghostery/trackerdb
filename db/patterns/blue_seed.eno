@@ -1,0 +1,14 @@
+name: Blue Seed
+category: advertising
+website_url: 
+organization: blue_seed
+
+--- domains
+blueserving.com
+--- domains
+
+--- filters
+||blueserving.com/js/show_ads_blueseed.js
+--- filters
+
+ghostery_id: 2699

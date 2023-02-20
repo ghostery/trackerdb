@@ -1,0 +1,16 @@
+name: McAfee Secure
+category: essential
+website_url: http://www.mcafeesecure.com/us/
+organization: mcafee
+
+--- domains
+scanalert.com
+ywxi.net
+--- domains
+
+--- filters
+||cdn.ywxi.net^
+||images.scanalert.com/meter/
+--- filters
+
+ghostery_id: 778

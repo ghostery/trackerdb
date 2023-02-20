@@ -1,0 +1,14 @@
+name: Publicidad.net
+category: advertising
+website_url: http://www.en.publicidad.net/
+organization: publicidad.net
+
+--- domains
+publicidad.net
+--- domains
+
+--- filters
+||publicidad.net^
+--- filters
+
+ghostery_id: 1019

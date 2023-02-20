@@ -1,0 +1,14 @@
+name: Rich Media Banner Network
+category: advertising
+website_url: http://rmbn.ru/
+organization: rich_media_banner_network
+
+--- domains
+rmbn.ru
+--- domains
+
+--- filters
+||rmbn.ru^
+--- filters
+
+ghostery_id: 1313

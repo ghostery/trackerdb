@@ -1,0 +1,11 @@
+name: Google Safeframe
+category: advertising
+website_url: 
+organization: google
+alias: google_syndication
+
+--- filters
+||tpc.googlesyndication.com/safeframe
+--- filters
+
+ghostery_id: 2841

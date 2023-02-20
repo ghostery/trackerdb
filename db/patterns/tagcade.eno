@@ -1,0 +1,14 @@
+name: Tagcade
+category: advertising
+website_url: 
+organization: pubvantage
+
+--- domains
+tags.tagcade.com
+--- domains
+
+--- filters
+||tags.tagcade.com/2.0/pub/87/tagcade.js
+--- filters
+
+ghostery_id: 2836

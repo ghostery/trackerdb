@@ -1,0 +1,14 @@
+name: Loggly
+category: site_analytics
+website_url: http://loggly.com/
+organization: loggly
+
+--- domains
+loggly.com
+--- domains
+
+--- filters
+||loggly.com^
+--- filters
+
+ghostery_id: 1351

@@ -1,0 +1,15 @@
+name: Wirtualna Polska
+category: advertising
+website_url: 
+organization: wirtualna_polska
+
+--- domains
+adtotal.pl
+--- domains
+
+--- filters
+||adtotal.pl^
+||owabgxis.wp.pl^
+--- filters
+
+ghostery_id: 2735

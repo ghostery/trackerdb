@@ -1,0 +1,14 @@
+name: InterMundo Media
+category: advertising
+website_url: http://intermundomedia.com/
+organization: intermundo_media
+
+--- domains
+intermundomedia.com
+--- domains
+
+--- filters
+||intermundomedia.com^
+--- filters
+
+ghostery_id: 371

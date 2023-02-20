@@ -1,0 +1,14 @@
+name: GlobalTakeoff
+category: advertising
+website_url: http://www.globaltakeoff.net/
+organization: globaltakeoff
+
+--- domains
+ad.globaltakeoff.net
+--- domains
+
+--- filters
+||ad.globaltakeoff.net^
+--- filters
+
+ghostery_id: 865

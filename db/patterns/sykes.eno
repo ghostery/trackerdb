@@ -1,0 +1,14 @@
+name: Sykes
+category: site_analytics
+website_url: 
+organization: sykes_cottages
+
+--- domains
+analytics-cdn.sykescottages.co.uk
+--- domains
+
+--- filters
+||analytics-cdn.sykescottages.co.uk/rest/md/
+--- filters
+
+ghostery_id: 2776

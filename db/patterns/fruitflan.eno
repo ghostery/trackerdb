@@ -1,0 +1,16 @@
+name: FruitFlan
+category: advertising
+website_url: http://flan-tech.com/
+organization: keytiles
+
+--- domains
+adflan.com
+fruitflan.com
+--- domains
+
+--- filters
+||adflan.com^
+||fruitflan.com^
+--- filters
+
+ghostery_id: 1136

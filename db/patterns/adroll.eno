@@ -1,0 +1,15 @@
+name: AdRoll
+category: advertising
+website_url: https://www.adroll.com/
+organization: adroll
+
+--- domains
+adroll.com
+--- domains
+
+--- filters
+||d.adroll.com/cm
+||s.adroll.com/j/sendrolling.js
+--- filters
+
+ghostery_id: 340

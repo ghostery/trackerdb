@@ -1,0 +1,14 @@
+name: RummyCircle
+category: advertising
+website_url: 
+organization: rummycircle
+
+--- domains
+click.rummycircle.com
+--- domains
+
+--- filters
+||click.rummycircle.com/trackdata
+--- filters
+
+ghostery_id: 2925

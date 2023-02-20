@@ -1,0 +1,16 @@
+name: Swoop
+category: advertising
+website_url: http://swoop.com/
+organization: swoop
+
+--- domains
+shopximity.com
+swoop.com
+--- domains
+
+--- filters
+||shopximity.com/js/spxw.js
+||swoop.com/js/spxw.js
+--- filters
+
+ghostery_id: 914

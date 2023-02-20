@@ -1,0 +1,16 @@
+name: Digg Widget
+category: customer_interaction
+website_url: http://digg.com/apple/Digg_Widget
+organization: buysellads.com
+
+--- domains
+digg.com
+--- domains
+
+--- filters
+||digg.com/*/diggthis.js^
+||digg.com/tools/widgetjs
+||widgets.digg.com^
+--- filters
+
+ghostery_id: 100

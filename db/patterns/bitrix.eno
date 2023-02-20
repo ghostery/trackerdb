@@ -1,0 +1,22 @@
+name: Bitrix24
+category: advertising
+website_url: https://www.bitrix24.com/
+organization: bitrix24
+
+--- domains
+bitrix.de
+bitrix.info
+bitrix.ru
+bitrix24.com
+bitrix24.com.br
+--- domains
+
+--- filters
+||bitrix.info/ba.js
+||bitrix24.com.br/bitrix/js/imopenlines_widget/script.js
+||cdn.bitrix24.com.br/b9028267/crm/site_button/loader_2_4tdx22.js
+||cdn.bitrix24.com.br/b9028267/crm/tag/call.tracker.js
+||ums.uz/bitrix/cache/js/ru/ru/kernel_main/kernel_main.js
+--- filters
+
+ghostery_id: 2522

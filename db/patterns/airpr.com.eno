@@ -1,0 +1,14 @@
+name: AirPR
+category: site_analytics
+website_url: https://airpr.com/
+organization: airpr
+
+--- domains
+airpr.com
+--- domains
+
+--- filters
+||px.airpr.com/airpr.js
+--- filters
+
+ghostery_id: 3267

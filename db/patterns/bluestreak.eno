@@ -1,0 +1,14 @@
+name: BlueStreak
+category: advertising
+website_url: http://www.bluestreak.com/
+organization: dentsu_aegis_network
+
+--- domains
+bluestreak.com
+--- domains
+
+--- filters
+||bluestreak.com^
+--- filters
+
+ghostery_id: 368

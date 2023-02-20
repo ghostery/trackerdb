@@ -1,0 +1,17 @@
+name: FoxPush
+category: advertising
+website_url: 
+organization: foxpush
+
+--- domains
+cdn.foxpush.net
+foxpush.com
+--- domains
+
+--- filters
+||cdn.foxpush.net^
+||foxpush.com/publisher/api
+||js.foxpush.com^
+--- filters
+
+ghostery_id: 2825

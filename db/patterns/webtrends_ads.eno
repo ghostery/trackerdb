@@ -1,0 +1,14 @@
+name: Webtrends Ads
+category: advertising
+website_url: http://www.webtrends.com
+organization: webtrends
+
+--- domains
+rd.clickshift.com
+--- domains
+
+--- filters
+||rd.clickshift.com^
+--- filters
+
+ghostery_id: 1125

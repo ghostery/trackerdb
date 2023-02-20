@@ -1,0 +1,14 @@
+name: Admax
+category: advertising
+website_url: http://www.admaxnetwork.com/index.php
+organization: komli
+
+--- domains
+admaxserver.com
+--- domains
+
+--- filters
+||admaxserver.com^
+--- filters
+
+ghostery_id: 1239

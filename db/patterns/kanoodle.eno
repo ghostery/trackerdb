@@ -1,0 +1,14 @@
+name: Kanoodle
+category: advertising
+website_url: http://www.kanoodle.com/
+organization: kanoodle
+
+--- domains
+kanoodle.com
+--- domains
+
+--- filters
+||kanoodle.com^
+--- filters
+
+ghostery_id: 115

@@ -1,0 +1,14 @@
+name: Browser Update
+category: customer_interaction
+website_url: http://www.browser-update.org/
+organization: browser-update
+
+--- domains
+browser-update.org
+--- domains
+
+--- filters
+||browser-update.org/update.js
+--- filters
+
+ghostery_id: 774

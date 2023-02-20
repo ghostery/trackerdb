@@ -1,0 +1,14 @@
+name: inside
+category: social_media
+website_url: http://www.inside.tm/
+organization: powerfront
+
+--- domains
+inside-graph.com
+--- domains
+
+--- filters
+||inside-graph.com/ig.js^
+--- filters
+
+ghostery_id: 1936

@@ -1,0 +1,16 @@
+name: Q1Media
+category: advertising
+website_url: http://q1media.com/
+organization: q1media
+
+--- domains
+ads.q1media.com
+q1mediahydraplatform.com
+--- domains
+
+--- filters
+||ads.q1media.com^
+||q1mediahydraplatform.com^
+--- filters
+
+ghostery_id: 1780

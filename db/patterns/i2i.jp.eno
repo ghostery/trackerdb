@@ -1,0 +1,16 @@
+name: i2i.jp
+category: site_analytics
+website_url: http://www.i2i.jp/
+organization: i2i.jp
+
+--- domains
+i2i.jp
+i2idata.com
+--- domains
+
+--- filters
+||i2i.jp^
+||i2idata.com^
+--- filters
+
+ghostery_id: 1181

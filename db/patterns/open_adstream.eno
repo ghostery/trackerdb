@@ -1,0 +1,21 @@
+name: Open Adstream
+category: advertising
+website_url: 
+organization: appnexus
+
+--- domains
+247realmedia.com
+oaserve.com
+realmedia.com
+realmediadigital.com
+--- domains
+
+--- filters
+realmedia/ads/adstream
+||247realmedia.com^
+||oaserve.com^
+||realmedia.com/^
+||realmediadigital.com^
+--- filters
+
+ghostery_id: 2765

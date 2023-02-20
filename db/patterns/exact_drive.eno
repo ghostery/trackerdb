@@ -1,0 +1,14 @@
+name: Exact Drive
+category: advertising
+website_url: http://www.exactdrive.com/
+organization: exact_drive
+
+--- domains
+ads.exactdrive.com
+--- domains
+
+--- filters
+||ads.exactdrive.com^
+--- filters
+
+ghostery_id: 1910

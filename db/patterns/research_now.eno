@@ -1,0 +1,14 @@
+name: Research Now
+category: advertising
+website_url: http://www.researchnow.com/
+organization: research_now
+
+--- domains
+researchnow.com
+--- domains
+
+--- filters
+||researchnow.com^
+--- filters
+
+ghostery_id: 1727

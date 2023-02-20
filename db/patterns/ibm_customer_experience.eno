@@ -1,0 +1,19 @@
+name: IBM Digital Analytics
+category: site_analytics
+website_url: http://www.coremetrics.com/
+organization: ibm
+
+--- domains
+cmcore.com
+coremetrics.com
+coremetrics.eu
+--- domains
+
+--- filters
+/eluminate.js
+||coremetrics.com^
+||coremetrics.eu/^
+||data.cmcore.com^
+--- filters
+
+ghostery_id: 163

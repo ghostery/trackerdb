@@ -1,0 +1,14 @@
+name: GestionPub
+category: advertising
+website_url: http://www.gestionpub.com/
+organization: gestionpub
+
+--- domains
+gestionpub.com
+--- domains
+
+--- filters
+||gestionpub.com^
+--- filters
+
+ghostery_id: 772

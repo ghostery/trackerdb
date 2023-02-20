@@ -1,0 +1,16 @@
+name: Oracle Maxymiser
+category: advertising
+website_url: https://www.oracle.com/marketingcloud/products/testing-and-optimization/index.html
+organization: oracle
+
+--- domains
+maxymiser.hs.llnwd.net
+maxymiser.net
+--- domains
+
+--- filters
+/mmcore.js
+||cg-global.maxymiser.com^
+--- filters
+
+ghostery_id: 458

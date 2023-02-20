@@ -1,0 +1,14 @@
+name: WidgetBox
+category: customer_interaction
+website_url: http://www.widgetbox.com/
+organization: widgetbox
+
+--- domains
+widgetserver.com
+--- domains
+
+--- filters
+||widgetserver.com/syndication/subscriber
+--- filters
+
+ghostery_id: 248

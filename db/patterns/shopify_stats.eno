@@ -1,0 +1,15 @@
+name: Shopify Stats
+category: advertising
+website_url: http://www.shopify.com/
+organization: shopify
+
+--- domains
+shopify.com
+--- domains
+
+--- filters
+||s.shopify.com^
+||stats.shopify.com^
+--- filters
+
+ghostery_id: 1272

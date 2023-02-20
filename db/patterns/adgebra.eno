@@ -1,0 +1,15 @@
+name: Adgebra
+category: advertising
+website_url: https://adgebra.in/
+organization: adgebra
+
+--- domains
+adgebra.co.in
+--- domains
+
+--- filters
+||adgebra.co.in/adserving/spot.js
+||adgebra.co.in/afph/afph.js
+--- filters
+
+ghostery_id: 2885

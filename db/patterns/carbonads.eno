@@ -1,0 +1,17 @@
+name: Carbon Ads
+category: advertising
+website_url: https://www.carbonads.net/
+organization: buysellads.com
+
+--- domains
+carbonads.com
+carbonads.net
+fusionads.net
+--- domains
+
+--- filters
+||carbonads.com^
+||fusionads.net^
+--- filters
+
+ghostery_id: 678

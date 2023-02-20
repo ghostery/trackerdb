@@ -1,0 +1,16 @@
+name: GrandSlamMedia
+category: advertising
+website_url: http://www.grandslammedia.com/
+organization: grand_slam_media
+
+--- domains
+trw12.com
+tuberewards.com
+--- domains
+
+--- filters
+||trw12.com^
+||tuberewards.com^
+--- filters
+
+ghostery_id: 1519

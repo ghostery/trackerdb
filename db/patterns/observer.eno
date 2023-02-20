@@ -1,0 +1,14 @@
+name: Observer
+category: advertising
+website_url: http://www.observerapp.com
+organization: observer
+
+--- domains
+observerapp.com
+--- domains
+
+--- filters
+||observerapp.com/record
+--- filters
+
+ghostery_id: 781

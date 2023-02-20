@@ -1,0 +1,19 @@
+name: Conduit
+category: advertising
+website_url: http://www.conduit.com/
+organization: conduit
+
+--- domains
+conduit-banners.com
+conduit-data.com
+conduit.com
+--- domains
+
+--- filters
+||api.conduit.com^
+||apps.conduit.com^
+||conduit-banners.com^
+||conduit-data.com^
+--- filters
+
+ghostery_id: 473

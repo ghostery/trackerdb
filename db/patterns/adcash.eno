@@ -1,0 +1,14 @@
+name: Adcash
+category: advertising
+website_url: http://www.adcash.com
+organization: adcash
+
+--- domains
+adcash.com
+--- domains
+
+--- filters
+||adcash.com^
+--- filters
+
+ghostery_id: 1120

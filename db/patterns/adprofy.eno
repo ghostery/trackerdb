@@ -1,0 +1,14 @@
+name: AdProfy
+category: advertising
+website_url: http://adprofy.com/
+organization: adprofy
+
+--- domains
+adframesrc.com
+--- domains
+
+--- filters
+||adframesrc.com^
+--- filters
+
+ghostery_id: 1650

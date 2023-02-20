@@ -1,0 +1,14 @@
+name: TruEffect
+category: advertising
+website_url: http://www.trueffect.com/
+organization: trueffect
+
+--- domains
+adlegend.com
+--- domains
+
+--- filters
+||ad.adlegend.com^
+--- filters
+
+ghostery_id: 346

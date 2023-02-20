@@ -1,0 +1,14 @@
+name: TradeDoubler
+category: advertising
+website_url: http://www.tradedoubler.com/
+organization: tradedoubler
+
+--- domains
+tradedoubler.com
+--- domains
+
+--- filters
+||tradedoubler.com^
+--- filters
+
+ghostery_id: 533

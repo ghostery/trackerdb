@@ -1,0 +1,16 @@
+name: AdMaster
+category: advertising
+website_url: http://admaster.net
+organization: admaster
+
+--- domains
+admaster.net
+cdnmaster.com
+--- domains
+
+--- filters
+||admaster.net^
+||cdnmaster.com/sitemaster/collect.js
+--- filters
+
+ghostery_id: 1314

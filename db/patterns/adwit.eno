@@ -1,0 +1,14 @@
+name: Adwit
+category: advertising
+website_url: http://www.adwitserver.com
+organization: adwit
+
+--- domains
+ads.adwitserver.com
+--- domains
+
+--- filters
+||ads.adwitserver.com^
+--- filters
+
+ghostery_id: 888

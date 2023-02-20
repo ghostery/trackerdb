@@ -1,0 +1,14 @@
+name: Act-On Beacon
+category: advertising
+website_url: http://www.actonsoftware.com/
+organization: act-on
+
+--- domains
+actonsoftware.com
+--- domains
+
+--- filters
+/acton/bn^
+--- filters
+
+ghostery_id: 282

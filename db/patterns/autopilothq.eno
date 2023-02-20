@@ -1,0 +1,14 @@
+name: Auto Pilot
+category: advertising
+website_url: https://www.autopilothq.com/
+organization: autopilothq
+
+--- domains
+api.autopilothq.com
+--- domains
+
+--- filters
+||api.autopilothq.com/anywhere/
+--- filters
+
+ghostery_id: 2874

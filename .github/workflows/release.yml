@@ -1,0 +1,75 @@
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag name'
+        required: true
+        type: string
+
+name: Create Release
+
+jobs:
+  build:
+    name: Create Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: asdf_install
+        uses: asdf-vm/actions/install@v1
+
+      - name: Cache node modules
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: Install
+        run: npm ci
+        env:
+          AWS_DEFAULT_REGION: us-east-1
+
+      - name: Export SQL
+        run: npm run export-sql
+
+      - name: Export JSON
+        run: npm run export-json
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: ${{ inputs.tag }}
+          release_name: ${{ inputs.tag }}
+          body: Ghostery Tracker DB release for ${{ inputs.tag }}
+          draft: false
+          prerelease: false
+
+      - name: Upload SQL
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./dist/trackerdb_${{ inputs.tag }}.db
+          asset_name: trackerdb_${{ inputs.tag }}.db
+          asset_content_type: application/vnd.sqlite3
+
+      - name: Upload JSON
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./dist/trackerdb_${{ inputs.tag }}.json
+          asset_name: trackerdb_${{ inputs.tag }}.json
+          asset_content_type: application/json

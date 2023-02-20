@@ -1,0 +1,14 @@
+name: Adpv
+category: advertising
+website_url: http://www.adpv.com/
+organization: adpv
+
+--- domains
+ads.adpv.com
+--- domains
+
+--- filters
+||ads.adpv.com^
+--- filters
+
+ghostery_id: 1160

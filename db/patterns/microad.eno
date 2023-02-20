@@ -1,0 +1,19 @@
+name: MicroAd
+category: advertising
+website_url: https://www.microad.co.jp/
+organization: microad
+
+--- domains
+microad.co.jp
+microad.jp
+microad.net
+microadinc.com
+--- domains
+
+--- filters
+||microad.jp^
+||microad.net^
+||microadinc.com^
+--- filters
+
+ghostery_id: 683

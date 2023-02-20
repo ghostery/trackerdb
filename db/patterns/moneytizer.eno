@@ -1,0 +1,14 @@
+name: Moneytizer
+category: advertising
+website_url: 
+organization: the_moneytizer
+
+--- domains
+ads.themoneytizer.com
+--- domains
+
+--- filters
+||ads.themoneytizer.com/s/gen.js
+--- filters
+
+ghostery_id: 2926

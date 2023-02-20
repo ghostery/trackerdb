@@ -1,0 +1,14 @@
+name: BlackDragon
+category: advertising
+website_url: 
+organization: jing_dong
+
+--- domains
+jssr.jd.com
+--- domains
+
+--- filters
+||jssr.jd.com/tj.js
+--- filters
+
+ghostery_id: 3083

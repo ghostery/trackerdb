@@ -1,0 +1,14 @@
+name: eMnet
+category: advertising
+website_url: http://www.emnet.co.kr
+organization: emnet
+
+--- domains
+adinsight.co.kr
+--- domains
+
+--- filters
+||adinsight.co.kr^
+--- filters
+
+ghostery_id: 2062

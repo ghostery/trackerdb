@@ -1,0 +1,16 @@
+name: RevResponse
+category: advertising
+website_url: http://www.netline.com/
+organization: netline
+
+--- domains
+cts.tradepub.com
+revresponse.com
+--- domains
+
+--- filters
+||cts.tradepub.com^
+||revresponse.com^
+--- filters
+
+ghostery_id: 1878

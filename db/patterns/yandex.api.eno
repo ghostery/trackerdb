@@ -1,0 +1,14 @@
+name: Yandex.API
+category: customer_interaction
+website_url: http://api.yandex.ru/
+organization: yandex
+
+--- domains
+yandex.st
+--- domains
+
+--- filters
+||yandex.st/share/
+--- filters
+
+ghostery_id: 670

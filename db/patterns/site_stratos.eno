@@ -1,0 +1,14 @@
+name: Site Stratos
+category: advertising
+website_url: 
+organization: infocube
+
+--- domains
+a5.ogt.jp
+--- domains
+
+--- filters
+||a5.ogt.jp^
+--- filters
+
+ghostery_id: 2526

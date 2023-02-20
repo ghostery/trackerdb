@@ -1,0 +1,16 @@
+name: isocket
+category: advertising
+website_url: http://www.isocket.com/
+organization: rubicon_project
+
+--- domains
+adsbyisocket.com
+isocket.com
+--- domains
+
+--- filters
+||adsbyisocket.com^
+||isocket.com^
+--- filters
+
+ghostery_id: 1214

@@ -1,0 +1,15 @@
+name: Optimizely
+category: site_analytics
+website_url: https://www.optimizely.com/
+organization: optimizely
+
+--- domains
+optimizely.com
+--- domains
+
+--- filters
+||cdn.optimizely.com/client_storage/
+||cdn.optimizely.com/js/
+--- filters
+
+ghostery_id: 588

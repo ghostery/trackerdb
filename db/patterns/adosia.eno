@@ -1,0 +1,14 @@
+name: Adosia
+category: advertising
+website_url: 
+organization: adosia
+
+--- domains
+adosia.com
+--- domains
+
+--- filters
+||adosia.com/adscroll/iscroll-min.js
+--- filters
+
+ghostery_id: 2283

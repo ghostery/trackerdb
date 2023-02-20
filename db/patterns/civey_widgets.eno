@@ -1,0 +1,14 @@
+name: Civey Widgets
+category: customer_interaction
+website_url: 
+organization: civey
+
+--- domains
+widget.civey.com
+--- domains
+
+--- filters
+||widget.civey.com/1
+--- filters
+
+ghostery_id: 3018

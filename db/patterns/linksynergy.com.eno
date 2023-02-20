@@ -1,0 +1,14 @@
+name: Rakuten LinkShare
+category: advertising
+website_url: https://rakutenmarketing.com/affiliate
+organization: rakuten
+
+--- domains
+linksynergy.com
+--- domains
+
+--- filters
+||linksynergy.com^
+--- filters
+
+ghostery_id: 396

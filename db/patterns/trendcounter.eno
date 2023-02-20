@@ -1,0 +1,16 @@
+name: trendcounter
+category: site_analytics
+website_url: http://www.trendcounter.com/
+organization: trendcounter
+
+--- domains
+s.tcimg.com
+tcimg.com
+--- domains
+
+--- filters
+||s.tcimg.com/w/v3/trendcounter.js
+||tcimg.com^
+--- filters
+
+ghostery_id: 1499

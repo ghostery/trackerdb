@@ -1,0 +1,16 @@
+name: Adnet Media
+category: advertising
+website_url: http://www.adnetmedia.lt/
+organization: adnet_media
+
+--- domains
+adclick.lt
+adnet.lt
+--- domains
+
+--- filters
+||adclick.lt^
+||adnet.lt^
+--- filters
+
+ghostery_id: 1325

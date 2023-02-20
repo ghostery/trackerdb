@@ -1,0 +1,14 @@
+name: smartAD
+category: advertising
+website_url: http://smartad.eu/
+organization: smartad
+
+--- domains
+bepolite.eu
+--- domains
+
+--- filters
+||bepolite.eu^
+--- filters
+
+ghostery_id: 1326

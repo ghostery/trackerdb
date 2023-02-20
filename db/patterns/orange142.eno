@@ -1,0 +1,14 @@
+name: Orange142
+category: advertising
+website_url: http://www.orange142.com/
+organization: orange142
+
+--- domains
+ads.orange142.com
+--- domains
+
+--- filters
+||ads.orange142.com^
+--- filters
+
+ghostery_id: 1949

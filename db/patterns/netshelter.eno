@@ -1,0 +1,14 @@
+name: NetShelter
+category: advertising
+website_url: http://www.netshelter.net/
+organization: netshelter
+
+--- domains
+netshelter.net
+--- domains
+
+--- filters
+||netshelter.net^
+--- filters
+
+ghostery_id: 321

@@ -1,0 +1,14 @@
+name: 8digits
+category: site_analytics
+website_url: 
+organization: 8digits
+
+--- domains
+hit.8digits.com
+--- domains
+
+--- filters
+||hit.8digits.com/js
+--- filters
+
+ghostery_id: 2784

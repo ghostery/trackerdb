@@ -1,0 +1,14 @@
+name: MegaIndex
+category: advertising
+website_url: http://www.megaindex.ru
+organization: megaindex
+
+--- domains
+counter.megaindex.ru
+--- domains
+
+--- filters
+||counter.megaindex.ru^
+--- filters
+
+ghostery_id: 1461

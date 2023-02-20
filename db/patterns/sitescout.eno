@@ -1,0 +1,16 @@
+name: SiteScout by Centro
+category: advertising
+website_url: http://www.sitescout.com
+organization: centro
+
+--- domains
+pixel.ad
+sitescout.com
+--- domains
+
+--- filters
+||pixel.ad^
+||sitescout.com^
+--- filters
+
+ghostery_id: 860

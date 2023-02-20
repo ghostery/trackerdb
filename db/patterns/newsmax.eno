@@ -1,0 +1,14 @@
+name: Newsmax
+category: advertising
+website_url: http://www.newsmax.com/
+organization: newsmax
+
+--- domains
+nmcdn.us
+--- domains
+
+--- filters
+||nmcdn.us^
+--- filters
+
+ghostery_id: 1581

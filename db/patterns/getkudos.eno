@@ -1,0 +1,14 @@
+name: GetKudos
+category: comments
+website_url: https://www.getkudos.me/
+organization: zendesk
+
+--- domains
+static.getkudos.me
+--- domains
+
+--- filters
+||static.getkudos.me^
+--- filters
+
+ghostery_id: 2125

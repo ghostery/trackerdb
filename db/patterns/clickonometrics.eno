@@ -1,0 +1,14 @@
+name: Clickonometrics
+category: advertising
+website_url: http://clickonometrics.pl/
+organization: clickonometrics
+
+--- domains
+clickonometrics.pl
+--- domains
+
+--- filters
+||clickonometrics.pl^
+--- filters
+
+ghostery_id: 1789

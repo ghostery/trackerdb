@@ -1,0 +1,15 @@
+name: ClickInc
+category: advertising
+website_url: http://www.clickinc.com
+organization: clickinc
+
+--- domains
+clickinc.com
+--- domains
+
+--- filters
+||ca.clickinc.com^
+||impression.clickinc.com^
+--- filters
+
+ghostery_id: 374

@@ -1,0 +1,14 @@
+name: JuiceADV
+category: advertising
+website_url: http://juiceadv.com/
+organization: juiceadv
+
+--- domains
+juiceadv.com
+--- domains
+
+--- filters
+||juiceadv.com^
+--- filters
+
+ghostery_id: 1010

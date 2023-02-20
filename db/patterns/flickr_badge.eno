@@ -1,0 +1,16 @@
+name: Flickr Badge
+category: social_media
+website_url: http://www.flickr.com/
+organization: smugmug
+
+--- domains
+flickr.com
+staticflickr.com
+--- domains
+
+--- filters
+||flickr.com/apps/badge/badge_iframe.gne
+||flickr.com/badge_code_v2.gne
+--- filters
+
+ghostery_id: 1928

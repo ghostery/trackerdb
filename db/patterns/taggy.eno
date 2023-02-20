@@ -1,0 +1,14 @@
+name: TAGGY
+category: advertising
+website_url: http://taggy.jp/
+organization: taggy
+
+--- domains
+taggyad.jp
+--- domains
+
+--- filters
+||taggyad.jp^
+--- filters
+
+ghostery_id: 1811

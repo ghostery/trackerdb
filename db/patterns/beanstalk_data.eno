@@ -1,0 +1,14 @@
+name: Beanstalk Data
+category: advertising
+website_url: http://www.beanstalkdata.com/
+organization: beanstalk_data
+
+--- domains
+beanstalkdata.com
+--- domains
+
+--- filters
+||beanstalkdata.com^
+--- filters
+
+ghostery_id: 1672

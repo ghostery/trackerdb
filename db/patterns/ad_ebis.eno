@@ -1,0 +1,14 @@
+name: AD EBiS
+category: advertising
+website_url: http://www.ebis.ne.jp/en/
+organization: ad_ebis
+
+--- domains
+ebis.ne.jp
+--- domains
+
+--- filters
+||ebis.ne.jp^
+--- filters
+
+ghostery_id: 2163

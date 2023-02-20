@@ -1,0 +1,14 @@
+name: Terren
+category: advertising
+website_url: http://www.webterren.com/
+organization: terren
+
+--- domains
+webterren.com
+--- domains
+
+--- filters
+||webterren.com^
+--- filters
+
+ghostery_id: 1900

@@ -1,0 +1,20 @@
+name: AdMob
+category: advertising
+website_url: http://www.admob.com/
+organization: google
+
+--- domains
+a.admob.com
+mm.admob.com
+mmv.admob.com
+p.admob.com
+--- domains
+
+--- filters
+||a.admob.com^
+||mm.admob.com^
+||mmv.admob.com^
+||p.admob.com^
+--- filters
+
+ghostery_id: 912

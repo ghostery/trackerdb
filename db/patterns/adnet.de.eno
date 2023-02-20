@@ -1,0 +1,16 @@
+name: adNET.de
+category: advertising
+website_url: http://www.adnet.de
+organization: adnet.de
+
+--- domains
+adnet.biz
+adnet.de
+--- domains
+
+--- filters
+||adnet.biz^
+||adnet.de^
+--- filters
+
+ghostery_id: 1413

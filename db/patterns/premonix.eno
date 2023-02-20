@@ -1,0 +1,14 @@
+name: Premonix
+category: advertising
+website_url: http://www.premonix.com/
+organization: premonix
+
+--- domains
+prnx.net
+--- domains
+
+--- filters
+||prnx.net^
+--- filters
+
+ghostery_id: 1762

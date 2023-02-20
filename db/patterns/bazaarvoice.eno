@@ -1,0 +1,20 @@
+name: Bazaarvoice
+category: customer_interaction
+website_url: http://www.bazaarvoice.com/
+organization: bazaarvoice
+
+--- domains
+bazaarvoice.com
+--- domains
+
+--- filters
+/bazaarvoice.js
+||analytics-static.ugc.bazaarvoice.com/prod/static/3/bv-analytics.js
+||apps.nexus.bazaarvoice.com^
+||network.bazaarvoice.com^
+||reviews.bazaarvoice.com^
+||static.curations.bazaarvoice.com/gallery/skii/prod/loader.js
+||ugc.bazaarvoice.com^
+--- filters
+
+ghostery_id: 974

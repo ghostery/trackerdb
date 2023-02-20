@@ -1,0 +1,14 @@
+name: Warp.ly
+category: site_analytics
+website_url: 
+organization: warp.ly
+
+--- domains
+static.warp.ly
+--- domains
+
+--- filters
+||static.warp.ly/data/warplysdk_v2.0.js
+--- filters
+
+ghostery_id: 2520

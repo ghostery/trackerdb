@@ -1,0 +1,14 @@
+name: PowerReviews
+category: customer_interaction
+website_url: http://www.powerreviews.com/
+organization: powerreviews
+
+--- domains
+powerreviews.com
+--- domains
+
+--- filters
+||t.powerreviews.com^
+--- filters
+
+ghostery_id: 2171

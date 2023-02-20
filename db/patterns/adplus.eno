@@ -1,0 +1,14 @@
+name: ADPLUS
+category: advertising
+website_url: http://www.adplus.co.id/
+organization: adplus
+
+--- domains
+adplus.co.id
+--- domains
+
+--- filters
+||adplus.co.id^
+--- filters
+
+ghostery_id: 1355

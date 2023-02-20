@@ -1,0 +1,14 @@
+name: Chitika
+category: advertising
+website_url: http://chitika.com/
+organization: chitika
+
+--- domains
+chitika.net
+--- domains
+
+--- filters
+||chitika.net^
+--- filters
+
+ghostery_id: 121

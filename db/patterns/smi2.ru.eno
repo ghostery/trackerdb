@@ -1,0 +1,16 @@
+name: smi2.ru
+category: site_analytics
+website_url: https://smi2.net/
+organization: media2_stat.media
+
+--- domains
+smi2.net
+smi2.ru
+stat.media
+--- domains
+
+--- filters
+||stat.media/counter/api
+--- filters
+
+ghostery_id: 3249

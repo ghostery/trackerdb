@@ -1,0 +1,14 @@
+name: Veoxa
+category: advertising
+website_url: http://www.veoxa.com/
+organization: veoxa
+
+--- domains
+veoxa.com
+--- domains
+
+--- filters
+||veoxa.com^
+--- filters
+
+ghostery_id: 720

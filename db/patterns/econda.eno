@@ -1,0 +1,15 @@
+name: Econda
+category: site_analytics
+website_url: http://www.econda.de/
+organization: econda
+
+--- domains
+econda-monitor.de
+--- domains
+
+--- filters
+/econda*.js^
+||econda-monitor.de^
+--- filters
+
+ghostery_id: 405

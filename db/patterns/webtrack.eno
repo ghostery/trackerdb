@@ -1,0 +1,14 @@
+name: webtrack
+category: site_analytics
+website_url: http://www.webtrack.biz/
+organization: webtrack
+
+--- domains
+stat.webtrack.biz
+--- domains
+
+--- filters
+||stat.webtrack.biz^
+--- filters
+
+ghostery_id: 1681

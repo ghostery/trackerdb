@@ -1,0 +1,15 @@
+name: StockTwits
+category: customer_interaction
+website_url: http://stocktwits.com
+organization: stocktwits
+
+--- domains
+stocktwits.com
+--- domains
+
+--- filters
+||stocktwits.com/addon/widget
+||stocktwits.com/networkbar
+--- filters
+
+ghostery_id: 1651

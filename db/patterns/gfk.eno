@@ -1,0 +1,14 @@
+name: GfK
+category: advertising
+website_url: http://nurago.com/
+organization: gfk_nurago
+
+--- domains
+sensic.net
+--- domains
+
+--- filters
+||sensic.net^
+--- filters
+
+ghostery_id: 753

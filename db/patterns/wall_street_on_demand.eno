@@ -1,0 +1,14 @@
+name: Wall Street on Demand
+category: advertising
+website_url: http://www.wallst.com
+organization: markit_on_demand
+
+--- domains
+wsod.com
+--- domains
+
+--- filters
+||wsod.com^
+--- filters
+
+ghostery_id: 449

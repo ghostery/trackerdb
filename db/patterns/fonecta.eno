@@ -1,0 +1,14 @@
+name: Fonecta
+category: customer_interaction
+website_url: http://www.fonecta.com/
+organization: fonecta
+
+--- domains
+kavijaseuranta.fi
+--- domains
+
+--- filters
+||kavijaseuranta.fi^
+--- filters
+
+ghostery_id: 1009

@@ -1,0 +1,14 @@
+name: ProductsUp
+category: advertising
+website_url: 
+organization: productsup
+
+--- domains
+lib.productsup.io
+--- domains
+
+--- filters
+||lib.productsup.io/engine/load.js
+--- filters
+
+ghostery_id: 2954

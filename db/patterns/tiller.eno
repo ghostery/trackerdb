@@ -1,0 +1,15 @@
+name: Tiller
+category: advertising
+website_url: 
+organization: tiller
+
+--- domains
+optimized.by.tiller.co
+--- domains
+
+--- filters
+||optimized.by.tiller.co^
+||optimizedby.tiller.co/global.js
+--- filters
+
+ghostery_id: 2402

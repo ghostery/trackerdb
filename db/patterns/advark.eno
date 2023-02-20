@@ -1,0 +1,14 @@
+name: Advark
+category: advertising
+website_url: 
+organization: advark
+
+--- domains
+s3.advarkads.com
+--- domains
+
+--- filters
+||s3.advarkads.com/modules/cr.js
+--- filters
+
+ghostery_id: 2386

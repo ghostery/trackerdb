@@ -1,0 +1,14 @@
+name: Pepsia
+category: site_analytics
+website_url: 
+organization: pepsia
+
+--- domains
+player.pepsia.com
+--- domains
+
+--- filters
+||player.pepsia.com^
+--- filters
+
+ghostery_id: 3216

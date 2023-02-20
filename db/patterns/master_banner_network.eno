@@ -1,0 +1,14 @@
+name: Master Banner Network
+category: advertising
+website_url: http://www.mbn.com.ua/
+organization: master_banner_network
+
+--- domains
+mbn.com.ua
+--- domains
+
+--- filters
+||mbn.com.ua^
+--- filters
+
+ghostery_id: 2217

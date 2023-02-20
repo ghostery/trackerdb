@@ -1,0 +1,17 @@
+name: United Internet Media GmbH
+category: advertising
+website_url: 
+organization: united_internet
+
+--- domains
+tifbs.net
+ui-portal.de
+uimserv.net
+--- domains
+
+--- filters
+||uim.tifbs.net/js/2690.js
+||uir.uimserv.net/id
+--- filters
+
+ghostery_id: 3202

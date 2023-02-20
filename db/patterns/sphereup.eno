@@ -1,0 +1,14 @@
+name: SphereUp
+category: customer_interaction
+website_url: 
+organization: zoomd
+
+--- domains
+zdwidget3-bs.sphereup.com
+--- domains
+
+--- filters
+||zdwidget3-bs.sphereup.com^
+--- filters
+
+ghostery_id: 2919

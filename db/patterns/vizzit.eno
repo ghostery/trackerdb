@@ -1,0 +1,14 @@
+name: Vizzit
+category: advertising
+website_url: http://www.vizzit.se/h/en/
+organization: vizzit
+
+--- domains
+vizzit.se
+--- domains
+
+--- filters
+||vizzit.se/vizzittag/
+--- filters
+
+ghostery_id: 1025

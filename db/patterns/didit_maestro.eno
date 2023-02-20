@@ -1,0 +1,14 @@
+name: Didit Maestro
+category: advertising
+website_url: http://www.didit.com/maestro
+organization: didit
+
+--- domains
+track.did-it.com
+--- domains
+
+--- filters
+||track.did-it.com^
+--- filters
+
+ghostery_id: 388

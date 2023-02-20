@@ -1,0 +1,14 @@
+name: Median
+category: advertising
+website_url: http://median.hu
+organization: median
+
+--- domains
+audit.median.hu
+--- domains
+
+--- filters
+||audit.median.hu^
+--- filters
+
+ghostery_id: 1252

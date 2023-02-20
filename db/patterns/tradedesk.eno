@@ -1,0 +1,14 @@
+name: TradeDesk
+category: advertising
+website_url: http://www.thetradedesk.com/
+organization: the_trade_desk
+
+--- domains
+adsrvr.org
+--- domains
+
+--- filters
+||adsrvr.org^
+--- filters
+
+ghostery_id: 579

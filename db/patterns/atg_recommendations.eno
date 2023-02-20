@@ -1,0 +1,14 @@
+name: ATG Recommendations
+category: advertising
+website_url: http://www.atg.com/en/products-services/optimization/recommendations/
+organization: oracle
+
+--- domains
+atgsvcs.com
+--- domains
+
+--- filters
+||atgsvcs.com/js/atgsvcs.js
+--- filters
+
+ghostery_id: 438

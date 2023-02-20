@@ -1,0 +1,12 @@
+name: Kalooga Widget
+category: advertising
+website_url: http://kalooga.com/
+organization: kalooga
+alias: kaloo.ga
+
+--- filters
+||publishing.kaloo.ga/mod/wid
+||publishing.kaloo.ga/mod/widgetloader
+--- filters
+
+ghostery_id: 1508

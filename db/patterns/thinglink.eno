@@ -1,0 +1,14 @@
+name: ThingLink
+category: advertising
+website_url: http://www.thinglink.com/
+organization: thinglink
+
+--- domains
+thinglink.com
+--- domains
+
+--- filters
+||thinglink.com/jse/embed.js
+--- filters
+
+ghostery_id: 879

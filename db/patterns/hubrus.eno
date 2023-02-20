@@ -1,0 +1,14 @@
+name: HUBRUS
+category: advertising
+website_url: http://www.hubrus.com/
+organization: hubrus
+
+--- domains
+hubrus.com
+--- domains
+
+--- filters
+||hubrus.com^
+--- filters
+
+ghostery_id: 1847

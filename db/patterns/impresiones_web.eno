@@ -1,0 +1,14 @@
+name: Impresiones Web
+category: advertising
+website_url: http://www.iw-advertising.com/
+organization: impresiones_web
+
+--- domains
+impresionesweb.com
+--- domains
+
+--- filters
+||impresionesweb.com^
+--- filters
+
+ghostery_id: 976

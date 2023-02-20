@@ -1,0 +1,14 @@
+name: Porta Brazil
+category: advertising
+website_url: 
+organization: portal_brazil
+
+--- domains
+barra.brasil.gov.br
+--- domains
+
+--- filters
+||barra.brasil.gov.br/barra.js
+--- filters
+
+ghostery_id: 2941

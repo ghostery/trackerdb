@@ -1,0 +1,14 @@
+name: Web Service Award
+category: site_analytics
+website_url: http://webserviceaward.com/english/
+organization: web_service_award
+
+--- domains
+ssl.webserviceaward.com
+--- domains
+
+--- filters
+||ssl.webserviceaward.com/wsc/
+--- filters
+
+ghostery_id: 1026

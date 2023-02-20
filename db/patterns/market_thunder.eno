@@ -1,0 +1,15 @@
+name: Market Thunder
+category: advertising
+website_url: 
+organization: market_thunder
+
+--- domains
+ak-cdn.placelocal.com
+--- domains
+
+--- filters
+||ak-cdn.placelocal.com/js/v3/iframetag
+||reative.placelocal.com/v3.placelocal.com
+--- filters
+
+ghostery_id: 3047

@@ -1,0 +1,14 @@
+name: Ipinfo
+category: customer_interaction
+website_url: 
+organization: ipinfo.io
+
+--- domains
+ipinfo.io
+--- domains
+
+--- filters
+||ipinfo.io^
+--- filters
+
+ghostery_id: 3120

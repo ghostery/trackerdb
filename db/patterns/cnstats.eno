@@ -1,0 +1,14 @@
+name: CNStats
+category: site_analytics
+website_url: http://cnstats.ru/
+organization: cnstats
+
+--- domains
+cnstats.ru
+--- domains
+
+--- filters
+||cnstats.ru^
+--- filters
+
+ghostery_id: 1316

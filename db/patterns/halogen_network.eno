@@ -1,0 +1,15 @@
+name: Halogen Network
+category: social_media
+website_url: http://www.halogennetwork.com/
+organization: social_chorus
+
+--- domains
+halogennetwork.com
+--- domains
+
+--- filters
+||hat.halogennetwork.com^
+||publishers.halogennetwork.com^
+--- filters
+
+ghostery_id: 365

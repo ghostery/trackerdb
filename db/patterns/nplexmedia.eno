@@ -1,0 +1,14 @@
+name: nPlexMedia
+category: advertising
+website_url: http://www.nplexmedia.com/
+organization: nplexmedia
+
+--- domains
+nplexmedia.com
+--- domains
+
+--- filters
+||nplexmedia.com^
+--- filters
+
+ghostery_id: 1955

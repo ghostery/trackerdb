@@ -1,0 +1,14 @@
+name: Tweetboard
+category: social_media
+website_url: http://tweetboard.com/alpha/
+organization: tweetboard
+
+--- domains
+tweetboard.com
+--- domains
+
+--- filters
+||tweetboard.com/tb.js
+--- filters
+
+ghostery_id: 244

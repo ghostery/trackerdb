@@ -1,0 +1,14 @@
+name: Segmint
+category: site_analytics
+website_url: http://www.segmint.com/
+organization: segmint
+
+--- domains
+segmint.net
+--- domains
+
+--- filters
+||segmint.net^
+--- filters
+
+ghostery_id: 1540

@@ -1,0 +1,14 @@
+name: Affinity.by
+category: advertising
+website_url: http://affinity.by
+organization: affinity_digital_agency
+
+--- domains
+countby.com
+--- domains
+
+--- filters
+||countby.com^
+--- filters
+
+ghostery_id: 1871

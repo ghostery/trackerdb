@@ -1,0 +1,11 @@
+name: Facebook Impressions
+category: advertising
+website_url: 
+organization: facebook
+alias: facebook
+
+--- filters
+||facebook.com/impression.php/
+--- filters
+
+ghostery_id: 2922

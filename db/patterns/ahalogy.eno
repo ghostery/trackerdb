@@ -1,0 +1,14 @@
+name: Ahalogy
+category: social_media
+website_url: http://www.ahalogy.com/
+organization: ahalogy
+
+--- domains
+pingagenow.com
+--- domains
+
+--- filters
+||pingagenow.com^
+--- filters
+
+ghostery_id: 1639

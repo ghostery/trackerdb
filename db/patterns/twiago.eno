@@ -1,0 +1,15 @@
+name: Twiago
+category: advertising
+website_url: https://www.twiago.com/
+organization: twiago
+
+--- domains
+twiago.com
+--- domains
+
+--- filters
+||a.twiago.com/adframe
+||a.twiago.com/rtb/getusermatch.php
+--- filters
+
+ghostery_id: 2972

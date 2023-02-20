@@ -1,0 +1,15 @@
+name: Piano
+category: essential
+website_url: https://piano.io/
+organization: piano
+
+--- domains
+npttech.com
+tinypass.com
+--- domains
+
+--- filters
+||tinypass.com^
+--- filters
+
+ghostery_id: 1834

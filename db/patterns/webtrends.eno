@@ -1,0 +1,22 @@
+name: Webtrends
+category: site_analytics
+website_url: http://www.webtrends.com/
+organization: webtrends
+
+--- domains
+webtrends.com
+webtrendslive.com
+--- domains
+
+--- filters
+/dcs.gif
+/njs.gif
+/trackingtags_v1.1.js
+/webtrends*.js^
+/wtid.js
+||m.webtrends.com^
+||optimize.webtrends.com^
+||webtrendslive.com^
+--- filters
+
+ghostery_id: 49

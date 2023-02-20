@@ -1,0 +1,15 @@
+name: Facebook Social Graph
+category: social_media
+website_url: https://developers.facebook.com/docs/reference/api/
+organization: facebook
+
+--- domains
+graph.facebook.com
+--- domains
+
+--- filters
+||api.facebook.com/method/fql.query
+||graph.facebook.com^
+--- filters
+
+ghostery_id: 922

@@ -1,0 +1,14 @@
+name: WriteUp ClickAnalyzer
+category: site_analytics
+website_url: http://www.writeup.co.jp/
+organization: writeup
+
+--- domains
+clickanalyzer.jp
+--- domains
+
+--- filters
+||clickanalyzer.jp^
+--- filters
+
+ghostery_id: 1810

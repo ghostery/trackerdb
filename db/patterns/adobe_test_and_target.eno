@@ -1,0 +1,13 @@
+name: Adobe Target
+category: advertising
+website_url: https://www.adobe.com/marketing/target.html
+organization: adobe
+alias: adobe_experience_cloud
+
+--- filters
+/at.js
+/mbox.js
+touchclarity
+--- filters
+
+ghostery_id: 113

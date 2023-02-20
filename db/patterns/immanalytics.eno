@@ -1,0 +1,14 @@
+name: Immanalytics
+category: customer_interaction
+website_url: 
+organization: roku
+
+--- domains
+immanalytics.com
+--- domains
+
+--- filters
+||immanalytics.com^
+--- filters
+
+ghostery_id: 2349

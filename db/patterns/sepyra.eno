@@ -1,0 +1,14 @@
+name: Sepyra
+category: advertising
+website_url: http://sepyra.com/
+organization: sepyra
+
+--- domains
+sepyra.com
+--- domains
+
+--- filters
+||sepyra.com^
+--- filters
+
+ghostery_id: 1723

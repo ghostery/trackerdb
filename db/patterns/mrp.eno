@@ -1,0 +1,14 @@
+name: MRP
+category: advertising
+website_url: 
+organization: mrp
+
+--- domains
+tracker.mrpfd.com
+--- domains
+
+--- filters
+||tracker.mrpfd.com/tracker.js
+--- filters
+
+ghostery_id: 3000

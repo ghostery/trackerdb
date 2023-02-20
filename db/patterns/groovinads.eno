@@ -1,0 +1,14 @@
+name: GroovinAds
+category: advertising
+website_url: http://www.groovinads.com/en
+organization: groovinads
+
+--- domains
+groovinads.com
+--- domains
+
+--- filters
+||ads01.groovinads.com/grv/track
+--- filters
+
+ghostery_id: 3060

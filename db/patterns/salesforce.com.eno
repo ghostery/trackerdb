@@ -1,0 +1,15 @@
+name: Salesforce
+category: advertising
+website_url: https://www.salesforce.com/eu/
+organization: salesforce
+
+--- domains
+force.com
+salesforce.com
+--- domains
+
+--- filters
+||lct.salesforce.com/sfga.js
+--- filters
+
+ghostery_id: 62

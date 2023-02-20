@@ -1,0 +1,14 @@
+name: GoodADVERT
+category: advertising
+website_url: http://goodadvert.ru/
+organization: goodadvert
+
+--- domains
+goodadvert.ru
+--- domains
+
+--- filters
+||goodadvert.ru^
+--- filters
+
+ghostery_id: 1102

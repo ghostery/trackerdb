@@ -1,0 +1,27 @@
+name: Yahoo! Ad Exchange
+category: advertising
+website_url: https://www.verizonmedia.com/advertising
+organization: verizon
+
+--- domains
+ads.yahoo.com
+yads.yahoo.com
+yieldmanager.com
+--- domains
+
+--- filters
+||ad.yieldmanager.com^
+||ad.yieldmanager.net^
+||ads.yahoo.com^
+||content.yieldmanager.com/rmi.js
+||content.yieldmanager.com/rmtag3.js
+||e.yieldmanager.net/script.js
+||extern.yahoo.com/b
+||rm.yieldmanager.com^
+||rmxads.com^
+||thewheelof.com^
+||yads.yahoo.com^
+||yldmgrimg.net^
+--- filters
+
+ghostery_id: 47

@@ -1,0 +1,14 @@
+name: Begun
+category: advertising
+website_url: http://begun.ru/
+organization: begun
+
+--- domains
+begun.ru
+--- domains
+
+--- filters
+||begun.ru^
+--- filters
+
+ghostery_id: 264

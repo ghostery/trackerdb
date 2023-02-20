@@ -1,0 +1,29 @@
+name: Google Analytics
+category: site_analytics
+website_url: http://www.google.com/analytics/
+organization: google
+
+--- domains
+google-analytics.com
+--- domains
+
+--- filters
+||google-analytics.com/__utm.gif
+||google-analytics.com/analytics.js
+||google-analytics.com/collect
+||google-analytics.com/cx/api.js
+||google-analytics.com/ga.js
+||google-analytics.com/ga_exp.js
+||google-analytics.com/plugins/ua/ec.js
+||google-analytics.com/plugins/ua/ecommerce.js
+||google-analytics.com/plugins/ua/linkid.js
+||google-analytics.com/r/collect
+||google-analytics.com/u/ga.js
+||google-analytics.com/u/ga_beta.js
+||google-analytics.com/u/ga_debug.js
+||google-analytics.com/urchin.js
+||stats.g.doubleclick.net/__utm.gif
+||stats.g.doubleclick.net/dc.js
+--- filters
+
+ghostery_id: 13

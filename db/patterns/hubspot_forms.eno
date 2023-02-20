@@ -1,0 +1,14 @@
+name: HubSpot Forms
+category: customer_interaction
+website_url: http://www.hubspot.com
+organization: hubspot
+
+--- domains
+forms.hubspot.com
+--- domains
+
+--- filters
+||forms.hubspot.com^
+--- filters
+
+ghostery_id: 2575

@@ -1,0 +1,14 @@
+name: YllixMedia
+category: advertising
+website_url: http://yllix.com/
+organization: yllixmedia
+
+--- domains
+yllix.com
+--- domains
+
+--- filters
+||yllix.com^
+--- filters
+
+ghostery_id: 2074

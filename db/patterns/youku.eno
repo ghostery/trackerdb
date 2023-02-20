@@ -1,0 +1,14 @@
+name: Youku
+category: audio_video_player
+website_url: 
+organization: youku
+
+--- domains
+player.youku.com
+--- domains
+
+--- filters
+||player.youku.com/embed/
+--- filters
+
+ghostery_id: 2839

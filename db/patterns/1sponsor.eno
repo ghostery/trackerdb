@@ -1,0 +1,14 @@
+name: 1sponsor
+category: advertising
+website_url: http://fr.1sponsor.com/
+organization: 1sponsor
+
+--- domains
+1sponsor.com
+--- domains
+
+--- filters
+||1sponsor.com^
+--- filters
+
+ghostery_id: 1976

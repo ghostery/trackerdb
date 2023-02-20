@@ -1,0 +1,14 @@
+name: Deep.BI
+category: site_analytics
+website_url: 
+organization: deep.bi
+
+--- domains
+api.deep.bi
+--- domains
+
+--- filters
+||api.deep.bi/scripts/v1/track.js
+--- filters
+
+ghostery_id: 3214

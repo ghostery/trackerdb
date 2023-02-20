@@ -1,0 +1,14 @@
+name: Bypass
+category: advertising
+website_url: http://bypass.jp/
+organization: united_inc
+
+--- domains
+bypass.jp
+--- domains
+
+--- filters
+||bypass.jp^
+--- filters
+
+ghostery_id: 2036

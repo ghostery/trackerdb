@@ -1,0 +1,14 @@
+name: BOL Affiliate Program
+category: advertising
+website_url: http://www.bol.com
+organization: bol.com
+
+--- domains
+tracking.bol.com
+--- domains
+
+--- filters
+||tracking.bol.com^
+--- filters
+
+ghostery_id: 1443

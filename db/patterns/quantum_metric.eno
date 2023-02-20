@@ -1,0 +1,14 @@
+name: Quantum Metric
+category: site_analytics
+website_url: https://www.quantummetric.com/
+organization: quantum_metric
+
+--- domains
+quantummetric.com
+--- domains
+
+--- filters
+||cdn.quantummetric.com/qscripts/
+--- filters
+
+ghostery_id: 2807

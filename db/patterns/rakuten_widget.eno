@@ -1,0 +1,16 @@
+name: Rakuten Widget
+category: advertising
+website_url: 
+organization: rakuten
+
+--- domains
+mtwidget04.affiliate.rakuten.co.jp
+xml.affilliate.rakuten.co.jp
+--- domains
+
+--- filters
+||mtwidget04.affiliate.rakuten.co.jp^
+||xml.affiliate.rakuten.co.jp/widget/js/rakuten_widget.js
+--- filters
+
+ghostery_id: 3009

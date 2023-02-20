@@ -1,0 +1,14 @@
+name: CraftKeys
+category: advertising
+website_url: http://craftkeys.com/
+organization: craftkeys
+
+--- domains
+craftkeys.com
+--- domains
+
+--- filters
+||craftkeys.com/track.js
+--- filters
+
+ghostery_id: 1608

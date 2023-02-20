@@ -1,0 +1,14 @@
+name: Heyos
+category: advertising
+website_url: http://www.heyos.com/
+organization: heyos
+
+--- domains
+heyos.com
+--- domains
+
+--- filters
+||heyos.com^
+--- filters
+
+ghostery_id: 2085

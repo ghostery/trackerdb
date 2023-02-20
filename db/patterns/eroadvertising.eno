@@ -1,0 +1,16 @@
+name: EroAdvertising
+category: pornvertising
+website_url: http://www.ero-advertising.com/
+organization: ero_advertising
+
+--- domains
+ero-advertising.com
+eroadvertising.com
+--- domains
+
+--- filters
+||ads.ero-advertising.com/click.php
+||adspaces.ero-advertising.com^
+--- filters
+
+ghostery_id: 479

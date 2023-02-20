@@ -1,0 +1,14 @@
+name: 33Across
+category: advertising
+website_url: http://www.tynt.com/
+organization: 33across
+
+--- domains
+tynt.com
+--- domains
+
+--- filters
+||tynt.com^
+--- filters
+
+ghostery_id: 1480

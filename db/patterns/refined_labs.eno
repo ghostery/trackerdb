@@ -1,0 +1,14 @@
+name: Refined Labs
+category: advertising
+website_url: http://www.refinedlabs.com
+organization: refined_labs
+
+--- domains
+refinedads.com
+--- domains
+
+--- filters
+||refinedads.com^
+--- filters
+
+ghostery_id: 1175

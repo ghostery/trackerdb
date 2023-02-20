@@ -1,0 +1,17 @@
+name: Dotomi
+category: advertising
+website_url: http://www.dotomi.com/
+organization: conversant
+
+--- domains
+dotomi.com
+dtmc.com
+dtmpub.com
+--- domains
+
+--- filters
+||dotomi.com^
+||dtmpub.com^
+--- filters
+
+ghostery_id: 120

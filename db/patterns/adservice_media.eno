@@ -1,0 +1,14 @@
+name: Adservice Media
+category: advertising
+website_url: http://www.adservicemedia.com/
+organization: adservice_media
+
+--- domains
+online.adservicemedia.dk
+--- domains
+
+--- filters
+||online.adservicemedia.dk^
+--- filters
+
+ghostery_id: 964

@@ -1,0 +1,14 @@
+name: Dratio
+category: site_analytics
+website_url: http://www.dratio.com/
+organization: dratio
+
+--- domains
+wrating.com
+--- domains
+
+--- filters
+||wrating.com^
+--- filters
+
+ghostery_id: 1797

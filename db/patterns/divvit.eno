@@ -1,0 +1,14 @@
+name: Divvit
+category: site_analytics
+website_url: 
+organization: divvit
+
+--- domains
+tag.divvit.com
+--- domains
+
+--- filters
+||tag.divvit.com/tag.js
+--- filters
+
+ghostery_id: 2627

@@ -1,0 +1,15 @@
+name: The Search Agency
+category: advertising
+website_url: http://www.thesearchagency.com/
+organization: the_search_agency
+
+--- domains
+thesearchagency.net
+--- domains
+
+--- filters
+||thesearchagency.net/*/tsaapi.js^
+||thesearchagency.net/tsawaypoint.php
+--- filters
+
+ghostery_id: 795

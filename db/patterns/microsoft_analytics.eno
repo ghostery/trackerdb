@@ -1,0 +1,14 @@
+name: Microsoft Analytics
+category: advertising
+website_url: https://adcenter.microsoft.com
+organization: microsoft
+
+--- domains
+analytics.live.com
+--- domains
+
+--- filters
+||analytics.live.com^
+--- filters
+
+ghostery_id: 9

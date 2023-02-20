@@ -1,0 +1,14 @@
+name: ReklamZ
+category: advertising
+website_url: http://www.reklamz.com/
+organization: reklamz
+
+--- domains
+delivery.reklamz.com
+--- domains
+
+--- filters
+||delivery.reklamz.com^
+--- filters
+
+ghostery_id: 859

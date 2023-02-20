@@ -1,0 +1,14 @@
+name: PersianStat
+category: site_analytics
+website_url: http://www.persianstat.com
+organization: persianstat
+
+--- domains
+persianstat.com
+--- domains
+
+--- filters
+||persianstat.com^
+--- filters
+
+ghostery_id: 657

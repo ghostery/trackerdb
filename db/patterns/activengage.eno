@@ -1,0 +1,14 @@
+name: ActivEngage
+category: customer_interaction
+website_url: http://www.activengage.com
+organization: activengage
+
+--- domains
+go.activengage.com
+--- domains
+
+--- filters
+||go.activengage.com^
+--- filters
+
+ghostery_id: 783

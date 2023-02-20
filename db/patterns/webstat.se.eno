@@ -1,0 +1,14 @@
+name: Webstat.se
+category: site_analytics
+website_url: http://www.webstat.se/
+organization: webstat.se
+
+--- domains
+webstat.se
+--- domains
+
+--- filters
+||webstat.se^
+--- filters
+
+ghostery_id: 1430

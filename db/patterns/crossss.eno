@@ -1,0 +1,14 @@
+name: Crossss
+category: advertising
+website_url: http://crossss.ru/
+organization: crossss
+
+--- domains
+crossss.com
+--- domains
+
+--- filters
+||crossss.com^
+--- filters
+
+ghostery_id: 1856

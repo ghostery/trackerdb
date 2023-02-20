@@ -1,0 +1,15 @@
+name: freenet.de
+category: advertising
+website_url: http://freenet.de/
+organization: debitel
+
+--- domains
+freenet.de
+freent.de
+--- domains
+
+--- filters
+||adserver.freenet.de^
+--- filters
+
+ghostery_id: 1031

@@ -1,0 +1,14 @@
+name: Orel Site
+category: customer_interaction
+website_url: 
+organization: orel_site
+
+--- domains
+orelsite.ru
+--- domains
+
+--- filters
+||orelsite.ru/widget/js/w.app.r.min.js
+--- filters
+
+ghostery_id: 3006

@@ -1,0 +1,14 @@
+name: Upland Clickability Beacon
+category: advertising
+website_url: http://www.clickability.com/
+organization: upland_software
+
+--- domains
+s.clickability.com
+--- domains
+
+--- filters
+||s.clickability.com/s
+--- filters
+
+ghostery_id: 289

@@ -1,0 +1,19 @@
+name: Woopra
+category: site_analytics
+website_url: http://www.woopra.com/
+organization: woopra
+
+--- domains
+woopra.com
+--- domains
+
+--- filters
+/woopra.js^
+/woopra.v2.js^
+/woopra.v3.js^
+/woopra.v4.js^
+||woopra.com/js/w.js
+||woopra.com/js/woopra.js
+--- filters
+
+ghostery_id: 40

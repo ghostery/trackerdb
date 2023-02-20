@@ -1,0 +1,14 @@
+name: Carambola
+category: advertising
+website_url: 
+organization: carambola
+
+--- domains
+route.carambo.la
+--- domains
+
+--- filters
+||route.carambo.la/inimage/getlayer
+--- filters
+
+ghostery_id: 2643

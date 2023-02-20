@@ -1,0 +1,14 @@
+name: Localytics
+category: site_analytics
+website_url: http://www.localytics.com/
+organization: localytics
+
+--- domains
+web.localytics.com
+--- domains
+
+--- filters
+||web.localytics.com^
+--- filters
+
+ghostery_id: 2134

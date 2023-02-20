@@ -1,0 +1,19 @@
+name: Adobe Audience Manager
+category: advertising
+website_url: http://www.demdex.com/
+organization: adobe
+
+--- domains
+adobe.com
+demdex.net
+everestjs.net
+everesttech.net
+--- domains
+
+--- filters
+||demdex.net^
+||everestjs.net^
+||everesttech.net^
+--- filters
+
+ghostery_id: 354

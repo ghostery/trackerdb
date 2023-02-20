@@ -1,0 +1,14 @@
+name: YLE
+category: site_analytics
+website_url: 
+organization: yle
+
+--- domains
+analytics-sdk.yle.fi
+--- domains
+
+--- filters
+||analytics-sdk.yle.fi/yle-analytics.min.js
+--- filters
+
+ghostery_id: 2639

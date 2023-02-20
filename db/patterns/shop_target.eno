@@ -1,0 +1,16 @@
+name: Shop Target
+category: advertising
+website_url: 
+organization: shopback
+
+--- domains
+app.shoptarget.com.br
+retargeter.com.br
+--- domains
+
+--- filters
+||app.shoptarget.com.br/js/tracking.js
+||retargeter.com.br^
+--- filters
+
+ghostery_id: 2538

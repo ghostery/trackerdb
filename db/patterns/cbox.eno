@@ -1,0 +1,14 @@
+name: Cbox
+category: customer_interaction
+website_url: http://cbox.ws
+organization: cbox
+
+--- domains
+cbox.ws
+--- domains
+
+--- filters
+||cbox.ws/box
+--- filters
+
+ghostery_id: 552

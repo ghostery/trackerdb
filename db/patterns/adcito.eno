@@ -1,0 +1,16 @@
+name: Adcito
+category: advertising
+website_url: http://adcito.com/
+organization: adcito
+
+--- domains
+adcito.com
+adcitomedia.com
+--- domains
+
+--- filters
+||adcito.com^
+||adcitomedia.com^
+--- filters
+
+ghostery_id: 1332

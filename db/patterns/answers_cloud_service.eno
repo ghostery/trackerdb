@@ -1,0 +1,14 @@
+name: Answers Cloud Service
+category: comments
+website_url: 
+organization: answers.com
+
+--- domains
+answerscloud.com
+--- domains
+
+--- filters
+||gateway.answerscloud.com^
+--- filters
+
+ghostery_id: 2302

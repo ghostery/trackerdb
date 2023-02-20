@@ -1,0 +1,14 @@
+name: Now Interact
+category: site_analytics
+website_url: http://nowinteract.com/
+organization: now_interact
+
+--- domains
+nowinteract.com
+--- domains
+
+--- filters
+||nowinteract.com^
+--- filters
+
+ghostery_id: 2221

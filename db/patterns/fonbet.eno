@@ -1,0 +1,14 @@
+name: Fonbet
+category: site_analytics
+website_url: 
+organization: fonbet
+
+--- domains
+special.matchtv.ru
+--- domains
+
+--- filters
+||special.matchtv.ru/fonbetkoef/assets/sportbox.js
+--- filters
+
+ghostery_id: 3302

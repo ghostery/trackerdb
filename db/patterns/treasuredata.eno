@@ -1,0 +1,15 @@
+name: Treasure Data
+category: site_analytics
+website_url: https://www.treasuredata.com/
+organization: arm
+
+--- domains
+treasuredata.com
+--- domains
+
+--- filters
+||cdn.treasuredata.com/sdk
+||in.treasuredata.com^
+--- filters
+
+ghostery_id: 2597

@@ -1,0 +1,21 @@
+name: Internet BillBoard
+category: advertising
+website_url: http://www.ibillboard.com/en/
+organization: internet_billboard
+
+--- domains
+bbelements.com
+goadservices.com
+ibillboard.com
+mediainter.net
+--- domains
+
+--- filters
+||bbelements.com^
+||bbmedia.cz^
+||goadservices.com^
+||ibillboard.com^
+||mediainter.net^
+--- filters
+
+ghostery_id: 1791

@@ -1,0 +1,14 @@
+name: Yandex Passport
+category: customer_interaction
+website_url: 
+organization: yandex
+
+--- domains
+passport.yandex.ru
+--- domains
+
+--- filters
+||ysa-static.passport.yandex.ru^
+--- filters
+
+ghostery_id: 2915

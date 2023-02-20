@@ -1,0 +1,15 @@
+name: Yieldify
+category: advertising
+website_url: http://www.yieldify.com/
+organization: yieldify
+
+--- domains
+yieldify.com
+--- domains
+
+--- filters
+||d33wq5gej88ld6.cloudfront.net/code_revisions/000/000/118/original/yieldify_1472724462.js
+||yieldify.com^
+--- filters
+
+ghostery_id: 1779

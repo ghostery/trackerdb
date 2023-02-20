@@ -1,0 +1,14 @@
+name: Twyn
+category: advertising
+website_url: http://www.twyn.com
+organization: twyn
+
+--- domains
+twyn.com
+--- domains
+
+--- filters
+||twyn.com^
+--- filters
+
+ghostery_id: 887

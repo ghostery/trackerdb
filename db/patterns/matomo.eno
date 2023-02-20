@@ -1,0 +1,24 @@
+name: Matomo
+category: site_analytics
+website_url: https://matomo.org/s
+organization: matomo
+
+--- domains
+matomo.cloud
+matomo.org
+piwik.org
+--- domains
+
+--- filters
+/audiences/static/widget/audience-manager.form.min.js
+/matomo.js
+/matomo.php
+/piwik.js
+/piwik.php
+/ppms.js
+/ppms.php
+audiences/static/widget/audience-manager.api.min.js
+||piwik.bayreuth.de/js/index.php
+--- filters
+
+ghostery_id: 3127

@@ -1,0 +1,14 @@
+name: Innovid
+category: advertising
+website_url: https://www.innovid.com/
+organization: innovid
+
+--- domains
+innovid.com
+--- domains
+
+--- filters
+||innovid.com^
+--- filters
+
+ghostery_id: 1294

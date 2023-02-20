@@ -1,0 +1,14 @@
+name: Akavita
+category: advertising
+website_url: http://www.akavita.by/en
+organization: akavita
+
+--- domains
+akavita.com
+--- domains
+
+--- filters
+||akavita.com^
+--- filters
+
+ghostery_id: 1226

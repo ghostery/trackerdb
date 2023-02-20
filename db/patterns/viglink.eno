@@ -1,0 +1,17 @@
+name: VigLink
+category: advertising
+website_url: http://www.viglink.com
+organization: viglink
+
+--- domains
+viglink.com
+--- domains
+
+--- filters
+||api.viglink.com^
+||cdn.viglink.com^
+||js.viglink.com^
+||m.viglink.com^
+--- filters
+
+ghostery_id: 350

@@ -1,0 +1,14 @@
+name: Google Beacons
+category: site_analytics
+website_url: https://google.xyz
+organization: google
+
+--- domains
+beacons-google.com
+--- domains
+
+--- filters
+||google.com/gen_204
+--- filters
+
+ghostery_id: 4049

@@ -1,0 +1,14 @@
+name: Marvellous Machine
+category: site_analytics
+website_url: https://www.marvellousmachine.net/
+organization: marvellous_machine
+
+--- domains
+marvellousmachine.net
+--- domains
+
+--- filters
+||n.marvellousmachine.net/track
+--- filters
+
+ghostery_id: 3283

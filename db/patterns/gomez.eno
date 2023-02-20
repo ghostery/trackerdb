@@ -1,0 +1,15 @@
+name: Gomez
+category: site_analytics
+website_url: http://www.gomez.com/
+organization: dynatrace
+
+--- domains
+axf8.net
+--- domains
+
+--- filters
+/gomez*.js^
+||axf8.net^
+--- filters
+
+ghostery_id: 284

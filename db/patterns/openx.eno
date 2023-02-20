@@ -1,0 +1,28 @@
+name: OpenX
+category: advertising
+website_url: https://www.openx.com
+organization: openx
+
+--- domains
+odnxs.net
+openx.net
+openx.org
+openxenterprise.com
+servedbyopenx.com
+--- domains
+
+--- filters
+/ma/1.0/jstag
+/w/1.0/afr
+/w/1.0/ai
+/w/1.0/jstag
+/w/1.0/rc
+||odnxs.net^
+||openx.net^
+||openx.org^
+||openxenterprise.com^
+||ox-d.
+||servedbyopenx.com^
+--- filters
+
+ghostery_id: 32

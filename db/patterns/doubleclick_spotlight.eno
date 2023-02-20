@@ -1,0 +1,11 @@
+name: DoubleClick Spotlight
+category: advertising
+website_url: http://www.doubleclick.com/products/richmedia
+organization: google
+alias: doubleclick
+
+--- filters
+||doubleclick.net/activity
+--- filters
+
+ghostery_id: 90

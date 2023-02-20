@@ -1,0 +1,15 @@
+name: Polldaddy
+category: customer_interaction
+website_url: http://polldaddy.com/
+organization: automattic
+
+--- domains
+polldaddy.com
+--- domains
+
+--- filters
+||polls.polldaddy.com/vote-js.php
+||static.polldaddy.com/p
+--- filters
+
+ghostery_id: 607

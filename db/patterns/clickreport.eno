@@ -1,0 +1,16 @@
+name: ClickReport
+category: site_analytics
+website_url: http://clickreport.com/
+organization: clickreport
+
+--- domains
+clickreport.com
+doogleonduty.com
+--- domains
+
+--- filters
+||clickreport.com^
+||doogleonduty.com^
+--- filters
+
+ghostery_id: 1708

@@ -1,0 +1,14 @@
+name: GeoAds
+category: advertising
+website_url: http://www.geoads.com
+organization: geoads
+
+--- domains
+js.geoads.com
+--- domains
+
+--- filters
+||js.geoads.com^
+--- filters
+
+ghostery_id: 558

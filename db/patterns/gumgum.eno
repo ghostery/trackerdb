@@ -1,0 +1,18 @@
+name: gumgum
+category: advertising
+website_url: http://gumgum.com/
+organization: gumgum
+
+--- domains
+gumgum.com
+--- domains
+
+--- filters
+||c.gumgum.com^
+||cdn.gumgum.com/javascripts/ggv2.js
+||g2.gumgum.com/javascripts/ggv2.js
+||gonzogrape.gumgum.com/javascripts/ggv2.js
+||gumgum.com^
+--- filters
+
+ghostery_id: 95

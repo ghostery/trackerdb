@@ -1,0 +1,14 @@
+name: MBuy
+category: advertising
+website_url: http://www.adbuyer.com/
+organization: mbuy
+
+--- domains
+pixel.adbuyer.com
+--- domains
+
+--- filters
+||pixel.adbuyer.com^
+--- filters
+
+ghostery_id: 442

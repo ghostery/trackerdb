@@ -1,0 +1,14 @@
+name: DM2
+category: advertising
+website_url: http://digitalmediamanagement.com/
+organization: digital_media_management
+
+--- domains
+d-msquared.com
+--- domains
+
+--- filters
+||d-msquared.com^
+--- filters
+
+ghostery_id: 1728

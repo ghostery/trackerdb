@@ -1,0 +1,17 @@
+name: Pubble
+category: customer_interaction
+website_url: http://www.pubble.co/
+organization: pubble
+
+--- domains
+learnpipe.com
+pubble.co
+--- domains
+
+--- filters
+||learnpipe.com/javascript/widget/qa/qainit.js
+||learnpipe.com/javascript/widget/search/pubblesearchinit.js
+||pubble.co/resources/javascript/qainit.js
+--- filters
+
+ghostery_id: 1865

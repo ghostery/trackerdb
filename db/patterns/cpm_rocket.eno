@@ -1,0 +1,14 @@
+name: CPM Rocket
+category: advertising
+website_url: http://www.cpmrocket.com/
+organization: cpm_rocket
+
+--- domains
+cpmrocket.com
+--- domains
+
+--- filters
+||cpmrocket.com^
+--- filters
+
+ghostery_id: 1962

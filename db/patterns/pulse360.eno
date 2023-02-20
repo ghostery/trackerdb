@@ -1,0 +1,15 @@
+name: Pulse360
+category: advertising
+website_url: http://www.pulse360.com
+organization: pulse360
+
+--- domains
+pulse360.com
+--- domains
+
+--- filters
+||content.pulse360.com^
+||track.pulse360.com^
+--- filters
+
+ghostery_id: 390

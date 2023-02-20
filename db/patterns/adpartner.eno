@@ -1,0 +1,14 @@
+name: adpartner
+category: advertising
+website_url: 
+organization: adpartner
+
+--- domains
+a4p.adpartner.pro
+--- domains
+
+--- filters
+||a4p.adpartner.pro/branding/media/adpartner-branding.js
+--- filters
+
+ghostery_id: 3279

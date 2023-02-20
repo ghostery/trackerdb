@@ -1,0 +1,14 @@
+name: Zemanta
+category: customer_interaction
+website_url: http://www.zemanta.com/
+organization: zemanta
+
+--- domains
+zemanta.com
+--- domains
+
+--- filters
+||zemanta.com^
+--- filters
+
+ghostery_id: 213

@@ -1,0 +1,14 @@
+name: Connextra
+category: advertising
+website_url: http://connextra.com/
+organization: connextra
+
+--- domains
+connextra.com
+--- domains
+
+--- filters
+||connextra.com^
+--- filters
+
+ghostery_id: 472

@@ -1,0 +1,14 @@
+name: Feedsportal
+category: advertising
+website_url: http://www.mediafed.com/
+organization: mediafed
+
+--- domains
+feedsportal.com
+--- domains
+
+--- filters
+||feedsportal.com^
+--- filters
+
+ghostery_id: 1802

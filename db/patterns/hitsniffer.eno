@@ -1,0 +1,14 @@
+name: HitSniffer
+category: advertising
+website_url: http://hitsniffer.com/
+organization: hit_sniffer
+
+--- domains
+hitsniffer.com
+--- domains
+
+--- filters
+||hitsniffer.com^
+--- filters
+
+ghostery_id: 640

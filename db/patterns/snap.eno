@@ -1,0 +1,15 @@
+name: Snap
+category: customer_interaction
+website_url: http://www.snap.com/
+organization: snap_technologies
+
+--- domains
+snap.com
+--- domains
+
+--- filters
+||shots.snap.com/snap_shots.js
+||spa.snap.com/snap_preview_anywhere.js
+--- filters
+
+ghostery_id: 21

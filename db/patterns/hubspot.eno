@@ -1,0 +1,23 @@
+name: HubSpot
+category: site_analytics
+website_url: http://www.hubspot.com/
+organization: hubspot
+
+--- domains
+hs-analytics.net
+hs-scripts.com
+hsleadflows.net
+hubapi.com
+hubspot.com
+--- domains
+
+--- filters
+/salog.js.aspx
+||hs-analytics.net^
+||hubspot.com/analytics/
+||js.hs-scripts.com^
+||leadin.hubspot.com^
+||track.hubspot.com^
+--- filters
+
+ghostery_id: 26

@@ -1,0 +1,14 @@
+name: AudienceRate
+category: advertising
+website_url: http://www.audiencerate.com/
+organization: audiencerate
+
+--- domains
+12mlbe.com
+--- domains
+
+--- filters
+||12mlbe.com^
+--- filters
+
+ghostery_id: 1203

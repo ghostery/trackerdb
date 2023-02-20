@@ -1,0 +1,15 @@
+name: Beeswax
+category: advertising
+website_url: 
+organization: beeswax
+
+--- domains
+bidr.io
+--- domains
+
+--- filters
+||bidr.io^
+||match.prod.bidr.io/cookie-sync/foursquare
+--- filters
+
+ghostery_id: 2394

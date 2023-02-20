@@ -1,0 +1,15 @@
+name: Adglue
+category: advertising
+website_url: 
+organization: admans
+
+--- domains
+adsafety.net
+--- domains
+
+--- filters
+||cm.adsafety.net^
+||tags.adsafety.net^
+--- filters
+
+ghostery_id: 2524

@@ -1,0 +1,14 @@
+name: Expose Box Widgets
+category: customer_interaction
+website_url: 
+organization: expose_box
+
+--- domains
+sf.exposebox.com
+--- domains
+
+--- filters
+||sf.exposebox.com/widget/
+--- filters
+
+ghostery_id: 3117

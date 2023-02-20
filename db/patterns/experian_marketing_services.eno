@@ -1,0 +1,16 @@
+name: Experian Marketing Services
+category: advertising
+website_url: http://www.experian.com/
+organization: experian_inc
+
+--- domains
+audienceiq.com
+techlightenment.com
+--- domains
+
+--- filters
+||audienceiq.com^
+||techlightenment.com^
+--- filters
+
+ghostery_id: 751

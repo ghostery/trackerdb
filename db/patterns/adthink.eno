@@ -1,0 +1,19 @@
+name: Adthink
+category: advertising
+website_url: https://adthink.com/
+organization: adthink
+
+--- domains
+adthink.com
+advertstream.com
+audienceinsights.net
+--- domains
+
+--- filters
+||advertstream.com^
+||secure.audienceinsights.net^
+||sspcash.com^
+||static.audienceinsights.net/t.js
+--- filters
+
+ghostery_id: 785

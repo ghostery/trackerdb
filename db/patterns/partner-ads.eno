@@ -1,0 +1,14 @@
+name: Partner-Ads
+category: advertising
+website_url: http://www.partner-ads.com/
+organization: partner-ads
+
+--- domains
+partner-ads.com
+--- domains
+
+--- filters
+||partner-ads.com^
+--- filters
+
+ghostery_id: 961

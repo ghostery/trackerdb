@@ -1,0 +1,15 @@
+name: Infusionsoft by Keap
+category: advertising
+website_url: https://keap.com/
+organization: infusionsoft
+
+--- domains
+infusionsoft.com
+keap.com
+--- domains
+
+--- filters
+||infusionsoft.com/app
+--- filters
+
+ghostery_id: 978

@@ -1,0 +1,10 @@
+name: Amazon Instant Video
+category: audio_video_player
+website_url: https://www.amazon.com
+organization: amazon_associates
+
+--- domains
+aiv-cdn.net
+--- domains
+
+ghostery_id: 3354

@@ -1,0 +1,14 @@
+name: Traffic Revenue
+category: advertising
+website_url: http://www.trafficrevenue.net/
+organization: traffic_revenue
+
+--- domains
+trafficrevenue.net
+--- domains
+
+--- filters
+||trafficrevenue.net^
+--- filters
+
+ghostery_id: 633

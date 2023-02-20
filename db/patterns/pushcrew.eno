@@ -1,0 +1,14 @@
+name: VWO Engage
+category: customer_interaction
+website_url: https://vwo.com/engage/
+organization: wingify
+
+--- domains
+pushcrew.com
+--- domains
+
+--- filters
+||cdn.pushcrew.com/js
+--- filters
+
+ghostery_id: 2572

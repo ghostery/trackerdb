@@ -1,0 +1,14 @@
+name: ValueCommerce
+category: advertising
+website_url: https://www.valuecommerce.ne.jp
+organization: valuecommerce
+
+--- domains
+valuecommerce.com
+--- domains
+
+--- filters
+||valuecommerce.com^
+--- filters
+
+ghostery_id: 1445

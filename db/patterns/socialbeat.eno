@@ -1,0 +1,14 @@
+name: socialbeat
+category: advertising
+website_url: 
+organization: socialbeat
+
+--- domains
+duu8lzqdm8tsz.cloudfront.net
+--- domains
+
+--- filters
+||duu8lzqdm8tsz.cloudfront.net/websites/sb.js
+--- filters
+
+ghostery_id: 3140

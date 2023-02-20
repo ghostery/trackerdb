@@ -1,0 +1,14 @@
+name: SMX Ventures
+category: site_analytics
+website_url: 
+organization: smx_ventures
+
+--- domains
+smxindia.in
+--- domains
+
+--- filters
+||smxindia.in/p.ashx
+--- filters
+
+ghostery_id: 2722

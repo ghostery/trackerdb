@@ -1,0 +1,16 @@
+name: SnackTV
+category: site_analytics
+website_url: 
+organization: verizon
+
+--- domains
+snacktv.de
+--- domains
+
+--- filters
+||events.snacktv.de/count.js
+||monetizer.snacktv.de^
+||snacktv.de/snacktag/snacktag.js
+--- filters
+
+ghostery_id: 2519

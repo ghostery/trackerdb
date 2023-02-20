@@ -1,0 +1,14 @@
+name: Jink
+category: advertising
+website_url: http://www.jink.de/
+organization: jink
+
+--- domains
+ads.jinkads.com
+--- domains
+
+--- filters
+||ads.jinkads.com^
+--- filters
+
+ghostery_id: 878

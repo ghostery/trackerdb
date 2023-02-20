@@ -1,0 +1,14 @@
+name: AffiMax
+category: advertising
+website_url: https://www.affimax.de
+organization: affimax
+
+--- domains
+affimax.de
+--- domains
+
+--- filters
+||affimax.de^
+--- filters
+
+ghostery_id: 1197

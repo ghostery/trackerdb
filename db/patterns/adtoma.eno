@@ -1,0 +1,16 @@
+name: Adtoma
+category: advertising
+website_url: http://www.adtoma.com/
+organization: adtoma
+
+--- domains
+adtoma.com
+adtomafusion.com
+--- domains
+
+--- filters
+||adtoma.com^
+||adtomafusion.com^
+--- filters
+
+ghostery_id: 1354

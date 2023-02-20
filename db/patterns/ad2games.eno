@@ -1,0 +1,14 @@
+name: ad2games
+category: advertising
+website_url: http://web.ad2games.com/
+organization: ad2games
+
+--- domains
+ad2games.com
+--- domains
+
+--- filters
+||ad2games.com^
+--- filters
+
+ghostery_id: 1710

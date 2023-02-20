@@ -1,0 +1,14 @@
+name: NetMonitor
+category: site_analytics
+website_url: http://www.netmanager.net/en/
+organization: netmonitor
+
+--- domains
+stat.netmonitor.fi
+--- domains
+
+--- filters
+||stat.netmonitor.fi/js/
+--- filters
+
+ghostery_id: 158

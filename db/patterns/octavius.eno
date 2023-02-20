@@ -1,0 +1,14 @@
+name: Octavius
+category: advertising
+website_url: 
+organization: octavius
+
+--- domains
+service.octavius.rocks
+--- domains
+
+--- filters
+||service.octavius.rocks/v55/send/
+--- filters
+
+ghostery_id: 3108

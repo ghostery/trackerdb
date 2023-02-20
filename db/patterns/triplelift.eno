@@ -1,0 +1,19 @@
+name: TripleLift
+category: advertising
+website_url: http://triplelift.com/
+organization: triplelift
+
+--- domains
+3lift.com
+d3iwjrnl4m67rd.cloudfront.net
+triplelift.com
+--- domains
+
+--- filters
+||3lift.com^
+||d3iwjrnl4m67rd.cloudfront.net^
+||eb2.3lift.com/xuid
+||triplelift.com^
+--- filters
+
+ghostery_id: 1576

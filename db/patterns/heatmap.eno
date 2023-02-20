@@ -1,0 +1,15 @@
+name: Heatmap
+category: site_analytics
+website_url: https://heatmap.me/
+organization: heatmap
+
+--- domains
+heatmap.it
+--- domains
+
+--- filters
+||l.heatmap.it^
+||u.heatmap.it^
+--- filters
+
+ghostery_id: 2157

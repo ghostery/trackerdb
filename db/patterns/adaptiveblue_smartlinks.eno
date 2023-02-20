@@ -1,0 +1,14 @@
+name: AdaptiveBlue SmartLinks
+category: customer_interaction
+website_url: http://www.adaptiveblue.com/smartlinks.html
+organization: telfie
+
+--- domains
+smrtlnks.com
+--- domains
+
+--- filters
+||smrtlnks.com^
+--- filters
+
+ghostery_id: 132

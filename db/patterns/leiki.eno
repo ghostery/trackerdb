@@ -1,0 +1,14 @@
+name: Leiki
+category: advertising
+website_url: http://www.leiki.com
+organization: leiki
+
+--- domains
+leiki.com
+--- domains
+
+--- filters
+||leiki.com^
+--- filters
+
+ghostery_id: 1012

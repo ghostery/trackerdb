@@ -1,0 +1,14 @@
+name: WWWPromoter
+category: advertising
+website_url: 
+organization: wwwpromoter
+
+--- domains
+wwwpromoter.com
+--- domains
+
+--- filters
+||wwwpromoter.com^
+--- filters
+
+ghostery_id: 2545

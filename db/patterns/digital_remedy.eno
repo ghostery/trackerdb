@@ -1,0 +1,20 @@
+name: Digital Remedy
+category: advertising
+website_url: https://www.digitalremedy.com/
+organization: digital_remedy
+
+--- domains
+adready.com
+adreadytractions.com
+cpxinteractive.com
+--- domains
+
+--- filters
+||adready.com^
+||adreadytractions.com/rt/
+||bigfineads.com^
+||cpxadroit.com^
+||cpxinteractive.com^
+--- filters
+
+ghostery_id: 110

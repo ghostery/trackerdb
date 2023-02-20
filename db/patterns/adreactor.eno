@@ -1,0 +1,14 @@
+name: AdReactor
+category: advertising
+website_url: http://www.adreactor.com/
+organization: adreactor
+
+--- domains
+adreactor.com
+--- domains
+
+--- filters
+||adreactor.com^
+--- filters
+
+ghostery_id: 620

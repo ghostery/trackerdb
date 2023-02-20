@@ -1,0 +1,14 @@
+name: Open AdExchange
+category: advertising
+website_url: http://openadex.dk/
+organization: open_adexchange
+
+--- domains
+openadex.dk
+--- domains
+
+--- filters
+||openadex.dk^
+--- filters
+
+ghostery_id: 962

@@ -1,0 +1,16 @@
+name: AddShoppers
+category: social_media
+website_url: http://www.addshoppers.com/
+organization: addshoppers
+
+--- domains
+addshoppers.com
+shop.pe
+--- domains
+
+--- filters
+||addshoppers.com/widget
+||shop.pe/widget
+--- filters
+
+ghostery_id: 1636

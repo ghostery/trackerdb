@@ -1,0 +1,17 @@
+name: BlueKai
+category: advertising
+website_url: http://www.bluekai.com/
+organization: oracle
+
+--- domains
+bkrtx.com
+bluekai.com
+--- domains
+
+--- filters
+||bkrtx.com/js/
+||stags.bluekai.com^
+||tags.bluekai.com^
+--- filters
+
+ghostery_id: 116

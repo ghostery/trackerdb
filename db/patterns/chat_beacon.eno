@@ -1,0 +1,14 @@
+name: Chat Beacon
+category: customer_interaction
+website_url: 
+organization: chat_beacon
+
+--- domains
+cloud.chatbeacon.io
+--- domains
+
+--- filters
+||cloud.chatbeacon.io/chatbeacon/scripts/chatbeacon.js
+--- filters
+
+ghostery_id: 3133

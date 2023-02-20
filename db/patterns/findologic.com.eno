@@ -1,0 +1,15 @@
+name: Findologic
+category: customer_interaction
+website_url: https://www.findologic.com/
+organization: findologic
+
+--- domains
+findologic.com
+--- domains
+
+--- filters
+||cdn.findologic.com/static/loader.min.js
+||service.findologic.com/ps/vite-envogue.de//selector.php
+--- filters
+
+ghostery_id: 3079

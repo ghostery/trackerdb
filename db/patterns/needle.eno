@@ -1,0 +1,14 @@
+name: Needle
+category: customer_interaction
+website_url: http://www.needle.com
+organization: needle
+
+--- domains
+needle.com
+--- domains
+
+--- filters
+||needle.com/needle_service.js
+--- filters
+
+ghostery_id: 1460

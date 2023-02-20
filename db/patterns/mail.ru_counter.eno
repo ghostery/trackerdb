@@ -1,0 +1,13 @@
+name: Mail.Ru Counter
+category: customer_interaction
+website_url: 
+organization: megafon
+alias: mail.ru_group
+
+--- filters
+||mail.ru/counter
+||mail.ru/tracker
+||top.mail.ru/jump
+--- filters
+
+ghostery_id: 2619

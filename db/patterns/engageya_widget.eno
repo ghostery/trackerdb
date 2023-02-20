@@ -1,0 +1,14 @@
+name: Engageya Widget
+category: advertising
+website_url: 
+organization: engageya
+
+--- domains
+widget.engageya.com
+--- domains
+
+--- filters
+||widget.engageya.com/engageya_loader.js
+--- filters
+
+ghostery_id: 2799

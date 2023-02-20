@@ -1,0 +1,14 @@
+name: TapInfluence
+category: advertising
+website_url: http://theblogfrog.com/
+organization: tapinfluence
+
+--- domains
+theblogfrog.com
+--- domains
+
+--- filters
+||theblogfrog.com^
+--- filters
+
+ghostery_id: 667

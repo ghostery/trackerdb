@@ -1,0 +1,11 @@
+name: Google Publisher Tags
+category: site_analytics
+website_url: 
+organization: google
+alias: google_tag_manager
+
+--- filters
+||partner.googleadservices.com/gpt/pubads_impl
+--- filters
+
+ghostery_id: 2453

@@ -1,0 +1,14 @@
+name: Gazprom-Media Digital
+category: audio_video_player
+website_url: http://www.gpm-digital.com/
+organization: gazprom-media_digital
+
+--- domains
+gpm-digital.com
+--- domains
+
+--- filters
+||gpm-digital.com^
+--- filters
+
+ghostery_id: 1748

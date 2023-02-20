@@ -1,0 +1,14 @@
+name: InsightExpress
+category: site_analytics
+website_url: https://www.millwardbrowndigital.com/
+organization: millward_brown
+
+--- domains
+insightexpressai.com
+--- domains
+
+--- filters
+||insightexpressai.com^
+--- filters
+
+ghostery_id: 114

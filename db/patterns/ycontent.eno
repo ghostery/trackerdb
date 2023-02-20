@@ -1,0 +1,14 @@
+name: Ycontent
+category: audio_video_player
+website_url: 
+organization: ycontent
+
+--- domains
+player.sambaads.com
+--- domains
+
+--- filters
+||player.sambaads.com/embed/player.js
+--- filters
+
+ghostery_id: 2626

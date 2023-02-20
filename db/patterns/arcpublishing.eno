@@ -1,0 +1,14 @@
+name: Arc Publishing
+category: site_analytics
+website_url: https://www.arcpublishing.com/
+organization: arc_publishing
+
+--- domains
+arcpublishing.com
+--- domains
+
+--- filters
+||targeting.tronc.arcpublishing.com/targetingwebapp/targeting
+--- filters
+
+ghostery_id: 3287

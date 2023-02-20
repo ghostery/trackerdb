@@ -1,0 +1,14 @@
+name: Lucid Media
+category: advertising
+website_url: http://www.lucidmedia.com/
+organization: singtel
+
+--- domains
+lucidmedia.com
+--- domains
+
+--- filters
+||lucidmedia.com^
+--- filters
+
+ghostery_id: 387

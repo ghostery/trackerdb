@@ -1,0 +1,24 @@
+name: Pepperjam
+category: advertising
+website_url: http://www.pepperjam.com
+organization: pepperjam
+
+--- domains
+gopjn.com
+pjatr.com
+pjtra.com
+pntra.com
+pntrac.com
+pntrs.com
+--- domains
+
+--- filters
+||gopjn.com^
+||pjatr.com^
+||pjtra.com^
+||pntra.com^
+||pntrac.com^
+||pntrs.com^
+--- filters
+
+ghostery_id: 593

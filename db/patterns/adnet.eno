@@ -1,0 +1,14 @@
+name: Adnet
+category: advertising
+website_url: http://www.adnet.vn/
+organization: adnet
+
+--- domains
+adnet.vn
+--- domains
+
+--- filters
+||adnet.vn^
+--- filters
+
+ghostery_id: 1116

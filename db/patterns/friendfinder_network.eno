@@ -1,0 +1,30 @@
+name: FriendFinder Network
+category: pornvertising
+website_url: http://www.ffn.com/
+organization: friendfinder_networks
+
+--- domains
+adultfriendfinder.com
+amigos.com
+board-books.com
+cams.com
+facebookofsex.com
+getiton.com
+nostringsattached.com
+pop6.com
+streamray.com
+--- domains
+
+--- filters
+||adultfriendfinder.com^
+||amigos.com^
+||board-books.com^
+||cams.com^
+||facebookofsex.com^
+||getiton.com^
+||nostringsattached.com^
+||pop6.com^
+||streamray.com^
+--- filters
+
+ghostery_id: 600

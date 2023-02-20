@@ -1,0 +1,14 @@
+name: Brow.si
+category: advertising
+website_url: https://brow.si/
+organization: brow.si
+
+--- domains
+brow.si
+--- domains
+
+--- filters
+||brow.si^
+--- filters
+
+ghostery_id: 1923

@@ -1,0 +1,14 @@
+name: LinkPrice
+category: advertising
+website_url: http://www.linkprice.com/
+organization: linkprice
+
+--- domains
+linkprice.com
+--- domains
+
+--- filters
+||linkprice.com^
+--- filters
+
+ghostery_id: 2034

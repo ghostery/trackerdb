@@ -1,0 +1,14 @@
+name: Atomz Search
+category: customer_interaction
+website_url: http://atomz.com/
+organization: atomz
+
+--- domains
+atomz.com
+--- domains
+
+--- filters
+||atomz.com^
+--- filters
+
+ghostery_id: 1599

@@ -1,0 +1,14 @@
+name: Kontera ContentLink
+category: advertising
+website_url: http://www.kontera.com/
+organization: singtel
+
+--- domains
+kona.kontera.com
+--- domains
+
+--- filters
+||kona.kontera.com/javascript/
+--- filters
+
+ghostery_id: 72

@@ -1,0 +1,14 @@
+name: WebSTAT
+category: site_analytics
+website_url: http://www.webstat.com/
+organization: webstat
+
+--- domains
+webstat.com
+--- domains
+
+--- filters
+||webstat.com^
+--- filters
+
+ghostery_id: 1705

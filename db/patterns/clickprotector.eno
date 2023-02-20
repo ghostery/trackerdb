@@ -1,0 +1,14 @@
+name: ClickProtector
+category: site_analytics
+website_url: http://www.clickprotector.com/
+organization: clickprotector
+
+--- domains
+clickprotector.com
+--- domains
+
+--- filters
+||clickprotector.com^
+--- filters
+
+ghostery_id: 1422

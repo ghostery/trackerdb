@@ -1,0 +1,14 @@
+name: Optimonk
+category: site_analytics
+website_url: 
+organization: optimonk
+
+--- domains
+optimonk.com
+--- domains
+
+--- filters
+||front.optimonk.com^
+--- filters
+
+ghostery_id: 2422

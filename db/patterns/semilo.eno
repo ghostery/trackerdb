@@ -1,0 +1,14 @@
+name: Semilo
+category: advertising
+website_url: http://www.semilo.nl/
+organization: semilo
+
+--- domains
+semilo.com
+--- domains
+
+--- filters
+||semilo.com^
+--- filters
+
+ghostery_id: 1270

@@ -1,0 +1,14 @@
+name: Slashdot Widget
+category: customer_interaction
+website_url: http://slashdot.org
+organization: slashdot
+
+--- domains
+slashdot.org
+--- domains
+
+--- filters
+||slashdot.org/slashdot-it.pl
+--- filters
+
+ghostery_id: 929

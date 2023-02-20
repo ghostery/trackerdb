@@ -1,0 +1,16 @@
+name: Transcend Consent
+category: consent
+website_url: https://transcend.io/consent/
+organization: transcend
+
+--- domains
+api.transcend.io
+cdn.transcend.io
+--- domains
+
+--- filters
+||api.transcend.io^
+||cdn.transcend.io^
+--- filters
+
+ghostery_id: 4053

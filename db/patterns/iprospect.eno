@@ -1,0 +1,14 @@
+name: iProspect
+category: advertising
+website_url: http://www.iprospect.com/
+organization: dentsu_aegis_network
+
+--- domains
+clickmanage.com
+--- domains
+
+--- filters
+||clickmanage.com^
+--- filters
+
+ghostery_id: 828

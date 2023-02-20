@@ -1,0 +1,14 @@
+name: Say.ac
+category: advertising
+website_url: http://say.ac
+organization: say.ac
+
+--- domains
+say.ac
+--- domains
+
+--- filters
+||say.ac^
+--- filters
+
+ghostery_id: 2075

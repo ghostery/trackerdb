@@ -1,0 +1,14 @@
+name: Affiliate-B
+category: advertising
+website_url: https://www.affiliate-b.com/
+organization: affiliate_b
+
+--- domains
+track.affiliate-b.com
+--- domains
+
+--- filters
+||track.affiliate-b.com^
+--- filters
+
+ghostery_id: 1812

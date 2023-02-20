@@ -1,0 +1,17 @@
+name: Demandbase
+category: advertising
+website_url: http://www.demandbase.com/
+organization: demandbase
+
+--- domains
+company-target.com
+demandbase.com
+--- domains
+
+--- filters
+||api.demandbase.com^
+||company-target.com^
+||leads.demandbase.com^
+--- filters
+
+ghostery_id: 160

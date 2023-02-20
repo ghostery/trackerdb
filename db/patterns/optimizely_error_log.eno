@@ -1,0 +1,11 @@
+name: Optimizely Error Log
+category: site_analytics
+website_url: 
+organization: optimizely
+alias: optimizely
+
+--- filters
+||errors.client.optimizely.com/log
+--- filters
+
+ghostery_id: 3101

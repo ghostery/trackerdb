@@ -1,0 +1,14 @@
+name: Batanga Network
+category: advertising
+website_url: http://www.batanganetwork.com/
+organization: batanga_network
+
+--- domains
+batanga.com
+--- domains
+
+--- filters
+||batanga.com^
+--- filters
+
+ghostery_id: 975

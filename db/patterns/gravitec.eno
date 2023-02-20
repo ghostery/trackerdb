@@ -1,0 +1,14 @@
+name: Gravitec
+category: site_analytics
+website_url: 
+organization: gravitec
+
+--- domains
+cdn.gravitec.net
+--- domains
+
+--- filters
+||cdn.gravitec.net/storage/
+--- filters
+
+ghostery_id: 2947

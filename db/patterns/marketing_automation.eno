@@ -1,0 +1,15 @@
+name: Marketing Automation
+category: advertising
+website_url: 
+organization: frodx
+
+--- domains
+marketingautomation.si
+--- domains
+
+--- filters
+||marketingautomation.si/mtc.js
+||marketingautomation.si/mtc/event
+--- filters
+
+ghostery_id: 3269

@@ -1,0 +1,14 @@
+name: Videology
+category: advertising
+website_url: https://videologygroup.com/
+organization: singtel
+
+--- domains
+tidaltv.com
+--- domains
+
+--- filters
+||tidaltv.com^
+--- filters
+
+ghostery_id: 746

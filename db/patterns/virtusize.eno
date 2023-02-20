@@ -1,0 +1,14 @@
+name: Virtusize
+category: essential
+website_url: http://www.virtusize.com/
+organization: virtusize
+
+--- domains
+virtusize.com
+--- domains
+
+--- filters
+||virtusize.com^
+--- filters
+
+ghostery_id: 1602

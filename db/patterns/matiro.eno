@@ -1,0 +1,15 @@
+name: Matiro
+category: site_analytics
+website_url: 
+organization: matiro
+
+--- domains
+nzaza.com
+--- domains
+
+--- filters
+||nzaza.com/seg/*.js^
+||nzaza.com/za.js
+--- filters
+
+ghostery_id: 2877

@@ -1,0 +1,14 @@
+name: Optimax Media Delivery
+category: advertising
+website_url: http://optmd.com/
+organization: optimax_media_delivery
+
+--- domains
+optmd.com
+--- domains
+
+--- filters
+||optmd.com^
+--- filters
+
+ghostery_id: 723

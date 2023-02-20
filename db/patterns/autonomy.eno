@@ -1,0 +1,14 @@
+name: Autonomy
+category: advertising
+website_url: http://www.optimost.com/
+organization: hp
+
+--- domains
+optimost.com
+--- domains
+
+--- filters
+||optimost.com^
+--- filters
+
+ghostery_id: 297

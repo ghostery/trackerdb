@@ -1,0 +1,14 @@
+name: Varick Media Management
+category: advertising
+website_url: http://www.varickmm.com/
+organization: varick_media_management
+
+--- domains
+vmmpxl.com
+--- domains
+
+--- filters
+||vmmpxl.com^
+--- filters
+
+ghostery_id: 1121

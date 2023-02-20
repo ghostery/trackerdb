@@ -1,0 +1,15 @@
+name: Flixmedia
+category: misc
+website_url: 
+organization: flixmedia
+
+--- domains
+flix360.com
+flixcar.com
+--- domains
+
+--- filters
+||media.flixcar.com/delivery/js
+--- filters
+
+ghostery_id: 3274

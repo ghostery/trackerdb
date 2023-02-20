@@ -1,0 +1,16 @@
+name: InSkin Media
+category: advertising
+website_url: http://www.inskinmedia.com/
+organization: inskin_media
+
+--- domains
+inskinad.com
+inskinmedia.com
+--- domains
+
+--- filters
+||inskinad.com^
+||inskinmedia.com^
+--- filters
+
+ghostery_id: 1331

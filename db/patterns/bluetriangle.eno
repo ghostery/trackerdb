@@ -1,0 +1,15 @@
+name: Blue Triangle
+category: site_analytics
+website_url: https://www.bluetriangle.com/
+organization: blue_triangle
+
+--- domains
+bluetriangletech.com
+btttag.com
+--- domains
+
+--- filters
+||btttag.com/btt.js
+--- filters
+
+ghostery_id: 2260

@@ -1,0 +1,10 @@
+name: IMDB CDN
+category: cdn
+website_url: https://www.imdb.com/
+organization: amazon_associates
+
+--- domains
+media-imdb.com
+--- domains
+
+ghostery_id: 3680

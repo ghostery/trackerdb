@@ -1,0 +1,14 @@
+name: TrafficJunky
+category: pornvertising
+website_url: http://www.trafficjunky.net/
+organization: trafficjunky
+
+--- domains
+trafficjunky.net
+--- domains
+
+--- filters
+||trafficjunky.net^
+--- filters
+
+ghostery_id: 1070

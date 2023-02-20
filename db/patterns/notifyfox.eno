@@ -1,0 +1,14 @@
+name: Notifyfox
+category: site_analytics
+website_url: 
+organization: notifyfox
+
+--- domains
+notifyfox.com
+--- domains
+
+--- filters
+||notifyfox.com/loader.js
+--- filters
+
+ghostery_id: 2687

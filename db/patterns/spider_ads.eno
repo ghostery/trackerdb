@@ -1,0 +1,14 @@
+name: Spider Ads
+category: advertising
+website_url: 
+organization: spiderads
+
+--- domains
+metrics.spiderads.eu
+--- domains
+
+--- filters
+||metrics.spiderads.eu^
+--- filters
+
+ghostery_id: 2591

@@ -1,0 +1,14 @@
+name: MdotLabs
+category: advertising
+website_url: http://www.mdotlabs.com/
+organization: comscore
+
+--- domains
+mdotlabs.com
+--- domains
+
+--- filters
+||mdotlabs.com^
+--- filters
+
+ghostery_id: 2124

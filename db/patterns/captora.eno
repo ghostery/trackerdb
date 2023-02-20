@@ -1,0 +1,15 @@
+name: Captora
+category: advertising
+website_url: http://www.captora.com/
+organization: captora
+
+--- domains
+captora.com
+--- domains
+
+--- filters
+||captora.com/js/
+||pixel.captora.com^
+--- filters
+
+ghostery_id: 1948

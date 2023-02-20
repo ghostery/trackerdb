@@ -1,0 +1,14 @@
+name: ViviStats
+category: site_analytics
+website_url: http://en.vivistats.com/
+organization: vivistats
+
+--- domains
+vivistats.com
+--- domains
+
+--- filters
+||vivistats.com^
+--- filters
+
+ghostery_id: 1324

@@ -1,0 +1,15 @@
+name: Snapchat For Business
+category: advertising
+website_url: https://www.snapchat.com/
+organization: snap_technologies
+
+--- domains
+sc-static.net
+snapchat.com
+--- domains
+
+--- filters
+||sc-static.net/scevent.min.js
+--- filters
+
+ghostery_id: 3132

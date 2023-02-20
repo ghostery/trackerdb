@@ -1,0 +1,14 @@
+name: Alooma
+category: advertising
+website_url: 
+organization: alooma
+
+--- domains
+inputs.alooma.com
+--- domains
+
+--- filters
+||inputs.alooma.com/track
+--- filters
+
+ghostery_id: 3074

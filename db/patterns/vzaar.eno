@@ -1,0 +1,14 @@
+name: Vzaar
+category: audio_video_player
+website_url: 
+organization: vzaar
+
+--- domains
+view.vzaar.com
+--- domains
+
+--- filters
+||view.vzaar.com/6277333/player
+--- filters
+
+ghostery_id: 2640

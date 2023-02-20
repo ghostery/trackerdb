@@ -1,0 +1,14 @@
+name: Ve Interactive
+category: advertising
+website_url: https://www.veinteractive.com
+organization: ve_interactive
+
+--- domains
+veinteractive.com
+--- domains
+
+--- filters
+||veinteractive.com^
+--- filters
+
+ghostery_id: 1547

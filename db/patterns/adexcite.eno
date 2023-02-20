@@ -1,0 +1,14 @@
+name: AdExcite
+category: advertising
+website_url: http://adexcite.com
+organization: adexcite
+
+--- domains
+adexcite.com
+--- domains
+
+--- filters
+||adexcite.com/ads
+--- filters
+
+ghostery_id: 1171

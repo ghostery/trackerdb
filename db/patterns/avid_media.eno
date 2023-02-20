@@ -1,0 +1,14 @@
+name: Avid Media
+category: audio_video_player
+website_url: http://www.avidglobalmedia.com/
+organization: avid_media
+
+--- domains
+adspdbl.com
+--- domains
+
+--- filters
+||adspdbl.com^
+--- filters
+
+ghostery_id: 2013

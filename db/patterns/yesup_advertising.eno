@@ -1,0 +1,30 @@
+name: YesUp Advertising
+category: advertising
+website_url: http://yesup.net/
+organization: yesup
+
+--- domains
+adsrevenue.net
+infinityads.com
+momentsharing.com
+multipops.com
+onlineadultadvertising.com
+paypopup.com
+popupxxx.com
+xtargeting.com
+xxxwebtraffic.com
+--- domains
+
+--- filters
+||adsrevenue.net^
+||infinityads.com^
+||momentsharing.com^
+||multipops.com^
+||onlineadultadvertising.com^
+||paypopup.com^
+||popupxxx.com^
+||xtargeting.com^
+||xxxwebtraffic.com^
+--- filters
+
+ghostery_id: 1427

@@ -1,0 +1,14 @@
+name: Sweettooth
+category: customer_interaction
+website_url: 
+organization: sweet_tooth_rewards
+
+--- domains
+cdn.sweettooth.io
+--- domains
+
+--- filters
+||cdn.sweettooth.io/assets/storefront.js
+--- filters
+
+ghostery_id: 2684

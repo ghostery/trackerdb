@@ -1,0 +1,16 @@
+name: Webtraffic
+category: site_analytics
+website_url: http://www.webtraffic.se/
+organization: schibsted_asa
+
+--- domains
+webtraffic.no
+webtraffic.se
+--- domains
+
+--- filters
+||webtraffic.no^
+||webtraffic.se^
+--- filters
+
+ghostery_id: 1190

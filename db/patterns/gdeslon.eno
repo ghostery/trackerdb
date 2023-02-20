@@ -1,0 +1,14 @@
+name: GdeSlon
+category: advertising
+website_url: http://www.gdeslon.ru/
+organization: gdeslon
+
+--- domains
+gdeslon.ru
+--- domains
+
+--- filters
+||gdeslon.ru^
+--- filters
+
+ghostery_id: 1859

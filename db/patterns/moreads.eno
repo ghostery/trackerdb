@@ -1,0 +1,14 @@
+name: moreAds
+category: advertising
+website_url: https://www.moras.jp
+organization: moreads
+
+--- domains
+moras.jp
+--- domains
+
+--- filters
+||moras.jp^
+--- filters
+
+ghostery_id: 2040

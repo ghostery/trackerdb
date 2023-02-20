@@ -1,0 +1,14 @@
+name: Datonics
+category: advertising
+website_url: http://datonics.com/
+organization: almondnet
+
+--- domains
+pro-market.net
+--- domains
+
+--- filters
+||pro-market.net^
+--- filters
+
+ghostery_id: 171

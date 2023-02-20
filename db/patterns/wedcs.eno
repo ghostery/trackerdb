@@ -1,0 +1,11 @@
+name: WEDCS
+category: advertising
+website_url: 
+organization: microsoft
+alias: microsoft
+
+--- filters
+||c.microsoft.com/ms.js
+--- filters
+
+ghostery_id: 2237

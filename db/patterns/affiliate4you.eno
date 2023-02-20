@@ -1,0 +1,14 @@
+name: Affiliate4You
+category: advertising
+website_url: http://www.affiliate4you.nl/
+organization: family_blend
+
+--- domains
+affiliate4you.nl
+--- domains
+
+--- filters
+||affiliate4you.nl^
+--- filters
+
+ghostery_id: 1441

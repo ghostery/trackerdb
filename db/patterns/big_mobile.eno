@@ -1,0 +1,14 @@
+name: Big Mobile
+category: advertising
+website_url: http://www.bigmobile.com/
+organization: big_mobile
+
+--- domains
+bigmobileads.com
+--- domains
+
+--- filters
+||bigmobileads.com^
+--- filters
+
+ghostery_id: 1479

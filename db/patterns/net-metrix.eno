@@ -1,0 +1,14 @@
+name: NET-Metrix
+category: site_analytics
+website_url: http://www.net-metrix.ch/
+organization: net-metrix
+
+--- domains
+wemfbox.ch
+--- domains
+
+--- filters
+||wemfbox.ch^
+--- filters
+
+ghostery_id: 1592

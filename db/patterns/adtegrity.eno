@@ -1,0 +1,16 @@
+name: Adtegrity
+category: advertising
+website_url: http://www.adtegrity.com/
+organization: adtegrity
+
+--- domains
+adtegrity.net
+adtpix.com
+--- domains
+
+--- filters
+||adtegrity.net^
+||adtpix.com^
+--- filters
+
+ghostery_id: 227

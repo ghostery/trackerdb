@@ -1,0 +1,14 @@
+name: Sessionly
+category: customer_interaction
+website_url: 
+organization: sessionly
+
+--- domains
+sessionly.io
+--- domains
+
+--- filters
+||sessionly.io/plugin/
+--- filters
+
+ghostery_id: 3245

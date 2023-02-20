@@ -1,0 +1,28 @@
+name: Zeta
+category: customer_interaction
+website_url: https://zetaglobal.com/
+organization: zeta
+
+--- domains
+app.insightgrit.com
+app.ubertags.com
+cdn.boomtrain.com
+events.api.boomtrain.com
+rfihub.com
+rfihub.net
+ru4.com
+xplusone.com
+--- domains
+
+--- filters
+||ad.xplusone.com^
+||app.insightgrit.com^
+||app.ubertags.com^
+||cdn.boomtrain.com/analyticstrain/
+||events.api.boomtrain.com/event/track
+||rfihub.com^
+||rfihub.net^
+||ru4.com^
+--- filters
+
+ghostery_id: 360

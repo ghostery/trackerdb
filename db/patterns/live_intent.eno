@@ -1,0 +1,14 @@
+name: Live Intent
+category: site_analytics
+website_url: 
+organization: liveintent
+
+--- domains
+liadm.com
+--- domains
+
+--- filters
+||liadm.com^
+--- filters
+
+ghostery_id: 2747

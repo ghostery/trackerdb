@@ -1,0 +1,19 @@
+name: ClickTale
+category: site_analytics
+website_url: http://www.clicktale.com/
+organization: clicktale
+
+--- domains
+clicktale.com
+clicktale.net
+clicktale.pantherssl.com
+clicktalecdn.sslcs.cdngc.net
+--- domains
+
+--- filters
+||clicktale.net^
+||clicktale.pantherssl.com^
+||clicktalecdn.sslcs.cdngc.net^
+--- filters
+
+ghostery_id: 108

@@ -1,0 +1,20 @@
+name: Wibbitz
+category: audio_video_player
+website_url: 
+organization: wibbitz
+
+--- domains
+api.wibbitz.com
+cdn4.wibbitz.com
+--- domains
+
+--- filters
+||api.wibbitz.com/clips/
+||cdn4.wibbitz.com/all_night/embed.js
+||cdn4.wibbitz.com/ancient_code/embed.js
+||cdn4.wibbitz.com/cnetfrance/embed.js
+||cdn4.wibbitz.com/national_review/embed.js
+||cdn4.wibbitz.com/vagalume/embed.js
+--- filters
+
+ghostery_id: 2770

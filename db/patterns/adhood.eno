@@ -1,0 +1,14 @@
+name: adhood
+category: advertising
+website_url: http://www.adhood.com/
+organization: adhood
+
+--- domains
+adhood.com
+--- domains
+
+--- filters
+||adhood.com/adserver/ad
+--- filters
+
+ghostery_id: 853

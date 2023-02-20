@@ -1,0 +1,14 @@
+name: Proformics
+category: site_analytics
+website_url: 
+organization: proformics_digital
+
+--- domains
+tracking.proformics.com
+--- domains
+
+--- filters
+||tracking.proformics.com^
+--- filters
+
+ghostery_id: 2704

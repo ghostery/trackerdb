@@ -1,0 +1,15 @@
+name: Tacoda
+category: advertising
+website_url: http://www.tacoda.com/
+organization: verizon
+
+--- domains
+tacoda.net
+--- domains
+
+--- filters
+/tacoda_ams_ddc_header.js
+||tacoda.net^
+--- filters
+
+ghostery_id: 46

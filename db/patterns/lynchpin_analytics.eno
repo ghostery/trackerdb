@@ -1,0 +1,17 @@
+name: Lynchpin Analytics
+category: advertising
+website_url: http://www.lynchpin.com/
+organization: lynchpin_analytics
+
+--- domains
+lypn.com
+lypn.net
+--- domains
+
+--- filters
+||lypn.com/exp/
+||lypn.com/lp/
+||lypn.net^
+--- filters
+
+ghostery_id: 111

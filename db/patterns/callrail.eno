@@ -1,0 +1,14 @@
+name: CallRail
+category: customer_interaction
+website_url: http://www.callrail.com/
+organization: callrail
+
+--- domains
+callrail.com
+--- domains
+
+--- filters
+||callrail.com^
+--- filters
+
+ghostery_id: 1617

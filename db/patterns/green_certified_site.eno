@@ -1,0 +1,14 @@
+name: Green Certified Site
+category: customer_interaction
+website_url: http://www.advenity.com/
+organization: advenity
+
+--- domains
+co2stats.com
+--- domains
+
+--- filters
+||co2stats.com^
+--- filters
+
+ghostery_id: 1686

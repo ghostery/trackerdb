@@ -1,0 +1,14 @@
+name: CleverTap
+category: site_analytics
+website_url: 
+organization: clever_tap
+
+--- domains
+wzrkt.com
+--- domains
+
+--- filters
+||wzrkt.com/a
+--- filters
+
+ghostery_id: 3275

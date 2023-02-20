@@ -1,0 +1,14 @@
+name: Tomorrow Focus
+category: advertising
+website_url: http://www.tomorrow-focus.com
+organization: hubert_burda_media
+
+--- domains
+tfag.de
+--- domains
+
+--- filters
+||tfag.de/js_ng/js_ng_
+--- filters
+
+ghostery_id: 2121

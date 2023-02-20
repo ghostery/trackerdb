@@ -1,0 +1,11 @@
+name: Pinterest Conversion Tracker
+category: site_analytics
+website_url: 
+organization: pinterest
+alias: pinterest
+
+--- filters
+||s.pinimg.com/ct/core.js
+--- filters
+
+ghostery_id: 2748

@@ -1,0 +1,14 @@
+name: JS Communications
+category: advertising
+website_url: http://www.jssearch.net/
+organization: js_communications
+
+--- domains
+cjmooter.xcache.kinxcdn.com
+--- domains
+
+--- filters
+||cjmooter.xcache.kinxcdn.com^
+--- filters
+
+ghostery_id: 2022

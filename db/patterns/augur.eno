@@ -1,0 +1,14 @@
+name: Augur
+category: site_analytics
+website_url: 
+organization: augur
+
+--- domains
+cdn.augur.io
+--- domains
+
+--- filters
+||cdn.augur.io/augur.min.js
+--- filters
+
+ghostery_id: 3197

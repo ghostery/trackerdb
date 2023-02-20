@@ -1,0 +1,14 @@
+name: Dynata
+category: advertising
+website_url: http://hottraffic.nl/en
+organization: dynata
+
+--- domains
+beacons.hottraffic.nl
+--- domains
+
+--- filters
+||beacons.hottraffic.nl^
+--- filters
+
+ghostery_id: 1126

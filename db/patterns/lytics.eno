@@ -1,0 +1,15 @@
+name: Lytics
+category: site_analytics
+website_url: https://www.lytics.com/
+organization: lytics
+
+--- domains
+lytics.io
+--- domains
+
+--- filters
+||c.lytics.io/static/io.min.js
+||lytics.com/assets/js/app.min.js
+--- filters
+
+ghostery_id: 2536

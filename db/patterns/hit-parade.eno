@@ -1,0 +1,14 @@
+name: Hit-Parade
+category: advertising
+website_url: http://www.hit-parade.com/
+organization: hit-parade
+
+--- domains
+hit-parade.com
+--- domains
+
+--- filters
+||hit-parade.com/log
+--- filters
+
+ghostery_id: 770

@@ -1,0 +1,14 @@
+name: Addvalue
+category: site_analytics
+website_url: 
+organization: addvalue.de
+
+--- domains
+b2btracking.addvalue.de
+--- domains
+
+--- filters
+||b2btracking.addvalue.de/trs.js
+--- filters
+
+ghostery_id: 2412

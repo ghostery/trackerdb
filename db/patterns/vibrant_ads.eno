@@ -1,0 +1,14 @@
+name: Vibrant Ads
+category: advertising
+website_url: http://www.vibrantmedia.com/
+organization: vibrant_media
+
+--- domains
+intellitxt.com
+--- domains
+
+--- filters
+||intellitxt.com^
+--- filters
+
+ghostery_id: 103

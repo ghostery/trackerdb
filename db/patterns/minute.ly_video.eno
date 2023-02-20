@@ -1,0 +1,14 @@
+name: minute.ly video
+category: audio_video_player
+website_url: 
+organization: minute.ly
+
+--- domains
+apv.configuration.minute.ly
+--- domains
+
+--- filters
+||apv.configuration.minute.ly^
+--- filters
+
+ghostery_id: 3095

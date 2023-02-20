@@ -1,0 +1,14 @@
+name: Encore Metrics
+category: advertising
+website_url: http://sitecompass.com
+organization: flashtalking
+
+--- domains
+sitecompass.com
+--- domains
+
+--- filters
+||sitecompass.com^
+--- filters
+
+ghostery_id: 414

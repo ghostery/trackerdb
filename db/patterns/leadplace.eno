@@ -1,0 +1,14 @@
+name: LeadPlace
+category: site_analytics
+website_url: 
+organization: leadplace
+
+--- domains
+leadplace.fr
+--- domains
+
+--- filters
+||cookies.leadplace.fr^
+--- filters
+
+ghostery_id: 2320

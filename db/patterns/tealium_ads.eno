@@ -1,0 +1,11 @@
+name: Tealium Ads
+category: advertising
+website_url: https://www.tealium.com/
+organization: tealium
+
+--- filters
+##.tealium-ad
+##.tealiumAdSlot
+--- filters
+
+ghostery_id: 4055

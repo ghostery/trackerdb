@@ -1,0 +1,14 @@
+name: Mister Bell
+category: advertising
+website_url: http://misterbell.fr/
+organization: mister_bell
+
+--- domains
+misterbell.com
+--- domains
+
+--- filters
+||misterbell.com^
+--- filters
+
+ghostery_id: 2080

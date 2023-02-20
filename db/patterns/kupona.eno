@@ -1,0 +1,18 @@
+name: Kupona
+category: advertising
+website_url: http://www.kupona-media.de/en/retargeting-and-performance-media-width-kupona
+organization: kupona
+
+--- domains
+d31bfnnwekbny6.cloudfront.net
+kpcustomer.de
+q-sis.de
+--- domains
+
+--- filters
+||d31bfnnwekbny6.cloudfront.net^
+||opt.kuponacdn.de/mastertag_opt.js
+||opt.kuponacdn.de/mastertag_opt_conf.js
+--- filters
+
+ghostery_id: 1783

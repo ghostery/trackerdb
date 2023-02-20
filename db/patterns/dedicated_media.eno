@@ -1,0 +1,14 @@
+name: Dedicated Media
+category: advertising
+website_url: http://www.dedicatedmedia.com/
+organization: dedicated_media
+
+--- domains
+ads.dedicatedmedia.com
+--- domains
+
+--- filters
+||ads.dedicatedmedia.com^
+--- filters
+
+ghostery_id: 570

@@ -1,0 +1,14 @@
+name: SLI Systems
+category: customer_interaction
+website_url: http://www.sli-systems.com
+organization: sli_systems
+
+--- domains
+resultspage.com
+--- domains
+
+--- filters
+||resultspage.com^
+--- filters
+
+ghostery_id: 1552

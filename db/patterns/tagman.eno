@@ -1,0 +1,14 @@
+name: TagMan
+category: essential
+website_url: http://www.tagman.com/
+organization: ensighten
+
+--- domains
+levexis.com
+--- domains
+
+--- filters
+||levexis.com^
+--- filters
+
+ghostery_id: 457

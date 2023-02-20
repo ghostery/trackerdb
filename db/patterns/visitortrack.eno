@@ -1,0 +1,14 @@
+name: VisitorTrack
+category: advertising
+website_url: http://www.netfactor.com/
+organization: netfactor
+
+--- domains
+visitortracklog.com
+--- domains
+
+--- filters
+||visitortracklog.com^
+--- filters
+
+ghostery_id: 1144

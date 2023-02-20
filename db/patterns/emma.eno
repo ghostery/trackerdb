@@ -1,0 +1,14 @@
+name: Emma
+category: advertising
+website_url: http://myemma.com/
+organization: emma
+
+--- domains
+e2ma.net
+--- domains
+
+--- filters
+||e2ma.net^
+--- filters
+
+ghostery_id: 1611

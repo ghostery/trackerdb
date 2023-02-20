@@ -1,0 +1,14 @@
+name: Rollad
+category: advertising
+website_url: http://rollad.ru
+organization: rollad
+
+--- domains
+rollad.ru
+--- domains
+
+--- filters
+||rollad.ru^
+--- filters
+
+ghostery_id: 1319

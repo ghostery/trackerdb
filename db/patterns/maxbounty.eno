@@ -1,0 +1,14 @@
+name: MaxBounty
+category: essential
+website_url: http://www.maxbounty.com/
+organization: maxbounty
+
+--- domains
+mb01.com
+--- domains
+
+--- filters
+||mb01.com/getimage.asp
+--- filters
+
+ghostery_id: 787

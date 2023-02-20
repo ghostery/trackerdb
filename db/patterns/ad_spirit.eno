@@ -1,0 +1,16 @@
+name: Ad Spirit
+category: advertising
+website_url: http://www.adspirit.de
+organization: adspirit
+
+--- domains
+adspirit.de
+adspirit.net
+--- domains
+
+--- filters
+||adspirit.de^
+||adspirit.net^
+--- filters
+
+ghostery_id: 871

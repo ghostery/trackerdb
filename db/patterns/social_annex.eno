@@ -1,0 +1,14 @@
+name: Social Annex
+category: advertising
+website_url: http://www.socialannex.com
+organization: social_annex
+
+--- domains
+socialannex.com
+--- domains
+
+--- filters
+||socialannex.com^
+--- filters
+
+ghostery_id: 1162

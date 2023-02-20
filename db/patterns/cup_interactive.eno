@@ -1,0 +1,14 @@
+name: Cup Interactive
+category: advertising
+website_url: 
+organization: cup_interactive
+
+--- domains
+cdn.cupinteractive.com
+--- domains
+
+--- filters
+||cdn.cupinteractive.com/assets
+--- filters
+
+ghostery_id: 3072

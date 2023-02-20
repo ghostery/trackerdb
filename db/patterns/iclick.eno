@@ -1,0 +1,14 @@
+name: iClick
+category: advertising
+website_url: http://optimix.asia/
+organization: iclick_interactive
+
+--- domains
+optimix.asia
+--- domains
+
+--- filters
+||optimix.asia^
+--- filters
+
+ghostery_id: 1903

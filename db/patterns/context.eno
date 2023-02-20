@@ -1,0 +1,14 @@
+name: C|ON|TEXT
+category: advertising
+website_url: http://c-on-text.com
+organization: c_on_text
+
+--- domains
+c-on-text.com
+--- domains
+
+--- filters
+||c-on-text.com^
+--- filters
+
+ghostery_id: 1212

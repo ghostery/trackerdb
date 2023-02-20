@@ -1,0 +1,21 @@
+name: Cedexis Radar
+category: site_analytics
+website_url: http://www.cedexis.com/products_radar.html
+organization: cedexis
+
+--- domains
+cedexis-radar.net
+cedexis-test.com
+cedexis.com
+cedexis.fastlylb.net
+cedexis.net
+--- domains
+
+--- filters
+||cedexis-radar.net^
+||cedexis.com^
+||cedexis.net^
+||s3.amazonaws.com/cdx-radar
+--- filters
+
+ghostery_id: 434

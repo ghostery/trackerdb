@@ -1,0 +1,16 @@
+name: Admedo
+category: advertising
+website_url: http://admedo.com/
+organization: admedo
+
+--- domains
+adizio.com
+admedo.com
+--- domains
+
+--- filters
+||adizio.com^
+||admedo.com/admtracker.lib.min.js
+--- filters
+
+ghostery_id: 2068

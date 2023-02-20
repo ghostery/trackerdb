@@ -1,0 +1,14 @@
+name: ClickTripz
+category: advertising
+website_url: https://www.clicktripz.com
+organization: clicktripz
+
+--- domains
+clicktripz.com
+--- domains
+
+--- filters
+||clicktripz.com^
+--- filters
+
+ghostery_id: 1977

@@ -1,0 +1,14 @@
+name: Mobicow
+category: advertising
+website_url: http://www.mobicow.com/
+organization: mobicow
+
+--- domains
+mobicow.com
+--- domains
+
+--- filters
+||mobicow.com^
+--- filters
+
+ghostery_id: 1915

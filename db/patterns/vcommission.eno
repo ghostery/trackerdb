@@ -1,0 +1,14 @@
+name: vCommission
+category: advertising
+website_url: http://www.vcommission.com/
+organization: vcommission
+
+--- domains
+tracking.vcommission.com
+--- domains
+
+--- filters
+||tracking.vcommission.com^
+--- filters
+
+ghostery_id: 1946

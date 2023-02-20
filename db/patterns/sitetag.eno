@@ -1,0 +1,16 @@
+name: SiteTag
+category: customer_interaction
+website_url: http://www.sitetag.us/
+organization: sitetag
+
+--- domains
+ad.sitemaji.com
+sitetag.us
+--- domains
+
+--- filters
+||ad.sitemaji.com^
+||sitetag.us/^
+--- filters
+
+ghostery_id: 1706

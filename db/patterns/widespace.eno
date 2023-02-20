@@ -1,0 +1,14 @@
+name: Widespace
+category: advertising
+website_url: https://www.widespace.com/
+organization: widespace
+
+--- domains
+widespace.com
+--- domains
+
+--- filters
+||widespace.com^
+--- filters
+
+ghostery_id: 1906

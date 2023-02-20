@@ -1,0 +1,14 @@
+name: Qbaka
+category: site_analytics
+website_url: https://qbaka.com/
+organization: qbaka
+
+--- domains
+qbaka.net
+--- domains
+
+--- filters
+||qbaka.net^
+--- filters
+
+ghostery_id: 1992

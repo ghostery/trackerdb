@@ -1,0 +1,14 @@
+name: Just Relevant
+category: advertising
+website_url: http://www.justrelevant.com/
+organization: just_relevant
+
+--- domains
+justrelevant.com
+--- domains
+
+--- filters
+||justrelevant.com^
+--- filters
+
+ghostery_id: 1299

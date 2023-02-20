@@ -1,0 +1,17 @@
+name: Index Exchange
+category: advertising
+website_url: http://www.casalemedia.com/
+organization: index_exchange
+
+--- domains
+casalemedia.com
+indexww.com
+--- domains
+
+--- filters
+||casalemedia.com^
+||js-sec.indexww.com/ht/
+||js.indexww.com/ht/cur3.js
+--- filters
+
+ghostery_id: 135

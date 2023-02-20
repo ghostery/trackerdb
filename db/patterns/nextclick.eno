@@ -1,0 +1,14 @@
+name: Nextclick
+category: advertising
+website_url: http://nextclick.pl/
+organization: leadbullet
+
+--- domains
+nextclick.pl
+--- domains
+
+--- filters
+||nextclick.pl^
+--- filters
+
+ghostery_id: 2094

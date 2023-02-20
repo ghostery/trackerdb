@@ -1,0 +1,14 @@
+name: nRelate
+category: customer_interaction
+website_url: http://nrelate.com/
+organization: iac_apps
+
+--- domains
+nrelate.com
+--- domains
+
+--- filters
+||nrelate.com^
+--- filters
+
+ghostery_id: 1123

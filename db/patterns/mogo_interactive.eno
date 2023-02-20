@@ -1,0 +1,14 @@
+name: Mogo Interactive
+category: advertising
+website_url: http://www.mogomarketing.com/
+organization: mogo_interactive
+
+--- domains
+mogointeractive.com
+--- domains
+
+--- filters
+||mogointeractive.com^
+--- filters
+
+ghostery_id: 1675

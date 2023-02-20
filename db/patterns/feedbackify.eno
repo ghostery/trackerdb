@@ -1,0 +1,16 @@
+name: Feedbackify
+category: customer_interaction
+website_url: http://www.feedbackify.com/
+organization: feedbackify
+
+--- domains
+fby.s3.amazonaws.com
+feedbackify.com
+--- domains
+
+--- filters
+||fby.s3.amazonaws.com/fby.js
+||feedbackify.com/f.js
+--- filters
+
+ghostery_id: 1093

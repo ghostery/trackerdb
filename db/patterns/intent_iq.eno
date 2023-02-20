@@ -1,0 +1,14 @@
+name: Intent IQ
+category: advertising
+website_url: http://datonics.com/
+organization: almondnet
+
+--- domains
+intentiq.com
+--- domains
+
+--- filters
+||intentiq.com^
+--- filters
+
+ghostery_id: 1659

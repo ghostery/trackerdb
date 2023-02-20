@@ -1,0 +1,12 @@
+name: Twitter Button
+category: social_media
+website_url: http://twitter.com
+organization: twitter
+alias: twitter
+
+--- filters
+||platform.twitter.com/js/button
+||platform.twitter.com/widgets
+--- filters
+
+ghostery_id: 605

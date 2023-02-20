@@ -1,0 +1,16 @@
+name: C1 Exchange
+category: advertising
+website_url: 
+organization: c1_exchange
+
+--- domains
+c1exchange.com
+--- domains
+
+--- filters
+||cms.c1exchange.com/cookie/match/adv/adx/seed
+||px.c1exchange.com/pubpixel/
+||sync.c1exchange.com/sync/user
+--- filters
+
+ghostery_id: 2942

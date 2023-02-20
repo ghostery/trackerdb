@@ -1,0 +1,14 @@
+name: Facetz.DCA
+category: advertising
+website_url: http://facetz.net
+organization: dca
+
+--- domains
+facetz.net
+--- domains
+
+--- filters
+||facetz.net^
+--- filters
+
+ghostery_id: 2008

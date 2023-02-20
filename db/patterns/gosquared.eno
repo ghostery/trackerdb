@@ -1,0 +1,17 @@
+name: GoSquared
+category: site_analytics
+website_url: http://www.gosquared.com/livestats/
+organization: gosquared
+
+--- domains
+d1l6p2sc9645hc.cloudfront.net
+gosquared.com
+--- domains
+
+--- filters
+||d1l6p2sc9645hc.cloudfront.net^
+||data.gosquared.com^
+||gosquared.com/livestats/tracker
+--- filters
+
+ghostery_id: 253

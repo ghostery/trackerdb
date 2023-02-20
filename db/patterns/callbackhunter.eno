@@ -1,0 +1,16 @@
+name: CallbackHunter
+category: customer_interaction
+website_url: http://callbackhunter.com/main
+organization: callbackhunter
+
+--- domains
+callbackhunter.com
+--- domains
+
+--- filters
+||callbackhunter.com/_hunter/
+||callbackhunter.com/widget
+||cdn.callhunter.com^
+--- filters
+
+ghostery_id: 2176

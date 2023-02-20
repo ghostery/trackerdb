@@ -1,0 +1,16 @@
+name: Bluemetrix
+category: advertising
+website_url: http://www.bluemetrix.ie/
+organization: bluemetrix
+
+--- domains
+bmmetrix.com
+japanmetrix.jp
+--- domains
+
+--- filters
+||bmmetrix.com^
+||japanmetrix.jp/^
+--- filters
+
+ghostery_id: 128

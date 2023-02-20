@@ -1,0 +1,17 @@
+name: SAS
+category: site_analytics
+website_url: http://www.sas.com/
+organization: sas
+
+--- domains
+aimatch.com
+sas.com
+--- domains
+
+--- filters
+||aimatch.com^
+||ced-ns.sascdn.com/diff/js/smart.js
+||ci360.sas.com/js/ot_boot-min.js
+--- filters
+
+ghostery_id: 1407

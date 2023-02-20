@@ -1,0 +1,14 @@
+name: LinkedIn Analytics
+category: site_analytics
+website_url: 
+organization: microsoft
+
+--- domains
+snap.licdn.com
+--- domains
+
+--- filters
+||snap.licdn.com/li.lms-analytics/insight.min.js
+--- filters
+
+ghostery_id: 2714

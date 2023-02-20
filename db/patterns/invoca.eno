@@ -1,0 +1,16 @@
+name: Invoca
+category: advertising
+website_url: http://www.invoca.com/
+organization: invoca
+
+--- domains
+js12.invoca.net
+ringrevenue.com
+--- domains
+
+--- filters
+||js12.invoca.net/12/integration.js
+||ringrevenue.com^
+--- filters
+
+ghostery_id: 1934

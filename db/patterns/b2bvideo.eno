@@ -1,0 +1,14 @@
+name: B2Bvideo
+category: advertising
+website_url: http://b2bvideo.ru/
+organization: b2bvideo
+
+--- domains
+b2bvideo.ru
+--- domains
+
+--- filters
+||b2bvideo.ru^
+--- filters
+
+ghostery_id: 1168

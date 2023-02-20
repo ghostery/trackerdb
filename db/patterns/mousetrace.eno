@@ -1,0 +1,14 @@
+name: MouseTrace
+category: site_analytics
+website_url: http://www.mousetrace.com/
+organization: mousetrace
+
+--- domains
+s.mousetrace.com
+--- domains
+
+--- filters
+||s.mousetrace.com^
+--- filters
+
+ghostery_id: 1224

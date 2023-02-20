@@ -1,0 +1,14 @@
+name: Adcrowd
+category: advertising
+website_url: https://www.adcrowd.com
+organization: adcrowd
+
+--- domains
+adcrowd.com
+--- domains
+
+--- filters
+||adcrowd.com^
+--- filters
+
+ghostery_id: 2069

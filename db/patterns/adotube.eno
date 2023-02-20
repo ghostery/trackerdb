@@ -1,0 +1,14 @@
+name: AdoTube
+category: advertising
+website_url: http://www.adotube.com
+organization: exponential_interactive
+
+--- domains
+adotube.com
+--- domains
+
+--- filters
+||adotube.com^
+--- filters
+
+ghostery_id: 722

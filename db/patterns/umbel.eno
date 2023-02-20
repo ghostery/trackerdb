@@ -1,0 +1,14 @@
+name: Umbel
+category: site_analytics
+website_url: http://umbel.com
+organization: umbel
+
+--- domains
+api.umbel.com
+--- domains
+
+--- filters
+||api.umbel.com^
+--- filters
+
+ghostery_id: 1598

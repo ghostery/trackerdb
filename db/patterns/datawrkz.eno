@@ -1,0 +1,14 @@
+name: Datawrkz
+category: advertising
+website_url: 
+organization: datawrkz
+
+--- domains
+adunits.datawrkz.com
+--- domains
+
+--- filters
+||adunits.datawrkz.com/tms/data/placement/placement
+--- filters
+
+ghostery_id: 3002

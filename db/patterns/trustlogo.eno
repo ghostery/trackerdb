@@ -1,0 +1,16 @@
+name: TrustLogo
+category: essential
+website_url: http://www.comodo.com/
+organization: comodo
+
+--- domains
+secure.comodo.net
+trustlogo.com
+--- domains
+
+--- filters
+||secure.comodo.net/trustlogo/javascript
+||trustlogo.com/trustlogo/javascript
+--- filters
+
+ghostery_id: 2012

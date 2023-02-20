@@ -1,0 +1,14 @@
+name: Giant Realm
+category: advertising
+website_url: http://corp.giantrealm.com/
+organization: giant_realm
+
+--- domains
+a.giantrealm.com
+--- domains
+
+--- filters
+||a.giantrealm.com^
+--- filters
+
+ghostery_id: 329

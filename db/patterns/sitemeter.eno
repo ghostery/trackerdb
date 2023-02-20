@@ -1,0 +1,15 @@
+name: SiteMeter
+category: site_analytics
+website_url: http://www.sitemeter.com/
+organization: sitemeter,_inc.
+
+--- domains
+sitemeter.com
+--- domains
+
+--- filters
+||sitemeter.com/js/counter.js
+||sitemeter.com/meter.asp
+--- filters
+
+ghostery_id: 17

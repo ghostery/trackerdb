@@ -1,0 +1,14 @@
+name: emarketeer
+category: advertising
+website_url: 
+organization: emarketeer
+
+--- domains
+app.emarketeer.com
+--- domains
+
+--- filters
+||app.emarketeer.com/tracker/ping.js
+--- filters
+
+ghostery_id: 2918

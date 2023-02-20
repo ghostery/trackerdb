@@ -1,0 +1,14 @@
+name: MasterTarget
+category: advertising
+website_url: http://mastertarget.ru/
+organization: mastertarget
+
+--- domains
+mastertarget.ru
+--- domains
+
+--- filters
+||mastertarget.ru^
+--- filters
+
+ghostery_id: 1845

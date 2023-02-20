@@ -1,0 +1,16 @@
+name: AppNexus
+category: advertising
+website_url: http://www.appnexus.com/
+organization: appnexus
+
+--- domains
+adnxs.com
+adnxs.net
+--- domains
+
+--- filters
+||adnxs.com^
+||adnxs.net^
+--- filters
+
+ghostery_id: 170

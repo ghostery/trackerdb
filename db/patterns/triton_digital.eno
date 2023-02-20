@@ -1,0 +1,16 @@
+name: Triton Digital
+category: audio_video_player
+website_url: http://www.tritondigital.com/
+organization: triton_digital
+
+--- domains
+andomedia.com
+tritondigital.com
+--- domains
+
+--- filters
+||andomedia.com^
+||tritondigital.com^
+--- filters
+
+ghostery_id: 1209

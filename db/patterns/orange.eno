@@ -1,0 +1,18 @@
+name: Orange
+category: advertising
+website_url: http://www.orange.co.uk/
+organization: orange_mobile
+
+--- domains
+orange.fr
+orangeads.fr
+--- domains
+
+--- filters
+||c.orange.fr^
+||gstat.orange.fr^
+||iapref.orange.fr^
+||orangeads.fr^
+--- filters
+
+ghostery_id: 1743

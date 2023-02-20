@@ -1,0 +1,14 @@
+name: Brightcove Player
+category: audio_video_player
+website_url: 
+organization: brightcove
+
+--- domains
+brightcove.net
+--- domains
+
+--- filters
+||players.brightcove.net^
+--- filters
+
+ghostery_id: 2451

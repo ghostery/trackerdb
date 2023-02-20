@@ -1,0 +1,16 @@
+name: Placester
+category: advertising
+website_url: https://placester.com/
+organization: placester
+
+--- domains
+ads.placester.net
+d3uemyw1e5n0jw.cloudfront.net
+--- domains
+
+--- filters
+||ads.placester.net^
+||d3uemyw1e5n0jw.cloudfront.net^
+--- filters
+
+ghostery_id: 2105

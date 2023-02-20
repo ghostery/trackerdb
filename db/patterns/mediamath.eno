@@ -1,0 +1,17 @@
+name: MediaMath
+category: advertising
+website_url: http://www.mediamath.com/
+organization: mediamath
+
+--- domains
+mathads.com
+mathtag.com
+--- domains
+
+--- filters
+||mathads.com^
+||mathtag.com^
+||pixel.mathtag.com^
+--- filters
+
+ghostery_id: 425

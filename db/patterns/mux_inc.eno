@@ -1,0 +1,14 @@
+name: Mux
+category: audio_video_player
+website_url: https://mux.com/
+organization: mux_inc
+
+--- domains
+litix.io
+--- domains
+
+--- filters
+||src.litix.io/videojs/2/videojs-mux.js
+--- filters
+
+ghostery_id: 2620

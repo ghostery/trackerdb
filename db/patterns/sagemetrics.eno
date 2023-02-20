@@ -1,0 +1,14 @@
+name: SageMetrics
+category: advertising
+website_url: http://www.sagemetrics.com
+organization: ipmg
+
+--- domains
+sageanalyst.net
+--- domains
+
+--- filters
+||sageanalyst.net^
+--- filters
+
+ghostery_id: 351

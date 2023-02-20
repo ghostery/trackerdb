@@ -1,0 +1,18 @@
+name: LiveChat
+category: customer_interaction
+website_url: http://www.livechatinc.com
+organization: livechat
+
+--- domains
+livechat.s3.amazonaws.com
+livechatinc.com
+livechatinc.net
+--- domains
+
+--- filters
+||livechat.s3.amazonaws.com^
+||livechatinc.com^
+||livechatinc.net^
+--- filters
+
+ghostery_id: 1618

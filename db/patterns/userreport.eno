@@ -1,0 +1,25 @@
+name: UserReport
+category: customer_interaction
+website_url: http://www.userreport.com/
+organization: userreport
+
+--- domains
+sdsbucket.s3.amazonaws.com
+userreport.com
+--- domains
+
+--- filters
+||audex.userreport.com/iframe/turn/frame.html
+||cdn.userreport.com/analytics-tags.js
+||cdn.userreport.com/systemsettings.js
+||cdn.userreport.com/userreport.js
+||sak.userreport.com/amediadk/launcher.js
+||sak.userreport.com/tv2/launcher.js
+||sdsbucket.s3.amazonaws.com^
+||sdscdn.userreport.com^
+||tag.userreport.com/tag.html
+||tag.userreport.com/ut.html
+||visitanalytics.userreport.com^
+--- filters
+
+ghostery_id: 950

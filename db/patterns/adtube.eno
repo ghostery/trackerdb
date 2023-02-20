@@ -1,0 +1,14 @@
+name: AdTube
+category: advertising
+website_url: 
+organization: adtube
+
+--- domains
+ad.adtube.ir
+--- domains
+
+--- filters
+||ad.adtube.ir/adtube.js
+--- filters
+
+ghostery_id: 3016

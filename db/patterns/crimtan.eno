@@ -1,0 +1,17 @@
+name: Crimtan
+category: advertising
+website_url: http://www.crimtan.com/
+organization: crimtan
+
+--- domains
+ctnsnet.com
+--- domains
+
+--- filters
+||cm.ctnsnet.com/int/cm
+||ctasnet.com^
+||ctnsnet.com^
+||ctpsnet.com^
+--- filters
+
+ghostery_id: 520

@@ -1,0 +1,15 @@
+name: AdMeld
+category: advertising
+website_url: http://www.admeld.com
+organization: google
+
+--- domains
+admeld.com
+--- domains
+
+--- filters
+||js.admeld.com^
+||tag.admeld.com^
+--- filters
+
+ghostery_id: 278

@@ -1,0 +1,15 @@
+name: Accordant Media
+category: advertising
+website_url: http://www.accordantmedia.com/
+organization: accordant_media
+
+--- domains
+accmgr.com
+--- domains
+
+--- filters
+||accmgr.com^
+||t.a3cloud.net/AM-141112/tag.js
+--- filters
+
+ghostery_id: 1511

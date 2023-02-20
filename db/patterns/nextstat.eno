@@ -1,0 +1,14 @@
+name: NextSTAT
+category: site_analytics
+website_url: http://www.nextstat.com/
+organization: nextstat
+
+--- domains
+nextstat.com
+--- domains
+
+--- filters
+||nextstat.com^
+--- filters
+
+ghostery_id: 829

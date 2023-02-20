@@ -1,0 +1,20 @@
+name: Clicksor
+category: advertising
+website_url: http://clicksor.com/
+organization: clicksor
+
+--- domains
+clicksor.com
+hatid.com
+lzjl.com
+myroitracking.com
+--- domains
+
+--- filters
+||clicksor.com^
+||hatid.com^
+||lzjl.com^
+||myroitracking.com^
+--- filters
+
+ghostery_id: 78

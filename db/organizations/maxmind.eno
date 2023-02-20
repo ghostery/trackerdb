@@ -1,0 +1,11 @@
+name: MaxMind
+website_url: http://www.maxmind.com/
+privacy_policy_url: https://www.maxmind.com/en/privacy_policy
+privacy_contact: info@maxmind.com
+country: US
+description: "MaxMind provides IP intelligence through the GeoIP brand. By pinpointing the location of Internet customers and visitors by country, geographic region, city, and postal code, GeoIP data provides online businesses with a valuable marketing tool as well as the ability to customize their websites to better serve clients."
+
+--- notes
+--- notes
+
+ghostery_id: 1460

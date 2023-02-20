@@ -1,0 +1,14 @@
+name: Public Ideas
+category: advertising
+website_url: http://www.publicidees.co.uk/
+organization: public-idees
+
+--- domains
+publicidees.com
+--- domains
+
+--- filters
+||publicidees.com^
+--- filters
+
+ghostery_id: 1267

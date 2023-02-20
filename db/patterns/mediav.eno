@@ -1,0 +1,14 @@
+name: MediaV
+category: advertising
+website_url: https://www.mediav.com/
+organization: mediav
+
+--- domains
+mediav.com
+--- domains
+
+--- filters
+||mediav.com^
+--- filters
+
+ghostery_id: 1244

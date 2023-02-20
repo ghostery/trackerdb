@@ -1,0 +1,18 @@
+name: OptInMonster
+category: customer_interaction
+website_url: https://optinmonster.com/
+organization: optinmonster
+
+--- domains
+mstrlytcs.com
+optmnstr.com
+optmstr.com
+optnmstr.com
+--- domains
+
+--- filters
+||a.optmstr.com/app/js/api.min.js
+||a.optmstr.com/app/js/legacy-api.min.js
+--- filters
+
+ghostery_id: 3139

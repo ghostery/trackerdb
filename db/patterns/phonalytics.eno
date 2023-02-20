@@ -1,0 +1,14 @@
+name: Phonalytics
+category: customer_interaction
+website_url: http://www.phonalytics.com/
+organization: phonalytics
+
+--- domains
+app.phonalytics.com
+--- domains
+
+--- filters
+||app.phonalytics.com/track
+--- filters
+
+ghostery_id: 366

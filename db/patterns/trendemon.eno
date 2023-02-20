@@ -1,0 +1,14 @@
+name: TrenDemon
+category: site_analytics
+website_url: 
+organization: trendemon
+
+--- domains
+trendemon.com
+--- domains
+
+--- filters
+||trendemon.com/apis/loadflame/mainflamejs
+--- filters
+
+ghostery_id: 2241

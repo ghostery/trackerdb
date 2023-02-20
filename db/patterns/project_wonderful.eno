@@ -1,0 +1,14 @@
+name: Project Wonderful
+category: advertising
+website_url: http://www.projectwonderful.com/
+organization: project_wonderful
+
+--- domains
+projectwonderful.com
+--- domains
+
+--- filters
+||projectwonderful.com^
+--- filters
+
+ghostery_id: 403

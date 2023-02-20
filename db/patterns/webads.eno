@@ -1,0 +1,14 @@
+name: WebAds
+category: advertising
+website_url: http://www.webads.co.uk/
+organization: webads
+
+--- domains
+webads.nl
+--- domains
+
+--- filters
+||webads.nl^
+--- filters
+
+ghostery_id: 1185

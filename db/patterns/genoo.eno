@@ -1,0 +1,15 @@
+name: Genoo
+category: advertising
+website_url: http://www.genoo.com/
+organization: genoo
+
+--- domains
+genoo.com
+--- domains
+
+--- filters
+||api.genoo.com/js/gtrack.js
+||genoo.com^
+--- filters
+
+ghostery_id: 2216

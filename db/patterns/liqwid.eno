@@ -1,0 +1,14 @@
+name: Liqwid
+category: advertising
+website_url: https://liqwid.com/
+organization: liqwid
+
+--- domains
+liqwid.net
+--- domains
+
+--- filters
+||liqwid.net^
+--- filters
+
+ghostery_id: 2224

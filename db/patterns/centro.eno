@@ -1,0 +1,14 @@
+name: Centro
+category: advertising
+website_url: http://centro.net/
+organization: centro
+
+--- domains
+brand-server.com
+--- domains
+
+--- filters
+||brand-server.com^
+--- filters
+
+ghostery_id: 969

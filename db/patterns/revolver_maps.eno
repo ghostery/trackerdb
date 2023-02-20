@@ -1,0 +1,14 @@
+name: Revolver Maps
+category: site_analytics
+website_url: http://www.revolvermaps.com/
+organization: revolver_maps
+
+--- domains
+revolvermaps.com
+--- domains
+
+--- filters
+||revolvermaps.com^
+--- filters
+
+ghostery_id: 980

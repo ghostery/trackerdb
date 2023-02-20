@@ -1,0 +1,16 @@
+name: BuzzFeed
+category: customer_interaction
+website_url: http://www.buzzfeed.com
+organization: buzzfeed
+
+--- domains
+buzzfed.com
+--- domains
+
+--- filters
+||buzzbox.buzzfeed.com^
+||ct.buzzfeed.com^
+||pglb.buzzfed.com^
+--- filters
+
+ghostery_id: 1397

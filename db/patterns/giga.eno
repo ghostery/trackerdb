@@ -1,0 +1,14 @@
+name: Giga
+category: advertising
+website_url: 
+organization: giga
+
+--- domains
+gigaonclick.com
+--- domains
+
+--- filters
+||gigaonclick.com^
+--- filters
+
+ghostery_id: 3156

@@ -1,0 +1,14 @@
+name: Eyereturn Marketing
+category: advertising
+website_url: https://eyereturnmarketing.com/
+organization: torstar_corp
+
+--- domains
+eyereturn.com
+--- domains
+
+--- filters
+||eyereturn.com^
+--- filters
+
+ghostery_id: 523

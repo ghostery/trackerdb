@@ -1,0 +1,14 @@
+name: Operative Media
+category: advertising
+website_url: http://www.operative.com/
+organization: operative_media
+
+--- domains
+adsummos.net
+--- domains
+
+--- filters
+||adsummos.net^
+--- filters
+
+ghostery_id: 1177

@@ -1,0 +1,14 @@
+name: DSNR Media Group
+category: advertising
+website_url: http://www.dsnrmg.com/
+organization: dsnr_media_group
+
+--- domains
+z5x.net
+--- domains
+
+--- filters
+||z5x.net^
+--- filters
+
+ghostery_id: 446

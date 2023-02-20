@@ -1,0 +1,14 @@
+name: Mad Ads Media
+category: advertising
+website_url: http://www.madadsmedia.com/
+organization: mad_ads_media
+
+--- domains
+madadsmedia.com
+--- domains
+
+--- filters
+||madadsmedia.com^
+--- filters
+
+ghostery_id: 1594

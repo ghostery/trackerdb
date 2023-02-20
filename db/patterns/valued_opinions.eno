@@ -1,0 +1,14 @@
+name: Valued Opinions
+category: advertising
+website_url: http://valuedopinions.com
+organization: valued_opinions
+
+--- domains
+valuedopinions.co.uk
+--- domains
+
+--- filters
+||valuedopinions.co.uk^
+--- filters
+
+ghostery_id: 931

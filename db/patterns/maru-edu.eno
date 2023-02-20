@@ -1,0 +1,14 @@
+name: Maru-EDU
+category: customer_interaction
+website_url: 
+organization: maruedr
+
+--- domains
+edigitalsurvey.com
+--- domains
+
+--- filters
+||edigitalsurvey.com^
+--- filters
+
+ghostery_id: 2688

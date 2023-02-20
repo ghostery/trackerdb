@@ -1,0 +1,14 @@
+name: Quigo AdSonar
+category: advertising
+website_url: http://www.quigo.com
+organization: verizon
+
+--- domains
+adsonar.com
+--- domains
+
+--- filters
+||adsonar.com^
+--- filters
+
+ghostery_id: 80

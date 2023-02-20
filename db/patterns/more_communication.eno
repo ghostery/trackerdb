@@ -1,0 +1,14 @@
+name: More Communication
+category: advertising
+website_url: 
+organization: more_communication
+
+--- domains
+ad.ad-arata.com
+--- domains
+
+--- filters
+||ad.ad-arata.com/static/embed.js
+--- filters
+
+ghostery_id: 3113

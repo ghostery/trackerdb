@@ -1,0 +1,14 @@
+name: ConvertFox
+category: customer_interaction
+website_url: 
+organization: convertfox
+
+--- domains
+d3sjgucddk68ji.cloudfront.net
+--- domains
+
+--- filters
+||d3sjgucddk68ji.cloudfront.net/convertfox.min.js
+--- filters
+
+ghostery_id: 3259

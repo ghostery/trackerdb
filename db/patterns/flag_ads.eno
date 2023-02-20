@@ -1,0 +1,14 @@
+name: Flag Ads
+category: advertising
+website_url: http://www.flagads.net/
+organization: flag_ads
+
+--- domains
+flagads.net
+--- domains
+
+--- filters
+||flagads.net^
+--- filters
+
+ghostery_id: 1393

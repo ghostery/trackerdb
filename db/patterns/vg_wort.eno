@@ -1,0 +1,14 @@
+name: VG Wort
+category: site_analytics
+website_url: https://tom.vgwort.de/portal/showHelp
+organization: vg_wort
+
+--- domains
+vgwort.de
+--- domains
+
+--- filters
+||met.vgwort.de^
+--- filters
+
+ghostery_id: 711

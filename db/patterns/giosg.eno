@@ -1,0 +1,15 @@
+name: Giosg
+category: site_analytics
+website_url: 
+organization: giosg
+
+--- domains
+service.giosg.com
+--- domains
+
+--- filters
+||service.giosg.com/static/giosgclient
+||service.giosg.com/static/giosgclient.app.build
+--- filters
+
+ghostery_id: 2848

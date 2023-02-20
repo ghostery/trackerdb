@@ -1,0 +1,15 @@
+name: Coin Traffic
+category: customer_interaction
+website_url: 
+organization: coin_traffic
+
+--- domains
+appsha1.cointraffic.io
+--- domains
+
+--- filters
+||appsha1.cointraffic.io/js/
+||ctnet2.in/pub
+--- filters
+
+ghostery_id: 3050

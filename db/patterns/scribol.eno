@@ -1,0 +1,14 @@
+name: Scribol
+category: advertising
+website_url: http://scribol.com/
+organization: scribol
+
+--- domains
+scribol.com
+--- domains
+
+--- filters
+||scribol.com^
+--- filters
+
+ghostery_id: 662

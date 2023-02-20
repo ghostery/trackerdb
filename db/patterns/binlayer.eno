@@ -1,0 +1,14 @@
+name: BinLayer
+category: advertising
+website_url: http://binlayer.com/
+organization: binlayer
+
+--- domains
+view.binlayer.com
+--- domains
+
+--- filters
+||view.binlayer.com/ad
+--- filters
+
+ghostery_id: 274

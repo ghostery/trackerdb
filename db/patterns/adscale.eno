@@ -1,0 +1,15 @@
+name: AdScale
+category: advertising
+website_url: http://www.adscale.de/
+organization: stroer
+
+--- domains
+adscale.de
+--- domains
+
+--- filters
+||adscale.de^
+||cdn.stroeerdigitalmedia.de/praeludium/praeludium_giga.min.js
+--- filters
+
+ghostery_id: 277

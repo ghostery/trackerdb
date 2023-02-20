@@ -1,0 +1,14 @@
+name: Honeybadger
+category: site_analytics
+website_url: https://www.honeybadger.io/
+organization: honeybadger
+
+--- domains
+honeybadger.io
+--- domains
+
+--- filters
+||js.honeybadger.io/v*/honeybadger.min.js^
+--- filters
+
+ghostery_id: 2278

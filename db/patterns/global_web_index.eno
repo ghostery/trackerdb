@@ -1,0 +1,14 @@
+name: GlobalWebIndex
+category: site_analytics
+website_url: https://www.globalwebindex.com/
+organization: global_web_index
+
+--- domains
+globalwebindex.net
+--- domains
+
+--- filters
+||gwiqcdn.globalwebindex.net^
+--- filters
+
+ghostery_id: 2744

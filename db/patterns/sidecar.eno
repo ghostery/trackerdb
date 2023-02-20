@@ -1,0 +1,16 @@
+name: Sidecar
+category: site_analytics
+website_url: http://hello.getsidecar.com/
+organization: sidecar
+
+--- domains
+d3v27wwd40f0xu.cloudfront.net
+getsidecar.com
+--- domains
+
+--- filters
+||d3v27wwd40f0xu.cloudfront.net^
+||getsidecar.com^
+--- filters
+
+ghostery_id: 1505

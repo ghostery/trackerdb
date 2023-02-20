@@ -1,0 +1,15 @@
+name: ShopRunner
+category: customer_interaction
+website_url: https://www.shoprunner.com
+organization: shoprunner
+
+--- domains
+shoprunner.com
+--- domains
+
+--- filters
+||shoprunner.com^
+||sra.s-9.us^
+--- filters
+
+ghostery_id: 1522

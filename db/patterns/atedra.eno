@@ -1,0 +1,14 @@
+name: Atedra
+category: advertising
+website_url: http://www.atedra.com/
+organization: atedra
+
+--- domains
+atedra.com
+--- domains
+
+--- filters
+||atedra.com^
+--- filters
+
+ghostery_id: 1644

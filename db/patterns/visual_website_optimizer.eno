@@ -1,0 +1,19 @@
+name: VWO
+category: site_analytics
+website_url: https://vwo.com/
+organization: wingify
+
+--- domains
+d5phz18u4wuww.cloudfront.net
+visualwebsiteoptimizer.com
+wingify.com
+--- domains
+
+--- filters
+||d5phz18u4wuww.cloudfront.net^
+||dev.visualwebsiteoptimizer.com^
+||s3.amazonaws.com/wingify/vis_opt.js
+||server.wingify.com/app/js/code/wg_consolidated.js
+--- filters
+
+ghostery_id: 257

@@ -1,0 +1,16 @@
+name: BrainSINS
+category: advertising
+website_url: http://www.brainsins.com/
+organization: brainsins
+
+--- domains
+brainsins.com
+d2xkqxdy6ewr93.cloudfront.net
+--- domains
+
+--- filters
+||brainsins.com^
+||d2xkqxdy6ewr93.cloudfront.net^
+--- filters
+
+ghostery_id: 1623

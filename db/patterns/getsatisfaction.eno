@@ -1,0 +1,16 @@
+name: GetSatisfaction
+category: comments
+website_url: http://getsatisfaction.com/
+organization: get_satisfaction
+
+--- domains
+gsfn.us
+--- domains
+
+--- filters
+||loader.engage.gsfn.us^
+||s3.amazonaws.com/getsatisfaction.com/feedback/feedback.js
+||s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js
+--- filters
+
+ghostery_id: 104

@@ -1,0 +1,14 @@
+name: Crowd Science
+category: advertising
+website_url: http://www.crowdscience.com/
+organization: crowd_science
+
+--- domains
+static.crowdscience.com
+--- domains
+
+--- filters
+||static.crowdscience.com^
+--- filters
+
+ghostery_id: 42

@@ -1,0 +1,14 @@
+name: Polyfill
+category: misc
+website_url: https://polyfill.io/
+organization: polyfill.io
+
+--- domains
+polyfill.io
+--- domains
+
+--- filters
+||cdn.polyfill.io/v2/polyfill.min.js
+--- filters
+
+ghostery_id: 3123

@@ -1,0 +1,16 @@
+name: Facebook Connect
+category: site_analytics
+website_url: https://developers.facebook.com/connect.php
+organization: facebook
+alias: facebook
+
+--- filters
+/fbconnect.js
+||static.ak.connect.facebook.com/*.js.php^
+||cdn.atlassbx.com^
+||connect.facebook.net^
+||facebook.com/connect
+||facebook.com/v2.0/connect
+--- filters
+
+ghostery_id: 93

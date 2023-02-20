@@ -1,0 +1,15 @@
+name: Interpolls
+category: advertising
+website_url: http://www.interpolls.com/
+organization: interpolls
+
+--- domains
+interpolls.com
+--- domains
+
+--- filters
+||hs.interpolls.com^
+||sw.interpolls.com^
+--- filters
+
+ghostery_id: 491

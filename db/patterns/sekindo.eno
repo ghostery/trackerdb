@@ -1,0 +1,14 @@
+name: Sekindo
+category: advertising
+website_url: http://www.sekindo.com/
+organization: sekindo
+
+--- domains
+sekindo.com
+--- domains
+
+--- filters
+||sekindo.com^
+--- filters
+
+ghostery_id: 1174

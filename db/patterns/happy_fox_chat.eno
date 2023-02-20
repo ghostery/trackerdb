@@ -1,0 +1,14 @@
+name: Happy Fox Chat
+category: customer_interaction
+website_url: 
+organization: happy_fox_chat
+
+--- domains
+d1l7z5ofrj6ab8.cloudfront.net
+--- domains
+
+--- filters
+||d1l7z5ofrj6ab8.cloudfront.net^
+--- filters
+
+ghostery_id: 3134

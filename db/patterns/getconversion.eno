@@ -1,0 +1,14 @@
+name: GetConversion
+category: customer_interaction
+website_url: http://www.getconversion.net/
+organization: getconversion
+
+--- domains
+getconversion.net
+--- domains
+
+--- filters
+||getconversion.net^
+--- filters
+
+ghostery_id: 1736

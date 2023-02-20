@@ -1,0 +1,14 @@
+name: Qualtrics
+category: site_analytics
+website_url: http://www.qualtrics.com/
+organization: qualtrics
+
+--- domains
+qualtrics.com
+--- domains
+
+--- filters
+||qualtrics.com^
+--- filters
+
+ghostery_id: 1531

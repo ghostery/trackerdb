@@ -1,0 +1,14 @@
+name: PaperG
+category: advertising
+website_url: http://www.paperg.com/
+organization: paperg
+
+--- domains
+paperg.com
+--- domains
+
+--- filters
+||paperg.com^
+--- filters
+
+ghostery_id: 1781

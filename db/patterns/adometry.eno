@@ -1,0 +1,14 @@
+name: Adometry
+category: advertising
+website_url: http://www.adometry.com/
+organization: google
+
+--- domains
+dmtry.com
+--- domains
+
+--- filters
+||dmtry.com^
+--- filters
+
+ghostery_id: 586

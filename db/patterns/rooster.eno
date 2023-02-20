@@ -1,0 +1,14 @@
+name: Rooster
+category: site_analytics
+website_url: http://www.getrooster.com/
+organization: rooster
+
+--- domains
+getrooster.com
+--- domains
+
+--- filters
+||getrooster.com^
+--- filters
+
+ghostery_id: 2204

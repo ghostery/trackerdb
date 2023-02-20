@@ -1,0 +1,14 @@
+name: AdClear
+category: advertising
+website_url: http://www.adclear.de/en/home.html
+organization: adclear
+
+--- domains
+adclear.net
+--- domains
+
+--- filters
+||adclear.net^
+--- filters
+
+ghostery_id: 1273

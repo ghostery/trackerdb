@@ -1,0 +1,14 @@
+name: Attracta
+category: advertising
+website_url: http://www.attracta.com/
+organization: attracta
+
+--- domains
+cdn.attracta.com
+--- domains
+
+--- filters
+||cdn.attracta.com/badge/
+--- filters
+
+ghostery_id: 831

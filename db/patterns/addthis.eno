@@ -1,0 +1,21 @@
+name: AddThis
+category: advertising
+website_url: http://www.addthis.com/
+organization: oracle
+
+--- domains
+addthis.com
+addthiscdn.com
+addthisedge.com
+--- domains
+
+--- filters
+/addthis_widget.js
+/addthis_widget.php
+||addthis.com^
+||addthisedge.com^
+||l.addthiscdn.com^
+||s7.addthis.com/js/300/addthis_widget.js
+--- filters
+
+ghostery_id: 55

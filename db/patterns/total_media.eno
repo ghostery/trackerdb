@@ -1,0 +1,14 @@
+name: Total Media
+category: advertising
+website_url: http://www.totalmedia.co.il/eng/
+organization: total_media
+
+--- domains
+i.total-media.net
+--- domains
+
+--- filters
+||i.total-media.net^
+--- filters
+
+ghostery_id: 979

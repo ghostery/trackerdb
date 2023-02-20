@@ -1,0 +1,14 @@
+name: Web.STAT
+category: site_analytics
+website_url: http://webstat.net/
+organization: web.stat
+
+--- domains
+webstat.net
+--- domains
+
+--- filters
+||webstat.net/cgi-bin
+--- filters
+
+ghostery_id: 1431

@@ -1,0 +1,16 @@
+name: Contentwrx
+category: site_analytics
+website_url: 
+organization: contentwrx
+
+--- domains
+d1aug3dv5magti.cloudfront.net
+d39se0h2uvfakd.cloudfront.net
+--- domains
+
+--- filters
+||d1aug3dv5magti.cloudfront.net/e/241.js
+||d39se0h2uvfakd.cloudfront.net/js/acs.js
+--- filters
+
+ghostery_id: 2406

@@ -1,0 +1,14 @@
+name: BotScanner
+category: site_analytics
+website_url: 
+organization: botscanner
+
+--- domains
+scan.botscanner.com
+--- domains
+
+--- filters
+||scan.botscanner.com^
+--- filters
+
+ghostery_id: 2255

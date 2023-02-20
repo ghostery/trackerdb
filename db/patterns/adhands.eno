@@ -1,0 +1,14 @@
+name: AdHands
+category: advertising
+website_url: http://promo.adhands.ru/
+organization: adhands
+
+--- domains
+adhands.ru
+--- domains
+
+--- filters
+||adhands.ru^
+--- filters
+
+ghostery_id: 1281

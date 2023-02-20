@@ -1,0 +1,14 @@
+name: eTrigue
+category: advertising
+website_url: http://www.etrigue.com/
+organization: etrigue
+
+--- domains
+etrigue.com
+--- domains
+
+--- filters
+||etrigue.com^
+--- filters
+
+ghostery_id: 825

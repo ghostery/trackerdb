@@ -1,0 +1,14 @@
+name: Hive Networks
+category: advertising
+website_url: https://hiveworkscomics.com/
+organization: hive_works
+
+--- domains
+ads.thehiveworks.com
+--- domains
+
+--- filters
+||ads.thehiveworks.com/delivery/asyncjs.php
+--- filters
+
+ghostery_id: 2602

@@ -1,0 +1,14 @@
+name: TurnSocial
+category: social_media
+website_url: http://turnsocial.com/
+organization: turnsocial
+
+--- domains
+turnsocial.com
+--- domains
+
+--- filters
+||turnsocial.com/bar/
+--- filters
+
+ghostery_id: 938

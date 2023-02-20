@@ -1,0 +1,14 @@
+name: Weebly Ads
+category: advertising
+website_url: http://www.weebly.com
+organization: weebly
+
+--- domains
+weebly.com
+--- domains
+
+--- filters
+||weebly.com/weebly/apps/serveads
+--- filters
+
+ghostery_id: 1271

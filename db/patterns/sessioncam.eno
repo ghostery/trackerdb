@@ -1,0 +1,16 @@
+name: SessionCam
+category: site_analytics
+website_url: http://www.sessioncam.com/
+organization: sessioncam
+
+--- domains
+d2oh4tlt9mrke9.cloudfront.net
+sessioncam.com
+--- domains
+
+--- filters
+||d2oh4tlt9mrke9.cloudfront.net^
+||sessioncam.com^
+--- filters
+
+ghostery_id: 1379

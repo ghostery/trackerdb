@@ -1,0 +1,15 @@
+name: HeyBubble
+category: customer_interaction
+website_url: https://www.heybubble.com/
+organization: heybubble
+
+--- domains
+heybubble.com
+--- domains
+
+--- filters
+||heybubble.com/vchat/content/
+||heybubble.com/vchat/frame/
+--- filters
+
+ghostery_id: 1795

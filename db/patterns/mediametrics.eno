@@ -1,0 +1,14 @@
+name: Mediametrics
+category: social_media
+website_url: 
+organization: mediametrics
+
+--- domains
+mediametrics.ru
+--- domains
+
+--- filters
+||mediametrics.ru/inject/inject.js
+--- filters
+
+ghostery_id: 2239

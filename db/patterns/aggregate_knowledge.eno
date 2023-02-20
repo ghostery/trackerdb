@@ -1,0 +1,14 @@
+name: Aggregate Knowledge
+category: advertising
+website_url: http://www.aggregateknowledge.com/
+organization: neustar
+
+--- domains
+agkn.com
+--- domains
+
+--- filters
+||agkn.com^
+--- filters
+
+ghostery_id: 400

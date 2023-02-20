@@ -1,0 +1,14 @@
+name: Playbuzz
+category: customer_interaction
+website_url: https://www.playbuzz.com/
+organization: playbuzz
+
+--- domains
+playbuzz.com
+--- domains
+
+--- filters
+||cdn.playbuzz.com/widget/feed.js
+--- filters
+
+ghostery_id: 2469

@@ -1,0 +1,14 @@
+name: Xapads
+category: advertising
+website_url: 
+organization: xapads
+
+--- domains
+xapads.com
+--- domains
+
+--- filters
+||xapads.com^
+--- filters
+
+ghostery_id: 2970

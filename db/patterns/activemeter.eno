@@ -1,0 +1,14 @@
+name: ActiveMeter
+category: advertising
+website_url: http://www.activemeter.com/
+organization: activeconversion
+
+--- domains
+activemeter.com
+--- domains
+
+--- filters
+||activemeter.com^
+--- filters
+
+ghostery_id: 835

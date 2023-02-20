@@ -1,0 +1,15 @@
+name: PubMatic
+category: advertising
+website_url: http://www.pubmatic.com/
+organization: pubmatic
+
+--- domains
+pubmatic.com
+--- domains
+
+--- filters
+||pubmatic.com^
+||rtb.adentifi.com/CookieSyncPubMatic
+--- filters
+
+ghostery_id: 333

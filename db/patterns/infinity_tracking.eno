@@ -1,0 +1,14 @@
+name: Infinity Tracking
+category: site_analytics
+website_url: http://www.infinity-tracking.com
+organization: infinity_tracking
+
+--- domains
+infinity-tracking.net
+--- domains
+
+--- filters
+||infinity-tracking.net^
+--- filters
+
+ghostery_id: 1296

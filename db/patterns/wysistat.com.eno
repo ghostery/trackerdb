@@ -1,0 +1,15 @@
+name: WysiStat
+category: site_analytics
+website_url: https://www.wysistat.net/
+organization: wysistat
+
+--- domains
+wysistat.com
+wysistat.net
+--- domains
+
+--- filters
+||wysistat.com^
+--- filters
+
+ghostery_id: 902

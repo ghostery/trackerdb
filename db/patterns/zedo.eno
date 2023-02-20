@@ -1,0 +1,14 @@
+name: Zedo
+category: advertising
+website_url: http://www.zedo.com/
+organization: zedo
+
+--- domains
+zedo.com
+--- domains
+
+--- filters
+||zedo.com^
+--- filters
+
+ghostery_id: 102

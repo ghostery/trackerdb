@@ -1,0 +1,14 @@
+name: Rocket.ia
+category: advertising
+website_url: 
+organization: rocket.la
+
+--- domains
+rocket.la
+--- domains
+
+--- filters
+||rocket.la/pixel
+--- filters
+
+ghostery_id: 2882

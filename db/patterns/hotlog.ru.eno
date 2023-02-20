@@ -1,0 +1,14 @@
+name: HotLog
+category: advertising
+website_url: https://hotlog.ru/
+organization: hotlog
+
+--- domains
+hotlog.ru
+--- domains
+
+--- filters
+||hotlog.ru/cgi-bin/hotlog
+--- filters
+
+ghostery_id: 591

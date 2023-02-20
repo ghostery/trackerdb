@@ -1,0 +1,16 @@
+name: First Impression
+category: advertising
+website_url: 
+organization: first_impression
+
+--- domains
+firstimpression.io
+--- domains
+
+--- filters
+||appendad.com^
+||cdn.firstimpression.io/apd_client.js
+||cdn.firstimpression.io/delivery/spc_fi.php
+--- filters
+
+ghostery_id: 2249

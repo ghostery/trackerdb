@@ -1,0 +1,17 @@
+name: Branch
+category: advertising
+website_url: https://branch.io/
+organization: branch_metrics_inc
+
+--- domains
+app.link
+branch.io
+--- domains
+
+--- filters
+||cdn.branch.io/branch-v*.min.js^
+||api.branch.io^
+||app.link^
+--- filters
+
+ghostery_id: 2398

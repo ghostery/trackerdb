@@ -1,0 +1,14 @@
+name: SundaySky
+category: advertising
+website_url: http://www.sundaysky.com/
+organization: sundaysky
+
+--- domains
+sundaysky.com
+--- domains
+
+--- filters
+||vop.sundaysky.com^
+--- filters
+
+ghostery_id: 1530

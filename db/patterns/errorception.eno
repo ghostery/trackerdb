@@ -1,0 +1,16 @@
+name: Errorception
+category: site_analytics
+website_url: http://errorception.com/
+organization: errorception
+
+--- domains
+d15qhc0lu1ghnk.cloudfront.net
+errorception.com
+--- domains
+
+--- filters
+||d15qhc0lu1ghnk.cloudfront.net^
+||errorception.com^
+--- filters
+
+ghostery_id: 982

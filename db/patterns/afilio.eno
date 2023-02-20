@@ -1,0 +1,14 @@
+name: Afilio
+category: site_analytics
+website_url: 
+organization: afilio
+
+--- domains
+v2.afilio.com.br
+--- domains
+
+--- filters
+||v2.afilio.com.br/lead.php
+--- filters
+
+ghostery_id: 2647

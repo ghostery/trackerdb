@@ -1,0 +1,14 @@
+name: Popcash
+category: advertising
+website_url: http://popcash.net/
+organization: popcash_network
+
+--- domains
+popcash.net
+--- domains
+
+--- filters
+||popcash.net^
+--- filters
+
+ghostery_id: 1941

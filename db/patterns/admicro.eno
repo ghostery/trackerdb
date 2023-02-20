@@ -1,0 +1,21 @@
+name: AdMicro
+category: advertising
+website_url: http://www.admicro.vn/
+organization: admicro
+
+--- domains
+admicro.vn
+vcmedia.vn
+--- domains
+
+--- filters
+||admicro.vn^
+||admicro1.vcmedia.vn/ads_codes/ads_box_221.ads
+||admicro1.vcmedia.vn/ads_codes/ads_box_225.ads
+||admicro1.vcmedia.vn/fingerprint/figp.js
+||dantri3.vcmedia.vn/scripts/lib/html5.js
+||logdantri.vcmedia.vn/scripts/log.js
+||vcmedia.vn/ads
+--- filters
+
+ghostery_id: 862

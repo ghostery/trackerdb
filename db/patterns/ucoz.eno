@@ -1,0 +1,23 @@
+name: uCoz
+category: site_analytics
+website_url: http://www.ucoz.net/
+organization: ucoz
+
+--- domains
+at.ua
+do.am
+ucoz.net
+--- domains
+
+--- filters
+! /ucoz\.(.*)\/(stat|main)\//
+! ^ Manually optimized regexp
+(stat|main)\//
+||a.ucoz.net^
+||at.ua/stat/
+||do.am/stat/
+||ucoz.*/main/
+||ucoz.*/stat/
+--- filters
+
+ghostery_id: 554

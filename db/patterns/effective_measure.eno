@@ -1,0 +1,14 @@
+name: Effective Measure
+category: advertising
+website_url: http://www.effectivemeasure.com/
+organization: effective_measure
+
+--- domains
+effectivemeasure.net
+--- domains
+
+--- filters
+||effectivemeasure.net^
+--- filters
+
+ghostery_id: 534

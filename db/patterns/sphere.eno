@@ -1,0 +1,16 @@
+name: Sphere
+category: advertising
+website_url: http://www.sphere.com/
+organization: verizon
+
+--- domains
+sphere.com
+surphace.com
+--- domains
+
+--- filters
+||sphere.com/widgets/sphereit/js
+||surphace.com/widgets/sphereit/js
+--- filters
+
+ghostery_id: 63

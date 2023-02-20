@@ -1,0 +1,14 @@
+name: Modernus
+category: site_analytics
+website_url: http://www.modernus.is
+organization: modernus
+
+--- domains
+teljari.is
+--- domains
+
+--- filters
+||teljari.is^
+--- filters
+
+ghostery_id: 1179

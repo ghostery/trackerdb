@@ -1,0 +1,14 @@
+name: Neytiv
+category: site_analytics
+website_url: 
+organization: neytiv
+
+--- domains
+d1d8vn0fpluuz7.cloudfront.net
+--- domains
+
+--- filters
+||d1d8vn0fpluuz7.cloudfront.net/js/adsbyneytiv.js
+--- filters
+
+ghostery_id: 2945

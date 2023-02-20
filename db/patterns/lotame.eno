@@ -1,0 +1,15 @@
+name: Lotame
+category: advertising
+website_url: http://www.lotame.com/
+organization: lotame
+
+--- domains
+crwdcntrl.net
+--- domains
+
+--- filters
+||crwdcntrl.net^
+||tags.crwdcntrl.net/c/8753/cc_af.js
+--- filters
+
+ghostery_id: 109

@@ -1,0 +1,16 @@
+name: MyCounter.ua
+category: site_analytics
+website_url: http://mycounter.ua
+organization: mycounter.ua
+
+--- domains
+mycounter.com.ua
+mycounter.ua
+--- domains
+
+--- filters
+||mycounter.com.ua^
+||mycounter.ua^
+--- filters
+
+ghostery_id: 900

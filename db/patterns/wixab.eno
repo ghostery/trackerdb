@@ -1,0 +1,14 @@
+name: Wixab
+category: site_analytics
+website_url: 
+organization: wixab
+
+--- domains
+public.wixab-cloud.com
+--- domains
+
+--- filters
+||public.wixab-cloud.com/static/js/wx-latest.js
+--- filters
+
+ghostery_id: 3184

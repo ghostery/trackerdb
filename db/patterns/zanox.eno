@@ -1,0 +1,17 @@
+name: Zanox
+category: advertising
+website_url: http://www.zanox.com/us/
+organization: axel_springer
+
+--- domains
+zanox-affiliate.de
+zanox.com
+zanox.ws
+--- domains
+
+--- filters
+||www.zanox-affiliate.de/ppv/
+||zanox.com^
+--- filters
+
+ghostery_id: 548

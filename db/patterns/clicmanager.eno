@@ -1,0 +1,14 @@
+name: ClicManager
+category: advertising
+website_url: http://www.clicmanager.fr/
+organization: clicmanager
+
+--- domains
+clicmanager.fr
+--- domains
+
+--- filters
+||clicmanager.fr^
+--- filters
+
+ghostery_id: 716

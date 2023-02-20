@@ -1,0 +1,16 @@
+name: CityAds
+category: advertising
+website_url: http://cityads.ru/
+organization: cityads
+
+--- domains
+cityads.ru
+gameleads.ru
+--- domains
+
+--- filters
+||cityads.ru^
+||gameleads.ru^
+--- filters
+
+ghostery_id: 1302

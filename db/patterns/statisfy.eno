@@ -1,0 +1,14 @@
+name: Statisfy
+category: site_analytics
+website_url: http://www.statisfy.com/
+organization: statisfy
+
+--- domains
+statisfy.net
+--- domains
+
+--- filters
+||statisfy.net/javascripts/stats.js
+--- filters
+
+ghostery_id: 5

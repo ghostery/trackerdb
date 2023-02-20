@@ -1,0 +1,14 @@
+name: Attraqt
+category: site_analytics
+website_url: http://www.locayta.com/
+organization: attraqt
+
+--- domains
+locayta.com
+--- domains
+
+--- filters
+||locayta.com^
+--- filters
+
+ghostery_id: 1554

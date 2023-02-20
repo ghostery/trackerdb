@@ -1,0 +1,16 @@
+name: Google Tag Manager
+category: essential
+website_url: https://marketingplatform.google.com/about/tag-manager/
+organization: google
+
+--- domains
+googletagmanager.com
+googletagservices.com
+--- domains
+
+--- filters
+||googletagmanager.com^
+||googletagservices.com^
+--- filters
+
+ghostery_id: 1283

@@ -1,0 +1,14 @@
+name: Auditude
+category: audio_video_player
+website_url: http://www.auditude.com/
+organization: adobe
+
+--- domains
+auditude.com
+--- domains
+
+--- filters
+||auditude.com^
+--- filters
+
+ghostery_id: 740

@@ -1,0 +1,14 @@
+name: SiteWit
+category: advertising
+website_url: http://www.sitewit.com/
+organization: sitewit
+
+--- domains
+analytics.sitewit.com
+--- domains
+
+--- filters
+||analytics.sitewit.com^
+--- filters
+
+ghostery_id: 1671

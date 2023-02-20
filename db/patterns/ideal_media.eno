@@ -1,0 +1,14 @@
+name: Ideal Media
+category: advertising
+website_url: http://idealmedia.com/
+organization: ideal_media
+
+--- domains
+e-generator.com
+--- domains
+
+--- filters
+||e-generator.com^
+--- filters
+
+ghostery_id: 2002

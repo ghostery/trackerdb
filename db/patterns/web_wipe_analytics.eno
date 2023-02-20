@@ -1,0 +1,14 @@
+name: Web Wipe Analytics
+category: site_analytics
+website_url: http://tensquare.de
+organization: tensquare
+
+--- domains
+wipe.de
+--- domains
+
+--- filters
+||wwa.wipe.de^
+--- filters
+
+ghostery_id: 651

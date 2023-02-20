@@ -1,0 +1,14 @@
+name: BlogCounter
+category: site_analytics
+website_url: http://blogcounter.com/
+organization: adfire_gmbh
+
+--- domains
+track.blogcounter.de
+--- domains
+
+--- filters
+||track.blogcounter.de^
+--- filters
+
+ghostery_id: 136

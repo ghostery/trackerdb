@@ -1,0 +1,14 @@
+name: Puboclic
+category: advertising
+website_url: http://www.puboclic.com/
+organization: puboclic
+
+--- domains
+puboclic.com
+--- domains
+
+--- filters
+||puboclic.com^
+--- filters
+
+ghostery_id: 1996

@@ -1,0 +1,17 @@
+name: Crisp
+category: customer_interaction
+website_url: 
+organization: crisp
+
+--- domains
+crisp.chat
+crisp.im
+--- domains
+
+--- filters
+||client.crisp.chat^
+||client.crisp.im^
+||settings.crisp.chat^
+--- filters
+
+ghostery_id: 3167

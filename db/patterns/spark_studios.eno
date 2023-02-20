@@ -1,0 +1,14 @@
+name: Spark Studios
+category: audio_video_player
+website_url: http://www.sparkstudios.com/
+organization: spark_studios
+
+--- domains
+rts.sparkstudios.com
+--- domains
+
+--- filters
+||rts.sparkstudios.com^
+--- filters
+
+ghostery_id: 549

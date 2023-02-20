@@ -1,0 +1,14 @@
+name: iAdvize
+category: customer_interaction
+website_url: http://www.iadvize.com/
+organization: iadvize
+
+--- domains
+iadvize.com
+--- domains
+
+--- filters
+||iadvize.com^
+--- filters
+
+ghostery_id: 1216

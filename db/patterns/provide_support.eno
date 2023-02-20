@@ -1,0 +1,15 @@
+name: Provide Support
+category: customer_interaction
+website_url: http://www.providesupport.com/
+organization: provide_support
+
+--- domains
+providesupport.com
+--- domains
+
+--- filters
+||image.providesupport.com^
+||secure.providesupport.com^
+--- filters
+
+ghostery_id: 1059

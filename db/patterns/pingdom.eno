@@ -1,0 +1,14 @@
+name: Pingdom
+category: site_analytics
+website_url: https://www.pingdom.com/
+organization: pingdom
+
+--- domains
+pingdom.net
+--- domains
+
+--- filters
+||pingdom.net^
+--- filters
+
+ghostery_id: 1526

@@ -1,0 +1,14 @@
+name: Barometer
+category: customer_interaction
+website_url: http://getbarometer.com/
+organization: barometer
+
+--- domains
+getbarometer.s3.amazonaws.com
+--- domains
+
+--- filters
+||getbarometer.s3.amazonaws.com^
+--- filters
+
+ghostery_id: 1777

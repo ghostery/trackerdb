@@ -1,0 +1,14 @@
+name: Result Links
+category: advertising
+website_url: http://www.resultlinks.com/
+organization: result_links
+
+--- domains
+data.resultlinks.com
+--- domains
+
+--- filters
+||data.resultlinks.com^
+--- filters
+
+ghostery_id: 447

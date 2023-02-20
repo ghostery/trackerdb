@@ -1,0 +1,16 @@
+name: Admeta
+category: advertising
+website_url: http://www.admeta.com/
+organization: admeta
+
+--- domains
+admaym.com
+atemda.com
+--- domains
+
+--- filters
+||admaym.com^
+||atemda.com^
+--- filters
+
+ghostery_id: 642

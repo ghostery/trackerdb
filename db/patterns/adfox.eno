@@ -1,0 +1,16 @@
+name: AdFox
+category: advertising
+website_url: http://adfox.ru
+organization: yandex
+
+--- domains
+adfox.ru
+adwolf.ru
+--- domains
+
+--- filters
+||adfox.ru^
+||adwolf.ru^
+--- filters
+
+ghostery_id: 422

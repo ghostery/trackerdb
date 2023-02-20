@@ -1,0 +1,14 @@
+name: RTB House
+category: advertising
+website_url: http://en.adpilot.com/
+organization: rtb_house
+
+--- domains
+creativecdn.com
+--- domains
+
+--- filters
+||creativecdn.com^
+--- filters
+
+ghostery_id: 1880

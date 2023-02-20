@@ -1,0 +1,14 @@
+name: LiveInternet
+category: comments
+website_url: http://www.liveinternet.ru/
+organization: liveinternet
+
+--- domains
+yadro.ru
+--- domains
+
+--- filters
+||counter.yadro.ru^
+--- filters
+
+ghostery_id: 237

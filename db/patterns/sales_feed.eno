@@ -1,0 +1,14 @@
+name: Sales Feed
+category: advertising
+website_url: 
+organization: sales_feed
+
+--- domains
+api.salesfeed.com
+--- domains
+
+--- filters
+||api.salesfeed.com/v3/bootstrap.js
+--- filters
+
+ghostery_id: 2557

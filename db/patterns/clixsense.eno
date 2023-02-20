@@ -1,0 +1,14 @@
+name: ClixSense
+category: advertising
+website_url: http://www.clixsense.com/
+organization: clixsense
+
+--- domains
+clixsense.com
+--- domains
+
+--- filters
+||clixsense.com^
+--- filters
+
+ghostery_id: 1435

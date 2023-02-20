@@ -1,0 +1,14 @@
+name: SourceKnowledge Pixel
+category: advertising
+website_url: http://www.provenpixel.com/
+organization: sourceknowledge
+
+--- domains
+provenpixel.com
+--- domains
+
+--- filters
+||provenpixel.com^
+--- filters
+
+ghostery_id: 1700

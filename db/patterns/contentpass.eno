@@ -1,0 +1,16 @@
+name: ContentPass
+category: site_analytics
+website_url: https://www.contentpass.de/
+organization: contentpass
+
+--- domains
+contentpass.de
+contentpass.net
+--- domains
+
+--- filters
+||api.contentpass.net/stats
+||get.contentpass.net/now.js
+--- filters
+
+ghostery_id: 3168

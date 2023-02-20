@@ -1,0 +1,14 @@
+name: Target Circle
+category: site_analytics
+website_url: 
+organization: target_circle
+
+--- domains
+trackmytarget.com
+--- domains
+
+--- filters
+||trackmytarget.com/tracking/s/entrypoint.min.js
+--- filters
+
+ghostery_id: 3289

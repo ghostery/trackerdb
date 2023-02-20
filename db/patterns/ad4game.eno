@@ -1,0 +1,14 @@
+name: ad4game
+category: advertising
+website_url: http://www.ad4game.com/
+organization: ad4game
+
+--- domains
+ads.ad4game.com
+--- domains
+
+--- filters
+||ads.ad4game.com^
+--- filters
+
+ghostery_id: 553

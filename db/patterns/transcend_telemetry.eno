@@ -1,0 +1,14 @@
+name: Transcend Telemetry
+category: site_analytics
+website_url: https://transcend.io
+organization: transcend
+
+--- domains
+telemetry.transcend.io
+--- domains
+
+--- filters
+||telemetry.transcend.io^
+--- filters
+
+ghostery_id: 4054

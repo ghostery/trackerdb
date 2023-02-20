@@ -1,0 +1,14 @@
+name: KlikSaya
+category: advertising
+website_url: http://www.kliksaya.com
+organization: kliksaya
+
+--- domains
+scr.kliksaya.com
+--- domains
+
+--- filters
+||scr.kliksaya.com^
+--- filters
+
+ghostery_id: 1098

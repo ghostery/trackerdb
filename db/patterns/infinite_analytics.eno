@@ -1,0 +1,14 @@
+name: Infinite Analytics
+category: site_analytics
+website_url: 
+organization: infinite_analytics
+
+--- domains
+zachysprod.infiniteanalytics.com
+--- domains
+
+--- filters
+||zachysprod.infiniteanalytics.com/zachyscomboia.js
+--- filters
+
+ghostery_id: 3271

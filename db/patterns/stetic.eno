@@ -1,0 +1,16 @@
+name: Stetic
+category: site_analytics
+website_url: 
+organization: stetic
+
+--- domains
+4stats.de
+stetic.com
+--- domains
+
+--- filters
+||4stats.de^
+||stetic.com/t.js
+--- filters
+
+ghostery_id: 3181

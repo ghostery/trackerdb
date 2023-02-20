@@ -1,0 +1,14 @@
+name: DataMind
+category: advertising
+website_url: http://datamind.ru/
+organization: datamind
+
+--- domains
+datamind.ru
+--- domains
+
+--- filters
+||datamind.ru^
+--- filters
+
+ghostery_id: 2005

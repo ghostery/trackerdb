@@ -1,0 +1,16 @@
+name: Gemius
+category: advertising
+website_url: http://www.gemius.com
+organization: gemius_sa
+
+--- domains
+gemius.pl
+--- domains
+
+--- filters
+/xgemius.js
+||gasurvey.gemius.com^
+||hit.gemius.pl^
+--- filters
+
+ghostery_id: 313

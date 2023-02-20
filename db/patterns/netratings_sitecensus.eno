@@ -1,0 +1,18 @@
+name: NetRatings SiteCensus
+category: advertising
+website_url: http://www.nielsen-online.com/intlpage.html
+organization: nielsen
+
+--- domains
+glanceguide.com
+imrworldwide.com
+vizu.com
+--- domains
+
+--- filters
+||dz.glanceguide.com^
+||imrworldwide.com^
+||vizu.com^
+--- filters
+
+ghostery_id: 43

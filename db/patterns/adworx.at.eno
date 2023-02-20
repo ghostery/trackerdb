@@ -1,0 +1,14 @@
+name: ADworx
+category: advertising
+website_url: http://www.adworx.at/
+organization: ors
+
+--- domains
+adworx.at
+--- domains
+
+--- filters
+||ad.adworx.at^
+--- filters
+
+ghostery_id: 3066

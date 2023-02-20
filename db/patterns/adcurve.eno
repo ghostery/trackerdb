@@ -1,0 +1,14 @@
+name: AdCurve
+category: advertising
+website_url: http://www.shop2market.com/
+organization: adcurve
+
+--- domains
+shop2market.com
+--- domains
+
+--- filters
+||shop2market.com^
+--- filters
+
+ghostery_id: 1053

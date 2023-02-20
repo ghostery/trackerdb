@@ -1,0 +1,15 @@
+name: Artificial Computation Intelligence
+category: site_analytics
+website_url: https://www.acint.net/
+organization: acint
+
+--- domains
+acint.net
+--- domains
+
+--- filters
+||acint.net/aci.js
+||acint.net/mc/
+--- filters
+
+ghostery_id: 2257

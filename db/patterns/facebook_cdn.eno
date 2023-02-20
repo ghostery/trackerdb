@@ -1,0 +1,11 @@
+name: Facebook CDN
+category: cdn
+website_url: https://www.facebook.com
+organization: facebook
+
+--- domains
+fbcdn.net
+fbsbx.com
+--- domains
+
+ghostery_id: 3541

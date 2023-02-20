@@ -1,0 +1,16 @@
+name: eBay Korea
+category: advertising
+website_url: http://www.ebay.com/
+organization: ebay
+
+--- domains
+ad.about.co.kr
+adcheck.about.co.kr
+--- domains
+
+--- filters
+||ad.about.co.kr^
+||adcheck.about.co.kr^
+--- filters
+
+ghostery_id: 2020

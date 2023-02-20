@@ -1,0 +1,14 @@
+name: Bubblestat
+category: advertising
+website_url: http://www.bubblestat.com/
+organization: bubblestat
+
+--- domains
+in.bubblestat.com
+--- domains
+
+--- filters
+||in.bubblestat.com^
+--- filters
+
+ghostery_id: 784

@@ -1,0 +1,14 @@
+name: Social Miner
+category: social_media
+website_url: https://socialminer.com/
+organization: social_miner
+
+--- domains
+soclminer.com.br
+--- domains
+
+--- filters
+||plugins.soclminer.com.br/v3/sdk/all.min.js
+--- filters
+
+ghostery_id: 2760

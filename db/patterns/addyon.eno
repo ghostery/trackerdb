@@ -1,0 +1,14 @@
+name: AddyON
+category: advertising
+website_url: http://www.addyon.com/homepage.php
+organization: addyon
+
+--- domains
+addyon.com
+--- domains
+
+--- filters
+||addyon.com^
+--- filters
+
+ghostery_id: 997

@@ -1,0 +1,35 @@
+name: CJ Affiliate
+category: advertising
+website_url: http://www.cj.com/
+organization: conversant
+
+--- domains
+afcyhf.com
+anrdoezrs.net
+apmebf.com
+awltovhc.com
+emjcd.com
+ftjcfx.com
+lduhtrp.net
+qksz.net
+tkqlhce.com
+tqlkg.com
+yceml.net
+--- domains
+
+--- filters
+||afcyhf.com^
+||anrdoezrs.net^
+||apmebf.com^
+||awltovhc.com^
+||emjcd.com^
+||ftjcfx.com^
+||lduhtrp.net^
+||qksz.net^
+||tkqlhce.com^
+||tqlkg.com/image
+||tqlkg.com^
+||yceml.net^
+--- filters
+
+ghostery_id: 557

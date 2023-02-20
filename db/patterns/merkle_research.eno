@@ -1,0 +1,14 @@
+name: Merkle Research
+category: site_analytics
+website_url: 
+organization: dentsu_aegis_network
+
+--- domains
+cdn.merklesearch.com
+--- domains
+
+--- filters
+||cdn.merklesearch.com/merkle_track.js
+--- filters
+
+ghostery_id: 3161

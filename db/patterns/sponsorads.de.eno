@@ -1,0 +1,14 @@
+name: SponsorAds.de
+category: advertising
+website_url: http://sponsorads.de
+organization: sponsorads.de
+
+--- domains
+sponsorads.de
+--- domains
+
+--- filters
+||sponsorads.de^
+--- filters
+
+ghostery_id: 602

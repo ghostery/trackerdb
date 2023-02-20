@@ -1,0 +1,14 @@
+name: Glad Cube
+category: site_analytics
+website_url: 
+organization: glad_cube_inc.
+
+--- domains
+sitest.jp
+--- domains
+
+--- filters
+||sitest.jp/tracking/sitest_js
+--- filters
+
+ghostery_id: 2652

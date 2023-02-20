@@ -1,0 +1,14 @@
+name: Martini Media
+category: advertising
+website_url: http://martinimediainc.com/
+organization: martini_media
+
+--- domains
+martiniadnetwork.com
+--- domains
+
+--- filters
+||martiniadnetwork.com^
+--- filters
+
+ghostery_id: 1285

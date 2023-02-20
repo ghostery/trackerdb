@@ -1,0 +1,14 @@
+name: GetIntent
+category: advertising
+website_url: http://www.getintent.com/
+organization: getintent
+
+--- domains
+adhigh.net
+--- domains
+
+--- filters
+||adhigh.net^
+--- filters
+
+ghostery_id: 2004

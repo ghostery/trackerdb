@@ -1,0 +1,14 @@
+name: FullStory
+category: site_analytics
+website_url: 
+organization: fullstory
+
+--- domains
+fullstory.com
+--- domains
+
+--- filters
+||fullstory.com/s/fs.js
+--- filters
+
+ghostery_id: 2372

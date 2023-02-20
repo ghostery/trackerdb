@@ -1,0 +1,16 @@
+name: HOTWords
+category: advertising
+website_url: http://hotwords.com/
+organization: hotwords
+
+--- domains
+hotwords.com
+hotwords.es
+--- domains
+
+--- filters
+||hotwords.com^
+||hotwords.es^
+--- filters
+
+ghostery_id: 694

@@ -1,0 +1,14 @@
+name: Astronomer
+category: site_analytics
+website_url: 
+organization: astronomer
+
+--- domains
+cdn.astronomer.io
+--- domains
+
+--- filters
+||cdn.astronomer.io/analytics.js
+--- filters
+
+ghostery_id: 3195

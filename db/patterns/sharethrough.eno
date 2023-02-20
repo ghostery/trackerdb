@@ -1,0 +1,16 @@
+name: ShareThrough
+category: advertising
+website_url: http://www.sharethrough.com/
+organization: sharethrough
+
+--- domains
+shareth.ru
+sharethrough.com
+--- domains
+
+--- filters
+||shareth.ru^
+||sharethrough.com^
+--- filters
+
+ghostery_id: 1368

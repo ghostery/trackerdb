@@ -1,0 +1,12 @@
+name: DoubleClick Floodlight
+category: advertising
+website_url: http://www.google.com/support/dfa/partner/bin/topic.py?topic=23943
+organization: google
+alias: doubleclick
+
+--- filters
+||doubleclick.net/activityi
+||fls.doubleclick.net^
+--- filters
+
+ghostery_id: 310

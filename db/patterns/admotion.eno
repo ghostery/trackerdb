@@ -1,0 +1,16 @@
+name: Admotion
+category: advertising
+website_url: http://www.admotionus.com/
+organization: admotion
+
+--- domains
+dmmotion.com
+nspmotion.com
+--- domains
+
+--- filters
+||dmmotion.com^
+||nspmotion.com^
+--- filters
+
+ghostery_id: 499

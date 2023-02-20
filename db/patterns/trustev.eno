@@ -1,0 +1,14 @@
+name: Trustev
+category: site_analytics
+website_url: http://www.trustev.com/
+organization: trustev
+
+--- domains
+trustev.com
+--- domains
+
+--- filters
+||trustev.com^
+--- filters
+
+ghostery_id: 2219

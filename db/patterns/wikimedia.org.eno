@@ -1,0 +1,12 @@
+name: WikiMedia
+category: cdn
+website_url: https://wikimediafoundation.org/
+organization: wikimedia_foundation
+
+--- domains
+wikimedia.org
+wikipedia.org
+wikiquote.org
+--- domains
+
+ghostery_id: 3973

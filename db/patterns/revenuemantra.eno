@@ -1,0 +1,14 @@
+name: RevenueMantra
+category: advertising
+website_url: http://www.revenuemantra.com/
+organization: revenuemantra
+
+--- domains
+revenuemantra.com
+--- domains
+
+--- filters
+||revenuemantra.com^
+--- filters
+
+ghostery_id: 1246

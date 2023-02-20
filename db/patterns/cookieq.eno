@@ -1,0 +1,15 @@
+name: CookieQ
+category: essential
+website_url: http://cookieq.com/CookieQ
+organization: baycloud
+
+--- domains
+cookieq.com
+--- domains
+
+--- filters
+||cookieq.com/cookieq
+||cookieq.com/scripts
+--- filters
+
+ghostery_id: 898

@@ -1,0 +1,14 @@
+name: boo-box
+category: advertising
+website_url: http://boo-box.com/
+organization: boo-box
+
+--- domains
+boo-box.com
+--- domains
+
+--- filters
+||boo-box.com^
+--- filters
+
+ghostery_id: 1492

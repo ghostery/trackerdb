@@ -1,0 +1,14 @@
+name: Earnify Tracker
+category: site_analytics
+website_url: 
+organization: earnify
+
+--- domains
+earnify.com
+--- domains
+
+--- filters
+||earnify.com/track
+--- filters
+
+ghostery_id: 2617

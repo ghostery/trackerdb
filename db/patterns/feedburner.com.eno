@@ -1,0 +1,16 @@
+name: FeedBurner
+category: advertising
+website_url: https://feedburner.com
+organization: google
+
+--- domains
+feedburner.com
+--- domains
+
+--- filters
+||feedburner.com/~f
+||feedproxy.google.com/~fc/
+||feeds2.feedburner.com/1000DvdsToSee
+--- filters
+
+ghostery_id: 34

@@ -1,0 +1,14 @@
+name: AMP Platform
+category: advertising
+website_url: http://www.collective.com/
+organization: collective
+
+--- domains
+collective-media.net
+--- domains
+
+--- filters
+||collective-media.net^
+--- filters
+
+ghostery_id: 200

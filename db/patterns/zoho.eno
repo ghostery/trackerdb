@@ -1,0 +1,16 @@
+name: Zoho
+category: site_analytics
+website_url: 
+organization: zoho_corp
+
+--- domains
+js.zohostatic.eu
+--- domains
+
+--- filters
+||js.zohostatic.eu/salesiq/
+||salesiq.zoho.com/yupbrands/float.ls
+||salesiq.zoho.eu/atbrivacalzoni/float.ls
+--- filters
+
+ghostery_id: 2425

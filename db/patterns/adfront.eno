@@ -1,0 +1,14 @@
+name: AdFront
+category: advertising
+website_url: 
+organization: buysellads.com
+
+--- domains
+adfront.org
+--- domains
+
+--- filters
+||adfront.org^
+--- filters
+
+ghostery_id: 2923

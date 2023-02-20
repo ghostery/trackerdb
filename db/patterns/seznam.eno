@@ -1,0 +1,18 @@
+name: Seznam
+category: site_analytics
+website_url: 
+organization: seznam
+
+--- domains
+im.cz
+imedia.cz
+szn.cz
+--- domains
+
+--- filters
+||c.imedia.cz/js/retargeting.js
+||im.cz^
+||imedia.cz^
+--- filters
+
+ghostery_id: 2707

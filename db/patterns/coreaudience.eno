@@ -1,0 +1,14 @@
+name: CoreAudience
+category: advertising
+website_url: http://www.redaril.com/
+organization: hearst
+
+--- domains
+raasnet.com
+--- domains
+
+--- filters
+||raasnet.com^
+--- filters
+
+ghostery_id: 522

@@ -1,0 +1,14 @@
+name: Pulpo Media
+category: advertising
+website_url: http://www.pulpomedia.com/home.html
+organization: pulpo_media
+
+--- domains
+tentaculos.net
+--- domains
+
+--- filters
+||tentaculos.net^
+--- filters
+
+ghostery_id: 1518

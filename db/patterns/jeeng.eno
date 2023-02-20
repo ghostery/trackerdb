@@ -1,0 +1,14 @@
+name: Jeeng
+category: advertising
+website_url: 
+organization: jeeng
+
+--- domains
+jeeng.com
+--- domains
+
+--- filters
+||sdk.jeeng.com/sdk.js
+--- filters
+
+ghostery_id: 3121

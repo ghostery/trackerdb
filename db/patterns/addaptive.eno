@@ -1,0 +1,14 @@
+name: Addaptive
+category: advertising
+website_url: http://www.datapointmedia.com/
+organization: addaptive
+
+--- domains
+dpmsrv.com
+--- domains
+
+--- filters
+||dpmsrv.com^
+--- filters
+
+ghostery_id: 1232

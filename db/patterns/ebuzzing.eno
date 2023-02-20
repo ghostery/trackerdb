@@ -1,0 +1,22 @@
+name: eBuzzing
+category: advertising
+website_url: http://www.ebuzzing.com/
+organization: ebuzzing
+
+--- domains
+beead.co.uk
+beead.fr
+beead.net
+ebuzzing.com
+ebz.io
+--- domains
+
+--- filters
+||beead.co.uk^
+||beead.fr^
+||beead.net^
+||ebuzzing.com^
+||ebz.io^
+--- filters
+
+ghostery_id: 993

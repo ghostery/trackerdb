@@ -1,0 +1,14 @@
+name: LeadScoreApp
+category: customer_interaction
+website_url: 
+organization: leadscoreapp
+
+--- domains
+www.leadscoreapp.dk
+--- domains
+
+--- filters
+||www.leadscoreapp.dk/js/ls.js
+--- filters
+
+ghostery_id: 3209

@@ -1,0 +1,14 @@
+name: Apture
+category: customer_interaction
+website_url: http://www.apture.com/
+organization: google
+
+--- domains
+www.apture.com
+--- domains
+
+--- filters
+||www.apture.com/js/apture.js
+--- filters
+
+ghostery_id: 254

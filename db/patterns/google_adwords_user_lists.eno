@@ -1,0 +1,11 @@
+name: Google Adwords User Lists
+category: advertising
+website_url: 
+organization: google
+alias: google
+
+--- filters
+||google.com/ads/user-lists/
+--- filters
+
+ghostery_id: 3055

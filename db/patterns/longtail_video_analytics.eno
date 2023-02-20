@@ -1,0 +1,12 @@
+name: JW Player Analytics
+category: advertising
+website_url: http://www.longtailvideo.com/
+organization: jw_player
+alias: jw_player
+
+--- filters
+||i.n.jwpltx.com^
+||s.jwpltx.com^
+--- filters
+
+ghostery_id: 1487

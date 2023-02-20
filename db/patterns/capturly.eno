@@ -1,0 +1,14 @@
+name: Capturly
+category: site_analytics
+website_url: 
+organization: capturly
+
+--- domains
+cdn.capturly.com
+--- domains
+
+--- filters
+||cdn.capturly.com/js/track.js
+--- filters
+
+ghostery_id: 2459

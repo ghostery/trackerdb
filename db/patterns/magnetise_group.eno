@@ -1,0 +1,14 @@
+name: Magnetise Group
+category: advertising
+website_url: http://magnetisegroup.com/
+organization: magnetise_group
+
+--- domains
+magnetisemedia.com
+--- domains
+
+--- filters
+||magnetisemedia.com^
+--- filters
+
+ghostery_id: 1115

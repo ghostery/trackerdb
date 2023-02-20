@@ -1,0 +1,16 @@
+name: Medialand
+category: advertising
+website_url: http://medialand.ru
+organization: medialand
+
+--- domains
+adnet.ru
+medialand.ru
+--- domains
+
+--- filters
+||adnet.ru^
+||medialand.ru^
+--- filters
+
+ghostery_id: 1278

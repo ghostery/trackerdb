@@ -1,0 +1,14 @@
+name: Yieldr Ads
+category: advertising
+website_url: https://www.yieldr.com/
+organization: yieldr
+
+--- domains
+254a.com
+--- domains
+
+--- filters
+||254a.com^
+--- filters
+
+ghostery_id: 1032

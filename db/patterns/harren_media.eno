@@ -1,0 +1,16 @@
+name: Harren Media
+category: advertising
+website_url: http://www.harrenmedia.com/index.html
+organization: harren_media
+
+--- domains
+ad.harrenmedianetwork.com
+ads.networkhm.com
+--- domains
+
+--- filters
+||ad.harrenmedianetwork.com^
+||ads.networkhm.com^
+--- filters
+
+ghostery_id: 977

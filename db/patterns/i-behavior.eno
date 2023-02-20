@@ -1,0 +1,14 @@
+name: i-Behavior
+category: advertising
+website_url: http://www.i-behavior.com/
+organization: kbm_group
+
+--- domains
+ib-ibi.com
+--- domains
+
+--- filters
+||ib-ibi.com^
+--- filters
+
+ghostery_id: 727

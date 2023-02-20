@@ -1,0 +1,14 @@
+name: Accord Group
+category: advertising
+website_url: http://www.accordgroup.co.uk/
+organization: accord_group
+
+--- domains
+agcdn.com
+--- domains
+
+--- filters
+||agcdn.com^
+--- filters
+
+ghostery_id: 2099

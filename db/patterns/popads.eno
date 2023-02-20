@@ -1,0 +1,16 @@
+name: PopAds
+category: advertising
+website_url: https://www.popads.net/
+organization: popads
+
+--- domains
+popads.net
+popadscdn.net
+--- domains
+
+--- filters
+||popads.net^
+||popadscdn.net^
+--- filters
+
+ghostery_id: 838

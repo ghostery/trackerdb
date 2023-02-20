@@ -1,0 +1,14 @@
+name: NTENT
+category: advertising
+website_url: http://www.verticalsearchworks.com
+organization: ntent
+
+--- domains
+featurelink.com
+--- domains
+
+--- filters
+||featurelink.com^
+--- filters
+
+ghostery_id: 1108

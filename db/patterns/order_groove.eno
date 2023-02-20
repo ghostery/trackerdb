@@ -1,0 +1,14 @@
+name: Order Groove
+category: advertising
+website_url: 
+organization: order_groove
+
+--- domains
+static.ordergroove.com
+--- domains
+
+--- filters
+||static.ordergroove.com/4dcff40029ab11e5b9c4bc764e106cf4/main.js
+--- filters
+
+ghostery_id: 2592

@@ -1,0 +1,14 @@
+name: Loomia
+category: advertising
+website_url: http://www.loomia.com/
+organization: loomia
+
+--- domains
+assets.loomia.com
+--- domains
+
+--- filters
+||assets.loomia.com/js/
+--- filters
+
+ghostery_id: 117

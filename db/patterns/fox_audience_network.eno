@@ -1,0 +1,14 @@
+name: Fox Audience Network
+category: advertising
+website_url: https://publishers.foxaudiencenetwork.com/
+organization: fox_audience_network
+
+--- domains
+fimserve.com
+--- domains
+
+--- filters
+||fimserve.com^
+--- filters
+
+ghostery_id: 173

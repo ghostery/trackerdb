@@ -1,0 +1,14 @@
+name: ecotag
+category: advertising
+website_url: http://www.eco-tag.jp/
+organization: ecotag
+
+--- domains
+eco-tag.jp
+--- domains
+
+--- filters
+||eco-tag.jp^
+--- filters
+
+ghostery_id: 1826

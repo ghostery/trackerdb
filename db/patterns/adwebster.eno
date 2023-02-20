@@ -1,0 +1,14 @@
+name: adwebster
+category: advertising
+website_url: http://adwebster.com
+organization: adwebster
+
+--- domains
+adwebster.com
+--- domains
+
+--- filters
+||adwebster.com^
+--- filters
+
+ghostery_id: 2071

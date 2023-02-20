@@ -1,0 +1,19 @@
+name: PageFair
+category: customer_interaction
+website_url: https://pagefair.com/
+organization: blockthrough
+
+--- domains
+blockmetrics.com
+pagefair.com
+pagefair.net
+--- domains
+
+--- filters
+||blockmetrics.com^
+||pagefair.com^
+||pagefair.net^
+||s3.amazonaws.com/asset.pagefair.com
+--- filters
+
+ghostery_id: 1628

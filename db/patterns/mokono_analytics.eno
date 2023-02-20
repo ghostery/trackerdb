@@ -1,0 +1,15 @@
+name: Mokono Analytics
+category: advertising
+website_url: http://www.populis.com
+organization: populis
+
+--- domains
+mokonocdn.com
+--- domains
+
+--- filters
+||analytics.mpn.mokonocdn.com^
+||mpn-analytics.mokonocdn.com^
+--- filters
+
+ghostery_id: 1178

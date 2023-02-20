@@ -1,0 +1,14 @@
+name: Popcorn Metrics
+category: site_analytics
+website_url: 
+organization: popcorn_metrics
+
+--- domains
+desv383oqqc0.cloudfront.net
+--- domains
+
+--- filters
+||desv383oqqc0.cloudfront.net/lib/v2.2/popcornlib.min.js
+--- filters
+
+ghostery_id: 3239

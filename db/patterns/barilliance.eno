@@ -1,0 +1,15 @@
+name: Barilliance
+category: advertising
+website_url: http://www.barilliance.com/
+organization: barilliance
+
+--- domains
+dn3y71tq7jf07.cloudfront.net
+--- domains
+
+--- filters
+||dn3y71tq7jf07.cloudfront.net^
+||s3.amazonaws.com/cdn.barilliance.com
+--- filters
+
+ghostery_id: 826

@@ -1,0 +1,14 @@
+name: Active Campaign
+category: site_analytics
+website_url: 
+organization: active_campaign
+
+--- domains
+trackcmp.net
+--- domains
+
+--- filters
+||trackcmp.net/visit
+--- filters
+
+ghostery_id: 3131

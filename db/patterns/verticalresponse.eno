@@ -1,0 +1,14 @@
+name: VerticalResponse
+category: advertising
+website_url: http://www.verticalresponse.com
+organization: verticalresponse
+
+--- domains
+cts.vresp.com
+--- domains
+
+--- filters
+||cts.vresp.com/s.gif
+--- filters
+
+ghostery_id: 395

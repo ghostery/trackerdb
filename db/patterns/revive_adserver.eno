@@ -1,0 +1,26 @@
+name: Revive Adserver
+category: advertising
+website_url: https://www.revive-adserver.com/
+organization: revive_adserver
+
+--- domains
+revive-adserver.com
+--- domains
+
+--- filters
+/adg.js
+/adx.js
+/afr.php
+/ag.php
+/ai.php
+/ajs.php
+/al.php
+/apu.php
+/avw.php
+/ck.php
+/fl.js
+/lg.php
+/spcjs.php
+--- filters
+
+ghostery_id: 3298

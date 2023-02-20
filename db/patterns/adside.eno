@@ -1,0 +1,14 @@
+name: AdSide
+category: advertising
+website_url: http://www.adside.com/
+organization: adside
+
+--- domains
+ads.doclix.com
+--- domains
+
+--- filters
+||ads.doclix.com/adserver/serve/
+--- filters
+
+ghostery_id: 272

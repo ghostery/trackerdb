@@ -1,0 +1,14 @@
+name: IdeoClick
+category: advertising
+website_url: http://ideoclick.com
+organization: ideoclick
+
+--- domains
+ideoclick.com
+--- domains
+
+--- filters
+||ideoclick.com^
+--- filters
+
+ghostery_id: 1497

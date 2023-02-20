@@ -1,0 +1,19 @@
+name: Kissmetrics
+category: site_analytics
+website_url: https://www.kissmetrics.com/
+organization: kissmetrics
+
+--- domains
+doug1izaerwt3.cloudfront.net
+kissmetrics.com
+--- domains
+
+--- filters
+||d1991e1bwxgrnr.cloudfront.net^
+||d1n7kk4vfnecsc.cloudfront.net^
+||doug1izaerwt3.cloudfront.net^
+||j.kissinsights.com^
+||s3.amazonaws.com/j.kissinsights.com
+--- filters
+
+ghostery_id: 235

@@ -1,0 +1,14 @@
+name: Ad-Sys
+category: advertising
+website_url: http://www.ad-sys.com/
+organization: ad-sys
+
+--- domains
+ad-sys.com
+--- domains
+
+--- filters
+||ad-sys.com^
+--- filters
+
+ghostery_id: 1972

@@ -1,0 +1,15 @@
+name: ComScore, Inc.
+category: site_analytics
+website_url: https://www.comscore.com/
+organization: comscore
+
+--- domains
+comscore.com
+zqtk.net
+--- domains
+
+--- filters
+||comscore.com^
+--- filters
+
+ghostery_id: 3469

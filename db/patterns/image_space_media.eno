@@ -1,0 +1,14 @@
+name: Image Space Media
+category: advertising
+website_url: http://www.imagespacemedia.com/
+organization: image_space_media
+
+--- domains
+picadmedia.com
+--- domains
+
+--- filters
+||picadmedia.com/js/
+--- filters
+
+ghostery_id: 349

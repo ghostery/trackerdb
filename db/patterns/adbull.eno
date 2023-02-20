@@ -1,0 +1,14 @@
+name: AdBull
+category: advertising
+website_url: http://www.adbull.com/
+organization: adbull
+
+--- domains
+adbull.com
+--- domains
+
+--- filters
+||adbull.com^
+--- filters
+
+ghostery_id: 634

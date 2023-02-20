@@ -1,0 +1,16 @@
+name: Janrain
+category: site_analytics
+website_url: http://www.janrain.com/
+organization: akamai
+
+--- domains
+janrainbackplane.com
+rpxnow.com
+--- domains
+
+--- filters
+||janrainbackplane.com^
+||rpxnow.com^
+--- filters
+
+ghostery_id: 1510

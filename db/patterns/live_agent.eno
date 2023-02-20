@@ -1,0 +1,14 @@
+name: Live Agent
+category: customer_interaction
+website_url: 
+organization: liveagent
+
+--- domains
+ladesk.com
+--- domains
+
+--- filters
+||ladesk.com/scripts/track.js
+--- filters
+
+ghostery_id: 2875

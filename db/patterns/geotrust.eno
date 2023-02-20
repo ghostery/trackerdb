@@ -1,0 +1,15 @@
+name: GeoTrust
+category: essential
+website_url: http://www.geotrust.com/
+organization: symantec
+
+--- domains
+geotrust.com
+--- domains
+
+--- filters
+||seal.geotrust.com^
+||smarticon.geotrust.com^
+--- filters
+
+ghostery_id: 2109

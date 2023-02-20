@@ -1,0 +1,16 @@
+name: Mediawhiz
+category: advertising
+website_url: http://www.mediawhiz.com/
+organization: matomy_media
+
+--- domains
+adnetinteractive.com
+adnetinteractive.net
+--- domains
+
+--- filters
+||adnetinteractive.com^
+||adnetinteractive.net^
+--- filters
+
+ghostery_id: 1150

@@ -1,0 +1,14 @@
+name: Viacom Tag Container
+category: advertising
+website_url: http://www.viacom.com/
+organization: viacom
+
+--- domains
+btg.mtvnservices.com
+--- domains
+
+--- filters
+||btg.mtvnservices.com^
+--- filters
+
+ghostery_id: 989

@@ -1,0 +1,14 @@
+name: Slingpic
+category: advertising
+website_url: http://slingpic.com/
+organization: affectv
+
+--- domains
+slingpic.com
+--- domains
+
+--- filters
+||slingpic.com^
+--- filters
+
+ghostery_id: 1824

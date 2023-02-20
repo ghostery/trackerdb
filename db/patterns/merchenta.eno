@@ -1,0 +1,14 @@
+name: Merchenta
+category: advertising
+website_url: http://www.merchenta.com/
+organization: merchenta
+
+--- domains
+merchenta.com
+--- domains
+
+--- filters
+||merchenta.com^
+--- filters
+
+ghostery_id: 897

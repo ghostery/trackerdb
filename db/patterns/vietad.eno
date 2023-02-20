@@ -1,0 +1,14 @@
+name: VietAd
+category: advertising
+website_url: http://vietad.vn/
+organization: vietad
+
+--- domains
+vietad.vn
+--- domains
+
+--- filters
+||vietad.vn^
+--- filters
+
+ghostery_id: 1238

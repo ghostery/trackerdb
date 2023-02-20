@@ -1,0 +1,14 @@
+name: elicit
+category: advertising
+website_url: http://www.elicitsearch.com/
+organization: elicit
+
+--- domains
+elicitapp.com
+--- domains
+
+--- filters
+||elicitapp.com^
+--- filters
+
+ghostery_id: 1496

@@ -1,0 +1,14 @@
+name: Travel Audience
+category: site_analytics
+website_url: 
+organization: travel_audience
+
+--- domains
+travelaudience.com
+--- domains
+
+--- filters
+||ads.travelaudience.com/js/ta.js
+--- filters
+
+ghostery_id: 2944

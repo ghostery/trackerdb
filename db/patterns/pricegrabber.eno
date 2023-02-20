@@ -1,0 +1,14 @@
+name: PriceGrabber
+category: advertising
+website_url: http://www.pricegrabber.com
+organization: pricegrabber
+
+--- domains
+pricegrabber.com
+--- domains
+
+--- filters
+||pricegrabber.com/conversion.php
+--- filters
+
+ghostery_id: 660

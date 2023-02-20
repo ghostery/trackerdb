@@ -1,0 +1,14 @@
+name: Surf by Surfingbird
+category: customer_interaction
+website_url: http://surfingbird.ru/
+organization: surfingbird
+
+--- domains
+surfingbird.ru
+--- domains
+
+--- filters
+||surfingbird.ru/share/share
+--- filters
+
+ghostery_id: 1495

@@ -1,0 +1,18 @@
+name: Dianomi
+category: advertising
+website_url: http://www.dianomi.com/cms/
+organization: dianomi
+
+--- domains
+d3von6il1wr7wo.cloudfront.net
+dianomi.com
+dianomioffers.co.uk
+--- domains
+
+--- filters
+||d3von6il1wr7wo.cloudfront.net^
+||dianomi.com^
+||dianomioffers.co.uk^
+--- filters
+
+ghostery_id: 2024

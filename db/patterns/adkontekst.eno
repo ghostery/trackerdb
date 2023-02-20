@@ -1,0 +1,14 @@
+name: Adkontekst
+category: advertising
+website_url: http://www.en.adkontekst.pl/
+organization: adkontekst
+
+--- domains
+adsearch.adkontekst.pl
+--- domains
+
+--- filters
+||adsearch.adkontekst.pl^
+--- filters
+
+ghostery_id: 998

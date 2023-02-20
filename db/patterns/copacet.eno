@@ -1,0 +1,14 @@
+name: Copacet
+category: advertising
+website_url: http://copacet.com/
+organization: copacet
+
+--- domains
+copacet.com
+--- domains
+
+--- filters
+||copacet.com^
+--- filters
+
+ghostery_id: 1152

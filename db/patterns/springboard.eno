@@ -1,0 +1,14 @@
+name: SpringBoard
+category: advertising
+website_url: http://home.springboardplatform.com/
+organization: springboard
+
+--- domains
+cdn.springboardplatform.com
+--- domains
+
+--- filters
+||cdn.springboardplatform.com/storage
+--- filters
+
+ghostery_id: 2191

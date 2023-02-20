@@ -1,0 +1,14 @@
+name: DataXu
+category: advertising
+website_url: http://www.dataxu.com/
+organization: dataxu
+
+--- domains
+w55c.net
+--- domains
+
+--- filters
+||w55c.net^
+--- filters
+
+ghostery_id: 353

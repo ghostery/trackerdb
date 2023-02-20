@@ -1,0 +1,14 @@
+name: Ad Dynamo
+category: advertising
+website_url: http://www.addynamo.com/
+organization: ad_dynamo
+
+--- domains
+addynamo.net
+--- domains
+
+--- filters
+||addynamo.net/ad/
+--- filters
+
+ghostery_id: 762

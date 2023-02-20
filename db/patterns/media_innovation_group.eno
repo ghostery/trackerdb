@@ -1,0 +1,15 @@
+name: Xaxis
+category: advertising
+website_url: https://www.xaxis.com/
+organization: media_innovation_group
+
+--- domains
+mookie1.com
+--- domains
+
+--- filters
+||mookie1.com^
+||t.mookie1.com^
+--- filters
+
+ghostery_id: 439

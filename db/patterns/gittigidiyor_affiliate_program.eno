@@ -1,0 +1,14 @@
+name: GittiGidiyor Affiliate Program
+category: advertising
+website_url: http://www.ebay.com/
+organization: ebay
+
+--- domains
+aff3.gittigidiyor.com
+--- domains
+
+--- filters
+||aff3.gittigidiyor.com/affiliate_front.js
+--- filters
+
+ghostery_id: 916

@@ -1,0 +1,14 @@
+name: Retarget App
+category: advertising
+website_url: 
+organization: retargetapp
+
+--- domains
+shopify.retargetapp.com
+--- domains
+
+--- filters
+||shopify.retargetapp.com/pixel.js
+--- filters
+
+ghostery_id: 2818

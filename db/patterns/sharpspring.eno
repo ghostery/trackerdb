@@ -1,0 +1,17 @@
+name: Sharpspring
+category: site_analytics
+website_url: 
+organization: sharpspring
+
+--- domains
+marketingautomation.services
+sharpspring.com
+--- domains
+
+--- filters
+||marketingautomation.services^
+||sharpspring.com/client/ss.js
+||sharpspring.com/koi
+--- filters
+
+ghostery_id: 2467

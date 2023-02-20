@@ -1,0 +1,14 @@
+name: CrankyAds
+category: advertising
+website_url: http://www.crankyads.com
+organization: crankyads
+
+--- domains
+crankyads.com
+--- domains
+
+--- filters
+||crankyads.com^
+--- filters
+
+ghostery_id: 1807

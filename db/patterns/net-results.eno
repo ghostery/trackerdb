@@ -1,0 +1,16 @@
+name: Net-Results
+category: advertising
+website_url: http://www.net-results.com/
+organization: net-results
+
+--- domains
+cdnma.com
+nr7.us
+--- domains
+
+--- filters
+||cdnma.com/apps/
+||nr7.us/apps/
+--- filters
+
+ghostery_id: 307

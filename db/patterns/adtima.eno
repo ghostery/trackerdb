@@ -1,0 +1,14 @@
+name: Adtima
+category: advertising
+website_url: http://adtima.vn/
+organization: adtima
+
+--- domains
+adtimaserver.vn
+--- domains
+
+--- filters
+||adtimaserver.vn^
+--- filters
+
+ghostery_id: 2209

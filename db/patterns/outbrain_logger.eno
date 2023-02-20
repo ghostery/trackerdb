@@ -1,0 +1,11 @@
+name: Outbrain Logger
+category: advertising
+website_url: 
+organization: outbrain
+alias: outbrain
+
+--- filters
+||log.outbrain.com/loggerservices/widgetglobalevent
+--- filters
+
+ghostery_id: 3098

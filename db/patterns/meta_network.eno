@@ -1,0 +1,14 @@
+name: Meta Network
+category: social_media
+website_url: http://www.metanetwork.com/
+organization: meta_network
+
+--- domains
+ad.metanetwork.com
+--- domains
+
+--- filters
+||ad.metanetwork.com^
+--- filters
+
+ghostery_id: 376

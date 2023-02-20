@@ -1,0 +1,14 @@
+name: AdEasy
+category: advertising
+website_url: http://www.adeasy.ru/
+organization: adeasy
+
+--- domains
+adeasy.ru
+--- domains
+
+--- filters
+||adeasy.ru^
+--- filters
+
+ghostery_id: 1310

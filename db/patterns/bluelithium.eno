@@ -1,0 +1,16 @@
+name: Bluelithium
+category: advertising
+website_url: http://www.bluelithium.com/
+organization: verizon
+
+--- domains
+adrevolver.com
+bluelithium.com
+--- domains
+
+--- filters
+||adrevolver.com^
+||bluelithium.com^
+--- filters
+
+ghostery_id: 150

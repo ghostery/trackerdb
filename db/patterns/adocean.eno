@@ -1,0 +1,14 @@
+name: AdOcean
+category: advertising
+website_url: http://adocean.cz/en
+organization: adocean
+
+--- domains
+adocean.pl
+--- domains
+
+--- filters
+||adocean.pl^
+--- filters
+
+ghostery_id: 621

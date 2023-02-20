@@ -1,0 +1,17 @@
+name: NK.pl Widgets
+category: advertising
+website_url: http://nk.pl
+organization: nk.pl
+
+--- domains
+nk.pl
+--- domains
+
+--- filters
+||nk.pl/card/js
+||nk.pl/img/nk_widgets
+||nk.pl/script/nk_widgets
+||nk.pl/script/sledzik/widgets/sledzik_widget_shout
+--- filters
+
+ghostery_id: 920

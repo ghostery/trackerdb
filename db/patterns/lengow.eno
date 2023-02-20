@@ -1,0 +1,14 @@
+name: Lengow
+category: advertising
+website_url: http://www.lengow.com/
+organization: lengow
+
+--- domains
+lengow.com
+--- domains
+
+--- filters
+||lengow.com^
+--- filters
+
+ghostery_id: 1215

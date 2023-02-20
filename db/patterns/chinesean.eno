@@ -1,0 +1,14 @@
+name: ChineseAN
+category: advertising
+website_url: http://www.chinesean.com/
+organization: chinesean
+
+--- domains
+chinesean.com
+--- domains
+
+--- filters
+||chinesean.com^
+--- filters
+
+ghostery_id: 1341

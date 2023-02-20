@@ -1,0 +1,16 @@
+name: Grapeshot
+category: advertising
+website_url: https://www.grapeshot.com/
+organization: oracle
+
+--- domains
+grapeshot.co.uk
+gscontxt.net
+--- domains
+
+--- filters
+||grapeshot.co.uk^
+||gscontxt.net^
+--- filters
+
+ghostery_id: 745

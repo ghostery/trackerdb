@@ -1,0 +1,14 @@
+name: LoopFuse OneView
+category: advertising
+website_url: http://www.loopfuse.com/
+organization: loopfuse
+
+--- domains
+lfov.net
+--- domains
+
+--- filters
+||lfov.net/webrecorder/
+--- filters
+
+ghostery_id: 744

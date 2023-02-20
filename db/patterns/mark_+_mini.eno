@@ -1,0 +1,14 @@
+name: Mark & Mini
+category: advertising
+website_url: http://www.markandmini.com/index.cfm
+organization: edm_group
+
+--- domains
+markandmini.com
+--- domains
+
+--- filters
+||markandmini.com^
+--- filters
+
+ghostery_id: 1472

@@ -1,0 +1,14 @@
+name: WalkMe
+category: customer_interaction
+website_url: https://www.walkme.com/
+organization: walkme
+
+--- domains
+walkme.com
+--- domains
+
+--- filters
+||cdn.walkme.com/users/
+--- filters
+
+ghostery_id: 3076

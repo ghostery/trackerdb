@@ -1,0 +1,14 @@
+name: iZooto
+category: site_analytics
+website_url: 
+organization: izooto
+
+--- domains
+cdn.izooto.com
+--- domains
+
+--- filters
+||cdn.izooto.com/scripts/sdk/izooto.js
+--- filters
+
+ghostery_id: 3143

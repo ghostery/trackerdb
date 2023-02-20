@@ -1,0 +1,14 @@
+name: Open Share Count
+category: advertising
+website_url: 
+organization: open_share_count
+
+--- domains
+opensharecount.com
+--- domains
+
+--- filters
+||opensharecount.com/count.json
+--- filters
+
+ghostery_id: 2426

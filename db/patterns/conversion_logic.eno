@@ -1,0 +1,14 @@
+name: Conversion Logic
+category: site_analytics
+website_url: http://www.conversionlogic.com/
+organization: conversion_logic
+
+--- domains
+c.conversionlogic.net
+--- domains
+
+--- filters
+||c.conversionlogic.net^
+--- filters
+
+ghostery_id: 2144

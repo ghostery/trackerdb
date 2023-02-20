@@ -1,0 +1,14 @@
+name: Calltracking
+category: customer_interaction
+website_url: 
+organization: calltracking
+
+--- domains
+calltracking.ru
+--- domains
+
+--- filters
+||calltracking.ru/dynamic/
+--- filters
+
+ghostery_id: 3244

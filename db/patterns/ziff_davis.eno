@@ -1,0 +1,19 @@
+name: Ziff Davis
+category: advertising
+website_url: https://www.ziffdavis.com/
+organization: ziff_davis
+
+--- domains
+webtest.net
+zdbb.net
+ziffdavis.com
+ziffdavisinternational.com
+ziffprod.com
+ziffstatic.com
+--- domains
+
+--- filters
+||zdbb.net^
+--- filters
+
+ghostery_id: 1600

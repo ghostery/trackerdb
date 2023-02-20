@@ -1,0 +1,16 @@
+name: Retail Rocket
+category: advertising
+website_url: https://retailrocket.net/
+organization: retail_rocket
+
+--- domains
+retailrocket.net
+retailrocket.ru
+--- domains
+
+--- filters
+||cdn.retailrocket.ru/content/javascript/api.js
+||cdn.retailrocket.ru/content/javascript/tracking.js
+--- filters
+
+ghostery_id: 2270

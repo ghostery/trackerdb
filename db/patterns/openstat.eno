@@ -1,0 +1,19 @@
+name: OpenStat
+category: site_analytics
+website_url: https://www.openstat.ru/
+organization: openstat
+
+--- domains
+openstat.net
+spylog.com
+spylog.ru
+--- domains
+
+--- filters
+||openstat.net/cnt.js
+||openstat.net/sync/p.gif
+||spylog.com^
+||spylog.ru^
+--- filters
+
+ghostery_id: 210

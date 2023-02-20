@@ -1,0 +1,14 @@
+name: Epic Game Ads
+category: advertising
+website_url: http://www.epicgameads.com/
+organization: epic_game_ads
+
+--- domains
+epicgameads.com
+--- domains
+
+--- filters
+||epicgameads.com/ads/
+--- filters
+
+ghostery_id: 1141

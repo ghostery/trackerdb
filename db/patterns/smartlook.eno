@@ -1,0 +1,22 @@
+name: Smartlook
+category: customer_interaction
+website_url: 
+organization: smartlook
+
+--- domains
+getsmartlook.com
+smartlook.com
+--- domains
+
+--- filters
+||events-writer.smartlook.com/rec/events
+||manager.smartlook.com/rec
+||rec.getsmartlook.com/recorder.js
+||rec.smartlook.com/analytics
+||rec.smartlook.com/bundle
+||rec.smartlook.com/recorder.js
+||s2.smartlook.com/rec/check
+||writer-us.smartlook.com/rec/write
+--- filters
+
+ghostery_id: 2638

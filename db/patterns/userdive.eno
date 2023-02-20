@@ -1,0 +1,14 @@
+name: USERDIVE
+category: site_analytics
+website_url: http://userdive.com/
+organization: userdive
+
+--- domains
+userdive.com
+--- domains
+
+--- filters
+||userdive.com^
+--- filters
+
+ghostery_id: 1809

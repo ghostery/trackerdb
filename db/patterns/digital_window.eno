@@ -1,0 +1,14 @@
+name: Digital Window
+category: advertising
+website_url: http://www.digitalwindow.com/
+organization: axel_springer
+
+--- domains
+dwin1.com
+--- domains
+
+--- filters
+||dwin1.com^
+--- filters
+
+ghostery_id: 1548

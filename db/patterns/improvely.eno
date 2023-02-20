@@ -1,0 +1,14 @@
+name: Improvely
+category: site_analytics
+website_url: https://www.improvely.com/
+organization: awio_web_services
+
+--- domains
+iljmp.com
+--- domains
+
+--- filters
+||iljmp.com^
+--- filters
+
+ghostery_id: 1363

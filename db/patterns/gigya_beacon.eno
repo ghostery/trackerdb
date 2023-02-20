@@ -1,0 +1,13 @@
+name: Gigya Beacon
+category: customer_interaction
+website_url: http://www.gigya.com
+organization: sap
+alias: gigya
+
+--- filters
+||c.gigcount.com^
+||cdn.gigya.com/js/gigya.js
+||counters.gigya.com^
+--- filters
+
+ghostery_id: 432

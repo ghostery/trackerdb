@@ -1,0 +1,14 @@
+name: Launch Darkly
+category: essential
+website_url: 
+organization: launch_darkly
+
+--- domains
+events.launchdarkly.com
+--- domains
+
+--- filters
+||events.launchdarkly.com^
+--- filters
+
+ghostery_id: 2977

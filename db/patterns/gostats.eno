@@ -1,0 +1,14 @@
+name: GoStats
+category: site_analytics
+website_url: http://gostats.com/
+organization: gostats
+
+--- domains
+gostats.com
+--- domains
+
+--- filters
+||gostats.com^
+--- filters
+
+ghostery_id: 858

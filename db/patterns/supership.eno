@@ -1,0 +1,15 @@
+name: Supership
+category: advertising
+website_url: https://supership.jp/en/
+organization: supership
+
+--- domains
+socdm.com
+--- domains
+
+--- filters
+||ssl.socdm.com/sa/img
+||tg.socdm.com/so-async.js
+--- filters
+
+ghostery_id: 2385

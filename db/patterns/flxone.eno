@@ -1,0 +1,17 @@
+name: FLXONE
+category: advertising
+website_url: http://www.flxone.com/
+organization: flxone
+
+--- domains
+flx1.com
+flxpxl.com
+--- domains
+
+--- filters
+||flxpxl.com^
+||go.flx1.com/px
+||go.flx1.com/uid
+--- filters
+
+ghostery_id: 1667

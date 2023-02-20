@@ -1,0 +1,14 @@
+name: AffiliateFuture
+category: advertising
+website_url: http://www.affiliatefuture.com
+organization: affiliatefuture
+
+--- domains
+affiliatefuture.com
+--- domains
+
+--- filters
+||affiliatefuture.com^
+--- filters
+
+ghostery_id: 1378

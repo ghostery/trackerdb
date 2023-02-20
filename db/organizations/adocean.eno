@@ -1,0 +1,11 @@
+name: AdOcean
+website_url: http://adocean.cz/en
+privacy_policy_url: http://adocean.cz/en/privacy.html
+privacy_contact: kontakt@adocean.pl
+country: PL
+description: AdOcean is a Poland based technology company.  Their ad serving system separates the main server, which acts as the management system, from the ad impression servers.  This allows for effective management on a high volume of advertisements by requiring less communication between the server and the web browsers of the users. The data on each ad impression are recorded in a database and used to build statistics for campaigns. AdOcean is a Gemius S.A. company.
+
+--- notes
+--- notes
+
+ghostery_id: 468

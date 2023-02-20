@@ -1,0 +1,22 @@
+name: Hi-Media Performance
+category: advertising
+website_url: http://www.hi-mediaperformance.co.uk/
+organization: hi-media_performance
+
+--- domains
+adlink.net
+comclick.com
+hi-mediaserver.com
+himediads.com
+himediadx.com
+--- domains
+
+--- filters
+||adlink.net^
+||comclick.com^
+||hi-mediaserver.com^
+||himediads.com^
+||himediadx.com^
+--- filters
+
+ghostery_id: 715

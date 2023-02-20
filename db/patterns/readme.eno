@@ -1,0 +1,15 @@
+name: ReadMe
+category: site_analytics
+website_url: https://readme.com/
+organization: readme
+
+--- domains
+readme.com
+readme.io
+--- domains
+
+--- filters
+||metrics.readme.io^
+--- filters
+
+ghostery_id: 4034

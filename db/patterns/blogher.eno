@@ -1,0 +1,15 @@
+name: BlogHer Ads
+category: advertising
+website_url: https://www.blogher.com/
+organization: penske_media_corp
+
+--- domains
+blogher.com
+blogherads.com
+--- domains
+
+--- filters
+||ads.blogherads.com^
+--- filters
+
+ghostery_id: 87

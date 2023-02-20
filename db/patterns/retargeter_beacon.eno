@@ -1,0 +1,14 @@
+name: ReTargeter Beacon
+category: advertising
+website_url: http://www.retargeter.com/
+organization: retargeter
+
+--- domains
+retargeter.com
+--- domains
+
+--- filters
+||retargeter.com^
+--- filters
+
+ghostery_id: 291

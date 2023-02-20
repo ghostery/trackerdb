@@ -1,0 +1,17 @@
+name: Unica
+category: customer_interaction
+website_url: http://www.unica.com/
+organization: ibm
+
+--- domains
+roitesting.com
+unica.com
+--- domains
+
+--- filters
+ntpagetag
+||roitesting.com^
+||unica.com^
+--- filters
+
+ghostery_id: 246

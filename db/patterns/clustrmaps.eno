@@ -1,0 +1,15 @@
+name: ClustrMaps
+category: advertising
+website_url: http://www.clustrmaps.com/
+organization: clustrmaps
+
+--- domains
+clustrmaps.com
+--- domains
+
+--- filters
+||clustrmaps.com/counter/
+||clustrmaps.com/stats/maps
+--- filters
+
+ghostery_id: 35

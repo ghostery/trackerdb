@@ -1,0 +1,14 @@
+name: eGain
+category: customer_interaction
+website_url: http://www.egain.com/
+organization: egain
+
+--- domains
+egain.net
+--- domains
+
+--- filters
+||egain.net^
+--- filters
+
+ghostery_id: 1615

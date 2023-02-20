@@ -1,0 +1,14 @@
+name: eXelate
+category: advertising
+website_url: http://www.exelate.com/
+organization: nielsen
+
+--- domains
+exelator.com
+--- domains
+
+--- filters
+||exelator.com^
+--- filters
+
+ghostery_id: 172

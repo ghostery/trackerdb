@@ -1,0 +1,14 @@
+name: OWA
+category: site_analytics
+website_url: http://oewa.at/
+organization: the_austrian_web_analysis
+
+--- domains
+oewabox.at
+--- domains
+
+--- filters
+||oewabox.at^
+--- filters
+
+ghostery_id: 331

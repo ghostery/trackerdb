@@ -1,0 +1,17 @@
+name: NEORY
+category: advertising
+website_url: https://www.neory.com/
+organization: neory
+
+--- domains
+ad-srv.net
+contentspread.net
+neory-tm.com
+simptrack.com
+--- domains
+
+--- filters
+||ad-srv.net^
+--- filters
+
+ghostery_id: 1713

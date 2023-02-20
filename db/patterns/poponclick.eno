@@ -1,0 +1,14 @@
+name: PopOnClick
+category: advertising
+website_url: http://poponclick.com
+organization: poponclick
+
+--- domains
+poponclick.com
+--- domains
+
+--- filters
+||poponclick.com^
+--- filters
+
+ghostery_id: 2077

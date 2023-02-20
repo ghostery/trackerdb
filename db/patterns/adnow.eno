@@ -1,0 +1,21 @@
+name: Adnow
+category: advertising
+website_url: 
+organization: adnow
+
+--- domains
+smaclick.com
+st-n.ads3-adnow.com
+--- domains
+
+--- filters
+||n.ads2-adnow.com/u
+||smaclick.com^
+||st-n.ads1-adnow.com/js/t.js
+||st-n.ads2-adnow.com/js/adv_cto.js
+||st-n.ads2-adnow.com/js/t.js
+||st-n.ads3-adnow.com/js/adv_out.js
+||st.n.ads5-adnow.com/i/logo/adnow-mini-v2.png
+--- filters
+
+ghostery_id: 2470

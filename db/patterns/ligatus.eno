@@ -1,0 +1,20 @@
+name: Ligatus
+category: advertising
+website_url: http://www.ligatus.com/
+organization: outbrain
+
+--- domains
+content-recommendation.net
+ligadx.com
+ligatus.com
+ligatus.de
+veeseo.com
+--- domains
+
+--- filters
+||ligatus.com^
+||ligatus.de^
+||veeseo.com^
+--- filters
+
+ghostery_id: 994

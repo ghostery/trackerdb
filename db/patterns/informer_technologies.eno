@@ -1,0 +1,14 @@
+name: Informer Technologies
+category: site_analytics
+website_url: http://www.informer.com/
+organization: informer_technologies
+
+--- domains
+informer.com
+--- domains
+
+--- filters
+||informer.com/favorites-button.js
+--- filters
+
+ghostery_id: 1803

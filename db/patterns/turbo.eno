@@ -1,0 +1,14 @@
+name: Turbo
+category: advertising
+website_url: 
+organization: turbo
+
+--- domains
+adagio.turboadv.com
+--- domains
+
+--- filters
+||adagio.turboadv.com^
+--- filters
+
+ghostery_id: 2226

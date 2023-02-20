@@ -1,0 +1,14 @@
+name: CDK Digital Marketing
+category: advertising
+website_url: http://www.cobaltgroup.com
+organization: cdk_digital_marketing
+
+--- domains
+admission.net
+--- domains
+
+--- filters
+||admission.net^
+--- filters
+
+ghostery_id: 487

@@ -1,0 +1,25 @@
+name: Disqus
+category: comments
+website_url: https://disqus.com/
+organization: zeta
+
+--- domains
+disqus.com
+disquscdn.com
+--- domains
+
+--- filters
+||disqus.com/api
+||disqus.com/blogger
+||disqus.com/combination_widget.js
+||disqus.com/count.js
+||disqus.com/embed
+||disqus.com/forums/
+||disqus.com/get_num_replies
+||disqus.com/popular_threads_widget.js
+||disqus.com/recent_comments_widget.js
+||disqus.com/top_commenters_widget.js
+||disqus.com^
+--- filters
+
+ghostery_id: 85

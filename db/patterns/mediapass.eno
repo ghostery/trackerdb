@@ -1,0 +1,14 @@
+name: MediaPass
+category: advertising
+website_url: http://www.mediapass.com/
+organization: mediapass
+
+--- domains
+mediapass.com
+--- domains
+
+--- filters
+||mediapass.com^
+--- filters
+
+ghostery_id: 1882

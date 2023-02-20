@@ -1,0 +1,25 @@
+name: TNS
+category: site_analytics
+website_url: http://www.tnsglobal.com/
+organization: wpp
+
+--- domains
+research-int.se
+sesamestats.com
+spring-tns.net
+statistik-gallup.net
+tns-cs.net
+tns-gallup.dk
+--- domains
+
+--- filters
+/tns-counter.js
+||research-int.se^
+||sesamestats.com^
+||spring-tns.net^
+||statistik-gallup.net^
+||tns-cs.net^
+||tns-gallup.dk^
+--- filters
+
+ghostery_id: 339

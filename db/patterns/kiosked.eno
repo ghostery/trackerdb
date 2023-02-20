@@ -1,0 +1,15 @@
+name: Kiosked
+category: advertising
+website_url: http://www.kiosked.com/
+organization: kiosked
+
+--- domains
+kiosked.com
+--- domains
+
+--- filters
+||scripts.kiosked.com/loader/kiosked-loader.js
+||widgets.kiosked.com^
+--- filters
+
+ghostery_id: 1985

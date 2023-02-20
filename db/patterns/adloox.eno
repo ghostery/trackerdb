@@ -1,0 +1,14 @@
+name: Adloox
+category: advertising
+website_url: http://www.adloox.com
+organization: adloox
+
+--- domains
+adlooxtracking.com
+--- domains
+
+--- filters
+||adlooxtracking.com^
+--- filters
+
+ghostery_id: 943
