@@ -18,13 +18,6 @@ export function prepareDistFolder() {
   }
 }
 
-export function getCurrentDay() {
-  return new Date()
-    .toISOString()
-    .replace(/[^0-9]/g, '')
-    .slice(0, 8);
-}
-
 export function getSpecs(kind) {
   const specsPath = path.join(process.cwd(), 'db', kind);
   const specs = readdirSync(specsPath).filter(

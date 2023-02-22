@@ -5,16 +5,13 @@ import path from 'node:path';
 import {
   prepareDistFolder,
   DIST_PATH,
-  getCurrentDay,
   getSpecs,
 } from '../helpers.js';
 
 (async () => {
   prepareDistFolder();
 
-  const today = getCurrentDay();
-
-  const dbPath = path.join(DIST_PATH, `trackerdb_${today}.db`);
+  const dbPath = path.join(DIST_PATH, 'trackerdb.db');
 
   if (existsSync(dbPath)) {
     rmSync(dbPath);
