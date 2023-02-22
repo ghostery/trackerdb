@@ -3,16 +3,13 @@ import path from 'node:path';
 import {
   prepareDistFolder,
   DIST_PATH,
-  getCurrentDay,
   getSpecs,
 } from '../helpers.js';
 
 (async () => {
   prepareDistFolder();
 
-  const today = getCurrentDay();
-
-  const outputPath = path.join(DIST_PATH, `trackerdb_${today}.json`);
+  const outputPath = path.join(DIST_PATH, 'trackerdb.json');
 
   if (existsSync(outputPath)) {
     rmSync(outputPath);
