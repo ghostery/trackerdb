@@ -1,10 +1,10 @@
 # Ghostery Tracker Database
 
-Transparency is at the heart of Ghostery experience. This is why Ghostery not only blocks ads, trackers, and other annoyances, but also sheds light on how tracking online works by naming all the organizations that participate in data exchange over internet.
+Transparency is at the heart of Ghostery experience. This is why Ghostery not only blocks ads, trackers, and other annoyances, but also shows how online tracking works by naming all the organizations that participate in data exchange over internet.
 
 ## Terminology
 
-We believe it is important to name things accordingly to its nature. Data exchange often reveals private identifiers — we call that tracking, but that does not mean that organization that receives such data is exclusively a tracker. Organizations often have multiple behavioral patterns: some of them invade user privacy, some of them are harmless.
+Data exchange can often reveal private identifiers, which is commonly referred to as tracking. However, this does not mean that an organization that receives such data is exclusively a tracker. Organizations can exhibit multiple behavioral patterns, some of which are privacy-invasive while others are harmless. It's important to us that we accurately describe things for what they are.
 
 The structure of Ghostery Tracker Database is simple and consists of three main elements:
 * **categories** - advertising, site analytics, consent management, etc.
