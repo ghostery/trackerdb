@@ -42,6 +42,9 @@ jobs:
       - name: Export JSON
         run: npm run export-json
 
+      - name: Export Adblocker Engine
+        run: npm run export-engine
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -73,3 +76,12 @@ jobs:
           asset_path: ./dist/trackerdb.json
           asset_name: trackerdb.json
           asset_content_type: application/json
+
+      - name: Upload Engine
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./dist/trackerdb.engine
+          asset_name: trackerdb.engine
