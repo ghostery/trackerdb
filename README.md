@@ -4,7 +4,7 @@ Transparency is at the heart of [Ghostery](https://www.ghostery.com/) experience
 
 ## Terminology
 
-Data exchange can easily uncover personal details by private identifiers, often referred to as tracking. However, not every request from an organization involves data collection (i.e., not every request an organization makes is inherently invasive). Organizations often display a range of behavioral patterns, some of which can be intrusive to user privacy, while others are entirely benign.
+Data exchange can easily uncover personal details by private identifiers, often referred to as tracking. However, not every request from an organization involves data collection (i.e., not every request an organization makes is inherently invasive). Organizations often display a range of behavioral patterns, some of which can be intrusive to user privacy, while others are benign.
 
 At Ghostery, we're committed to describing things exactly as they are.
 
