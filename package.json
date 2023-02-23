@@ -7,6 +7,7 @@
     "test": "node test/index.js",
     "lint": "eslint test",
     "export-sql": "node scripts/export-sql/index.js",
+    "export-engine": "node scripts/export-engine/index.js",
     "export-json": "node scripts/export-json/index.js"
   },
   "repository": {
@@ -23,7 +24,7 @@
     "node": ">=18.0"
   },
   "dependencies": {
-    "@cliqz/adblocker": "^1.25.1",
+    "@cliqz/adblocker": "^1.26.0",
     "enolib": "^0.8.2",
     "iso-3166-1-alpha-2": "^1.0.0",
     "sqlite": "^4.1.2",
