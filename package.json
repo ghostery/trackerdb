@@ -1,6 +1,6 @@
 {
   "name": "@ghostery/trackerdb",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ghostery Tracker Database",
   "type": "module",
   "scripts": {
@@ -9,6 +9,9 @@
     "export-sql": "node scripts/export-sql/index.js",
     "export-engine": "node scripts/export-engine/index.js",
     "export-json": "node scripts/export-json/index.js"
+  },
+  "bin": {
+    "trackerdb": "./cli.js"
   },
   "repository": {
     "type": "git",

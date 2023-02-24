@@ -2,16 +2,12 @@ import sqlite3 from 'sqlite3';
 import { open } from 'sqlite';
 import { rmSync, existsSync } from 'node:fs';
 import path from 'node:path';
-import {
-  prepareDistFolder,
-  DIST_PATH,
-  getSpecs,
-} from '../helpers.js';
+import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
 
 (async () => {
   prepareDistFolder();
 
-  const dbPath = path.join(DIST_PATH, 'trackerdb.db');
+  const dbPath = path.join(BASE_PATH, 'dist', 'trackerdb.db');
 
   if (existsSync(dbPath)) {
     rmSync(dbPath);
