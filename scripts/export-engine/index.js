@@ -1,14 +1,13 @@
 import { rmSync, existsSync, writeFileSync, readFileSync } from 'node:fs';
 import path from 'node:path';
-import { prepareDistFolder, DIST_PATH } from '../helpers.js';
 import { FiltersEngine } from '@cliqz/adblocker';
-
+import { prepareDistFolder, BASE_PATH } from '../helpers.js';
 
 (async () => {
   prepareDistFolder();
 
-  const inputPath = path.join(DIST_PATH, `trackerdb.json`);
-  const outputPath = path.join(DIST_PATH, `trackerdb.engine`);
+  const inputPath = path.join(BASE_PATH, 'dist', 'trackerdb.json');
+  const outputPath = path.join(BASE_PATH, 'dist', 'trackerdb.engine');
 
   if (existsSync(outputPath)) {
     rmSync(outputPath);

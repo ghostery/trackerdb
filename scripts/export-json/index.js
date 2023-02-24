@@ -1,15 +1,11 @@
 import { rmSync, existsSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
-import {
-  prepareDistFolder,
-  DIST_PATH,
-  getSpecs,
-} from '../helpers.js';
+import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
 
 (async () => {
   prepareDistFolder();
 
-  const outputPath = path.join(DIST_PATH, 'trackerdb.json');
+  const outputPath = path.join(BASE_PATH, 'dist', 'trackerdb.json');
 
   if (existsSync(outputPath)) {
     rmSync(outputPath);

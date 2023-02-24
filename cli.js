@@ -4,7 +4,7 @@ import path from 'node:path';
 import { existsSync, readFileSync } from 'node:fs';
 import { FiltersEngine, Request } from '@cliqz/adblocker';
 
-import { DIST_PATH } from './scripts/helpers.js';
+import { BASE_PATH } from './scripts/helpers.js';
 
 (async () => {
   const [, , url] = process.argv;
@@ -14,7 +14,7 @@ import { DIST_PATH } from './scripts/helpers.js';
     process.exit(1);
   }
 
-  const trackerDBPath = path.join(DIST_PATH, `trackerdb.json`);
+  const trackerDBPath = path.join(BASE_PATH, 'dist', 'trackerdb.json');
 
   if (!existsSync(trackerDBPath)) {
     // generate input JSON if missing
