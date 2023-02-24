@@ -1,8 +1,13 @@
 import { existsSync, readFileSync, readdirSync, mkdirSync } from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import enolib from 'enolib';
 
-export const DIST_PATH = path.join(process.cwd(), 'dist');
+export const DIST_PATH = path.join(
+  path.dirname(fileURLToPath(import.meta.url)),
+  '..',
+  'dist',
+);
 
 export function prepareDistFolder() {
   if (
