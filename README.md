@@ -19,6 +19,14 @@ The Tracker Database is used in [Ghostery Browser Extension](https://www.ghoster
 
 It is also used by universities, journalists, and companies that want to understand the nature of the web data exchange.
 
+## CLI
+
+Ghostery Tracker Database can also be used in a commnad line, for example with:
+
+```sh
+npx @ghostery/trackerdb "https://analytics.tiktok.com"
+```
+
 ## Licensing
 
 Ghostery Tracker Database is published under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license which means it is free to use for non-commercial purposes. If you want to use it in your business, please contact [sales@ghostery.com](mailto:sales@ghostery.com).

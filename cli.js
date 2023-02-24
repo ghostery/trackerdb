@@ -11,7 +11,7 @@ import { DIST_PATH } from './scripts/helpers.js';
 
   if (!url) {
     console.error('trackerdb takes URL as first argument');
-    return;
+    process.exit(1);
   }
 
   const trackerDBPath = path.join(DIST_PATH, `trackerdb.json`);
@@ -41,7 +41,6 @@ import { DIST_PATH } from './scripts/helpers.js';
       url,
       matches,
     };
-    console.log('Match found');
     console.log(JSON.stringify(results, null, 2));
   }
 })();
