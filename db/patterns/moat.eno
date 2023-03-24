@@ -9,8 +9,8 @@ moatpixel.com
 --- domains
 
 --- filters
-||moatads.com^
-||moatpixel.com^
+||moatads.com^$3p
+||moatpixel.com^$3p
 --- filters
 
 ghostery_id: 1453

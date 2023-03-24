@@ -14,9 +14,9 @@ webtrendslive.com
 /trackingtags_v1.1.js
 /webtrends*.js^
 /wtid.js
-||m.webtrends.com^
-||optimize.webtrends.com^
-||webtrendslive.com^
+||m.webtrends.com^$3p
+||optimize.webtrends.com^$3p
+||webtrendslive.com^$3p
 --- filters
 
 ghostery_id: 49

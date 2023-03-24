@@ -8,8 +8,8 @@ clickbank.net
 --- domains
 
 --- filters
-||cbtb.clickbank.net^
-||hop.clickbank.net^
+||cbtb.clickbank.net^$3p
+||hop.clickbank.net^$3p
 --- filters
 
 ghostery_id: 1697

@@ -8,8 +8,8 @@ adengage.com
 --- domains
 
 --- filters
-||adcode.adengage.com^
-||conv.adengage.com^
+||adcode.adengage.com^$3p
+||conv.adengage.com^$3p
 --- filters
 
 ghostery_id: 410

@@ -9,8 +9,8 @@ hitsprocessor.com
 --- domains
 
 --- filters
-||hitslink.com^
-||hitsprocessor.com^
+||hitslink.com^$3p
+||hitsprocessor.com^$3p
 --- filters
 
 ghostery_id: 123

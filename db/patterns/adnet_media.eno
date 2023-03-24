@@ -9,8 +9,8 @@ adnet.lt
 --- domains
 
 --- filters
-||adclick.lt^
-||adnet.lt^
+||adclick.lt^$3p
+||adnet.lt^$3p
 --- filters
 
 ghostery_id: 1325

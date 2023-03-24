@@ -9,9 +9,9 @@ branch.io
 --- domains
 
 --- filters
-||cdn.branch.io/branch-v*.min.js^
-||api.branch.io^
-||app.link^
+||cdn.branch.io/branch-v*.min.js^$3p
+||api.branch.io^$3p
+||app.link^$3p
 --- filters
 
 ghostery_id: 2398

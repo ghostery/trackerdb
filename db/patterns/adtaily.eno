@@ -9,8 +9,8 @@ adtaily.pl
 --- domains
 
 --- filters
-||adtaily.com^
-||adtaily.pl^
+||adtaily.com^$3p
+||adtaily.pl^$3p
 --- filters
 
 ghostery_id: 1000

@@ -15,11 +15,11 @@ userreport.com
 ||cdn.userreport.com/userreport.js
 ||sak.userreport.com/amediadk/launcher.js
 ||sak.userreport.com/tv2/launcher.js
-||sdsbucket.s3.amazonaws.com^
-||sdscdn.userreport.com^
+||sdsbucket.s3.amazonaws.com^$3p
+||sdscdn.userreport.com^$3p
 ||tag.userreport.com/tag.html
 ||tag.userreport.com/ut.html
-||visitanalytics.userreport.com^
+||visitanalytics.userreport.com^$3p
 --- filters
 
 ghostery_id: 950

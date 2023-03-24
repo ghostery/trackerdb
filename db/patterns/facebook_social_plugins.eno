@@ -6,7 +6,7 @@ alias: facebook
 
 --- filters
 /facebook\.com\/(v2\.0\/)?(plugins|widgets)\/.*\.php/
-||badge.facebook.com^
+||badge.facebook.com^$3p
 ||fbcdn.net/connect.php/js/fb.loader
 ||fbcdn.net/connect.php/js/fb.share
 --- filters

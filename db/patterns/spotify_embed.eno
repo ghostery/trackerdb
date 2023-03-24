@@ -8,7 +8,7 @@ embed.spotify.com
 --- domains
 
 --- filters
-||embed.spotify.com^
+||embed.spotify.com^$3p
 --- filters
 
 ghostery_id: 1067

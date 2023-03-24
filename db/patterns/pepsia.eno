@@ -8,7 +8,7 @@ player.pepsia.com
 --- domains
 
 --- filters
-||player.pepsia.com^
+||player.pepsia.com^$3p
 --- filters
 
 ghostery_id: 3216

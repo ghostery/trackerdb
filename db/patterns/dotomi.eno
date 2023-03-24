@@ -10,8 +10,8 @@ dtmpub.com
 --- domains
 
 --- filters
-||dotomi.com^
-||dtmpub.com^
+||dotomi.com^$3p
+||dtmpub.com^$3p
 --- filters
 
 ghostery_id: 120

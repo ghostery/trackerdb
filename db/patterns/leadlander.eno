@@ -9,8 +9,8 @@ trackalyzer.com
 --- domains
 
 --- filters
-||formalyzer.com^
-||trackalyzer.com^
+||formalyzer.com^$3p
+||trackalyzer.com^$3p
 --- filters
 
 ghostery_id: 142

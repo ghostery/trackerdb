@@ -9,7 +9,7 @@ econda-monitor.de
 
 --- filters
 /econda*.js^
-||econda-monitor.de^
+||econda-monitor.de^$3p
 --- filters
 
 ghostery_id: 405

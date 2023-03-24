@@ -10,8 +10,8 @@ sa.entireweb.com
 --- domains
 
 --- filters
-||admarket.entireweb.com^
-||affiliate.entireweb.com^
+||admarket.entireweb.com^$3p
+||affiliate.entireweb.com^$3p
 ||sa.entireweb.com/sense.js
 --- filters
 

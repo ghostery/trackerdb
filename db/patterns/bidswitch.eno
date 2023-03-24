@@ -9,8 +9,8 @@ exe.bid
 --- domains
 
 --- filters
-||bidswitch.net^
-||sync-eu.exe.bid^
+||bidswitch.net^$3p
+||sync-eu.exe.bid^$3p
 --- filters
 
 ghostery_id: 2749

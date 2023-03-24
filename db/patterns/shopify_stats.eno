@@ -8,8 +8,8 @@ shopify.com
 --- domains
 
 --- filters
-||s.shopify.com^
-||stats.shopify.com^
+||s.shopify.com^$3p
+||stats.shopify.com^$3p
 --- filters
 
 ghostery_id: 1272

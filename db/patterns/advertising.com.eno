@@ -13,14 +13,14 @@ verizonmedia.com
 --- domains
 
 --- filters
-||adsdk.com^
-||advertising.com^
-||atwola.com^
-||mads.aol.com^
+||adsdk.com^$3p
+||advertising.com^$3p
+||atwola.com^$3p
+||mads.aol.com^$3p
 ||o.aolcdn.com/ads/adswrapper
 ||o.aolcdn.com/js/mg2.js
 ||o.aolcdn.com/os/aol/beacon.min.js
-||pictela.net^
+||pictela.net^$3p
 ||s.aolcdn.com/ads/
 --- filters
 

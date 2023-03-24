@@ -10,8 +10,8 @@ df-srv.de
 --- domains
 
 --- filters
-||adrolays.de^
-||df-srv.de^
+||adrolays.de^$3p
+||df-srv.de^$3p
 --- filters
 
 ghostery_id: 2976

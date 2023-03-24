@@ -10,9 +10,9 @@ cdn.cdnrl.com
 --- domains
 
 --- filters
-||adk2.com^
-||cdn.adsrvmedia.com^
-||cdn.cdnrl.com^
+||adk2.com^$3p
+||cdn.adsrvmedia.com^$3p
+||cdn.cdnrl.com^$3p
 --- filters
 
 ghostery_id: 936

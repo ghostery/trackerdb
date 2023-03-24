@@ -15,14 +15,14 @@ xplusone.com
 --- domains
 
 --- filters
-||ad.xplusone.com^
-||app.insightgrit.com^
-||app.ubertags.com^
+||ad.xplusone.com^$3p
+||app.insightgrit.com^$3p
+||app.ubertags.com^$3p
 ||cdn.boomtrain.com/analyticstrain/
 ||events.api.boomtrain.com/event/track
-||rfihub.com^
-||rfihub.net^
-||ru4.com^
+||rfihub.com^$3p
+||rfihub.net^$3p
+||ru4.com^$3p
 --- filters
 
 ghostery_id: 360

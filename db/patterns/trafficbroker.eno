@@ -8,7 +8,7 @@ trafficbroker.com
 --- domains
 
 --- filters
-||trafficbroker.com^
+||trafficbroker.com^$3p
 --- filters
 
 ghostery_id: 1290

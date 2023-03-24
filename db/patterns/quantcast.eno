@@ -10,9 +10,9 @@ quantserve.com
 
 --- filters
 /quant.js
-||quantserve.com^
-||secure.quantserve.com^
-||widget.quantcast.com^
+||quantserve.com^$3p
+||secure.quantserve.com^$3p
+||widget.quantcast.com^$3p
 --- filters
 
 ghostery_id: 16

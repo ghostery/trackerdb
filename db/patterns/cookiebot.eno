@@ -8,7 +8,7 @@ cookiebot.com
 --- domains
 
 --- filters
-||consent.cookiebot.com^
+||consent.cookiebot.com^$3p
 --- filters
 
 ghostery_id: 3475

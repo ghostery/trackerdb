@@ -15,9 +15,9 @@ imiclk.com
 --- domains
 
 --- filters
-||abmr.net^
-||designbloxlive.com^
-||imiclk.com^
+||abmr.net^$3p
+||designbloxlive.com^$3p
+||imiclk.com^$3p
 --- filters
 
 ghostery_id: 2263

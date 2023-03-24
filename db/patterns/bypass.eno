@@ -8,7 +8,7 @@ bypass.jp
 --- domains
 
 --- filters
-||bypass.jp^
+||bypass.jp^$3p
 --- filters
 
 ghostery_id: 2036

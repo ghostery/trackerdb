@@ -9,10 +9,10 @@ analytics.yahoo.com
 
 --- filters
 /js_source/whv2_001.js
-||analytics.yahoo.com^
-||idcs.interclick.com^
-||ids.interclick.com^
-||visit.webhosting.yahoo.com^
+||analytics.yahoo.com^$3p
+||idcs.interclick.com^$3p
+||ids.interclick.com^$3p
+||visit.webhosting.yahoo.com^$3p
 ||yimg.com/mi/ywa.js
 --- filters
 

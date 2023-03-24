@@ -8,8 +8,8 @@ pulse360.com
 --- domains
 
 --- filters
-||content.pulse360.com^
-||track.pulse360.com^
+||content.pulse360.com^$3p
+||track.pulse360.com^$3p
 --- filters
 
 ghostery_id: 390

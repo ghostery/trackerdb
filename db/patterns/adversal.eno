@@ -10,9 +10,9 @@ go.adversal.com
 --- domains
 
 --- filters
-||adversaldisplay.com^
-||adversalservers.com^
-||go.adversal.com^
+||adversaldisplay.com^$3p
+||adversalservers.com^$3p
+||go.adversal.com^$3p
 --- filters
 
 ghostery_id: 742

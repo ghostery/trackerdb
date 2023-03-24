@@ -8,8 +8,8 @@ sonobi.com
 --- domains
 
 --- filters
-||ads.sonobi.com^
-||go.sonobi.com^
+||ads.sonobi.com^$3p
+||go.sonobi.com^$3p
 --- filters
 
 ghostery_id: 917

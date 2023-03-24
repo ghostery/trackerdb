@@ -8,7 +8,7 @@ organization: 33across
 --- domains
 
 --- filters
-||33across.com^
+||33across.com^$3p
 --- filters
 
 ghostery_id: 256

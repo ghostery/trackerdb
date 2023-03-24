@@ -9,8 +9,8 @@ h12-media.net
 --- domains
 
 --- filters
-||h12-media.com^
-||h12-media.net^
+||h12-media.com^$3p
+||h12-media.net^$3p
 --- filters
 
 ghostery_id: 1940

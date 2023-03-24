@@ -8,7 +8,7 @@ organization: improve_digital
 --- domains
 
 --- filters
-||ad.360yield.com^
+||ad.360yield.com^$3p
 --- filters
 
 ghostery_id: 893

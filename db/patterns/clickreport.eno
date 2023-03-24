@@ -9,8 +9,8 @@ doogleonduty.com
 --- domains
 
 --- filters
-||clickreport.com^
-||doogleonduty.com^
+||clickreport.com^$3p
+||doogleonduty.com^$3p
 --- filters
 
 ghostery_id: 1708

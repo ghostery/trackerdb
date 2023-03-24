@@ -11,8 +11,8 @@ res-x.com
 --- filters
 /\/resxcls[ax][0-9a-z_]*\.js/
 /resonance5050.js
-||certona.net^
-||res-x.com^
+||certona.net^$3p
+||res-x.com^$3p
 --- filters
 
 ghostery_id: 283

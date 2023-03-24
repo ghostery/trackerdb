@@ -9,10 +9,10 @@ wistia.net
 --- domains
 
 --- filters
-||distillery.wistia.com^
+||distillery.wistia.com^$3p
 ||fast.wistia.com/assets/external/popover-v1.js
-||fast.wistia.net^
-||pipedream.wistia.com^
+||fast.wistia.net^$3p
+||pipedream.wistia.com^$3p
 --- filters
 
 ghostery_id: 2336

@@ -8,9 +8,9 @@ performancing.com
 --- domains
 
 --- filters
-||pmetrics.performancing.com/js^
-||pmetrics.performancing.com/in.php^
-||pmetrics.performancing.com/*.js^
+||pmetrics.performancing.com/js^$3p
+||pmetrics.performancing.com/in.php^$3p
+||pmetrics.performancing.com/*.js^$3p
 --- filters
 
 ghostery_id: 382

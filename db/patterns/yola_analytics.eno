@@ -9,8 +9,8 @@ pixel.yola.net
 --- domains
 
 --- filters
-||analytics.yola.net^
-||pixel.yola.net^
+||analytics.yola.net^$3p
+||pixel.yola.net^$3p
 --- filters
 
 ghostery_id: 1156

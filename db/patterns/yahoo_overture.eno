@@ -9,8 +9,8 @@ overture.com
 --- domains
 
 --- filters
-||ov.yahoo.co.jp^
-||overture.com^
+||ov.yahoo.co.jp^$3p
+||overture.com^$3p
 --- filters
 
 ghostery_id: 91

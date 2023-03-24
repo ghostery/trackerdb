@@ -9,8 +9,8 @@ livechatnow.net
 --- domains
 
 --- filters
-||livechatnow.com^
-||livechatnow.net^
+||livechatnow.com^$3p
+||livechatnow.net^$3p
 --- filters
 
 ghostery_id: 1806

@@ -10,8 +10,8 @@ widget.crowdynews.com
 --- domains
 
 --- filters
-||our.glossip.nl^
-||widget.breakingburner.com^
+||our.glossip.nl^$3p
+||widget.breakingburner.com^$3p
 ||widget.crowdynews.com/js/widget.js
 --- filters
 

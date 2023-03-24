@@ -9,8 +9,8 @@ stat.4u.pl
 --- domains
 
 --- filters
-||adstat.4u.pl^
-||stat.4u.pl^
+||adstat.4u.pl^$3p
+||stat.4u.pl^$3p
 --- filters
 
 ghostery_id: 312

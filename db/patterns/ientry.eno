@@ -8,7 +8,7 @@ organization: ientry
 --- domains
 
 --- filters
-||600z.com^
+||600z.com^$3p
 --- filters
 
 ghostery_id: 763

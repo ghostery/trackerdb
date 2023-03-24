@@ -9,8 +9,8 @@ adsbwm.com
 --- domains
 
 --- filters
-||adconnexa.com^
-||adsbwm.com^
+||adconnexa.com^$3p
+||adsbwm.com^$3p
 --- filters
 
 ghostery_id: 527

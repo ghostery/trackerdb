@@ -10,11 +10,11 @@ spotxchange.com
 --- domains
 
 --- filters
-||aka.spotxcdn.com^
+||aka.spotxcdn.com^$3p
 ||js.spotx.tv/directsdk/v1/236177.js
 ||js.spotx.tv/easi/v1
 ||spotxchange.com/track
-||spotxchange.com^
+||spotxchange.com^$3p
 --- filters
 
 ghostery_id: 503

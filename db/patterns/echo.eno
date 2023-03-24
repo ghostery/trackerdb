@@ -8,9 +8,9 @@ echoenabled.com
 --- domains
 
 --- filters
-||echoenabled.com^
+||echoenabled.com^$3p
 ||haloscan.com/load/
-||js-kit.com/*.js^
+||js-kit.com/*.js^$3p
 --- filters
 
 ghostery_id: 140

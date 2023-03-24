@@ -10,8 +10,8 @@ seadform.net
 --- domains
 
 --- filters
-||adform.net^
-||adformdsp.net^
+||adform.net^$3p
+||adformdsp.net^$3p
 ||track.adform.net/serving/scripts/trackpoint/async
 --- filters
 

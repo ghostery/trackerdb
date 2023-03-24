@@ -8,7 +8,7 @@ nzaza.com
 --- domains
 
 --- filters
-||nzaza.com/seg/*.js^
+||nzaza.com/seg/*.js^$3p
 ||nzaza.com/za.js
 --- filters
 

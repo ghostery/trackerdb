@@ -10,9 +10,9 @@ mxpnl.net
 --- domains
 
 --- filters
-||mixpanel.com^
-||mxpnl.com^
-||mxpnl.net^
+||mixpanel.com^$3p
+||mxpnl.com^$3p
+||mxpnl.net^$3p
 --- filters
 
 ghostery_id: 240

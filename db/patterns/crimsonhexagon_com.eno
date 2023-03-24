@@ -10,9 +10,9 @@ hexagon-analytics.com
 --- domains
 
 --- filters
-||api.brandwatch.com^
-||crimsonhexagon.com^
-||hexagon-analytics.com^
+||api.brandwatch.com^$3p
+||crimsonhexagon.com^$3p
+||hexagon-analytics.com^$3p
 --- filters
 
 ghostery_id: 3479

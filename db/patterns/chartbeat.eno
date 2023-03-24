@@ -10,8 +10,8 @@ chartbeat.net
 
 --- filters
 /chartbeat.js
-||chartbeat.com^
-||chartbeat.net^
+||chartbeat.com^$3p
+||chartbeat.net^$3p
 --- filters
 
 ghostery_id: 58

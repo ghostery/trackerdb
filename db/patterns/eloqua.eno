@@ -12,8 +12,8 @@ en25.com
 /elqcfg.js
 /elqcfgxml.js
 /elqimg.js
-||eloqua.com^
-||en25.com^
+||eloqua.com^$3p
+||en25.com^$3p
 --- filters
 
 ghostery_id: 166

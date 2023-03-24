@@ -9,8 +9,8 @@ green-red.com
 --- domains
 
 --- filters
-||gandrad.org^
-||green-red.com^
+||gandrad.org^$3p
+||green-red.com^$3p
 --- filters
 
 ghostery_id: 1954

@@ -9,8 +9,8 @@ gameleads.ru
 --- domains
 
 --- filters
-||cityads.ru^
-||gameleads.ru^
+||cityads.ru^$3p
+||gameleads.ru^$3p
 --- filters
 
 ghostery_id: 1302

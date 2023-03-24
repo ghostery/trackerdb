@@ -9,8 +9,8 @@ zwaar.org
 --- domains
 
 --- filters
-||zwaar.net^
-||zwaar.org^
+||zwaar.net^$3p
+||zwaar.org^$3p
 --- filters
 
 ghostery_id: 2198

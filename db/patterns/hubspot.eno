@@ -13,11 +13,11 @@ hubspot.com
 
 --- filters
 /salog.js.aspx
-||hs-analytics.net^
+||hs-analytics.net^$3p
 ||hubspot.com/analytics/
-||js.hs-scripts.com^
-||leadin.hubspot.com^
-||track.hubspot.com^
+||js.hs-scripts.com^$3p
+||leadin.hubspot.com^$3p
+||track.hubspot.com^$3p
 --- filters
 
 ghostery_id: 26

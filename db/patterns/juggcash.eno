@@ -9,8 +9,8 @@ mofos.com
 --- domains
 
 --- filters
-||ads.mofos.com^
-||contentabc.com^
+||ads.mofos.com^$3p
+||contentabc.com^$3p
 --- filters
 
 ghostery_id: 1148

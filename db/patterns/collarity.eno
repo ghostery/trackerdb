@@ -8,7 +8,7 @@ service.collarity.com
 --- domains
 
 --- filters
-||service.collarity.com^
+||service.collarity.com^$3p
 --- filters
 
 ghostery_id: 131

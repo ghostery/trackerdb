@@ -9,8 +9,8 @@ servmetric.com
 --- domains
 
 --- filters
-||govmetric.com^
-||servmetric.com^
+||govmetric.com^$3p
+||servmetric.com^$3p
 --- filters
 
 ghostery_id: 2149

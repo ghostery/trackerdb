@@ -9,9 +9,9 @@ foxpush.com
 --- domains
 
 --- filters
-||cdn.foxpush.net^
+||cdn.foxpush.net^$3p
 ||foxpush.com/publisher/api
-||js.foxpush.com^
+||js.foxpush.com^$3p
 --- filters
 
 ghostery_id: 2825

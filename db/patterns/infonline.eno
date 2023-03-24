@@ -10,8 +10,8 @@ ivwbox.de
 --- domains
 
 --- filters
-||ioam.de^
-||ivwbox.de^
+||ioam.de^$3p
+||ivwbox.de^$3p
 ||script.ioam.de/iam.js
 --- filters
 

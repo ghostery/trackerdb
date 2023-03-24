@@ -13,11 +13,11 @@ zerezas.com
 
 --- filters
 ||cdn.doublepimpssl.com/scripts/infinity.js.aspx
-||doublepimp.com^
+||doublepimp.com^$3p
 ||doublepimpssl.com/tag.engine
-||redcourtside.com^
-||xeontopa.com^
-||zerezas.com^
+||redcourtside.com^$3p
+||xeontopa.com^$3p
+||zerezas.com^$3p
 --- filters
 
 ghostery_id: 76

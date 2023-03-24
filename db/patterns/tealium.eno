@@ -37,11 +37,11 @@ tealiumiq.com
 /utag.loader.js
 /utag.sync.
 /utag_data.
-||tealium.com^
-||tealium.hs.llnwd.net^
-||tealiumiq.com^
-||tealiumiq.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|transfermarkt.de
-||tealiumiq.com^$third-party
+||tealium.com^$3p
+||tealium.hs.llnwd.net^$3p
+||tealiumiq.com^$3p
+||tealiumiq.com^$3p$domain=autobild.de|metal-hammer.de|musikexpress.de|transfermarkt.de
+||tealiumiq.com^$3p$third-party
 --- filters
 
 ghostery_id: 505

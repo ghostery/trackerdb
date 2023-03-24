@@ -9,8 +9,8 @@ gooo.al
 --- domains
 
 --- filters
-||gooal.herokuapp.com^
-||gooo.al^
+||gooal.herokuapp.com^$3p
+||gooo.al^$3p
 --- filters
 
 ghostery_id: 1218

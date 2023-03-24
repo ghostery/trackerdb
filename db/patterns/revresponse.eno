@@ -9,8 +9,8 @@ revresponse.com
 --- domains
 
 --- filters
-||cts.tradepub.com^
-||revresponse.com^
+||cts.tradepub.com^$3p
+||revresponse.com^$3p
 --- filters
 
 ghostery_id: 1878

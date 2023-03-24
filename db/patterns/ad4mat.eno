@@ -32,31 +32,31 @@ ad4mat.tr
 --- domains
 
 --- filters
-||ad4mat.ar^
-||ad4mat.at^
-||ad4mat.be^
-||ad4mat.bg^
-||ad4mat.br^
-||ad4mat.ch^
-||ad4mat.co.uk^
-||ad4mat.cz^
-||ad4mat.de^
-||ad4mat.dk^
-||ad4mat.es^
-||ad4mat.fi^
-||ad4mat.fr^
-||ad4mat.gr^
-||ad4mat.hu^
-||ad4mat.it^
-||ad4mat.mx^
-||ad4mat.net^
-||ad4mat.nl^
-||ad4mat.no^
-||ad4mat.pl^
-||ad4mat.ro^
-||ad4mat.ru^
-||ad4mat.se^
-||ad4mat.tr^
+||ad4mat.ar^$3p
+||ad4mat.at^$3p
+||ad4mat.be^$3p
+||ad4mat.bg^$3p
+||ad4mat.br^$3p
+||ad4mat.ch^$3p
+||ad4mat.co.uk^$3p
+||ad4mat.cz^$3p
+||ad4mat.de^$3p
+||ad4mat.dk^$3p
+||ad4mat.es^$3p
+||ad4mat.fi^$3p
+||ad4mat.fr^$3p
+||ad4mat.gr^$3p
+||ad4mat.hu^$3p
+||ad4mat.it^$3p
+||ad4mat.mx^$3p
+||ad4mat.net^$3p
+||ad4mat.nl^$3p
+||ad4mat.no^$3p
+||ad4mat.pl^$3p
+||ad4mat.ro^$3p
+||ad4mat.ru^$3p
+||ad4mat.se^$3p
+||ad4mat.tr^$3p
 --- filters
 
 ghostery_id: 1288

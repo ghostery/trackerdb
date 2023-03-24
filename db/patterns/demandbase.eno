@@ -9,9 +9,9 @@ demandbase.com
 --- domains
 
 --- filters
-||api.demandbase.com^
-||company-target.com^
-||leads.demandbase.com^
+||api.demandbase.com^$3p
+||company-target.com^$3p
+||leads.demandbase.com^$3p
 --- filters
 
 ghostery_id: 160

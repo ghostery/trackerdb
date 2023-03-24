@@ -9,8 +9,8 @@ onlinewebstats.com
 --- domains
 
 --- filters
-||onlinewebstat.com^
-||onlinewebstats.com^
+||onlinewebstat.com^$3p
+||onlinewebstats.com^$3p
 --- filters
 
 ghostery_id: 870

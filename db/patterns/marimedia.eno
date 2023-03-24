@@ -11,10 +11,10 @@ qadservice.com
 --- domains
 
 --- filters
-||mmadsgadget.com^
-||qadabra.com^
-||qadserve.com^
-||qadservice.com^
+||mmadsgadget.com^$3p
+||qadabra.com^$3p
+||qadserve.com^$3p
+||qadservice.com^$3p
 --- filters
 
 ghostery_id: 1701

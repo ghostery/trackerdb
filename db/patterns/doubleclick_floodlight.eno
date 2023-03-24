@@ -6,7 +6,7 @@ alias: doubleclick
 
 --- filters
 ||doubleclick.net/activityi
-||fls.doubleclick.net^
+||fls.doubleclick.net^$3p
 --- filters
 
 ghostery_id: 310

@@ -9,7 +9,7 @@ advertserve.com
 
 --- filters
 /advertpro/servlet/view^
-||advertserve.com^
+||advertserve.com^$3p
 --- filters
 
 ghostery_id: 2542

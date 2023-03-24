@@ -12,12 +12,12 @@ saas.seewhy.com
 --- domains
 
 --- filters
-||d13im3ek7neeqp.cloudfront.net^
-||d28ethi6slcjbm.cloudfront.net^
-||d2uevgmgh16uk4.cloudfront.net^
+||d13im3ek7neeqp.cloudfront.net^$3p
+||d28ethi6slcjbm.cloudfront.net^$3p
+||d2uevgmgh16uk4.cloudfront.net^$3p
 ||d3m83gvgzupli.cloudfront.net/webevent/browse.js
-||d3m83gvgzupli.cloudfront.net^
-||saas.seewhy.com^
+||d3m83gvgzupli.cloudfront.net^$3p
+||saas.seewhy.com^$3p
 --- filters
 
 ghostery_id: 2130

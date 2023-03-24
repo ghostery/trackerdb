@@ -10,9 +10,9 @@ irs09.com
 --- domains
 
 --- filters
-||acs86.com^
-||csbew.com^
-||irs09.com^
+||acs86.com^$3p
+||csbew.com^$3p
+||irs09.com^$3p
 --- filters
 
 ghostery_id: 1896

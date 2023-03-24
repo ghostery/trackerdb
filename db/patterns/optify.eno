@@ -8,7 +8,7 @@ service.optify.net
 --- domains
 
 --- filters
-||service.optify.net^
+||service.optify.net^$3p
 --- filters
 
 ghostery_id: 429

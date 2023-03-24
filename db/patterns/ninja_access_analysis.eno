@@ -11,10 +11,10 @@ shinobi.jp
 --- domains
 
 --- filters
-||cho-chin.com^
-||donburako.com^
-||hishaku.com^
-||shinobi.jp/^
+||cho-chin.com^$3p
+||donburako.com^$3p
+||hishaku.com^$3p
+||shinobi.jp/^$3p
 --- filters
 
 ghostery_id: 712

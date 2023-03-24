@@ -12,9 +12,9 @@ cedexis.net
 --- domains
 
 --- filters
-||cedexis-radar.net^
-||cedexis.com^
-||cedexis.net^
+||cedexis-radar.net^$3p
+||cedexis.com^$3p
+||cedexis.net^$3p
 ||s3.amazonaws.com/cdx-radar
 --- filters
 

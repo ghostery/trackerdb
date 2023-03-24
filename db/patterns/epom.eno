@@ -10,9 +10,9 @@ epom.com
 --- domains
 
 --- filters
-||adshost1.com^
-||adshost2.com^
-||epom.com^
+||adshost1.com^$3p
+||adshost2.com^$3p
+||epom.com^$3p
 --- filters
 
 ghostery_id: 1569

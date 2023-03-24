@@ -9,7 +9,7 @@ tracking.percentmobile.com
 
 --- filters
 /percent_mobile.js
-||tracking.percentmobile.com^
+||tracking.percentmobile.com^$3p
 --- filters
 
 ghostery_id: 207

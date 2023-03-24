@@ -9,8 +9,8 @@ elasticbeanstalk.com
 
 --- filters
 ||elasticbeanstalk.com/toysrus/m/sidekick.js
-||elasticbeanstalk.com^
-||omni-acttag.elasticbeanstalk.com^
+||elasticbeanstalk.com^$3p
+||omni-acttag.elasticbeanstalk.com^$3p
 ||sidekick-toysrus.elasticbeanstalk.com/sidekick/sidetrack.js
 ||sidekick-toysrus.elasticbeanstalk.com/toysrus/m/sidekick.js
 --- filters

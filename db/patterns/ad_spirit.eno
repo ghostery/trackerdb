@@ -9,8 +9,8 @@ adspirit.net
 --- domains
 
 --- filters
-||adspirit.de^
-||adspirit.net^
+||adspirit.de^$3p
+||adspirit.net^$3p
 --- filters
 
 ghostery_id: 871

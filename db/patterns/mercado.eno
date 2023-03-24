@@ -10,10 +10,10 @@ mlstatic.com
 --- domains
 
 --- filters
-||advertising.mercadolivre.com.br^
-||analytics.mlstatic.com^
+||advertising.mercadolivre.com.br^$3p
+||analytics.mlstatic.com^$3p
 ||mercadoads.mercadolivre.com.br/main
-||mercadoclics.com^
+||mercadoclics.com^$3p
 ||mercadolivre.com.br/jm/ml.track.me
 --- filters
 

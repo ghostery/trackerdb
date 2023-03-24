@@ -9,8 +9,8 @@ jumptime.com
 --- domains
 
 --- filters
-||jump-time.net^
-||jumptime.com^
+||jump-time.net^$3p
+||jumptime.com^$3p
 --- filters
 
 ghostery_id: 1045

@@ -9,10 +9,10 @@ acxiom.com
 --- domains
 
 --- filters
-||acxiom-online.com^
-||acxiom.com^
-||mm7.net^
-||p-eu.acxiom-online.com^
+||acxiom-online.com^$3p
+||acxiom.com^$3p
+||mm7.net^$3p
+||p-eu.acxiom-online.com^$3p
 --- filters
 
 ghostery_id: 497

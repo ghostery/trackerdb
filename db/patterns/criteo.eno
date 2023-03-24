@@ -9,8 +9,8 @@ criteo.net
 --- domains
 
 --- filters
-||criteo.com^
-||criteo.net^
+||criteo.com^$3p
+||criteo.net^$3p
 --- filters
 
 ghostery_id: 64

@@ -9,8 +9,8 @@ am15.net
 --- domains
 
 --- filters
-||am10.ru^
-||am15.net^
+||am10.ru^$3p
+||am15.net^$3p
 --- filters
 
 ghostery_id: 952

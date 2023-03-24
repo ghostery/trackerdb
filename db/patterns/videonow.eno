@@ -8,7 +8,7 @@ videonow.ru
 --- domains
 
 --- filters
-||videonow.ru/v2/*/vn_module.js^
+||videonow.ru/v2/*/vn_module.js^$3p
 --- filters
 
 ghostery_id: 3033

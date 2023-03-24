@@ -10,9 +10,9 @@ sedotracker.com
 --- domains
 
 --- filters
-||code.etracker.com^
-||etracker.de^
-||sedotracker.com^
+||code.etracker.com^$3p
+||etracker.de^$3p
+||sedotracker.com^$3p
 ||static.etracker.com/code/e.js
 --- filters
 

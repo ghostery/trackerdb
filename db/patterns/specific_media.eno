@@ -10,9 +10,9 @@ specificmedia.com
 --- domains
 
 --- filters
-||adviva.net^
-||specificclick.net^
-||specificmedia.com^
+||adviva.net^$3p
+||specificclick.net^$3p
+||specificmedia.com^$3p
 --- filters
 
 ghostery_id: 455

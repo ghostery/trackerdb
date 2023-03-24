@@ -12,7 +12,7 @@ static.dealer.com
 
 --- filters
 ||cc2.dealer.com/off-platform/pixall.js
-||esm1.net^
+||esm1.net^$3p
 ||static.dealer.com/dist/v9/media/js/ddc/v1/dist/ddc.jquery.min.js
 --- filters
 

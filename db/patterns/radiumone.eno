@@ -9,7 +9,7 @@ r1-cdn.net
 --- domains
 
 --- filters
-||gwallet.com^
+||gwallet.com^$3p
 --- filters
 
 ghostery_id: 492

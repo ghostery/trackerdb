@@ -13,7 +13,7 @@ ucoz.net
 ! /ucoz\.(.*)\/(stat|main)\//
 ! ^ Manually optimized regexp
 (stat|main)\//
-||a.ucoz.net^
+||a.ucoz.net^$3p
 ||at.ua/stat/
 ||do.am/stat/
 ||ucoz.*/main/

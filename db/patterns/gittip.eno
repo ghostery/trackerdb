@@ -8,7 +8,7 @@ gittip.com
 --- domains
 
 --- filters
-||gittip.com^
+||gittip.com^$3p
 ||netdna-ssl.net/js/gittip-widget.js
 --- filters
 

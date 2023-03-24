@@ -8,8 +8,8 @@ foodieblogroll.com
 --- domains
 
 --- filters
-||ads.foodieblogroll.com^
-||widget.foodieblogroll.com^
+||ads.foodieblogroll.com^$3p
+||widget.foodieblogroll.com^$3p
 --- filters
 
 ghostery_id: 1034

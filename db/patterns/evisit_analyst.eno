@@ -10,9 +10,9 @@ websiteperform.com
 --- domains
 
 --- filters
-||evisitanalyst.com^
-||evisitcs.com^
-||websiteperform.com^
+||evisitanalyst.com^$3p
+||evisitcs.com^$3p
+||websiteperform.com^$3p
 --- filters
 
 ghostery_id: 1158

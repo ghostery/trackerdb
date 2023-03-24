@@ -11,9 +11,9 @@ invitemedia.com
 
 --- filters
 /\.2mdn\.net\/([0-9]+|ads|dot\.gif|dynamic|viewad)/
-||ad.doubleclick.net^
-||doubleclick.net^
-||g.doubleclick.net^
+||ad.doubleclick.net^$3p
+||doubleclick.net^$3p
+||g.doubleclick.net^$3p
 ||google.com/pagead/drt/ui
 ||google.com/pagead/lvz
 ||google.com/uds/api/ads/1.0
@@ -21,7 +21,7 @@ invitemedia.com
 ||googleads.g.doubleclick.net/pagead/id
 ||s0.2mdn.net/instream/video/client.js
 ||securepubads.g.doubleclick.net/pcs/view
-||securepubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^$3p
 ||static.doubleclick.net/instream/ad_status.js
 --- filters
 

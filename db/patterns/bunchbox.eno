@@ -8,7 +8,7 @@ bunchbox.co
 --- domains
 
 --- filters
-||core.bunchbox.co/*.min.js^
+||core.bunchbox.co/*.min.js^$3p
 ||core.bunchbox.co/geo.js
 --- filters
 

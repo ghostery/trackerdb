@@ -9,7 +9,7 @@ platform.linkedin.com
 
 --- filters
 ||api.linkedin.com/v1/people/~/shares
-||platform.linkedin.com^
+||platform.linkedin.com^$3p
 --- filters
 
 ghostery_id: 697

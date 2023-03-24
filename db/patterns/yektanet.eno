@@ -10,8 +10,8 @@ fetch.yektanet.com
 
 --- filters
 ||cdn.yektanet.com/js
-||cg.yektanet.com^
-||ck.yektanet.com^
+||cg.yektanet.com^$3p
+||ck.yektanet.com^$3p
 ||fetch.yektanet.com/api
 --- filters
 

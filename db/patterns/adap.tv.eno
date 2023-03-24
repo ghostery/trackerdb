@@ -8,14 +8,14 @@ adap.tv
 --- domains
 
 --- filters
-||ads.adap.tv^
-||log.adap.tv^
-||qlog.adap.tv^
-||redir.adap.tv^
-||segments.adap.tv^
-||set.adap.tv^
-||sync.adap.tv^
-||u-ads.adap.tv^
+||ads.adap.tv^$3p
+||log.adap.tv^$3p
+||qlog.adap.tv^$3p
+||redir.adap.tv^$3p
+||segments.adap.tv^$3p
+||set.adap.tv^$3p
+||sync.adap.tv^$3p
+||u-ads.adap.tv^$3p
 --- filters
 
 ghostery_id: 573

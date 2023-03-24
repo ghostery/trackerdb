@@ -9,9 +9,9 @@ mmstat.com
 --- domains
 
 --- filters
-||caanalytics.com^
+||caanalytics.com^$3p
 ||cauth.9c9media.com/auth9/axisAuthApi.js
-||mmstat.com^
+||mmstat.com^$3p
 ||mpp.vindicosuite.com/mpp/
 --- filters
 

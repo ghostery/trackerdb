@@ -8,12 +8,12 @@ flashtalking.com
 --- domains
 
 --- filters
-||a.flashtalking.com^
-||cdn.flashtalking.com^
-||fdz.flashtalking.com^
-||flashtalking.com^
-||servedby.flashtalking.com^
-||stat.flashtalking.com^
+||a.flashtalking.com^$3p
+||cdn.flashtalking.com^$3p
+||fdz.flashtalking.com^$3p
+||flashtalking.com^$3p
+||servedby.flashtalking.com^$3p
+||stat.flashtalking.com^$3p
 --- filters
 
 ghostery_id: 495

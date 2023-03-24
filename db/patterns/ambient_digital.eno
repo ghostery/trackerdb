@@ -10,9 +10,9 @@ ambientplatform.vn
 --- domains
 
 --- filters
-||adnetwork.net.vn^
-||adnetwork.vn/^
-||ambientplatform.vn^
+||adnetwork.net.vn^$3p
+||adnetwork.vn/^$3p
+||ambientplatform.vn^$3p
 --- filters
 
 ghostery_id: 861

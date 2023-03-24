@@ -8,8 +8,8 @@ collect.yldr.io
 --- domains
 
 --- filters
-||cdn.yldr.io/yldr.v*.min.js^
-||collect.yldr.io^
+||cdn.yldr.io/yldr.v*.min.js^$3p
+||collect.yldr.io^$3p
 --- filters
 
 ghostery_id: 3215

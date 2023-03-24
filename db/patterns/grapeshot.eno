@@ -9,8 +9,8 @@ gscontxt.net
 --- domains
 
 --- filters
-||grapeshot.co.uk^
-||gscontxt.net^
+||grapeshot.co.uk^$3p
+||gscontxt.net^$3p
 --- filters
 
 ghostery_id: 745

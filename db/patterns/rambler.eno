@@ -9,13 +9,13 @@ top100.ru
 --- domains
 
 --- filters
-||ad.rambler.ru^
-||ad2.rambler.ru^
+||ad.rambler.ru^$3p
+||ad2.rambler.ru^$3p
 ||counter.rambler.ru/top100.cnt
-||counter.rambler.ru^
+||counter.rambler.ru^$3p
 ||ssp.rambler.ru/file.jsp
-||st.top100.ru^
-||top100-images.rambler.ru^
+||st.top100.ru^$3p
+||top100-images.rambler.ru^$3p
 --- filters
 
 ghostery_id: 426

@@ -10,10 +10,10 @@ surinter.net
 --- domains
 
 --- filters
-||adnext.fr^
-||ads.adverline.com^
-||ads2.adverline.com^
-||surinter.net^
+||adnext.fr^$3p
+||ads.adverline.com^$3p
+||ads2.adverline.com^$3p
+||surinter.net^$3p
 --- filters
 
 ghostery_id: 821

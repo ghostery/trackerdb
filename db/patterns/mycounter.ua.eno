@@ -9,8 +9,8 @@ mycounter.ua
 --- domains
 
 --- filters
-||mycounter.com.ua^
-||mycounter.ua^
+||mycounter.com.ua^$3p
+||mycounter.ua^$3p
 --- filters
 
 ghostery_id: 900

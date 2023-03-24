@@ -9,8 +9,8 @@ sanoma.fi
 --- domains
 
 --- filters
-||admp.sanoma.fi^
-||analytics.sanoma.fi^
+||admp.sanoma.fi^$3p
+||analytics.sanoma.fi^$3p
 ||ilsemedia.nl/get
 ||ilsemedia.nl/tag
 --- filters

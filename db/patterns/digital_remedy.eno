@@ -10,11 +10,11 @@ cpxinteractive.com
 --- domains
 
 --- filters
-||adready.com^
+||adready.com^$3p
 ||adreadytractions.com/rt/
-||bigfineads.com^
-||cpxadroit.com^
-||cpxinteractive.com^
+||bigfineads.com^$3p
+||cpxadroit.com^$3p
+||cpxinteractive.com^$3p
 --- filters
 
 ghostery_id: 110

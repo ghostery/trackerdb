@@ -8,8 +8,8 @@ speed-trap.nl
 --- domains
 
 --- filters
-||speed-trap.nl^
-||speedtrap.*.com^
+||speed-trap.nl^$3p
+||speedtrap.*.com^$3p
 --- filters
 
 ghostery_id: 2648

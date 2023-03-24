@@ -8,8 +8,8 @@ email-match.com
 --- domains
 
 --- filters
-||asset.email-match.com^
-||atout.email-match.com^
+||asset.email-match.com^$3p
+||atout.email-match.com^$3p
 --- filters
 
 ghostery_id: 2145

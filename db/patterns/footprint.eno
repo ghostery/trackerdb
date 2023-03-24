@@ -8,8 +8,8 @@ footprintlive.com
 --- domains
 
 --- filters
-||img.footprintlive.com^
-||script.footprintlive.com^
+||img.footprintlive.com^$3p
+||script.footprintlive.com^$3p
 --- filters
 
 ghostery_id: 619

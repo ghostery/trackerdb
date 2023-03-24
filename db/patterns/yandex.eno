@@ -13,10 +13,10 @@ yastatic.net
 --- domains
 
 --- filters
-||awaps.yandex.ru^
+||awaps.yandex.ru^$3p
 ||d31j93rd8oukbv.cloudfront.net/metrika/watch.js
 ||dl.metabar.ru/static/api/v2/sovetnik.js
-||mc.yandex.ru^
+||mc.yandex.ru^$3p
 ||static.sovetnik.yandex.net/static/js/sovetnik.webpartner.min.js
 ||yandex.ru/cycounter
 ||yandex.ru/informer

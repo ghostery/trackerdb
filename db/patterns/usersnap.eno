@@ -9,9 +9,9 @@ d3mvnvhjmkxpjz.cloudfront.net
 --- domains
 
 --- filters
-||api.usersnap.com^
+||api.usersnap.com^$3p
 ||d3mvnvhjmkxpjz.cloudfront.net/js/
-||d3mvnvhjmkxpjz.cloudfront.net^
+||d3mvnvhjmkxpjz.cloudfront.net^$3p
 --- filters
 
 ghostery_id: 2076

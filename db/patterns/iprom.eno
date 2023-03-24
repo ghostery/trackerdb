@@ -9,8 +9,8 @@ iprom.net
 --- domains
 
 --- filters
-||centraliprom.com^
-||iprom.net^
+||centraliprom.com^$3p
+||iprom.net^$3p
 --- filters
 
 ghostery_id: 775

@@ -9,8 +9,8 @@ tweetriver.com
 --- domains
 
 --- filters
-||massrelevance.com^
-||tweetriver.com^
+||massrelevance.com^$3p
+||tweetriver.com^$3p
 --- filters
 
 ghostery_id: 1482

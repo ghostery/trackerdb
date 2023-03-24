@@ -9,9 +9,9 @@ adorika.net
 --- domains
 
 --- filters
-||ad.clickotmedia.com^
-||adorika.com^
-||adorika.net^
+||ad.clickotmedia.com^$3p
+||adorika.com^$3p
+||adorika.net^$3p
 --- filters
 
 ghostery_id: 613

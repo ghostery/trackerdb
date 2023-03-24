@@ -6,7 +6,7 @@ alias: facebook
 
 --- filters
 ||facebook.com/tr
-||liverail.com^
+||liverail.com^$3p
 --- filters
 
 ghostery_id: 2148

@@ -5,9 +5,9 @@ organization: sap
 alias: gigya
 
 --- filters
-||c.gigcount.com^
+||c.gigcount.com^$3p
 ||cdn.gigya.com/js/gigya.js
-||counters.gigya.com^
+||counters.gigya.com^$3p
 --- filters
 
 ghostery_id: 432

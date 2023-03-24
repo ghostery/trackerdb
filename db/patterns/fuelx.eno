@@ -9,8 +9,8 @@ cookie.fuel451.com
 
 --- filters
 ||cookie.fuel451.com/tracksa.min.js
-||fsr.fuel451.com^
-||tr.fuelx.com^
+||fsr.fuel451.com^$3p
+||tr.fuelx.com^$3p
 --- filters
 
 ghostery_id: 2436

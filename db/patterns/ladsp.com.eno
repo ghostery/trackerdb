@@ -10,9 +10,9 @@ ladsp.com
 --- domains
 
 --- filters
-||cd-ladsp-com.s3.amazonaws.com^
-||ladmp.com^
-||ladsp.com^
+||cd-ladsp-com.s3.amazonaws.com^$3p
+||ladmp.com^$3p
+||ladsp.com^$3p
 --- filters
 
 ghostery_id: 1816

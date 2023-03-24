@@ -8,8 +8,8 @@ geotrust.com
 --- domains
 
 --- filters
-||seal.geotrust.com^
-||smarticon.geotrust.com^
+||seal.geotrust.com^$3p
+||smarticon.geotrust.com^$3p
 --- filters
 
 ghostery_id: 2109

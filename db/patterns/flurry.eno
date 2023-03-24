@@ -10,7 +10,7 @@ data.flurry.com
 
 --- filters
 ||cdn.flurry.com/js/
-||data.flurry.com^
+||data.flurry.com^$3p
 --- filters
 
 ghostery_id: 1892

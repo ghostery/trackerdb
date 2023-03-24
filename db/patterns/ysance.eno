@@ -10,7 +10,7 @@ y-track.com
 
 --- filters
 ||prod-js.aws.y-track.com/yt-000015-1/v5/tracker.min.js
-||y-track.com^
+||y-track.com^$3p
 --- filters
 
 ghostery_id: 2832

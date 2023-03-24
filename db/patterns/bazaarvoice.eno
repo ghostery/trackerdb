@@ -10,11 +10,11 @@ bazaarvoice.com
 --- filters
 /bazaarvoice.js
 ||analytics-static.ugc.bazaarvoice.com/prod/static/3/bv-analytics.js
-||apps.nexus.bazaarvoice.com^
-||network.bazaarvoice.com^
-||reviews.bazaarvoice.com^
+||apps.nexus.bazaarvoice.com^$3p
+||network.bazaarvoice.com^$3p
+||reviews.bazaarvoice.com^$3p
 ||static.curations.bazaarvoice.com/gallery/skii/prod/loader.js
-||ugc.bazaarvoice.com^
+||ugc.bazaarvoice.com^$3p
 --- filters
 
 ghostery_id: 974

@@ -10,8 +10,8 @@ wingify.com
 --- domains
 
 --- filters
-||d5phz18u4wuww.cloudfront.net^
-||dev.visualwebsiteoptimizer.com^
+||d5phz18u4wuww.cloudfront.net^$3p
+||dev.visualwebsiteoptimizer.com^$3p
 ||s3.amazonaws.com/wingify/vis_opt.js
 ||server.wingify.com/app/js/code/wg_consolidated.js
 --- filters

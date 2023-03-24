@@ -8,8 +8,8 @@ bidvertiser.com
 --- domains
 
 --- filters
-||bdv.bidvertiser.com^
-||srv.bidvertiser.com^
+||bdv.bidvertiser.com^$3p
+||srv.bidvertiser.com^$3p
 --- filters
 
 ghostery_id: 273

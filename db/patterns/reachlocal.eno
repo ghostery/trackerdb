@@ -12,9 +12,9 @@ rlcdn.net
 
 --- filters
 ||cdn.rlets.com/capture_static/mms/mms.js
-||reachlocal.com^
-||reachlocallivechat.com^
-||rlcdn.net^
+||reachlocal.com^$3p
+||reachlocallivechat.com^$3p
+||rlcdn.net^$3p
 --- filters
 
 ghostery_id: 780

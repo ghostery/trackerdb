@@ -9,8 +9,8 @@ leady.cz
 --- domains
 
 --- filters
-||leady.com^
-||leady.cz^
+||leady.com^$3p
+||leady.cz^$3p
 --- filters
 
 ghostery_id: 2001

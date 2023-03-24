@@ -8,8 +8,8 @@ nimblecommerce.com
 --- domains
 
 --- filters
-||us2widget.nimblecommerce.com^
-||us3widget.nimblecommerce.com^
+||us2widget.nimblecommerce.com^$3p
+||us3widget.nimblecommerce.com^$3p
 --- filters
 
 ghostery_id: 2026

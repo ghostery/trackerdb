@@ -10,10 +10,10 @@ truehits.net
 --- domains
 
 --- filters
-||addoer.com^
-||banner.truehits.net^
-||poll.truehits.net^
-||truehits.in.th/^
+||addoer.com^$3p
+||banner.truehits.net^$3p
+||poll.truehits.net^$3p
+||truehits.in.th/^$3p
 --- filters
 
 ghostery_id: 1357

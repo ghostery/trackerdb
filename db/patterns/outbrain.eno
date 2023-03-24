@@ -12,9 +12,9 @@ outbrainimg.com
 ||odb.outbrain.com/utils/get
 ||revee.outbrain.com/page/update
 ||revee.outbrain.com/page/view
-||sync.outbrain.com^
+||sync.outbrain.com^$3p
 ||traffic.outbrain.com/network/trackpxl
-||widgets.outbrain.com^
+||widgets.outbrain.com^$3p
 --- filters
 
 ghostery_id: 68

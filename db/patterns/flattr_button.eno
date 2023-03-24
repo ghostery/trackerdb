@@ -8,7 +8,7 @@ flattr.com
 --- domains
 
 --- filters
-||api.flattr.com/*/load.js^
+||api.flattr.com/*/load.js^$3p
 ||api.flattr.com/button
 --- filters
 

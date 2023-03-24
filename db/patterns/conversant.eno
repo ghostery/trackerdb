@@ -10,9 +10,9 @@ mplxtms.com
 --- domains
 
 --- filters
-||fastclick.net^
-||mediaplex.com^
-||mplxtms.com^
+||fastclick.net^$3p
+||mediaplex.com^$3p
+||mplxtms.com^$3p
 --- filters
 
 ghostery_id: 531

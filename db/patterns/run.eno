@@ -9,8 +9,8 @@ rundsp.com
 --- domains
 
 --- filters
-||match.rundsp.com^
-||runadtag.com^
+||match.rundsp.com^$3p
+||runadtag.com^$3p
 --- filters
 
 ghostery_id: 1947

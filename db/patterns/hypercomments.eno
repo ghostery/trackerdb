@@ -8,8 +8,8 @@ hypercomments.com
 --- domains
 
 --- filters
-||w.hypercomments.com^
-||widget.hypercomments.com^
+||w.hypercomments.com^$3p
+||widget.hypercomments.com^$3p
 --- filters
 
 ghostery_id: 2123

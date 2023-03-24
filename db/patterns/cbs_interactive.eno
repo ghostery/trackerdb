@@ -10,10 +10,10 @@ dw.com.com
 --- domains
 
 --- filters
-||adlog.com.com^
-||bwp.cnet.com^
+||adlog.com.com^$3p
+||bwp.cnet.com^$3p
 ||can.cbs.com/thunder/player/chrome/smart_tag/1_2_0/tag.iife.min.js
-||dw.com.com^
+||dw.com.com^$3p
 ||i.i.com.com/cnwk.1d/ads/
 ||vidtech.cbsinteractive.com/uvpjs/2.5.8/lib/tracking/comscore/streamsense.5.1.1.160316.min.js
 --- filters

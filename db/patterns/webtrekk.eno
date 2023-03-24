@@ -19,10 +19,10 @@ wt-safetag.com
 --- filters
 /webtrekk*.js^
 ||cdn.wbtrk.net/js/geid.min.js
-||responder.wt-safetag.com^
-||webtrekk-asia.net^
-||webtrekk.de/^
-||webtrekk.net^
+||responder.wt-safetag.com^$3p
+||webtrekk-asia.net^$3p
+||webtrekk.de/^$3p
+||webtrekk.net^$3p
 --- filters
 
 ghostery_id: 269

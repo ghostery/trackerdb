@@ -9,8 +9,8 @@ nspmotion.com
 --- domains
 
 --- filters
-||dmmotion.com^
-||nspmotion.com^
+||dmmotion.com^$3p
+||nspmotion.com^$3p
 --- filters
 
 ghostery_id: 499

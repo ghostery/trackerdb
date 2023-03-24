@@ -9,8 +9,8 @@ tritondigital.com
 --- domains
 
 --- filters
-||andomedia.com^
-||tritondigital.com^
+||andomedia.com^$3p
+||tritondigital.com^$3p
 --- filters
 
 ghostery_id: 1209

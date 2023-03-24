@@ -9,8 +9,8 @@ estat.com
 --- domains
 
 --- filters
-||cybermonitor.com^
-||estat.com^
+||cybermonitor.com^$3p
+||estat.com^$3p
 --- filters
 
 ghostery_id: 311

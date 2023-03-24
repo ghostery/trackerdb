@@ -9,8 +9,8 @@ adcheck.about.co.kr
 --- domains
 
 --- filters
-||ad.about.co.kr^
-||adcheck.about.co.kr^
+||ad.about.co.kr^$3p
+||adcheck.about.co.kr^$3p
 --- filters
 
 ghostery_id: 2020

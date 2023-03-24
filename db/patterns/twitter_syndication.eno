@@ -8,7 +8,7 @@ syndication.twitter.com
 --- domains
 
 --- filters
-||syndication.twitter.com^
+||syndication.twitter.com^$3p
 --- filters
 
 ghostery_id: 2337

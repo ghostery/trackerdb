@@ -9,7 +9,7 @@ treasuredata.com
 
 --- filters
 ||cdn.treasuredata.com/sdk
-||in.treasuredata.com^
+||in.treasuredata.com^$3p
 --- filters
 
 ghostery_id: 2597

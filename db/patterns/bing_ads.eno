@@ -13,8 +13,8 @@ bing.net
 ||ads.msn.com/library/dap.js
 ||ads1.msn.com/library/dap.js
 ||adsyndication.msn.com/delivery/getads.js
-||bat.bing.com^
-||bat.r.msn.com^
+||bat.bing.com^$3p
+||bat.r.msn.com^$3p
 ||flex.msn.com/mstag/
 --- filters
 

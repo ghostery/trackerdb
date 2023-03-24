@@ -9,8 +9,8 @@ knotice.net
 --- domains
 
 --- filters
-||ignitionone.com^
-||knotice.net^
+||ignitionone.com^$3p
+||knotice.net^$3p
 --- filters
 
 ghostery_id: 2301

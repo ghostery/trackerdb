@@ -9,9 +9,9 @@ pinterest.com
 --- domains
 
 --- filters
-||api.pinterest.com^
+||api.pinterest.com^$3p
 ||assets.pinterest.com/js/pinit.js
-||ct.pinterest.com^
+||ct.pinterest.com^$3p
 ||d3io1k5o0zdpqr.cloudfront.net/js/pinit.js
 ||pinterest.com/images/about/buttons/pinterest-button.png
 ||pinterest.com/images/follow-on-pinterest-button.png
@@ -19,7 +19,7 @@ pinterest.com
 ||pinterest.com/images/pidgets/pinit
 ||pinterest.com/images/pinext.png
 ||pinterest.com/images/pinterest-button.png
-||s-passets.pinimg.com^
+||s-passets.pinimg.com^$3p
 --- filters
 
 ghostery_id: 868

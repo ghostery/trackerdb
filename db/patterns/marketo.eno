@@ -10,9 +10,9 @@ mktoresp.com
 --- domains
 
 --- filters
-||marketo.com^
-||marketo.net^
-||mktoresp.com^
+||marketo.com^$3p
+||marketo.net^$3p
+||mktoresp.com^$3p
 --- filters
 
 ghostery_id: 159

@@ -14,7 +14,7 @@ ok.ru
 --- filters
 ||connect.mail.ru/js/loader.js
 ||connect.mail.ru/share
-||connect.ok.ru^
+||connect.ok.ru^$3p
 ||stg.odnoklassniki.ru/share/odkl_share.js
 ||top-fwz1.mail.ru/js/code.js
 ||top-fwz1.mail.ru/tracker

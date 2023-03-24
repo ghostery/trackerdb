@@ -12,11 +12,11 @@ himediadx.com
 --- domains
 
 --- filters
-||adlink.net^
-||comclick.com^
-||hi-mediaserver.com^
-||himediads.com^
-||himediadx.com^
+||adlink.net^$3p
+||comclick.com^$3p
+||hi-mediaserver.com^$3p
+||himediads.com^$3p
+||himediadx.com^$3p
 --- filters
 
 ghostery_id: 715

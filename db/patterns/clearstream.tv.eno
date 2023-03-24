@@ -8,10 +8,10 @@ tag.clrstm.com
 --- domains
 
 --- filters
-||tag.clrstm.com^
-||track.clrstm.com^
-||video.clrstm.com^
-||view.clrstm.com^
+||tag.clrstm.com^$3p
+||track.clrstm.com^$3p
+||video.clrstm.com^$3p
+||view.clrstm.com^$3p
 --- filters
 
 ghostery_id: 2162

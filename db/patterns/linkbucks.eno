@@ -10,7 +10,7 @@ linkbucks.com
 --- filters
 /visitscript^
 /webservices/jsparselinks.aspx
-||linkbucks.com^
+||linkbucks.com^$3p
 --- filters
 
 ghostery_id: 1957

@@ -8,13 +8,13 @@ tm.dentsu.de
 --- domains
 
 --- filters
-||data.dentsu.de^
-||ic.dentsu.de^
-||imp.dentsu.de^
+||data.dentsu.de^$3p
+||ic.dentsu.de^$3p
+||imp.dentsu.de^$3p
 ||tm.dentsu.de/1tag-cmp-template/prod/utag.js
 ||tm.dentsu.de/iframe-00-template-v1/prod/utag.js
-||tm.dentsu.de^
-||visitor.dentsu.de^
+||tm.dentsu.de^$3p
+||visitor.dentsu.de^$3p
 --- filters
 
 ghostery_id: 3285

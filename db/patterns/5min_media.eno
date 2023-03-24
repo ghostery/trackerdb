@@ -8,7 +8,7 @@ organization: verizon
 --- domains
 
 --- filters
-||5min.com^
+||5min.com^$3p
 --- filters
 
 ghostery_id: 541

@@ -9,10 +9,10 @@ richrelevance.com
 --- domains
 
 --- filters
-||ics0.com^
-||media.richrelevance.com^
-||recs.richrelevance.com^
-||static.richrelevance.net/*/rr.js^
+||ics0.com^$3p
+||media.richrelevance.com^$3p
+||recs.richrelevance.com^$3p
+||static.richrelevance.net/*/rr.js^$3p
 --- filters
 
 ghostery_id: 224

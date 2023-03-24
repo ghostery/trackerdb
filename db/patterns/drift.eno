@@ -9,8 +9,8 @@ js.driftt.com
 --- domains
 
 --- filters
-||api.drift.com^
-||js.driftt.com^
+||api.drift.com^$3p
+||js.driftt.com^$3p
 --- filters
 
 ghostery_id: 2781

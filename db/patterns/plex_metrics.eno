@@ -9,8 +9,8 @@ metrics.plex.tv
 --- domains
 
 --- filters
-||analytics.plex.tv^
-||metrics.plex.tv^
+||analytics.plex.tv^$3p
+||metrics.plex.tv^$3p
 --- filters
 
 ghostery_id: 3020

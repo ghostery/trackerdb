@@ -11,10 +11,10 @@ sentry.io
 --- domains
 
 --- filters
-||api.getsentry.com^
-||app.getsentry.com^
-||cdn.ravenjs.com^
-||d3nslu0hdya83q.cloudfront.net^
+||api.getsentry.com^$3p
+||app.getsentry.com^$3p
+||cdn.ravenjs.com^$3p
+||d3nslu0hdya83q.cloudfront.net^$3p
 --- filters
 
 ghostery_id: 1754

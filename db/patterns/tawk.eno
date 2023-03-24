@@ -8,7 +8,7 @@ tawk.to
 --- domains
 
 --- filters
-||embed.tawk.to^
+||embed.tawk.to^$3p
 --- filters
 
 ghostery_id: 2417

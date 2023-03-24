@@ -11,10 +11,10 @@ p.admob.com
 --- domains
 
 --- filters
-||a.admob.com^
-||mm.admob.com^
-||mmv.admob.com^
-||p.admob.com^
+||a.admob.com^$3p
+||mm.admob.com^$3p
+||mmv.admob.com^$3p
+||p.admob.com^$3p
 --- filters
 
 ghostery_id: 912

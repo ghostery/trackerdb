@@ -9,8 +9,8 @@ adnet.de
 --- domains
 
 --- filters
-||adnet.biz^
-||adnet.de^
+||adnet.biz^$3p
+||adnet.de^$3p
 --- filters
 
 ghostery_id: 1413

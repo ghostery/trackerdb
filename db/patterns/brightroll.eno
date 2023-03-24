@@ -8,8 +8,8 @@ btrll.com
 --- domains
 
 --- filters
-||btrll.com^
-||cache.btrll.com^
+||btrll.com^$3p
+||cache.btrll.com^$3p
 --- filters
 
 ghostery_id: 500

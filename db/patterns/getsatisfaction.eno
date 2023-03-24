@@ -8,7 +8,7 @@ gsfn.us
 --- domains
 
 --- filters
-||loader.engage.gsfn.us^
+||loader.engage.gsfn.us^$3p
 ||s3.amazonaws.com/getsatisfaction.com/feedback/feedback.js
 ||s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js
 --- filters

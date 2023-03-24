@@ -10,9 +10,9 @@ livechatinc.net
 --- domains
 
 --- filters
-||livechat.s3.amazonaws.com^
-||livechatinc.com^
-||livechatinc.net^
+||livechat.s3.amazonaws.com^$3p
+||livechatinc.com^$3p
+||livechatinc.net^$3p
 --- filters
 
 ghostery_id: 1618

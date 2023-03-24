@@ -10,8 +10,8 @@ optorb.com
 
 --- filters
 ||cdn.nprove.com/npcore.js
-||go.cpmadvisors.com/^
-||optorb.com^
+||go.cpmadvisors.com/^$3p
+||optorb.com^$3p
 --- filters
 
 ghostery_id: 370

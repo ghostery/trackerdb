@@ -9,8 +9,8 @@ dmtracker.com
 --- domains
 
 --- filters
-||dmd53.com^
-||dmtracker.com/^
+||dmd53.com^$3p
+||dmtracker.com/^$3p
 --- filters
 
 ghostery_id: 304

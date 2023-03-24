@@ -9,8 +9,8 @@ googletagservices.com
 --- domains
 
 --- filters
-||googletagmanager.com^
-||googletagservices.com^
+||googletagmanager.com^$3p
+||googletagservices.com^$3p
 --- filters
 
 ghostery_id: 1283

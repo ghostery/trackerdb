@@ -8,9 +8,9 @@ digg.com
 --- domains
 
 --- filters
-||digg.com/*/diggthis.js^
+||digg.com/*/diggthis.js^$3p
 ||digg.com/tools/widgetjs
-||widgets.digg.com^
+||widgets.digg.com^$3p
 --- filters
 
 ghostery_id: 100

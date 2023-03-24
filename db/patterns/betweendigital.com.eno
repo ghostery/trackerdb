@@ -9,8 +9,8 @@ intencysrv.com
 --- domains
 
 --- filters
-||betweendigital.com^
-||intencysrv.com^
+||betweendigital.com^$3p
+||intencysrv.com^$3p
 --- filters
 
 ghostery_id: 1488

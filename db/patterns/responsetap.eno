@@ -10,10 +10,10 @@ responsetap.com
 --- domains
 
 --- filters
-||adinsight.com^
-||adinsight.eu^
+||adinsight.com^$3p
+||adinsight.eu^$3p
 ||metrics.responsetap.com/static/scripts/rtaptrack.min.js
-||responsetap.com^
+||responsetap.com^$3p
 ||static-ssl.responsetap.com/static/scripts/rTapTrack.min.js
 --- filters
 

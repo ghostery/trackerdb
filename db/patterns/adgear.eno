@@ -9,8 +9,8 @@ adgrx.com
 --- domains
 
 --- filters
-||adgear.com^
-||adgrx.com^
+||adgear.com^$3p
+||adgrx.com^$3p
 --- filters
 
 ghostery_id: 391

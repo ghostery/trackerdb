@@ -10,9 +10,9 @@ dnhgz729v27ca.cloudfront.net
 --- domains
 
 --- filters
-||convertglobal.com^
-||convertglobal.s3.amazonaws.com^
-||dnhgz729v27ca.cloudfront.net^
+||convertglobal.com^$3p
+||convertglobal.s3.amazonaws.com^$3p
+||dnhgz729v27ca.cloudfront.net^$3p
 --- filters
 
 ghostery_id: 814

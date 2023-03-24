@@ -8,7 +8,7 @@ analytics.twitter.com
 --- domains
 
 --- filters
-||analytics.twitter.com^
+||analytics.twitter.com^$3p
 --- filters
 
 ghostery_id: 2716

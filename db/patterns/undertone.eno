@@ -8,9 +8,9 @@ undertone.com
 --- domains
 
 --- filters
-||ads.undertone.com^
+||ads.undertone.com^$3p
 ||cdn.undertone.com/js/ajs.js
-||undertone.com^
+||undertone.com^$3p
 --- filters
 
 ghostery_id: 386

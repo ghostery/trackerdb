@@ -8,8 +8,8 @@ ic-live.com
 --- domains
 
 --- filters
-||ic-live.com^
-||sptag3.com^
+||ic-live.com^$3p
+||sptag3.com^$3p
 --- filters
 
 ghostery_id: 408

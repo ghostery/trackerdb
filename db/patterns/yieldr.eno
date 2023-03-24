@@ -8,7 +8,7 @@ organization: yieldr
 --- domains
 
 --- filters
-||254a.com^
+||254a.com^$3p
 --- filters
 
 ghostery_id: 1032

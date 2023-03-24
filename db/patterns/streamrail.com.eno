@@ -9,7 +9,7 @@ streamrail.net
 --- domains
 
 --- filters
-||sdk.streamrail.com/vpaid/js/*/sam.js^
+||sdk.streamrail.com/vpaid/js/*/sam.js^$3p
 --- filters
 
 ghostery_id: 3053

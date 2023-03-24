@@ -9,8 +9,8 @@ triggit.com
 --- domains
 
 --- filters
-||pixelinteractivemedia.com^
-||triggit.com^
+||pixelinteractivemedia.com^$3p
+||triggit.com^$3p
 --- filters
 
 ghostery_id: 99

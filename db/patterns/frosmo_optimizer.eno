@@ -10,9 +10,9 @@ inpref.s3.amazonaws.com
 --- domains
 
 --- filters
-||inpref.com^
-||inpref.s3-external-3.amazonaws.com^
-||inpref.s3.amazonaws.com^
+||inpref.com^$3p
+||inpref.s3-external-3.amazonaws.com^$3p
+||inpref.s3.amazonaws.com^$3p
 --- filters
 
 ghostery_id: 1373

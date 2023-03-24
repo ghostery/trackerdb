@@ -9,7 +9,7 @@ graph.facebook.com
 
 --- filters
 ||api.facebook.com/method/fql.query
-||graph.facebook.com^
+||graph.facebook.com^$3p
 --- filters
 
 ghostery_id: 922

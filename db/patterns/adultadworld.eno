@@ -9,8 +9,8 @@ adworldmedia.com
 --- domains
 
 --- filters
-||adultadworld.com^
-||adworldmedia.com^
+||adultadworld.com^$3p
+||adworldmedia.com^$3p
 --- filters
 
 ghostery_id: 74

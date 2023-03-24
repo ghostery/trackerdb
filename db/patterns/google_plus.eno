@@ -5,8 +5,8 @@ organization: google
 alias: google
 
 --- filters
-||plus.google.com/js/client:plusone.js^
-||google.com/_/+1/fastbutton^
+||plus.google.com/js/client:plusone.js^$3p
+||google.com/_/+1/fastbutton^$3p
 ||apis.google.com/js/platform.js
 ||apis.google.com/js/plusone.js
 --- filters

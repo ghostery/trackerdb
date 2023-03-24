@@ -9,8 +9,8 @@ craktraffic.com
 --- domains
 
 --- filters
-||ads.crakmedia.com^
-||craktraffic.com^
+||ads.crakmedia.com^$3p
+||craktraffic.com^$3p
 --- filters
 
 ghostery_id: 1225

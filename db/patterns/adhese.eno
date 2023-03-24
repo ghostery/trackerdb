@@ -11,9 +11,9 @@ adhese.net
 
 --- filters
 ||1.adhesecdn.be/pool/lib/
-||adhese.be^
-||adhese.com^
-||adhese.net^
+||adhese.be^$3p
+||adhese.com^$3p
+||adhese.net^$3p
 --- filters
 
 ghostery_id: 958

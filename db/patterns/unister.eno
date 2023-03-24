@@ -9,9 +9,9 @@ unister-gmbh.de
 --- domains
 
 --- filters
-||analytics-static.unister-gmbh.de^
-||analytics.unister-gmbh.de^
-||unister-adservices.com^
+||analytics-static.unister-gmbh.de^$3p
+||analytics.unister-gmbh.de^$3p
+||unister-adservices.com^$3p
 --- filters
 
 ghostery_id: 1029

@@ -10,9 +10,9 @@ emediate.se
 --- domains
 
 --- filters
-||emediate.dk^
-||emediate.eu^
-||emediate.se^
+||emediate.dk^$3p
+||emediate.eu^$3p
+||emediate.se^$3p
 --- filters
 
 ghostery_id: 735
