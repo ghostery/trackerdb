@@ -9,8 +9,8 @@ cpx.to
 --- domains
 
 --- filters
-||captifymedia.com^
-||cpx.to^
+||captifymedia.com^$3p
+||cpx.to^$3p
 --- filters
 
 ghostery_id: 1565

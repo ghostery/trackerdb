@@ -10,9 +10,9 @@ thebrighttag.com
 --- domains
 
 --- filters
-||btstatic.com^
-||s.thebrighttag.com^
-||tags.sitetagger.co.uk/^
+||btstatic.com^$3p
+||s.thebrighttag.com^$3p
+||tags.sitetagger.co.uk/^$3p
 --- filters
 
 ghostery_id: 508

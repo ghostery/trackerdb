@@ -8,7 +8,7 @@ tvsquared.com
 --- domains
 
 --- filters
-||collector-*.tvsquared.com/tv2track.js^
+||collector-*.tvsquared.com/tv2track.js^$3p
 --- filters
 
 ghostery_id: 3062

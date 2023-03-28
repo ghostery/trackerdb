@@ -9,8 +9,8 @@ salesforceliveagent.com
 --- domains
 
 --- filters
-||liveagentforsalesforce.com^
-||salesforceliveagent.com^
+||liveagentforsalesforce.com^$3p
+||salesforceliveagent.com^$3p
 --- filters
 
 ghostery_id: 1063

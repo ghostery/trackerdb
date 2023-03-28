@@ -6,7 +6,7 @@ alias: doubleclick
 
 --- filters
 ||bid.g.doubleclick.net/xbbe
-||invitemedia.com^
+||invitemedia.com^$3p
 --- filters
 
 ghostery_id: 318

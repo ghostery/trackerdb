@@ -9,8 +9,8 @@ voicestar.com
 --- domains
 
 --- filters
-||px.marchex.io^
-||voicestar.com^
+||px.marchex.io^$3p
+||voicestar.com^$3p
 --- filters
 
 ghostery_id: 314

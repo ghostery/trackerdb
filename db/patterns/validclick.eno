@@ -9,9 +9,9 @@ js.searchlinks.com
 --- domains
 
 --- filters
-||api.searchlinks.com^
-||js.searchlinks.com^
-||results.searchlinks.com^
+||api.searchlinks.com^$3p
+||js.searchlinks.com^$3p
+||results.searchlinks.com^$3p
 ||validclick.com/api/census
 --- filters
 

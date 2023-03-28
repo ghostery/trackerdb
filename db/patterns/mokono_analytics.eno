@@ -8,8 +8,8 @@ mokonocdn.com
 --- domains
 
 --- filters
-||analytics.mpn.mokonocdn.com^
-||mpn-analytics.mokonocdn.com^
+||analytics.mpn.mokonocdn.com^$3p
+||mpn-analytics.mokonocdn.com^$3p
 --- filters
 
 ghostery_id: 1178

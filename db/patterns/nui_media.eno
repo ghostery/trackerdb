@@ -10,7 +10,7 @@ rotator.adjuggler.com
 --- filters
 /banners/ajtg.js
 /servlet/ajrotator^
-||rotator.adjuggler.com^
+||rotator.adjuggler.com^$3p
 --- filters
 
 ghostery_id: 348

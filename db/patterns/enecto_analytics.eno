@@ -9,8 +9,8 @@ trk.enecto.com
 --- domains
 
 --- filters
-||enectoanalytics.com^
-||trk.enecto.com^
+||enectoanalytics.com^$3p
+||trk.enecto.com^$3p
 --- filters
 
 ghostery_id: 985

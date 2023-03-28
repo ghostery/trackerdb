@@ -11,10 +11,10 @@ taboolasyndication.com
 
 --- filters
 /taboola_newsroom_article.js
-||basebanner.com^
-||cmbestsrv.com^
-||taboola.com^
-||taboolasyndication.com^
+||basebanner.com^$3p
+||cmbestsrv.com^$3p
+||taboola.com^$3p
+||taboolasyndication.com^$3p
 --- filters
 
 ghostery_id: 951

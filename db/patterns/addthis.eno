@@ -12,9 +12,9 @@ addthisedge.com
 --- filters
 /addthis_widget.js
 /addthis_widget.php
-||addthis.com^
-||addthisedge.com^
-||l.addthiscdn.com^
+||addthis.com^$3p
+||addthisedge.com^$3p
+||l.addthiscdn.com^$3p
 ||s7.addthis.com/js/300/addthis_widget.js
 --- filters
 

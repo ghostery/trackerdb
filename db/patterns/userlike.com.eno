@@ -10,8 +10,8 @@ userlike.com
 --- domains
 
 --- filters
-||api.userlike.com^
-||userlike-cdn-widgets.s3-eu-west-1.amazonaws.com^
+||api.userlike.com^$3p
+||userlike-cdn-widgets.s3-eu-west-1.amazonaws.com^$3p
 --- filters
 
 ghostery_id: 3155

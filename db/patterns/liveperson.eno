@@ -9,8 +9,8 @@ lpsnmedia.net
 --- domains
 
 --- filters
-||liveperson.net^
-||lpsnmedia.net^
+||liveperson.net^$3p
+||lpsnmedia.net^$3p
 --- filters
 
 ghostery_id: 106

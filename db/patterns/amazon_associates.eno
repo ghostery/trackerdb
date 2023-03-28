@@ -13,12 +13,12 @@ assoc-amazon.jp
 --- domains
 
 --- filters
-||assoc-amazon.ca^
-||assoc-amazon.co.uk^
-||assoc-amazon.com^
-||assoc-amazon.de^
-||assoc-amazon.fr^
-||assoc-amazon.jp^
+||assoc-amazon.ca^$3p
+||assoc-amazon.co.uk^$3p
+||assoc-amazon.com^$3p
+||assoc-amazon.de^$3p
+||assoc-amazon.fr^$3p
+||assoc-amazon.jp^$3p
 ||rcm-ca.amazon.ca/e/cm
 ||rcm-de.amazon.de/e/cm
 ||rcm-es.amazon.es/e/cm

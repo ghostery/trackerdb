@@ -10,11 +10,11 @@ nr-data.net
 --- domains
 
 --- filters
-||d1ros97qkrwjf5.cloudfront.net^
+||d1ros97qkrwjf5.cloudfront.net^$3p
 ||js-agent.newrelic.com/nr
 ||js-agent.newrelic.com/nr-1026.min.js
-||newrelic.com^
-||nr-data.net^
+||newrelic.com^$3p
+||nr-data.net^$3p
 ||pm.newrelic.com/javascripts/remote_forgery_protection.js
 --- filters
 

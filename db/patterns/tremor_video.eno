@@ -12,11 +12,11 @@ videohub.tv
 --- domains
 
 --- filters
-||cdna.tremormedia.com^
+||cdna.tremormedia.com^$3p
 ||dt.videohub.tv/v1/usync/tt
 ||objects.tremormedia.com/embed/js
 ||objects.tremormedia.com/net/js/ads.js
-||scanscout.com^
+||scanscout.com^$3p
 --- filters
 
 ghostery_id: 466

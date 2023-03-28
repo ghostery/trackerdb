@@ -8,7 +8,7 @@ tracking.bol.com
 --- domains
 
 --- filters
-||tracking.bol.com^
+||tracking.bol.com^$3p
 --- filters
 
 ghostery_id: 1443

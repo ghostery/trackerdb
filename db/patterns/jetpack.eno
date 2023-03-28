@@ -9,7 +9,7 @@ stats.wp.com
 --- domains
 
 --- filters
-||pixel.wp.com^
+||pixel.wp.com^$3p
 ||stats.wp.com/w.js
 --- filters
 

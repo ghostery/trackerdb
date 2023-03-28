@@ -9,8 +9,8 @@ clickpoint.it
 --- domains
 
 --- filters
-||clickpoint.com^
-||clickpoint.it^
+||clickpoint.com^$3p
+||clickpoint.it^$3p
 --- filters
 
 ghostery_id: 2087

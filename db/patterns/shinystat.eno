@@ -9,8 +9,8 @@ shinystat.it
 --- domains
 
 --- filters
-||shinystat.com^
-||shinystat.it^
+||shinystat.com^$3p
+||shinystat.it^$3p
 --- filters
 
 ghostery_id: 194

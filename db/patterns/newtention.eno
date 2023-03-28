@@ -9,10 +9,10 @@ ads.newtentionassets.net
 --- domains
 
 --- filters
-||ads.newtention.net^
-||ads.newtentionassets.net^
-||newtention.net^
-||trk.newtention.net^
+||ads.newtention.net^$3p
+||ads.newtentionassets.net^$3p
+||newtention.net^$3p
+||trk.newtention.net^$3p
 --- filters
 
 ghostery_id: 610

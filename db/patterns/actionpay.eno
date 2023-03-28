@@ -10,9 +10,9 @@ adonweb.ru
 --- domains
 
 --- filters
-||actionpay.ru^
-||adnwb.ru^
-||adonweb.ru^
+||actionpay.ru^$3p
+||adnwb.ru^$3p
+||adonweb.ru^$3p
 --- filters
 
 ghostery_id: 1230

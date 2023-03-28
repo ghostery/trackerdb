@@ -9,8 +9,8 @@ popadscdn.net
 --- domains
 
 --- filters
-||popads.net^
-||popadscdn.net^
+||popads.net^$3p
+||popadscdn.net^$3p
 --- filters
 
 ghostery_id: 838

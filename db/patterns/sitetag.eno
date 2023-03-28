@@ -9,8 +9,8 @@ sitetag.us
 --- domains
 
 --- filters
-||ad.sitemaji.com^
-||sitetag.us/^
+||ad.sitemaji.com^$3p
+||sitetag.us/^$3p
 --- filters
 
 ghostery_id: 1706

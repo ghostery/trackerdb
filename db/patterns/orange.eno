@@ -9,10 +9,10 @@ orangeads.fr
 --- domains
 
 --- filters
-||c.orange.fr^
-||gstat.orange.fr^
-||iapref.orange.fr^
-||orangeads.fr^
+||c.orange.fr^$3p
+||gstat.orange.fr^$3p
+||iapref.orange.fr^$3p
+||orangeads.fr^$3p
 --- filters
 
 ghostery_id: 1743

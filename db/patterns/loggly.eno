@@ -8,7 +8,7 @@ loggly.com
 --- domains
 
 --- filters
-||loggly.com^
+||loggly.com^$3p
 --- filters
 
 ghostery_id: 1351

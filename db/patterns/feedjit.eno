@@ -12,7 +12,7 @@ log.feedjit.com
 ||feedjit.com/b/
 ||feedjit.com/map/
 ||feedjit.com/serve/
-||log.feedjit.com^
+||log.feedjit.com^$3p
 --- filters
 
 ghostery_id: 36

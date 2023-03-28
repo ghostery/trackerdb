@@ -8,10 +8,10 @@ dynamicyield.com
 --- domains
 
 --- filters
-||cdn.dynamicyield.com/api/*/api_dynamic.js^
-||static.dynamicyield.com/scripts/*/dy-coll-min.js^
-||px.dynamicyield.com^
-||st.dynamicyield.com^
+||cdn.dynamicyield.com/api/*/api_dynamic.js^$3p
+||static.dynamicyield.com/scripts/*/dy-coll-min.js^$3p
+||px.dynamicyield.com^$3p
+||st.dynamicyield.com^$3p
 --- filters
 
 ghostery_id: 2822

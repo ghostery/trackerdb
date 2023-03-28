@@ -8,9 +8,9 @@ spoutable.com
 --- domains
 
 --- filters
-||cdn.spoutable.com^
+||cdn.spoutable.com^$3p
 ||e.spoutable.com/e
-||s.spoutable.com^
+||s.spoutable.com^$3p
 --- filters
 
 ghostery_id: 2472

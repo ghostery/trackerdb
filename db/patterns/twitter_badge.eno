@@ -5,7 +5,7 @@ organization: twitter
 alias: twitter
 
 --- filters
-||twitter.com/javascripts/*.js^
+||twitter.com/javascripts/*.js^$3p
 ||twitter.com/1/statuses/followers.json
 ||twitter.com/1/statuses/user_timeline.json
 ||twitter.com/1/urls/count.json

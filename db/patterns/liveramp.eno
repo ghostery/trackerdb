@@ -11,8 +11,8 @@ rlcdn.com
 
 --- filters
 ||pippio.com/api/sync
-||rlcdn.com^
-||spruce.rapleaf.com^
+||rlcdn.com^$3p
+||spruce.rapleaf.com^$3p
 --- filters
 
 ghostery_id: 242

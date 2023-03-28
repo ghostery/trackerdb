@@ -9,8 +9,8 @@ d24n15hnbwhuhn.cloudfront.net
 --- domains
 
 --- filters
-||api.amplitude.com^
-||d24n15hnbwhuhn.cloudfront.net^
+||api.amplitude.com^$3p
+||d24n15hnbwhuhn.cloudfront.net^$3p
 --- filters
 
 ghostery_id: 2175

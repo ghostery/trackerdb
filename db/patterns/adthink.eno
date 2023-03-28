@@ -10,9 +10,9 @@ audienceinsights.net
 --- domains
 
 --- filters
-||advertstream.com^
-||secure.audienceinsights.net^
-||sspcash.com^
+||advertstream.com^$3p
+||secure.audienceinsights.net^$3p
+||sspcash.com^$3p
 ||static.audienceinsights.net/t.js
 --- filters
 

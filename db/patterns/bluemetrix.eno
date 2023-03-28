@@ -9,8 +9,8 @@ japanmetrix.jp
 --- domains
 
 --- filters
-||bmmetrix.com^
-||japanmetrix.jp/^
+||bmmetrix.com^$3p
+||japanmetrix.jp/^$3p
 --- filters
 
 ghostery_id: 128

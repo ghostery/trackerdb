@@ -10,7 +10,7 @@ trafficgate.net
 
 --- filters
 ||log.affiliate.rakuten.co.jp/mw/imp/a.gif
-||trafficgate.net^
+||trafficgate.net^$3p
 --- filters
 
 ghostery_id: 1645

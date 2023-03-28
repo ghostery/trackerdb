@@ -10,7 +10,7 @@ wp.com
 --- domains
 
 --- filters
-||stats.wordpress.com^
+||stats.wordpress.com^$3p
 --- filters
 
 ghostery_id: 24

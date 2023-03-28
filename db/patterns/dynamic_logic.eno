@@ -10,9 +10,9 @@ questionmarket.com
 --- domains
 
 --- filters
-||content.dl-rms.com/^
-||dlqm.net/^
-||questionmarket.com/^
+||content.dl-rms.com/^$3p
+||dlqm.net/^$3p
+||questionmarket.com/^$3p
 --- filters
 
 ghostery_id: 48

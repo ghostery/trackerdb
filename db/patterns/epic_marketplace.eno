@@ -8,7 +8,7 @@ trafficmp.com
 --- domains
 
 --- filters
-||trafficmp.com^
+||trafficmp.com^$3p
 --- filters
 
 ghostery_id: 176

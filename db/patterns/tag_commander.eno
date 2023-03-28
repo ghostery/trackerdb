@@ -9,8 +9,8 @@ tagcommander.com
 --- domains
 
 --- filters
-||commander1.com^
-||tagcommander.com^
+||commander1.com^$3p
+||tagcommander.com^$3p
 --- filters
 
 ghostery_id: 1586

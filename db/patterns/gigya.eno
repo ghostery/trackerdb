@@ -13,11 +13,11 @@ gigya.com
 /js/gigya-sharebar.min.js
 ||analytics.gigyahosting1.com/gigya-analytics.js
 ||cdn.gigya.com/js
-||cdns.gigya.com^
-||cdns.us1.gigya.com^
-||cdns2.gigya.com^
+||cdns.gigya.com^$3p
+||cdns.us1.gigya.com^$3p
+||cdns2.gigya.com^$3p
 ||gigya.com/js/gigyagaintegration.js
-||gscounters.us1.gigya.com^
+||gscounters.us1.gigya.com^$3p
 --- filters
 
 ghostery_id: 2746

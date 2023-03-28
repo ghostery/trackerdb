@@ -10,8 +10,8 @@ redtram.com
 --- domains
 
 --- filters
-||grt01.com^
-||grt02.com^
+||grt01.com^$3p
+||grt02.com^$3p
 ||js.goods.redtram.com/ticker_
 ||redtram.com/n4p/
 --- filters

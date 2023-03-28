@@ -10,9 +10,9 @@ pagefair.net
 --- domains
 
 --- filters
-||blockmetrics.com^
-||pagefair.com^
-||pagefair.net^
+||blockmetrics.com^$3p
+||pagefair.com^$3p
+||pagefair.net^$3p
 ||s3.amazonaws.com/asset.pagefair.com
 --- filters
 

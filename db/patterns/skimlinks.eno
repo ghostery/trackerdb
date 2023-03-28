@@ -10,10 +10,10 @@ skimresources.com
 --- domains
 
 --- filters
-||redirectingat.com^
+||redirectingat.com^$3p
 ||skimlinks.com/api/
 ||skimlinks.com/js/
-||skimresources.com^
+||skimresources.com^$3p
 --- filters
 
 ghostery_id: 375

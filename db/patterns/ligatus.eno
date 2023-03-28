@@ -12,9 +12,9 @@ veeseo.com
 --- domains
 
 --- filters
-||ligatus.com^
-||ligatus.de^
-||veeseo.com^
+||ligatus.com^$3p
+||ligatus.de^$3p
+||veeseo.com^$3p
 --- filters
 
 ghostery_id: 994

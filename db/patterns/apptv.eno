@@ -9,8 +9,8 @@ readserver.net
 --- domains
 
 --- filters
-||adne.tv^
-||readserver.net^
+||adne.tv^$3p
+||readserver.net^$3p
 --- filters
 
 ghostery_id: 1987

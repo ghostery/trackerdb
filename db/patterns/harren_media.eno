@@ -9,8 +9,8 @@ ads.networkhm.com
 --- domains
 
 --- filters
-||ad.harrenmedianetwork.com^
-||ads.networkhm.com^
+||ad.harrenmedianetwork.com^$3p
+||ads.networkhm.com^$3p
 --- filters
 
 ghostery_id: 977

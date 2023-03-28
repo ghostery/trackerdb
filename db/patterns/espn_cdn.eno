@@ -8,7 +8,7 @@ espncdn.com
 --- domains
 
 --- filters
-||a.espncdn.com/redesign/*/js/espn-analytics.js^
+||a.espncdn.com/redesign/*/js/espn-analytics.js^$3p
 --- filters
 
 ghostery_id: 3063

@@ -10,9 +10,9 @@ schetu.net
 --- domains
 
 --- filters
-||advaction.ru^
-||aucourant.info^
-||schetu.net^
+||advaction.ru^$3p
+||aucourant.info^$3p
+||schetu.net^$3p
 --- filters
 
 ghostery_id: 1849

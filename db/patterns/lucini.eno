@@ -8,7 +8,7 @@ lead.adsender.us
 --- domains
 
 --- filters
-||lead.adsender.us^
+||lead.adsender.us^$3p
 --- filters
 
 ghostery_id: 1857

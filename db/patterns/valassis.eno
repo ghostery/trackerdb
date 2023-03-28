@@ -9,8 +9,8 @@ vdrn.redplum.com
 --- domains
 
 --- filters
-||ads.brand.net^
-||vdrn.redplum.com^
+||ads.brand.net^$3p
+||vdrn.redplum.com^$3p
 --- filters
 
 ghostery_id: 535

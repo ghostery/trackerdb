@@ -8,10 +8,10 @@ viglink.com
 --- domains
 
 --- filters
-||api.viglink.com^
-||cdn.viglink.com^
-||js.viglink.com^
-||m.viglink.com^
+||api.viglink.com^$3p
+||cdn.viglink.com^$3p
+||js.viglink.com^$3p
+||m.viglink.com^$3p
 --- filters
 
 ghostery_id: 350

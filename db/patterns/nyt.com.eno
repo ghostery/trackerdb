@@ -11,7 +11,7 @@ nytimes.com
 --- filters
 ||int.nyt.com/newsgraphics
 ||nytimes.com/adx/bin/adxrun.html
-||up.nytimes.com^
+||up.nytimes.com^$3p
 --- filters
 
 ghostery_id: 1129

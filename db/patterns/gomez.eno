@@ -9,7 +9,7 @@ axf8.net
 
 --- filters
 /gomez*.js^
-||axf8.net^
+||axf8.net^$3p
 --- filters
 
 ghostery_id: 284

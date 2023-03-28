@@ -6,9 +6,9 @@ alias: facebook
 
 --- filters
 /fbconnect.js
-||static.ak.connect.facebook.com/*.js.php^
-||cdn.atlassbx.com^
-||connect.facebook.net^
+||static.ak.connect.facebook.com/*.js.php^$3p
+||cdn.atlassbx.com^$3p
+||connect.facebook.net^$3p
 ||facebook.com/connect
 ||facebook.com/v2.0/connect
 --- filters

@@ -9,7 +9,7 @@ snippet.minute.ly
 --- domains
 
 --- filters
-||snackly.co^
+||snackly.co^$3p
 ||snippet.minute.ly/mi-time-prod.js
 ||snippet.minute.ly/mi-ynet-prod.js
 --- filters

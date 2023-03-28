@@ -9,8 +9,8 @@ fruitflan.com
 --- domains
 
 --- filters
-||adflan.com^
-||fruitflan.com^
+||adflan.com^$3p
+||fruitflan.com^$3p
 --- filters
 
 ghostery_id: 1136

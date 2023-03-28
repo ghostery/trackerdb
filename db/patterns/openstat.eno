@@ -12,8 +12,8 @@ spylog.ru
 --- filters
 ||openstat.net/cnt.js
 ||openstat.net/sync/p.gif
-||spylog.com^
-||spylog.ru^
+||spylog.com^$3p
+||spylog.ru^$3p
 --- filters
 
 ghostery_id: 210

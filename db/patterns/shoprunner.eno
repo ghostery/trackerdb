@@ -8,8 +8,8 @@ shoprunner.com
 --- domains
 
 --- filters
-||shoprunner.com^
-||sra.s-9.us^
+||shoprunner.com^$3p
+||sra.s-9.us^$3p
 --- filters
 
 ghostery_id: 1522

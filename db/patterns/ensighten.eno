@@ -8,14 +8,14 @@ ensighten.com
 --- domains
 
 --- filters
-||nexus.ensighten.com.*/Bootstrap.js^
-||nexus.ensighten.com/*/bootstrap.js^
-||nexus.ensighten.com/*/prod/code/*.js^
-||nexus.ensighten.com/*/prod/serverComponent.php^
-||nexus.ensighten.com/*/production/code/*.js^
-||nexus.ensighten.com/*/production/serverComponent.php^
-||nexus.ensighten.com/*/t-bat-prod/code/*.js^
-||nexus.ensighten.com/staples2/Bootstrap.js^
+||nexus.ensighten.com.*/Bootstrap.js^$3p
+||nexus.ensighten.com/*/bootstrap.js^$3p
+||nexus.ensighten.com/*/prod/code/*.js^$3p
+||nexus.ensighten.com/*/prod/serverComponent.php^$3p
+||nexus.ensighten.com/*/production/code/*.js^$3p
+||nexus.ensighten.com/*/production/serverComponent.php^$3p
+||nexus.ensighten.com/*/t-bat-prod/code/*.js^$3p
+||nexus.ensighten.com/staples2/Bootstrap.js^$3p
 --- filters
 
 ghostery_id: 459

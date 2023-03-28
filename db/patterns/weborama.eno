@@ -11,10 +11,10 @@ weborama.fr
 --- domains
 
 --- filters
-||adrcdn.com^
-||adrcntr.com^
+||adrcdn.com^$3p
+||adrcntr.com^$3p
 ||dx.bigsea.weborama.com/collect
-||weborama.fr^
+||weborama.fr^$3p
 --- filters
 
 ghostery_id: 532

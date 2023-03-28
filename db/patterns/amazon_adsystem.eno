@@ -10,9 +10,9 @@ sizmek.com
 --- domains
 
 --- filters
-||amazon-adsystem.com^
-||serving-sys.com^
-||sizmek.com^
+||amazon-adsystem.com^$3p
+||serving-sys.com^$3p
+||sizmek.com^$3p
 --- filters
 
 ghostery_id: 2480

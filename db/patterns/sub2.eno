@@ -8,7 +8,7 @@ sub2tech.com
 --- domains
 
 --- filters
-||sub2tech.com^
+||sub2tech.com^$3p
 --- filters
 
 ghostery_id: 2018

@@ -9,8 +9,8 @@ ppjol.net
 --- domains
 
 --- filters
-||ppjol.com^
-||ppjol.net^
+||ppjol.com^$3p
+||ppjol.net^$3p
 --- filters
 
 ghostery_id: 1090

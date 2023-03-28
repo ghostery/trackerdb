@@ -13,7 +13,7 @@ jwpsrv.com
 --- domains
 
 --- filters
-||jwpsrv.com/library/*.js^
+||jwpsrv.com/library/*.js^$3p
 ||content.jwplatform.com/libraries/puack8zv.js
 ||d21rhj7n383afu.cloudfront.net/jwplayer/jwplayerconfig.js
 ||p.jwpcdn.com/6/10/jwplayer.js

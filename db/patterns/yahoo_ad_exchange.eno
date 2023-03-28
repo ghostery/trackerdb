@@ -10,18 +10,18 @@ yieldmanager.com
 --- domains
 
 --- filters
-||ad.yieldmanager.com^
-||ad.yieldmanager.net^
-||ads.yahoo.com^
+||ad.yieldmanager.com^$3p
+||ad.yieldmanager.net^$3p
+||ads.yahoo.com^$3p
 ||content.yieldmanager.com/rmi.js
 ||content.yieldmanager.com/rmtag3.js
 ||e.yieldmanager.net/script.js
 ||extern.yahoo.com/b
-||rm.yieldmanager.com^
-||rmxads.com^
-||thewheelof.com^
-||yads.yahoo.com^
-||yldmgrimg.net^
+||rm.yieldmanager.com^$3p
+||rmxads.com^$3p
+||thewheelof.com^$3p
+||yads.yahoo.com^$3p
+||yldmgrimg.net^$3p
 --- filters
 
 ghostery_id: 47

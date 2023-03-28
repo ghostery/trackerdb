@@ -10,8 +10,8 @@ tiaa-cref.org
 --- domains
 
 --- filters
-||go-mpulse.net^
-||mpstat.us^
+||go-mpulse.net^$3p
+||mpstat.us^$3p
 ||tiaa-cref.org/public/js/boomerang.js
 --- filters
 

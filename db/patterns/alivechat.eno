@@ -8,8 +8,8 @@ websitealive.com
 --- domains
 
 --- filters
-||websitealive*.com^
-||websitealive.com^
+||websitealive*.com^$3p
+||websitealive.com^$3p
 --- filters
 
 ghostery_id: 397

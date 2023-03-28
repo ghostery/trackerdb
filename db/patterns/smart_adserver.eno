@@ -11,11 +11,11 @@ yoc-adserver.com
 --- domains
 
 --- filters
-||ak.sascdn.com^
-||ec-ns.sascdn.com^
-||smartadserver.com^
-||styria-digital.com^
-||yoc-adserver.com^
+||ak.sascdn.com^$3p
+||ec-ns.sascdn.com^$3p
+||smartadserver.com^$3p
+||styria-digital.com^$3p
+||yoc-adserver.com^$3p
 --- filters
 
 ghostery_id: 502

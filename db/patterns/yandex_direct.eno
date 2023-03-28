@@ -11,7 +11,7 @@ bs.yandex.ru
 
 --- filters
 ||an.webvisor.org/count
-||an.yandex.ru^
+||an.yandex.ru^$3p
 ||bs.yandex.ru/code/
 ||yastatic.net/pcode/adfox/loader.js
 --- filters

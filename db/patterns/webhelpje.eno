@@ -9,8 +9,8 @@ webhelpje.nl
 --- domains
 
 --- filters
-||webhelpje.be^
-||webhelpje.nl^
+||webhelpje.be^$3p
+||webhelpje.nl^$3p
 --- filters
 
 ghostery_id: 1222

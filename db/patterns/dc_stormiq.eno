@@ -11,10 +11,10 @@ stormiq.com
 --- domains
 
 --- filters
-||dc-storm.com^
-||h4k5.com^
-||stormcontainertag.com^
-||stormiq.com^
+||dc-storm.com^$3p
+||h4k5.com^$3p
+||stormcontainertag.com^$3p
+||stormiq.com^$3p
 --- filters
 
 ghostery_id: 250

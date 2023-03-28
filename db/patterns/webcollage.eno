@@ -8,9 +8,9 @@ webcollage.net
 --- domains
 
 --- filters
-||content.webcollage.net^
-||media.webcollage.net^
-||rel.webcollag.net^
+||content.webcollage.net^$3p
+||media.webcollage.net^$3p
+||rel.webcollag.net^$3p
 ||webcollage.net/smart-button
 --- filters
 

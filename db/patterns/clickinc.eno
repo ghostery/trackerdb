@@ -8,8 +8,8 @@ clickinc.com
 --- domains
 
 --- filters
-||ca.clickinc.com^
-||impression.clickinc.com^
+||ca.clickinc.com^$3p
+||impression.clickinc.com^$3p
 --- filters
 
 ghostery_id: 374

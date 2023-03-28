@@ -9,8 +9,8 @@ adbooth.net
 --- domains
 
 --- filters
-||adbooth.com^
-||adbooth.net^
+||adbooth.com^$3p
+||adbooth.net^$3p
 --- filters
 
 ghostery_id: 1969

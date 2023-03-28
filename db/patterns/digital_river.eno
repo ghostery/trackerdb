@@ -10,9 +10,9 @@ track.digitalriver.com
 --- domains
 
 --- filters
-||directtrack.com^
-||onenetworkdirect.net^
-||track.digitalriver.com^
+||directtrack.com^$3p
+||onenetworkdirect.net^$3p
+||track.digitalriver.com^$3p
 --- filters
 
 ghostery_id: 1035

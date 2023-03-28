@@ -8,8 +8,8 @@ adtarget.me
 --- domains
 
 --- filters
-||static-trackers.adtarget.me^
-||trackers.adtarget.me^
+||static-trackers.adtarget.me^$3p
+||trackers.adtarget.me^$3p
 --- filters
 
 ghostery_id: 2158

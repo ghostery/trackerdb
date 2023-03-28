@@ -8,7 +8,7 @@ ads.adwitserver.com
 --- domains
 
 --- filters
-||ads.adwitserver.com^
+||ads.adwitserver.com^$3p
 --- filters
 
 ghostery_id: 888

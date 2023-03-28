@@ -53,7 +53,7 @@ www-path.com
 --- domains
 
 --- filters
-||altabold1.com/js/*.js^
+||altabold1.com/js/*.js^$3p
 ||123-tracker.com/js
 ||55-trk-srv.com/js
 ||business-path-55.com/js
@@ -77,7 +77,7 @@ www-path.com
 ||lead-123.com/js
 ||lead-analytics-1000.com/js
 ||lead-watcher.com/js
-||leadforensics.com^
+||leadforensics.com^$3p
 ||ledradn.com/js/
 ||ledradn.com/track/
 ||letterbox-path.com/js

@@ -8,8 +8,8 @@ precisionclick.com
 --- domains
 
 --- filters
-||geo.precisionclick.com^
-||servedby.precisionclick.com^
+||geo.precisionclick.com^$3p
+||servedby.precisionclick.com^$3p
 --- filters
 
 ghostery_id: 431

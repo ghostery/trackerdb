@@ -10,9 +10,9 @@ c.p-advg.com
 --- domains
 
 --- filters
-||adplan-ds.com^
-||advg.jp^
-||c.p-advg.com^
+||adplan-ds.com^$3p
+||advg.jp^$3p
+||c.p-advg.com^$3p
 --- filters
 
 ghostery_id: 679

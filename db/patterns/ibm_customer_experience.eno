@@ -11,9 +11,9 @@ coremetrics.eu
 
 --- filters
 /eluminate.js
-||coremetrics.com^
-||coremetrics.eu/^
-||data.cmcore.com^
+||coremetrics.com^$3p
+||coremetrics.eu/^$3p
+||data.cmcore.com^$3p
 --- filters
 
 ghostery_id: 163

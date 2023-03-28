@@ -10,9 +10,9 @@ tag.tlvmedia.com
 --- domains
 
 --- filters
-||ad.tlvmedia.com^
-||ads.tlvmedia.com^
-||tag.tlvmedia.com^
+||ad.tlvmedia.com^$3p
+||ads.tlvmedia.com^$3p
+||tag.tlvmedia.com^$3p
 --- filters
 
 ghostery_id: 885

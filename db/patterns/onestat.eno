@@ -8,7 +8,7 @@ stat.onestat.com
 --- domains
 
 --- filters
-||stat.onestat.com^
+||stat.onestat.com^$3p
 --- filters
 
 ghostery_id: 126

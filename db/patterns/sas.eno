@@ -9,7 +9,7 @@ sas.com
 --- domains
 
 --- filters
-||aimatch.com^
+||aimatch.com^$3p
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||ci360.sas.com/js/ot_boot-min.js
 --- filters

@@ -11,7 +11,7 @@ baynote.net
 /baynote(-observer)?([0-9]+)\.js/
 /baynote-observer.js
 /baynote.js
-||baynote.net^
+||baynote.net^$3p
 --- filters
 
 ghostery_id: 98

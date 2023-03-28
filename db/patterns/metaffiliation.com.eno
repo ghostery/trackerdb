@@ -9,8 +9,8 @@ netaffiliation.com
 --- domains
 
 --- filters
-||metaffiliation.com^
-||netaffiliation.com^
+||metaffiliation.com^$3p
+||netaffiliation.com^$3p
 --- filters
 
 ghostery_id: 1015

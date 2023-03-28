@@ -9,8 +9,8 @@ justpremium.nl
 --- domains
 
 --- filters
-||justpremium.com^
-||justpremium.nl^
+||justpremium.com^$3p
+||justpremium.nl^$3p
 --- filters
 
 ghostery_id: 1786

@@ -8,9 +8,9 @@ supplyframe.com
 --- domains
 
 --- filters
-||ads.supplyframe.com^
-||analytics.supplyframe.com^
-||fake-entry_images.ads.supplyframe.com^
+||ads.supplyframe.com^$3p
+||analytics.supplyframe.com^$3p
+||fake-entry_images.ads.supplyframe.com^$3p
 --- filters
 
 ghostery_id: 2334

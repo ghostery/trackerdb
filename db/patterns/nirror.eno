@@ -8,7 +8,7 @@ static.nirror.com
 --- domains
 
 --- filters
-||static.nirror.com^
+||static.nirror.com^$3p
 --- filters
 
 ghostery_id: 1965

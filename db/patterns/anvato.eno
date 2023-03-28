@@ -10,8 +10,8 @@ w3.cdn.anvato.net
 --- domains
 
 --- filters
-||rt.analytics.anvato.net^
-||tkx2-prod.anvato.net^
+||rt.analytics.anvato.net^$3p
+||tkx2-prod.anvato.net^$3p
 ||w3.cdn.anvato.net/player
 --- filters
 

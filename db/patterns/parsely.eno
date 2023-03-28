@@ -9,10 +9,10 @@ parsely.com
 --- domains
 
 --- filters
-||d1z2jf7jlzjs58.cloudfront.net^
-||parsely.com^
+||d1z2jf7jlzjs58.cloudfront.net^$3p
+||parsely.com^$3p
 ||srv.pixel.parsely.com/plogger
-||static.parsely.com^
+||static.parsely.com^$3p
 --- filters
 
 ghostery_id: 2613

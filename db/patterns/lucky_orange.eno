@@ -10,9 +10,9 @@ luckyorange.net
 --- domains
 
 --- filters
-||livestatserver.com^
-||luckyorange.com^
-||settings.luckyorange.net^
+||livestatserver.com^$3p
+||luckyorange.com^$3p
+||settings.luckyorange.net^$3p
 --- filters
 
 ghostery_id: 1406

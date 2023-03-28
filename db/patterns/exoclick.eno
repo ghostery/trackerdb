@@ -10,8 +10,8 @@ exosrv.com
 --- domains
 
 --- filters
-||exoclick.com^
-||syndication.exdynsrv.com^
+||exoclick.com^$3p
+||syndication.exdynsrv.com^$3p
 --- filters
 
 ghostery_id: 702

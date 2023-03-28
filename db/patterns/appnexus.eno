@@ -9,8 +9,8 @@ adnxs.net
 --- domains
 
 --- filters
-||adnxs.com^
-||adnxs.net^
+||adnxs.com^$3p
+||adnxs.net^$3p
 --- filters
 
 ghostery_id: 170

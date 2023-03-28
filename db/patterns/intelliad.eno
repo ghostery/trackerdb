@@ -9,8 +9,8 @@ intelliad.de
 --- domains
 
 --- filters
-||intelliad.com^
-||intelliad.de^
+||intelliad.com^$3p
+||intelliad.de^$3p
 --- filters
 
 ghostery_id: 1289

@@ -9,8 +9,8 @@ c3tag.com
 --- domains
 
 --- filters
-||c3metrics.com^
-||c3tag.com^
+||c3metrics.com^$3p
+||c3tag.com^$3p
 --- filters
 
 ghostery_id: 485

@@ -9,8 +9,8 @@ cdn.transcend.io
 --- domains
 
 --- filters
-||api.transcend.io^
-||cdn.transcend.io^
+||api.transcend.io^$3p
+||cdn.transcend.io^$3p
 --- filters
 
 ghostery_id: 4053

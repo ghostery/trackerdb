@@ -9,10 +9,10 @@ kissmetrics.com
 --- domains
 
 --- filters
-||d1991e1bwxgrnr.cloudfront.net^
-||d1n7kk4vfnecsc.cloudfront.net^
-||doug1izaerwt3.cloudfront.net^
-||j.kissinsights.com^
+||d1991e1bwxgrnr.cloudfront.net^$3p
+||d1n7kk4vfnecsc.cloudfront.net^$3p
+||doug1izaerwt3.cloudfront.net^$3p
+||j.kissinsights.com^$3p
 ||s3.amazonaws.com/j.kissinsights.com
 --- filters
 

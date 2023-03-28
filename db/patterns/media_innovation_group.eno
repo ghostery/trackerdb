@@ -8,8 +8,8 @@ mookie1.com
 --- domains
 
 --- filters
-||mookie1.com^
-||t.mookie1.com^
+||mookie1.com^$3p
+||t.mookie1.com^$3p
 --- filters
 
 ghostery_id: 439

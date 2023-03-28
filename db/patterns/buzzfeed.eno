@@ -8,9 +8,9 @@ buzzfed.com
 --- domains
 
 --- filters
-||buzzbox.buzzfeed.com^
-||ct.buzzfeed.com^
-||pglb.buzzfed.com^
+||buzzbox.buzzfeed.com^$3p
+||ct.buzzfeed.com^$3p
+||pglb.buzzfed.com^$3p
 --- filters
 
 ghostery_id: 1397

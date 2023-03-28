@@ -8,10 +8,10 @@ krxd.net
 --- domains
 
 --- filters
-||apiservices.krxd.net^
-||beacon.krxd.net^
-||cdn.krxd.net^
-||usermatch.krxd.net^
+||apiservices.krxd.net^$3p
+||beacon.krxd.net^$3p
+||cdn.krxd.net^$3p
+||usermatch.krxd.net^$3p
 --- filters
 
 ghostery_id: 378

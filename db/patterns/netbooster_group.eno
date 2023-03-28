@@ -9,8 +9,8 @@ netbooster.com
 --- domains
 
 --- filters
-||bbtrack.net^
-||netbooster.com^
+||bbtrack.net^$3p
+||netbooster.com^$3p
 --- filters
 
 ghostery_id: 1625

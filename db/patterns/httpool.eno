@@ -9,8 +9,8 @@ toboads.com
 --- domains
 
 --- filters
-||httpool.com^
-||toboads.com^
+||httpool.com^$3p
+||toboads.com^$3p
 --- filters
 
 ghostery_id: 776

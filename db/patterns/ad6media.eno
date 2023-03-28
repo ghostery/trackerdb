@@ -12,11 +12,11 @@ ad6media.fr
 --- domains
 
 --- filters
-||ad6.fr^
-||ad6media.co.uk^
-||ad6media.com^
-||ad6media.es^
-||ad6media.fr^
+||ad6.fr^$3p
+||ad6media.co.uk^$3p
+||ad6media.com^$3p
+||ad6media.es^$3p
+||ad6media.fr^$3p
 --- filters
 
 ghostery_id: 954

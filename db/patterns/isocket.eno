@@ -9,8 +9,8 @@ isocket.com
 --- domains
 
 --- filters
-||adsbyisocket.com^
-||isocket.com^
+||adsbyisocket.com^$3p
+||isocket.com^$3p
 --- filters
 
 ghostery_id: 1214

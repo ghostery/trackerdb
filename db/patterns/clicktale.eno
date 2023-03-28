@@ -11,9 +11,9 @@ clicktalecdn.sslcs.cdngc.net
 --- domains
 
 --- filters
-||clicktale.net^
-||clicktale.pantherssl.com^
-||clicktalecdn.sslcs.cdngc.net^
+||clicktale.net^$3p
+||clicktale.pantherssl.com^$3p
+||clicktalecdn.sslcs.cdngc.net^$3p
 --- filters
 
 ghostery_id: 108

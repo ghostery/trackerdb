@@ -10,9 +10,9 @@ stats.visistat.com
 --- domains
 
 --- filters
-||sa-as.com^
-||sniff.visistat.com^
-||stats.visistat.com^
+||sa-as.com^$3p
+||sniff.visistat.com^$3p
+||stats.visistat.com^$3p
 --- filters
 
 ghostery_id: 195

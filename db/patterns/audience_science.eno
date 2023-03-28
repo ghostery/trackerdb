@@ -9,10 +9,10 @@ wunderloop.net
 --- domains
 
 --- filters
-||ad.targetingmarketplace.com^
-||revsci.*/gw.js^
-||revsci.net^
-||wunderloop.net^
+||ad.targetingmarketplace.com^$3p
+||revsci.*/gw.js^$3p
+||revsci.net^$3p
+||wunderloop.net^$3p
 --- filters
 
 ghostery_id: 56

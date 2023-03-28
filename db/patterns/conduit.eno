@@ -10,10 +10,10 @@ conduit.com
 --- domains
 
 --- filters
-||api.conduit.com^
-||apps.conduit.com^
-||conduit-banners.com^
-||conduit-data.com^
+||api.conduit.com^$3p
+||apps.conduit.com^$3p
+||conduit-banners.com^$3p
+||conduit-data.com^$3p
 --- filters
 
 ghostery_id: 473

@@ -9,8 +9,8 @@ track.yieldsoftware.com
 --- domains
 
 --- filters
-||oc-track.autonomycloud.com^
-||track.yieldsoftware.com^
+||oc-track.autonomycloud.com^$3p
+||track.yieldsoftware.com^$3p
 --- filters
 
 ghostery_id: 1631

@@ -10,10 +10,10 @@ triplelift.com
 --- domains
 
 --- filters
-||3lift.com^
-||d3iwjrnl4m67rd.cloudfront.net^
+||3lift.com^$3p
+||d3iwjrnl4m67rd.cloudfront.net^$3p
 ||eb2.3lift.com/xuid
-||triplelift.com^
+||triplelift.com^$3p
 --- filters
 
 ghostery_id: 1576

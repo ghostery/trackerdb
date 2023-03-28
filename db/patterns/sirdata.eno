@@ -8,8 +8,8 @@ sddan.com
 --- domains
 
 --- filters
-||ct.sddan.com^
-||js.sddan.com^
+||ct.sddan.com^$3p
+||js.sddan.com^$3p
 --- filters
 
 ghostery_id: 2659

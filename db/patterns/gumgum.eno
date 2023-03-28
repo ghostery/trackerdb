@@ -8,11 +8,11 @@ gumgum.com
 --- domains
 
 --- filters
-||c.gumgum.com^
+||c.gumgum.com^$3p
 ||cdn.gumgum.com/javascripts/ggv2.js
 ||g2.gumgum.com/javascripts/ggv2.js
 ||gonzogrape.gumgum.com/javascripts/ggv2.js
-||gumgum.com^
+||gumgum.com^$3p
 --- filters
 
 ghostery_id: 95

@@ -9,8 +9,8 @@ webstats.motigo.com
 --- domains
 
 --- filters
-||nedstatbasic.net^
-||webstats.motigo.com^
+||nedstatbasic.net^$3p
+||webstats.motigo.com^$3p
 --- filters
 
 ghostery_id: 818

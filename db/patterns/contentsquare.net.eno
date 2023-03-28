@@ -8,7 +8,7 @@ contentsquare.net
 --- domains
 
 --- filters
-||t.contentsquare.net/uxa/*.js^
+||t.contentsquare.net/uxa/*.js^$3p
 --- filters
 
 ghostery_id: 3295

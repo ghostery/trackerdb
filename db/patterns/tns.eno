@@ -14,12 +14,12 @@ tns-gallup.dk
 
 --- filters
 /tns-counter.js
-||research-int.se^
-||sesamestats.com^
-||spring-tns.net^
-||statistik-gallup.net^
-||tns-cs.net^
-||tns-gallup.dk^
+||research-int.se^$3p
+||sesamestats.com^$3p
+||spring-tns.net^$3p
+||statistik-gallup.net^$3p
+||tns-cs.net^$3p
+||tns-gallup.dk^$3p
 --- filters
 
 ghostery_id: 339

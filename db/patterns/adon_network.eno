@@ -19,18 +19,18 @@ urtbk.com
 --- domains
 
 --- filters
-||adcde.com^
-||addlvr.com^
-||adfeedstrk.com^
-||adtrgt.com^
-||bannertgt.com^
-||cptgt.com^
-||cpvfeed.com^
-||cpvtgt.com^
-||mygeek.com^
-||popcde.com^
-||sdfje.com^
-||urtbk.com^
+||adcde.com^$3p
+||addlvr.com^$3p
+||adfeedstrk.com^$3p
+||adtrgt.com^$3p
+||bannertgt.com^$3p
+||cptgt.com^$3p
+||cpvfeed.com^$3p
+||cpvtgt.com^$3p
+||mygeek.com^$3p
+||popcde.com^$3p
+||sdfje.com^$3p
+||urtbk.com^$3p
 --- filters
 
 ghostery_id: 800

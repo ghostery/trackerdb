@@ -11,11 +11,11 @@ mediainter.net
 --- domains
 
 --- filters
-||bbelements.com^
-||bbmedia.cz^
-||goadservices.com^
-||ibillboard.com^
-||mediainter.net^
+||bbelements.com^$3p
+||bbmedia.cz^$3p
+||goadservices.com^$3p
+||ibillboard.com^$3p
+||mediainter.net^$3p
 --- filters
 
 ghostery_id: 1791

@@ -9,8 +9,8 @@ sharethrough.com
 --- domains
 
 --- filters
-||shareth.ru^
-||sharethrough.com^
+||shareth.ru^$3p
+||sharethrough.com^$3p
 --- filters
 
 ghostery_id: 1368

@@ -9,8 +9,8 @@ adtomafusion.com
 --- domains
 
 --- filters
-||adtoma.com^
-||adtomafusion.com^
+||adtoma.com^$3p
+||adtomafusion.com^$3p
 --- filters
 
 ghostery_id: 1354

@@ -9,8 +9,8 @@ zmags.com
 
 --- filters
 ||c.zmags.com/a/p/p.js
-||p.zmags.com^
-||statsd.zmags.com^
+||p.zmags.com^$3p
+||statsd.zmags.com^$3p
 --- filters
 
 ghostery_id: 2943

@@ -10,9 +10,9 @@ brtstats.com
 --- domains
 
 --- filters
-||brcdn.com^
-||brsrvr.com^
-||brtstats.com^
+||brcdn.com^$3p
+||brsrvr.com^$3p
+||brtstats.com^$3p
 --- filters
 
 ghostery_id: 323

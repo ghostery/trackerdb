@@ -14,8 +14,8 @@ foresee-alive
 foresee-analytics
 foresee-trigger
 foresee/foresee-alive.js
-||gateway.foresee.com^
-||replaycontroller.4seeresults.com^
+||gateway.foresee.com^$3p
+||replaycontroller.4seeresults.com^$3p
 --- filters
 
 ghostery_id: 265

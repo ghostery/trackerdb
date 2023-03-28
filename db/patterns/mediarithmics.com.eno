@@ -8,7 +8,7 @@ mediarithmics.com
 --- domains
 
 --- filters
-||cookie-matching.mediarithmics.com^
+||cookie-matching.mediarithmics.com^$3p
 ||events.mediarithmics.com/v1/visits/pixel
 ||static.mediarithmics.com/tag/1/tag.min.js
 --- filters

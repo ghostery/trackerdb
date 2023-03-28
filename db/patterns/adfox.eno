@@ -9,8 +9,8 @@ adwolf.ru
 --- domains
 
 --- filters
-||adfox.ru^
-||adwolf.ru^
+||adfox.ru^$3p
+||adwolf.ru^$3p
 --- filters
 
 ghostery_id: 422

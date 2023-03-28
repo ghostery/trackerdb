@@ -9,8 +9,8 @@ ads.admarvel.com
 --- domains
 
 --- filters
-||admarvel.s3.amazonaws.com^
-||ads.admarvel.com^
+||admarvel.s3.amazonaws.com^$3p
+||ads.admarvel.com^$3p
 --- filters
 
 ghostery_id: 1050

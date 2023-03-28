@@ -9,8 +9,8 @@ chango.com
 --- domains
 
 --- filters
-||chango.ca^
-||chango.com^
+||chango.ca^$3p
+||chango.com^$3p
 --- filters
 
 ghostery_id: 465

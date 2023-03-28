@@ -10,7 +10,7 @@ uservoice.com
 --- filters
 ||uservoice.com/api
 ||uservoice.com/javascripts/widget
-||widget.uservoice.com^
+||widget.uservoice.com^$3p
 --- filters
 
 ghostery_id: 59

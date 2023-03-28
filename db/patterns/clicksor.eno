@@ -11,10 +11,10 @@ myroitracking.com
 --- domains
 
 --- filters
-||clicksor.com^
-||hatid.com^
-||lzjl.com^
-||myroitracking.com^
+||clicksor.com^$3p
+||hatid.com^$3p
+||lzjl.com^$3p
+||myroitracking.com^$3p
 --- filters
 
 ghostery_id: 78

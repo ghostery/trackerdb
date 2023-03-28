@@ -9,9 +9,9 @@ mathtag.com
 --- domains
 
 --- filters
-||mathads.com^
-||mathtag.com^
-||pixel.mathtag.com^
+||mathads.com^$3p
+||mathtag.com^$3p
+||pixel.mathtag.com^$3p
 --- filters
 
 ghostery_id: 425

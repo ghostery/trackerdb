@@ -9,8 +9,8 @@ adservinginternational.com
 --- domains
 
 --- filters
-||adservinghost.com^
-||adservinginternational.com^
+||adservinghost.com^$3p
+||adservinginternational.com^$3p
 --- filters
 
 ghostery_id: 1994

@@ -10,7 +10,7 @@ retargeter.com.br
 
 --- filters
 ||app.shoptarget.com.br/js/tracking.js
-||retargeter.com.br^
+||retargeter.com.br^$3p
 --- filters
 
 ghostery_id: 2538

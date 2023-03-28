@@ -9,8 +9,8 @@ burstnet.com
 --- domains
 
 --- filters
-||burstbeacon.com^
-||burstnet.com^
+||burstbeacon.com^$3p
+||burstnet.com^$3p
 --- filters
 
 ghostery_id: 143

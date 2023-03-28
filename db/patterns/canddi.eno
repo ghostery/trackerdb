@@ -8,8 +8,8 @@ canddi.com
 --- domains
 
 --- filters
-||cdns.canddi.com^
-||i.canddi.com^
+||cdns.canddi.com^$3p
+||i.canddi.com^$3p
 --- filters
 
 ghostery_id: 2464

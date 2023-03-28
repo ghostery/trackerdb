@@ -11,10 +11,10 @@ securestudies.com
 --- domains
 
 --- filters
-||scorecardresearch.com^
-||scoreresearch.com^
-||scrsrch.com^
-||securestudies.com^
+||scorecardresearch.com^$3p
+||scoreresearch.com^$3p
+||scrsrch.com^$3p
+||securestudies.com^$3p
 --- filters
 
 ghostery_id: 187

@@ -10,9 +10,9 @@ delivery47.com
 --- domains
 
 --- filters
-||addelive.com^
-||afdads.com^
-||delivery47.com^
+||addelive.com^$3p
+||afdads.com^$3p
+||delivery47.com^$3p
 --- filters
 
 ghostery_id: 837

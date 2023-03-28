@@ -8,7 +8,7 @@ proxistore.com
 --- domains
 
 --- filters
-||abs.proxistore.com^
+||abs.proxistore.com^$3p
 --- filters
 
 ghostery_id: 3229

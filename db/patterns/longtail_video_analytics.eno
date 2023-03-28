@@ -5,8 +5,8 @@ organization: jw_player
 alias: jw_player
 
 --- filters
-||i.n.jwpltx.com^
-||s.jwpltx.com^
+||i.n.jwpltx.com^$3p
+||s.jwpltx.com^$3p
 --- filters
 
 ghostery_id: 1487

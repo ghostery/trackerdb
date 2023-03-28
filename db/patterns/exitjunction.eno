@@ -9,8 +9,8 @@ exitjunction.com
 --- domains
 
 --- filters
-||dynamicoxygen.com^
-||exitjunction.com^
+||dynamicoxygen.com^$3p
+||exitjunction.com^$3p
 --- filters
 
 ghostery_id: 650

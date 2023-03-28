@@ -10,9 +10,9 @@ symantec.com
 --- domains
 
 --- filters
-||seal.verisign.com^
-||seal.websecurity.norton.com^
-||trustsealinfo.websecurity.norton.com^
+||seal.verisign.com^$3p
+||seal.websecurity.norton.com^$3p
+||trustsealinfo.websecurity.norton.com^$3p
 --- filters
 
 ghostery_id: 2305

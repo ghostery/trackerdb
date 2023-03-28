@@ -11,8 +11,8 @@ sailthru.com
 
 --- filters
 ||ak.sail-horizon.com/onsite/personalize.v0.0.4.min.js
-||cdn.sailthru.com^
-||sail-horizon.com^
+||cdn.sailthru.com^$3p
+||sail-horizon.com^$3p
 --- filters
 
 ghostery_id: 983

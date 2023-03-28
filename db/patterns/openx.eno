@@ -17,12 +17,12 @@ servedbyopenx.com
 /w/1.0/ai
 /w/1.0/jstag
 /w/1.0/rc
-||odnxs.net^
-||openx.net^
-||openx.org^
-||openxenterprise.com^
+||odnxs.net^$3p
+||openx.net^$3p
+||openx.org^$3p
+||openxenterprise.com^$3p
 ||ox-d.
-||servedbyopenx.com^
+||servedbyopenx.com^$3p
 --- filters
 
 ghostery_id: 32

@@ -9,8 +9,8 @@ iptrack.io
 --- domains
 
 --- filters
-||ip-tracker.org^
-||iptrack.io^
+||ip-tracker.org^$3p
+||iptrack.io^$3p
 --- filters
 
 ghostery_id: 2181

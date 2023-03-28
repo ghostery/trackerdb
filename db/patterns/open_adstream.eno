@@ -12,10 +12,10 @@ realmediadigital.com
 
 --- filters
 realmedia/ads/adstream
-||247realmedia.com^
-||oaserve.com^
-||realmedia.com/^
-||realmediadigital.com^
+||247realmedia.com^$3p
+||oaserve.com^$3p
+||realmedia.com/^$3p
+||realmediadigital.com^$3p
 --- filters
 
 ghostery_id: 2765

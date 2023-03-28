@@ -10,9 +10,9 @@ tdn.r42tag.com
 --- domains
 
 --- filters
-||svtrd.com^
-||synovite-scripts.com^
-||tdn.r42tag.com^
+||svtrd.com^$3p
+||synovite-scripts.com^$3p
+||tdn.r42tag.com^$3p
 --- filters
 
 ghostery_id: 1269

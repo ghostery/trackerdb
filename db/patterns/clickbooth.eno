@@ -10,9 +10,9 @@ clickboothlnk.com
 --- domains
 
 --- filters
-||adtoll.com^
-||clickbooth.com^
-||clickboothlnk.com^
+||adtoll.com^$3p
+||clickbooth.com^$3p
+||clickboothlnk.com^$3p
 --- filters
 
 ghostery_id: 926

@@ -9,10 +9,10 @@ adtechus.com
 --- domains
 
 --- filters
-||adserver.adtech.de^
-||adserver.adtechus.com^
-||adtech.de^
-||adtechus.com^
+||adserver.adtech.de^$3p
+||adserver.adtechus.com^$3p
+||adtech.de^$3p
+||adtechus.com^$3p
 --- filters
 
 ghostery_id: 355

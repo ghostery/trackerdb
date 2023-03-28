@@ -10,9 +10,9 @@ staticstuff.net
 
 --- filters
 /clicky.js
-||hello.staticstuff.net^
-||in.getclicky.com^
-||static.getclicky.com^
+||hello.staticstuff.net^$3p
+||in.getclicky.com^$3p
+||static.getclicky.com^$3p
 --- filters
 
 ghostery_id: 3

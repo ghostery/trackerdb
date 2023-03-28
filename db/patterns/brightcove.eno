@@ -9,8 +9,8 @@ brightcove.com
 
 --- filters
 ||admin.brightcove.com/js
-||goku.brightcove.com^
-||metrics.brightcove.com^
+||goku.brightcove.com^$3p
+||metrics.brightcove.com^$3p
 ||sadmin.brightcove.com/js/brightcoveexperiences.js
 --- filters
 

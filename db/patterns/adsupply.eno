@@ -10,11 +10,11 @@ trklnks.com
 --- domains
 
 --- filters
-||3jmcwio.com^
-||4dsply.com^
-||cdn.engine.adsupply.com^
+||3jmcwio.com^$3p
+||4dsply.com^$3p
+||cdn.engine.adsupply.com^$3p
 ||cdn.lepinsar.com/Scripts/MediaScripts/b.js
-||trklnks.com^
+||trklnks.com^$3p
 --- filters
 
 ghostery_id: 1245

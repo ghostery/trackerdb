@@ -9,10 +9,10 @@ omnitagjs.com
 --- domains
 
 --- filters
-||adyoulike.com^
-||adyoulike.omnitagjs.com^
+||adyoulike.com^$3p
+||adyoulike.omnitagjs.com^$3p
 ||fo-api.omnitagjs.com/fo-api/omnitag
-||fo-static.omnitagjs.com/fo-static/build/*.chunk.js^
+||fo-static.omnitagjs.com/fo-static/build/*.chunk.js^$3p
 ||tracking.omnitagjs.com/tracking/pixel
 --- filters
 

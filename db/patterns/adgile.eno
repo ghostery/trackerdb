@@ -9,8 +9,8 @@ ad.antventure.com
 --- domains
 
 --- filters
-||ad.adgile.com^
-||ad.antventure.com^
+||ad.adgile.com^$3p
+||ad.antventure.com^$3p
 --- filters
 
 ghostery_id: 1725

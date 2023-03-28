@@ -8,7 +8,7 @@ yoapp.s3.amazonaws.com
 --- domains
 
 --- filters
-||yoapp.s3.amazonaws.com^
+||yoapp.s3.amazonaws.com^$3p
 --- filters
 
 ghostery_id: 2174

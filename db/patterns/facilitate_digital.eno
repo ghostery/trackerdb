@@ -11,10 +11,10 @@ adsfac.us
 --- domains
 
 --- filters
-||adsfac.eu^
-||adsfac.net^
-||adsfac.sg^
-||adsfac.us^
+||adsfac.eu^$3p
+||adsfac.net^$3p
+||adsfac.sg^$3p
+||adsfac.us^$3p
 --- filters
 
 ghostery_id: 452

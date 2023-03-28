@@ -8,7 +8,7 @@ trustedshops.com
 --- domains
 
 --- filters
-||widgets.trustedshops.com/js/*.js^
+||widgets.trustedshops.com/js/*.js^$3p
 --- filters
 
 ghostery_id: 2816

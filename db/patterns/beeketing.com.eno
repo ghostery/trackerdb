@@ -8,8 +8,8 @@ beeketing.com
 --- domains
 
 --- filters
-||sdk.azureedge.net/js/1.beeketing.*.js^
-||ss.beeketing.com/shop/*.json^
+||sdk.azureedge.net/js/1.beeketing.*.js^$3p
+||ss.beeketing.com/shop/*.json^$3p
 ||api.beeketing.com/rest-api/v1/abtest/active
 ||beeketing.com/dist/js/front/loader/shopify.js
 ||sdk.beeketing.com/js/beeketing.js

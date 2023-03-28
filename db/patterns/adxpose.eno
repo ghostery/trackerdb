@@ -10,9 +10,9 @@ servedby.adxpose.com
 --- domains
 
 --- filters
-||ads.adxpose.com^
-||event.adxpose.com^
-||servedby.adxpose.com^
+||ads.adxpose.com^$3p
+||event.adxpose.com^$3p
+||servedby.adxpose.com^$3p
 --- filters
 
 ghostery_id: 496

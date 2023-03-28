@@ -8,7 +8,7 @@ cdn.jumplead.com
 --- domains
 
 --- filters
-||cdn.jumplead.com^
+||cdn.jumplead.com^$3p
 --- filters
 
 ghostery_id: 2615

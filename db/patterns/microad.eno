@@ -11,9 +11,9 @@ microadinc.com
 --- domains
 
 --- filters
-||microad.jp^
-||microad.net^
-||microadinc.com^
+||microad.jp^$3p
+||microad.net^$3p
+||microadinc.com^$3p
 --- filters
 
 ghostery_id: 683

@@ -10,9 +10,9 @@ strossle.it
 --- domains
 
 --- filters
-||widgets.spklw.com^
+||widgets.spklw.com^$3p
 ||widgets.sprinklecontent.com/v2/sprinkle.js
-||widgets.sprinkletxt.com^
+||widgets.sprinkletxt.com^$3p
 --- filters
 
 ghostery_id: 1988

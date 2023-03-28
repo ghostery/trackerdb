@@ -12,11 +12,11 @@ ebz.io
 --- domains
 
 --- filters
-||beead.co.uk^
-||beead.fr^
-||beead.net^
-||ebuzzing.com^
-||ebz.io^
+||beead.co.uk^$3p
+||beead.fr^$3p
+||beead.net^$3p
+||ebuzzing.com^$3p
+||ebz.io^$3p
 --- filters
 
 ghostery_id: 993

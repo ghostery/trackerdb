@@ -9,8 +9,8 @@ webtraffic.se
 --- domains
 
 --- filters
-||webtraffic.no^
-||webtraffic.se^
+||webtraffic.no^$3p
+||webtraffic.se^$3p
 --- filters
 
 ghostery_id: 1190

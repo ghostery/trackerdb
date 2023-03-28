@@ -8,8 +8,8 @@ adsafety.net
 --- domains
 
 --- filters
-||cm.adsafety.net^
-||tags.adsafety.net^
+||cm.adsafety.net^$3p
+||tags.adsafety.net^$3p
 --- filters
 
 ghostery_id: 2524

@@ -8,8 +8,8 @@ netcommunities.com
 --- domains
 
 --- filters
-||ad.netcommunities.com^
-||ads.netcommunities.com^
+||ad.netcommunities.com^$3p
+||ads.netcommunities.com^$3p
 --- filters
 
 ghostery_id: 1455

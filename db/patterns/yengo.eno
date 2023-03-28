@@ -9,8 +9,8 @@ yengointernational.com
 --- domains
 
 --- filters
-||yengo.com^
-||yengointernational.com^
+||yengo.com^$3p
+||yengointernational.com^$3p
 --- filters
 
 ghostery_id: 1835

@@ -8,7 +8,7 @@ organization: 2leep
 --- domains
 
 --- filters
-||2leep.com^
+||2leep.com^$3p
 --- filters
 
 ghostery_id: 671

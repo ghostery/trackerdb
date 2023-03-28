@@ -8,7 +8,7 @@ loop11.com
 --- domains
 
 --- filters
-||cdn.loop11.com^
+||cdn.loop11.com^$3p
 --- filters
 
 ghostery_id: 2314
