@@ -7,3 +7,7 @@ cloudinary.com
 --- domains
 
 ghostery_id: 3460
+
+---filters
+||cloudinary.com^$3p
+---filters

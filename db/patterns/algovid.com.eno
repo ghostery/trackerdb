@@ -7,3 +7,7 @@ algovid.com
 --- domains
 
 ghostery_id: 3345
+
+---filters
+||algovid.com^$3p
+---filters

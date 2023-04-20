@@ -8,3 +8,7 @@ digitalgov.gov
 --- domains
 
 ghostery_id: 3504
+
+---filters
+||digitalgov.gov^$3p
+---filters

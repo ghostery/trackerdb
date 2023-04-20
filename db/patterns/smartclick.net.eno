@@ -7,3 +7,7 @@ smartclick.net
 --- domains
 
 ghostery_id: 3856
+
+---filters
+||smartclick.net^$3p
+---filters

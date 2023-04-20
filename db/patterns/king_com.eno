@@ -8,3 +8,7 @@ midasplayer.com
 --- domains
 
 ghostery_id: 3646
+
+---filters
+||midasplayer.com^$3p
+---filters

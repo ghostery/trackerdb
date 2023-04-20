@@ -8,3 +8,7 @@ nekudo.com
 --- domains
 
 ghostery_id: 3705
+
+---filters
+||nekudo.com^$3p
+---filters

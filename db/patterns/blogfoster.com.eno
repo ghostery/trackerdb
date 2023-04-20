@@ -8,3 +8,7 @@ blogfoster.com
 --- domains
 
 ghostery_id: 3404
+
+---filters
+||blogfoster.com^$3p
+---filters

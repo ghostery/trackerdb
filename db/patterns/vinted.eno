@@ -7,3 +7,7 @@ vinted.net
 --- domains
 
 ghostery_id: 3951
+
+---filters
+||vinted.net^$3p
+---filters

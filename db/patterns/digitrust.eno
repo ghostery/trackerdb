@@ -8,3 +8,7 @@ digitru.st
 --- domains
 
 ghostery_id: 3505
+
+---filters
+||digitru.st^$3p
+---filters

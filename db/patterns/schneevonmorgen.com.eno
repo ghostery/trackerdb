@@ -8,3 +8,8 @@ svonm.com
 --- domains
 
 ghostery_id: 3830
+
+---filters
+||schneevonmorgen.com^$3p
+||svonm.com^$3p
+---filters

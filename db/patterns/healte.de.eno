@@ -7,3 +7,7 @@ healte.de
 --- domains
 
 ghostery_id: 3592
+
+---filters
+||healte.de^$3p
+---filters

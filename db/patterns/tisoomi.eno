@@ -7,3 +7,7 @@ tisoomi-services.com
 --- domains
 
 ghostery_id: 3903
+
+---filters
+||tisoomi-services.com^$3p
+---filters

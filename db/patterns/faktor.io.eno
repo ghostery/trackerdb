@@ -8,3 +8,7 @@ faktor.io
 --- domains
 
 ghostery_id: 3542
+
+---filters
+||faktor.io^$3p
+---filters

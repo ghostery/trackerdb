@@ -7,3 +7,7 @@ toponclick.com
 --- domains
 
 ghostery_id: 3906
+
+---filters
+||toponclick.com^$3p
+---filters

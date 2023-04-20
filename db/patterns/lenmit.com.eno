@@ -7,3 +7,7 @@ lenmit.com
 --- domains
 
 ghostery_id: 3653
+
+---filters
+||lenmit.com^$3p
+---filters

@@ -9,3 +9,8 @@ bf-tools.net
 --- domains
 
 ghostery_id: 2801
+
+---filters
+||bf-ad.net^$3p
+||bf-tools.net^$3p
+---filters

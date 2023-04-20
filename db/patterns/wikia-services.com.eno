@@ -8,3 +8,7 @@ wikia-services.com
 --- domains
 
 ghostery_id: 3972
+
+---filters
+||wikia-services.com^$3p
+---filters

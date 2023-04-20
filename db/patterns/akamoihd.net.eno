@@ -7,3 +7,7 @@ akamoihd.net
 --- domains
 
 ghostery_id: 3341
+
+---filters
+||akamoihd.net^$3p
+---filters

@@ -7,3 +7,7 @@ interedy.info
 --- domains
 
 ghostery_id: 3625
+
+---filters
+||interedy.info^$3p
+---filters

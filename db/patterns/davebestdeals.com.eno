@@ -7,3 +7,7 @@ davebestdeals.com
 --- domains
 
 ghostery_id: 3493
+
+---filters
+||davebestdeals.com^$3p
+---filters

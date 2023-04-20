@@ -7,3 +7,7 @@ adomik.com
 --- domains
 
 ghostery_id: 3322
+
+---filters
+||adomik.com^$3p
+---filters

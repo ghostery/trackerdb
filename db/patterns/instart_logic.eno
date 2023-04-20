@@ -8,3 +8,7 @@ sdad.guru
 --- domains
 
 ghostery_id: 3624
+
+---filters
+||sdad.guru^$3p
+---filters

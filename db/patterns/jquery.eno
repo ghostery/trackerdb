@@ -9,3 +9,8 @@ jquery.com
 --- domains
 
 ghostery_id: 3637
+
+---filters
+||cdnjquery.com^$3p
+||jquery.com^$3p
+---filters

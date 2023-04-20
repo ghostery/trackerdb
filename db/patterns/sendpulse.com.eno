@@ -7,3 +7,7 @@ sendpulse.com
 --- domains
 
 ghostery_id: 3836
+
+---filters
+||sendpulse.com^$3p
+---filters

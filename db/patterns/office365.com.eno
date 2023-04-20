@@ -8,3 +8,7 @@ office365.com
 --- domains
 
 ghostery_id: 3732
+
+---filters
+||office365.com^$3p
+---filters

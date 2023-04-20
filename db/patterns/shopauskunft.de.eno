@@ -7,3 +7,7 @@ shopauskunft.de
 --- domains
 
 ghostery_id: 3842
+
+---filters
+||shopauskunft.de^$3p
+---filters

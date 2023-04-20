@@ -8,3 +8,7 @@ delvenetworks.com
 --- domains
 
 ghostery_id: 3499
+
+---filters
+||delvenetworks.com^$3p
+---filters

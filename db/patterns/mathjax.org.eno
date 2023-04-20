@@ -7,3 +7,7 @@ mathjax.org
 --- domains
 
 ghostery_id: 3677
+
+---filters
+||mathjax.org^$3p
+---filters

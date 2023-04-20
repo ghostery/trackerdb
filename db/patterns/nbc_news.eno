@@ -7,3 +7,7 @@ s-nbcnews.com
 --- domains
 
 ghostery_id: 3704
+
+---filters
+||s-nbcnews.com^$3p
+---filters

@@ -7,3 +7,7 @@ queue-it.net
 --- domains
 
 ghostery_id: 3794
+
+---filters
+||queue-it.net^$3p
+---filters

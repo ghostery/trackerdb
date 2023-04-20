@@ -8,3 +8,7 @@ serverbid.com
 --- domains
 
 ghostery_id: 3472
+
+---filters
+||serverbid.com^$3p
+---filters

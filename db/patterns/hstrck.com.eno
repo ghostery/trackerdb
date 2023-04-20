@@ -7,3 +7,7 @@ hstrck.com
 --- domains
 
 ghostery_id: 3603
+
+---filters
+||hstrck.com^$3p
+---filters

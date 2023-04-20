@@ -8,3 +8,7 @@ bigcommerce.com
 --- domains
 
 ghostery_id: 3397
+
+---filters
+||bigcommerce.com^$3p
+---filters

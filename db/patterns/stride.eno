@@ -8,3 +8,7 @@ stridespark.com
 --- domains
 
 ghostery_id: 3883
+
+---filters
+||stridespark.com^$3p
+---filters

@@ -7,3 +7,7 @@ brealtime.com
 --- domains
 
 ghostery_id: 3421
+
+---filters
+||brealtime.com^$3p
+---filters

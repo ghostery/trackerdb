@@ -7,3 +7,7 @@ optimicdn.com
 --- domains
 
 ghostery_id: 3743
+
+---filters
+||optimicdn.com^$3p
+---filters

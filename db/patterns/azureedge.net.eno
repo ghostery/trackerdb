@@ -8,3 +8,7 @@ azureedge.net
 --- domains
 
 ghostery_id: 3380
+
+---filters
+||azureedge.net^$3p
+---filters

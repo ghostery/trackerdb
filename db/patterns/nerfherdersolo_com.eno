@@ -7,3 +7,7 @@ nerfherdersolo.com
 --- domains
 
 ghostery_id: 3706
+
+---filters
+||nerfherdersolo.com^$3p
+---filters

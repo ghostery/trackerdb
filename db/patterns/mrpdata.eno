@@ -9,3 +9,8 @@ mrpdata.net
 --- domains
 
 ghostery_id: 3696
+
+---filters
+||mrpdata.com^$3p
+||mrpdata.net^$3p
+---filters

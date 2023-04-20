@@ -7,3 +7,7 @@ fortlachanhecksof.info
 --- domains
 
 ghostery_id: 3556
+
+---filters
+||fortlachanhecksof.info^$3p
+---filters

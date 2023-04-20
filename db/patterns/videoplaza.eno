@@ -8,3 +8,7 @@ videoplaza.tv
 --- domains
 
 ghostery_id: 1746
+
+---filters
+||videoplaza.tv^$3p
+---filters

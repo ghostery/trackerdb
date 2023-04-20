@@ -7,3 +7,7 @@ qualaroo.com
 --- domains
 
 ghostery_id: 3793
+
+---filters
+||qualaroo.com^$3p
+---filters

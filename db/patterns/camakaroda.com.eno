@@ -7,3 +7,7 @@ camakaroda.com
 --- domains
 
 ghostery_id: 3433
+
+---filters
+||camakaroda.com^$3p
+---filters

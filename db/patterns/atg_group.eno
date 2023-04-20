@@ -7,3 +7,7 @@ oadts.com
 --- domains
 
 ghostery_id: 3372
+
+---filters
+||oadts.com^$3p
+---filters

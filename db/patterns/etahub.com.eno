@@ -7,3 +7,7 @@ etahub.com
 --- domains
 
 ghostery_id: 3533
+
+---filters
+||etahub.com^$3p
+---filters

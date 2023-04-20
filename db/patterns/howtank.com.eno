@@ -7,3 +7,7 @@ howtank.com
 --- domains
 
 ghostery_id: 3601
+
+---filters
+||howtank.com^$3p
+---filters

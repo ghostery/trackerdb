@@ -8,3 +8,7 @@ adrecover.com
 --- domains
 
 ghostery_id: 3324
+
+---filters
+||adrecover.com^$3p
+---filters

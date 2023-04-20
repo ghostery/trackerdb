@@ -7,3 +7,7 @@ ionicframework.com
 --- domains
 
 ghostery_id: 3627
+
+---filters
+||ionicframework.com^$3p
+---filters

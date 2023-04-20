@@ -8,3 +8,7 @@ artlebedev.ru
 --- domains
 
 ghostery_id: 3368
+
+---filters
+||artlebedev.ru^$3p
+---filters

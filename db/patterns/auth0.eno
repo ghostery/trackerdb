@@ -8,3 +8,7 @@ auth0.com
 --- domains
 
 ghostery_id: 3377
+
+---filters
+||auth0.com^$3p
+---filters

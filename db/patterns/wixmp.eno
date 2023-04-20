@@ -8,3 +8,7 @@ wixmp.com
 --- domains
 
 ghostery_id: 3976
+
+---filters
+||wixmp.com^$3p
+---filters

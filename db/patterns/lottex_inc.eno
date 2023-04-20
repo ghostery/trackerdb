@@ -7,3 +7,7 @@ vidcpm.com
 --- domains
 
 ghostery_id: 3666
+
+---filters
+||vidcpm.com^$3p
+---filters

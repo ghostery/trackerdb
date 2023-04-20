@@ -10,3 +10,9 @@ technical-service.net
 --- domains
 
 ghostery_id: 3820
+
+---filters
+||rtl.de^$3p
+||static-fra.de^$3p
+||technical-service.net^$3p
+---filters

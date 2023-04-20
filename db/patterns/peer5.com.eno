@@ -8,3 +8,7 @@ peer5.com
 --- domains
 
 ghostery_id: 3759
+
+---filters
+||peer5.com^$3p
+---filters

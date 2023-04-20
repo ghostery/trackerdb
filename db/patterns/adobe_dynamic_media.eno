@@ -8,3 +8,7 @@ scene7.com
 --- domains
 
 ghostery_id: 3828
+
+---filters
+||scene7.com^$3p
+---filters

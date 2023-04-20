@@ -7,3 +7,7 @@ yagiay.com
 --- domains
 
 ghostery_id: 3311
+
+---filters
+||yagiay.com^$3p
+---filters

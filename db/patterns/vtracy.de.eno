@@ -7,3 +7,7 @@ vtracy.de
 --- domains
 
 ghostery_id: 3960
+
+---filters
+||vtracy.de^$3p
+---filters

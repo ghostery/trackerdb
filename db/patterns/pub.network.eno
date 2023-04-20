@@ -7,3 +7,7 @@ pub.network
 --- domains
 
 ghostery_id: 3779
+
+---filters
+||pub.network^$3p
+---filters

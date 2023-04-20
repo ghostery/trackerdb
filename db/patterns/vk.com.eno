@@ -10,3 +10,9 @@ vkuservideo.net
 --- domains
 
 ghostery_id: 3954
+
+---filters
+||cdn-vk.com^$3p
+||vk-analytics.com^$3p
+||vkuservideo.net^$3p
+---filters

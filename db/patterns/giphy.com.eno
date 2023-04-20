@@ -7,3 +7,7 @@ giphy.com
 --- domains
 
 ghostery_id: 3568
+
+---filters
+||giphy.com^$3p
+---filters

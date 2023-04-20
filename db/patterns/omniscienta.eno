@@ -7,3 +7,7 @@ omnidsp.com
 --- domains
 
 ghostery_id: 3737
+
+---filters
+||omnidsp.com^$3p
+---filters

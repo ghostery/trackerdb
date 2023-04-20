@@ -7,3 +7,7 @@ trafficfabrik.com
 --- domains
 
 ghostery_id: 3912
+
+---filters
+||trafficfabrik.com^$3p
+---filters

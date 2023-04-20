@@ -7,3 +7,7 @@ semantiqo.com
 --- domains
 
 ghostery_id: 3834
+
+---filters
+||semantiqo.com^$3p
+---filters

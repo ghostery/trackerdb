@@ -8,3 +8,7 @@ mycdn.me
 --- domains
 
 ghostery_id: 3698
+
+---filters
+||mycdn.me^$3p
+---filters

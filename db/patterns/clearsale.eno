@@ -7,3 +7,7 @@ clearsale.com.br
 --- domains
 
 ghostery_id: 3456
+
+---filters
+||clearsale.com.br^$3p
+---filters

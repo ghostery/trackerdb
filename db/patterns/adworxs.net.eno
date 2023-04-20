@@ -7,3 +7,7 @@ adworxs.net
 --- domains
 
 ghostery_id: 3335
+
+---filters
+||adworxs.net^$3p
+---filters

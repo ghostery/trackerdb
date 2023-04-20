@@ -9,3 +9,9 @@ jimstatic.com
 --- domains
 
 ghostery_id: 3635
+
+---filters
+||jimcdn.com^$3p
+||jimdo.com^$3p
+||jimstatic.com^$3p
+---filters

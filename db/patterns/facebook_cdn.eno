@@ -9,3 +9,8 @@ fbsbx.com
 --- domains
 
 ghostery_id: 3541
+
+---filters
+||fbcdn.net^$3p
+||fbsbx.com^$3p
+---filters

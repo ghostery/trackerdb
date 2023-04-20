@@ -8,3 +8,8 @@ omsnative.de
 --- domains
 
 ghostery_id: 3738
+
+---filters
+||oms.eu^$3p
+||omsnative.de^$3p
+---filters

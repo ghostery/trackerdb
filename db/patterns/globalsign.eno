@@ -7,3 +7,7 @@ globalsign.com
 --- domains
 
 ghostery_id: 3575
+
+---filters
+||globalsign.com^$3p
+---filters

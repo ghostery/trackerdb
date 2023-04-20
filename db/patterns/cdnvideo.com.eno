@@ -8,3 +8,7 @@ cdnvideo.com
 --- domains
 
 ghostery_id: 3445
+
+---filters
+||cdnvideo.com^$3p
+---filters

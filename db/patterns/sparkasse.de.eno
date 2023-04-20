@@ -7,3 +7,7 @@ sparkasse.de
 --- domains
 
 ghostery_id: 3865
+
+---filters
+||sparkasse.de^$3p
+---filters

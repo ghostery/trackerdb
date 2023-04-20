@@ -7,3 +7,7 @@ ccmbg.com
 --- domains
 
 ghostery_id: 2359
+
+---filters
+||ccmbg.com^$3p
+---filters

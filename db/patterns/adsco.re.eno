@@ -7,3 +7,7 @@ adsco.re
 --- domains
 
 ghostery_id: 3327
+
+---filters
+||adsco.re^$3p
+---filters

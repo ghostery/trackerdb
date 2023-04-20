@@ -7,3 +7,7 @@ dyncdn.me
 --- domains
 
 ghostery_id: 3522
+
+---filters
+||dyncdn.me^$3p
+---filters

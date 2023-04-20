@@ -7,3 +7,7 @@ remintrex.com
 --- domains
 
 ghostery_id: 3807
+
+---filters
+||remintrex.com^$3p
+---filters

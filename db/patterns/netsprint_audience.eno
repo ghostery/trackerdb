@@ -8,3 +8,7 @@ nsaudience.pl
 --- domains
 
 ghostery_id: 3710
+
+---filters
+||nsaudience.pl^$3p
+---filters

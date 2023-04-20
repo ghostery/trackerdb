@@ -9,3 +9,9 @@ netdna-ssl.com
 --- domains
 
 ghostery_id: 3678
+
+---filters
+||maxcdn.com^$3p
+||netdna-cdn.com^$3p
+||netdna-ssl.com^$3p
+---filters

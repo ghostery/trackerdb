@@ -7,3 +7,7 @@ ad-delivery.net
 --- domains
 
 ghostery_id: 3304
+
+---filters
+||ad-delivery.net^$3p
+---filters

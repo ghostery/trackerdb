@@ -7,3 +7,7 @@ pmddby.com
 --- domains
 
 ghostery_id: 3769
+
+---filters
+||pmddby.com^$3p
+---filters

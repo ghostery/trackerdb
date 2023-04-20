@@ -8,3 +8,7 @@ pulpix.com
 --- domains
 
 ghostery_id: 3781
+
+---filters
+||pulpix.com^$3p
+---filters

@@ -7,3 +7,7 @@ ubersetzung-app.com
 --- domains
 
 ghostery_id: 3930
+
+---filters
+||ubersetzung-app.com^$3p
+---filters

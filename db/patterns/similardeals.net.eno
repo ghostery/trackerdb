@@ -7,3 +7,7 @@ similardeals.net
 --- domains
 
 ghostery_id: 3849
+
+---filters
+||similardeals.net^$3p
+---filters

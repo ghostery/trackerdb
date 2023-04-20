@@ -8,3 +8,7 @@ ancestrycdn.com
 --- domains
 
 ghostery_id: 3358
+
+---filters
+||ancestrycdn.com^$3p
+---filters

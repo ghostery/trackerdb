@@ -7,3 +7,7 @@ hyvyd.com
 --- domains
 
 ghostery_id: 3605
+
+---filters
+||hyvyd.com^$3p
+---filters

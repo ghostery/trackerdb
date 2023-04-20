@@ -7,3 +7,7 @@ sociaplus.com
 --- domains
 
 ghostery_id: 3861
+
+---filters
+||sociaplus.com^$3p
+---filters

@@ -22,3 +22,21 @@ windows.net
 --- domains
 
 ghostery_id: 3686
+
+---filters
+||azurewebsites.net^$3p
+||cloudapp.net^$3p
+||gfx.ms^$3p
+||live.com^$3p
+||microsoft.com^$3p
+||microsoftonline-p.com^$3p
+||microsoftonline.com^$3p
+||microsofttranslator.com^$3p
+||msecnd.net^$3p
+||msedge.net^$3p
+||msocdn.com^$3p
+||onestore.ms^$3p
+||s-microsoft.com^$3p
+||trouter.io^$3p
+||windows.net^$3p
+---filters

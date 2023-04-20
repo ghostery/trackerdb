@@ -8,3 +8,7 @@ mediator.media
 --- domains
 
 ghostery_id: 3683
+
+---filters
+||mediator.media^$3p
+---filters

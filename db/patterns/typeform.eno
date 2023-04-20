@@ -7,3 +7,7 @@ typeform.com
 --- domains
 
 ghostery_id: 3927
+
+---filters
+||typeform.com^$3p
+---filters

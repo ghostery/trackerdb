@@ -7,3 +7,7 @@ bangdom.com
 --- domains
 
 ghostery_id: 3385
+
+---filters
+||bangdom.com^$3p
+---filters

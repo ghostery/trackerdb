@@ -7,3 +7,7 @@ unpkg.com
 --- domains
 
 ghostery_id: 3935
+
+---filters
+||unpkg.com^$3p
+---filters

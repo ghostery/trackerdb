@@ -7,3 +7,7 @@ videoplayerhub.com
 --- domains
 
 ghostery_id: 3949
+
+---filters
+||videoplayerhub.com^$3p
+---filters

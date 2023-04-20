@@ -7,3 +7,7 @@ xxxlshop.de
 --- domains
 
 ghostery_id: 3989
+
+---filters
+||xxxlshop.de^$3p
+---filters

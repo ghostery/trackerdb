@@ -7,3 +7,7 @@ aaxads.com
 --- domains
 
 ghostery_id: 4019
+
+---filters
+||aaxads.com^$3p
+---filters

@@ -7,3 +7,7 @@ startappservice.com
 --- domains
 
 ghostery_id: 3876
+
+---filters
+||startappservice.com^$3p
+---filters

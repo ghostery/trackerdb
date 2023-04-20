@@ -7,3 +7,7 @@ mapbox.com
 --- domains
 
 ghostery_id: 3675
+
+---filters
+||mapbox.com^$3p
+---filters

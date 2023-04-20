@@ -7,3 +7,7 @@ rtbsuperhub.com
 --- domains
 
 ghostery_id: 3819
+
+---filters
+||rtbsuperhub.com^$3p
+---filters

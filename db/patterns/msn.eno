@@ -9,3 +9,8 @@ s-msn.com
 --- domains
 
 ghostery_id: 3697
+
+---filters
+||msn.com^$3p
+||s-msn.com^$3p
+---filters

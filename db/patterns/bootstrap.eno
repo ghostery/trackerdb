@@ -8,3 +8,7 @@ bootstrapcdn.com
 --- domains
 
 ghostery_id: 3414
+
+---filters
+||bootstrapcdn.com^$3p
+---filters

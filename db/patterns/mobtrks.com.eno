@@ -7,3 +7,7 @@ mobtrks.com
 --- domains
 
 ghostery_id: 3690
+
+---filters
+||mobtrks.com^$3p
+---filters

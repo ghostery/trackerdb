@@ -7,3 +7,7 @@ cdnwidget.com
 --- domains
 
 ghostery_id: 3446
+
+---filters
+||cdnwidget.com^$3p
+---filters

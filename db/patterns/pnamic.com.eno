@@ -7,3 +7,7 @@ pnamic.com
 --- domains
 
 ghostery_id: 3770
+
+---filters
+||pnamic.com^$3p
+---filters

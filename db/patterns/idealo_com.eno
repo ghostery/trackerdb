@@ -7,3 +7,7 @@ idealo.com
 --- domains
 
 ghostery_id: 3611
+
+---filters
+||idealo.com^$3p
+---filters

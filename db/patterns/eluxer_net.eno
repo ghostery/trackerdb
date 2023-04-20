@@ -7,3 +7,7 @@ eluxer.net
 --- domains
 
 ghostery_id: 3526
+
+---filters
+||eluxer.net^$3p
+---filters

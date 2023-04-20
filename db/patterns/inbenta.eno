@@ -8,3 +8,7 @@ inbenta.com
 --- domains
 
 ghostery_id: 3619
+
+---filters
+||inbenta.com^$3p
+---filters

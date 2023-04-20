@@ -9,3 +9,8 @@ autoscout24.net
 --- domains
 
 ghostery_id: 3378
+
+---filters
+||autoscout24.com^$3p
+||autoscout24.net^$3p
+---filters

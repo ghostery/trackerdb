@@ -7,3 +7,7 @@ pageanalytics.space
 --- domains
 
 ghostery_id: 3756
+
+---filters
+||pageanalytics.space^$3p
+---filters

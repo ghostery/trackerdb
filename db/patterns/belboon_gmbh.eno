@@ -7,3 +7,7 @@ belboon.de
 --- domains
 
 ghostery_id: 3394
+
+---filters
+||belboon.de^$3p
+---filters

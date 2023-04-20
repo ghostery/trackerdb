@@ -7,3 +7,7 @@ webclose.net
 --- domains
 
 ghostery_id: 3966
+
+---filters
+||webclose.net^$3p
+---filters

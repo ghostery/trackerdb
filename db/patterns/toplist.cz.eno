@@ -7,3 +7,7 @@ toplist.cz
 --- domains
 
 ghostery_id: 3905
+
+---filters
+||toplist.cz^$3p
+---filters

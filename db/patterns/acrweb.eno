@@ -8,3 +8,7 @@ ziyu.net
 --- domains
 
 ghostery_id: 3300
+
+---filters
+||ziyu.net^$3p
+---filters

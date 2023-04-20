@@ -7,3 +7,7 @@ kataweb.it
 --- domains
 
 ghostery_id: 3644
+
+---filters
+||kataweb.it^$3p
+---filters

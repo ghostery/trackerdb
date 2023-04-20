@@ -7,3 +7,7 @@ caltat.com
 --- domains
 
 ghostery_id: 3431
+
+---filters
+||caltat.com^$3p
+---filters

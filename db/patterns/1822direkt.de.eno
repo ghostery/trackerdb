@@ -7,3 +7,7 @@ website_url: https://www.1822direkt.de/
 --- domains
 
 ghostery_id: 4011
+
+---filters
+||1822direkt.de^$3p
+---filters

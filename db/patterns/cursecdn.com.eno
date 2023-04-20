@@ -8,3 +8,7 @@ cursecdn.com
 --- domains
 
 ghostery_id: 3482
+
+---filters
+||cursecdn.com^$3p
+---filters

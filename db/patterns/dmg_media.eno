@@ -8,3 +8,7 @@ and.co.uk
 --- domains
 
 ghostery_id: 3511
+
+---filters
+||and.co.uk^$3p
+---filters

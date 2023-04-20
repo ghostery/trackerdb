@@ -7,3 +7,7 @@ quora.com
 --- domains
 
 ghostery_id: 3795
+
+---filters
+||quora.com^$3p
+---filters

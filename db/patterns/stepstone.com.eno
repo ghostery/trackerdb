@@ -7,3 +7,7 @@ stepstone.com
 --- domains
 
 ghostery_id: 3881
+
+---filters
+||stepstone.com^$3p
+---filters

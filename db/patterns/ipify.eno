@@ -7,3 +7,7 @@ ipify.org
 --- domains
 
 ghostery_id: 3629
+
+---filters
+||ipify.org^$3p
+---filters

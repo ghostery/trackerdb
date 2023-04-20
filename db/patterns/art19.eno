@@ -8,3 +8,7 @@ art19.com
 --- domains
 
 ghostery_id: 3367
+
+---filters
+||art19.com^$3p
+---filters

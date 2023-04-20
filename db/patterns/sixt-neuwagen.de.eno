@@ -7,3 +7,7 @@ sixt-neuwagen.de
 --- domains
 
 ghostery_id: 3853
+
+---filters
+||sixt-neuwagen.de^$3p
+---filters

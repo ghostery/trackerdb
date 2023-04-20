@@ -7,3 +7,7 @@ ownpage.fr
 --- domains
 
 ghostery_id: 3753
+
+---filters
+||ownpage.fr^$3p
+---filters

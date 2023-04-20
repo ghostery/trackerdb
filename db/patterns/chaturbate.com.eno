@@ -7,3 +7,7 @@ chaturbate.com
 --- domains
 
 ghostery_id: 3448
+
+---filters
+||chaturbate.com^$3p
+---filters

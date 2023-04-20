@@ -8,3 +8,7 @@ vox-cdn.com
 --- domains
 
 ghostery_id: 3959
+
+---filters
+||vox-cdn.com^$3p
+---filters

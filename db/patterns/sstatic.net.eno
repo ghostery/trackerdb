@@ -7,3 +7,7 @@ sstatic.net
 --- domains
 
 ghostery_id: 3872
+
+---filters
+||sstatic.net^$3p
+---filters

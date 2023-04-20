@@ -8,3 +8,7 @@ adrtx.net
 --- domains
 
 ghostery_id: 3306
+
+---filters
+||adrtx.net^$3p
+---filters

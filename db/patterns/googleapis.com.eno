@@ -8,3 +8,7 @@ googleapis.com
 --- domains
 
 ghostery_id: 3584
+
+---filters
+||googleapis.com^$3p
+---filters

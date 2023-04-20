@@ -8,3 +8,7 @@ alipay.com
 --- domains
 
 ghostery_id: 3347
+
+---filters
+||alipay.com^$3p
+---filters

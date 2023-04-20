@@ -7,3 +7,7 @@ statsy.net
 --- domains
 
 ghostery_id: 3877
+
+---filters
+||statsy.net^$3p
+---filters

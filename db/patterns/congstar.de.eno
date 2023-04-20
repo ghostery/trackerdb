@@ -7,3 +7,7 @@ congstar.de
 --- domains
 
 ghostery_id: 3471
+
+---filters
+||congstar.de^$3p
+---filters

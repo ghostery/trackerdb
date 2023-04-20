@@ -7,3 +7,7 @@ srvtrck.com
 --- domains
 
 ghostery_id: 3870
+
+---filters
+||srvtrck.com^$3p
+---filters

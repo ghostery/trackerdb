@@ -7,3 +7,7 @@ iias.eu
 --- domains
 
 ghostery_id: 3615
+
+---filters
+||iias.eu^$3p
+---filters

@@ -8,3 +8,7 @@ fastpic.ru
 --- domains
 
 ghostery_id: 3546
+
+---filters
+||fastpic.ru^$3p
+---filters

@@ -8,3 +8,7 @@ bemobile.ua
 --- domains
 
 ghostery_id: 3395
+
+---filters
+||bemobile.ua^$3p
+---filters

@@ -9,3 +9,8 @@ site24x7rum.eu
 --- domains
 
 ghostery_id: 3851
+
+---filters
+||site24x7rum.com^$3p
+||site24x7rum.eu^$3p
+---filters

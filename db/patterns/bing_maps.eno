@@ -8,3 +8,7 @@ virtualearth.net
 --- domains
 
 ghostery_id: 3400
+
+---filters
+||virtualearth.net^$3p
+---filters

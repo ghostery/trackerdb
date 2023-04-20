@@ -7,3 +7,7 @@ findizer.fr
 --- domains
 
 ghostery_id: 3549
+
+---filters
+||findizer.fr^$3p
+---filters

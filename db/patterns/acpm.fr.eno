@@ -7,3 +7,7 @@ acpm.fr
 --- domains
 
 ghostery_id: 4023
+
+---filters
+||acpm.fr^$3p
+---filters

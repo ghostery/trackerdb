@@ -8,3 +8,7 @@ ad.wsod.com
 --- domains
 
 ghostery_id: 3613
+
+---filters
+||ad.wsod.com^$3p
+---filters

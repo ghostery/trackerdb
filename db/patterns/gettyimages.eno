@@ -7,3 +7,7 @@ gettyimages.com
 --- domains
 
 ghostery_id: 3565
+
+---filters
+||gettyimages.com^$3p
+---filters

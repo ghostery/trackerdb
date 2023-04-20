@@ -8,3 +8,7 @@ rtmark.net
 --- domains
 
 ghostery_id: 3821
+
+---filters
+||rtmark.net^$3p
+---filters

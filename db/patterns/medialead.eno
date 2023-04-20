@@ -8,3 +8,7 @@ medialead.de
 --- domains
 
 ghostery_id: 3681
+
+---filters
+||medialead.de^$3p
+---filters

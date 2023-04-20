@@ -8,3 +8,7 @@ cardinalcommerce.com
 --- domains
 
 ghostery_id: 3436
+
+---filters
+||cardinalcommerce.com^$3p
+---filters

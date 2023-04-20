@@ -7,3 +7,7 @@ ciuvo.com
 --- domains
 
 ghostery_id: 3452
+
+---filters
+||ciuvo.com^$3p
+---filters

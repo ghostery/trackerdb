@@ -10,3 +10,9 @@ vkontakte.ru
 --- domains
 
 ghostery_id: 3955
+
+---filters
+||userapi.com^$3p
+||vk.com^$3p
+||vkontakte.ru^$3p
+---filters

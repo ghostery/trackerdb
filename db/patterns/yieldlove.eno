@@ -9,3 +9,8 @@ yieldlove.com
 --- domains
 
 ghostery_id: 3995
+
+---filters
+||yieldlove-ad-serving.net^$3p
+||yieldlove.com^$3p
+---filters

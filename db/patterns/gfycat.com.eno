@@ -7,3 +7,7 @@ gfycat.com
 --- domains
 
 ghostery_id: 3566
+
+---filters
+||gfycat.com^$3p
+---filters

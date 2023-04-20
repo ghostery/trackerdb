@@ -8,3 +8,7 @@ firebaseio.com
 --- domains
 
 ghostery_id: 3550
+
+---filters
+||firebaseio.com^$3p
+---filters

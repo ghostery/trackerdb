@@ -7,3 +7,7 @@ bodelen.com
 --- domains
 
 ghostery_id: 3409
+
+---filters
+||bodelen.com^$3p
+---filters

@@ -7,3 +7,7 @@ mycliplister.com
 --- domains
 
 ghostery_id: 3699
+
+---filters
+||mycliplister.com^$3p
+---filters

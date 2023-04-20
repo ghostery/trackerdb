@@ -8,3 +8,7 @@ wurfl.io
 --- domains
 
 ghostery_id: 3983
+
+---filters
+||wurfl.io^$3p
+---filters

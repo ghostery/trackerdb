@@ -7,3 +7,7 @@ perfdrive.com
 --- domains
 
 ghostery_id: 3762
+
+---filters
+||perfdrive.com^$3p
+---filters

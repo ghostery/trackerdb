@@ -7,3 +7,7 @@ bit.ly
 --- domains
 
 ghostery_id: 3401
+
+---filters
+||bit.ly^$3p
+---filters

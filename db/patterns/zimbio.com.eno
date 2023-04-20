@@ -7,3 +7,7 @@ zimbio.com
 --- domains
 
 ghostery_id: 4006
+
+---filters
+||zimbio.com^$3p
+---filters

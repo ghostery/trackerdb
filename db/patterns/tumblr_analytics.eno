@@ -9,3 +9,8 @@ txmblr.com
 --- domains
 
 ghostery_id: 3921
+
+---filters
+||sre-perim.com^$3p
+||txmblr.com^$3p
+---filters

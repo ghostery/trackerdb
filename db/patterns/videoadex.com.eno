@@ -8,3 +8,7 @@ videoadex.com
 --- domains
 
 ghostery_id: 3948
+
+---filters
+||videoadex.com^$3p
+---filters

@@ -7,3 +7,7 @@ redblue.de
 --- domains
 
 ghostery_id: 3802
+
+---filters
+||redblue.de^$3p
+---filters

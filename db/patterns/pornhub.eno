@@ -9,3 +9,8 @@ pornhub.com
 --- domains
 
 ghostery_id: 3772
+
+---filters
+||phncdn.com^$3p
+||pornhub.com^$3p
+---filters

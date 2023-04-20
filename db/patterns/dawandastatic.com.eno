@@ -7,3 +7,7 @@ dawandastatic.com
 --- domains
 
 ghostery_id: 3494
+
+---filters
+||dawandastatic.com^$3p
+---filters

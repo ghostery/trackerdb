@@ -7,3 +7,7 @@ puserving.com
 --- domains
 
 ghostery_id: 3782
+
+---filters
+||puserving.com^$3p
+---filters

@@ -7,3 +7,7 @@ codeonclick.com
 --- domains
 
 ghostery_id: 3463
+
+---filters
+||codeonclick.com^$3p
+---filters

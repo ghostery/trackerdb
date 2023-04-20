@@ -7,3 +7,7 @@ otm-r.com
 --- domains
 
 ghostery_id: 3750
+
+---filters
+||otm-r.com^$3p
+---filters

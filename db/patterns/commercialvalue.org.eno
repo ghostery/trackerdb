@@ -7,3 +7,7 @@ commercialvalue.org
 --- domains
 
 ghostery_id: 3467
+
+---filters
+||commercialvalue.org^$3p
+---filters

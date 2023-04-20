@@ -8,3 +8,7 @@ cookielaw.org
 --- domains
 
 ghostery_id: 3742
+
+---filters
+||cookielaw.org^$3p
+---filters

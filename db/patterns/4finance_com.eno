@@ -7,3 +7,7 @@ website_url: http://4finance.com/
 --- domains
 
 ghostery_id: 4016
+
+---filters
+||4finance.com^$3p
+---filters

@@ -8,3 +8,7 @@ adalyser.com
 --- domains
 
 ghostery_id: 3308
+
+---filters
+||adalyser.com^$3p
+---filters

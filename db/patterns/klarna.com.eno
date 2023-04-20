@@ -7,3 +7,7 @@ klarna.com
 --- domains
 
 ghostery_id: 3647
+
+---filters
+||klarna.com^$3p
+---filters

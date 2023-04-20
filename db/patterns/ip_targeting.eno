@@ -9,3 +9,8 @@ iptargeting.com
 --- domains
 
 ghostery_id: 4031
+
+---filters
+||eltoro.com^$3p
+||iptargeting.com^$3p
+---filters

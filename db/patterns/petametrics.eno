@@ -8,3 +8,7 @@ petametrics.com
 --- domains
 
 ghostery_id: 2103
+
+---filters
+||petametrics.com^$3p
+---filters

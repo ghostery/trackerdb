@@ -8,3 +8,7 @@ powr.io
 --- domains
 
 ghostery_id: 3773
+
+---filters
+||powr.io^$3p
+---filters

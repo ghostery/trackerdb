@@ -7,3 +7,7 @@ prebid.org
 --- domains
 
 ghostery_id: 3774
+
+---filters
+||prebid.org^$3p
+---filters

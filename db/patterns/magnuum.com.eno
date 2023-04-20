@@ -7,3 +7,7 @@ magnuum.com
 --- domains
 
 ghostery_id: 3670
+
+---filters
+||magnuum.com^$3p
+---filters

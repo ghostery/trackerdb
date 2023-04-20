@@ -10,3 +10,9 @@ githubusercontent.com
 --- domains
 
 ghostery_id: 3570
+
+---filters
+||github.com^$3p
+||githubassets.com^$3p
+||githubusercontent.com^$3p
+---filters

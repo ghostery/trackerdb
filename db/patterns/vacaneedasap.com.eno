@@ -7,3 +7,7 @@ vacaneedasap.com
 --- domains
 
 ghostery_id: 3942
+
+---filters
+||vacaneedasap.com^$3p
+---filters

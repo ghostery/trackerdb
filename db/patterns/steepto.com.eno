@@ -7,3 +7,7 @@ steepto.com
 --- domains
 
 ghostery_id: 3880
+
+---filters
+||steepto.com^$3p
+---filters

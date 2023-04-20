@@ -7,3 +7,7 @@ pendo.io
 --- domains
 
 ghostery_id: 3760
+
+---filters
+||pendo.io^$3p
+---filters

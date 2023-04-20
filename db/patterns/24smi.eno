@@ -8,3 +8,8 @@ website_url: https://24smi.org/
 --- domains
 
 ghostery_id: 4014
+
+---filters
+||24smi.net^$3p
+||24smi.org^$3p
+---filters

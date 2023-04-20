@@ -7,3 +7,7 @@ cxo.name
 --- domains
 
 ghostery_id: 3483
+
+---filters
+||cxo.name^$3p
+---filters

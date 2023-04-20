@@ -7,3 +7,7 @@ afgr2.com
 --- domains
 
 ghostery_id: 3338
+
+---filters
+||afgr2.com^$3p
+---filters

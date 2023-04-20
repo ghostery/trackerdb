@@ -8,3 +8,7 @@ qq.com
 --- domains
 
 ghostery_id: 3792
+
+---filters
+||qq.com^$3p
+---filters

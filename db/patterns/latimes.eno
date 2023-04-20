@@ -8,3 +8,7 @@ latimes.com
 --- domains
 
 ghostery_id: 3650
+
+---filters
+||latimes.com^$3p
+---filters

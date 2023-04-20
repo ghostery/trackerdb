@@ -7,3 +7,7 @@ nyacampwk.com
 --- domains
 
 ghostery_id: 3723
+
+---filters
+||nyacampwk.com^$3p
+---filters

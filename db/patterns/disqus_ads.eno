@@ -8,3 +8,7 @@ disqusads.com
 --- domains
 
 ghostery_id: 3508
+
+---filters
+||disqusads.com^$3p
+---filters

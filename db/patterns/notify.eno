@@ -7,3 +7,7 @@ adleadevent.com
 --- domains
 
 ghostery_id: 3720
+
+---filters
+||adleadevent.com^$3p
+---filters

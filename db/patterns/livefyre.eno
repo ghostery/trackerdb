@@ -9,3 +9,8 @@ livefyre.com
 --- domains
 
 ghostery_id: 1420
+
+---filters
+||fyre.co^$3p
+||livefyre.com^$3p
+---filters

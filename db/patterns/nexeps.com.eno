@@ -7,3 +7,7 @@ nexeps.com
 --- domains
 
 ghostery_id: 3714
+
+---filters
+||nexeps.com^$3p
+---filters

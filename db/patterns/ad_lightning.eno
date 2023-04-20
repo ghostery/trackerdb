@@ -8,3 +8,7 @@ adlightning.com
 --- domains
 
 ghostery_id: 4026
+
+---filters
+||adlightning.com^$3p
+---filters

@@ -7,3 +7,7 @@ storygize.net
 --- domains
 
 ghostery_id: 3882
+
+---filters
+||storygize.net^$3p
+---filters

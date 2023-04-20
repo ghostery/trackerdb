@@ -11,3 +11,11 @@ bpsecure.com
 --- domains
 
 ghostery_id: 3398
+
+---filters
+||bigpoint-payment.com^$3p
+||bigpoint.com^$3p
+||bigpoint.net^$3p
+||bpcdn.net^$3p
+||bpsecure.com^$3p
+---filters

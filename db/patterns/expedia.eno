@@ -9,3 +9,8 @@ trvl-px.com
 --- domains
 
 ghostery_id: 3537
+
+---filters
+||expedia.com^$3p
+||trvl-px.com^$3p
+---filters

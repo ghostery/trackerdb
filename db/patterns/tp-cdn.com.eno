@@ -8,3 +8,8 @@ tp-cdn.com
 --- domains
 
 ghostery_id: 3909
+
+---filters
+||rialpay.com^$3p
+||tp-cdn.com^$3p
+---filters

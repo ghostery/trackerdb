@@ -7,3 +7,7 @@ adtelligence.de
 --- domains
 
 ghostery_id: 3328
+
+---filters
+||adtelligence.de^$3p
+---filters

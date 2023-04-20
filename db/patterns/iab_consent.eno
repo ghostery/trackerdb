@@ -8,3 +8,7 @@ consensu.org
 --- domains
 
 ghostery_id: 3607
+
+---filters
+||consensu.org^$3p
+---filters

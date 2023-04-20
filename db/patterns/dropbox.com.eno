@@ -8,3 +8,8 @@ dropboxstatic.com
 --- domains
 
 ghostery_id: 2490
+
+---filters
+||dropbox.com^$3p
+||dropboxstatic.com^$3p
+---filters

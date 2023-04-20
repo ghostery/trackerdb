@@ -7,3 +7,7 @@ cdn13.com
 --- domains
 
 ghostery_id: 3439
+
+---filters
+||cdn13.com^$3p
+---filters

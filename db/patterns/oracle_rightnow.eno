@@ -9,3 +9,8 @@ rnengage.com
 --- domains
 
 ghostery_id: 3746
+
+---filters
+||rightnowtech.com^$3p
+||rnengage.com^$3p
+---filters

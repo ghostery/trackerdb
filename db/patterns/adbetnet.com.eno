@@ -7,3 +7,7 @@ adbetnet.com
 --- domains
 
 ghostery_id: 3310
+
+---filters
+||adbetnet.com^$3p
+---filters

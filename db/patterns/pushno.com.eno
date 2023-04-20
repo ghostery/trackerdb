@@ -7,3 +7,7 @@ pushno.com
 --- domains
 
 ghostery_id: 3787
+
+---filters
+||pushno.com^$3p
+---filters

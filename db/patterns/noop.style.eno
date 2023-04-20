@@ -7,3 +7,7 @@ noop.style
 --- domains
 
 ghostery_id: 3718
+
+---filters
+||noop.style^$3p
+---filters

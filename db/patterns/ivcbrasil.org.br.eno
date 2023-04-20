@@ -7,3 +7,7 @@ ivcbrasil.org.br
 --- domains
 
 ghostery_id: 3632
+
+---filters
+||ivcbrasil.org.br^$3p
+---filters

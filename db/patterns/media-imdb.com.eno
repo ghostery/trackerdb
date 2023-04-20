@@ -8,3 +8,7 @@ media-imdb.com
 --- domains
 
 ghostery_id: 3680
+
+---filters
+||media-imdb.com^$3p
+---filters

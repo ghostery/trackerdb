@@ -7,3 +7,7 @@ borrango.com
 --- domains
 
 ghostery_id: 3415
+
+---filters
+||borrango.com^$3p
+---filters

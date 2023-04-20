@@ -8,3 +8,7 @@ accengage.net
 --- domains
 
 ghostery_id: 4022
+
+---filters
+||accengage.net^$3p
+---filters

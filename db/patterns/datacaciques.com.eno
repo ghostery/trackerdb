@@ -7,3 +7,7 @@ datacaciques.com
 --- domains
 
 ghostery_id: 3490
+
+---filters
+||datacaciques.com^$3p
+---filters

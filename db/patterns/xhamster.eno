@@ -10,3 +10,10 @@ xhcdn.com
 --- domains
 
 ghostery_id: 3986
+
+---filters
+||xhamster.com^$3p
+||xhamsterlive.com^$3p
+||xhamsterpremium.com^$3p
+||xhcdn.com^$3p
+---filters

@@ -7,3 +7,7 @@ eshopcomp.com
 --- domains
 
 ghostery_id: 3531
+
+---filters
+||eshopcomp.com^$3p
+---filters

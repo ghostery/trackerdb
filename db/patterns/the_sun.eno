@@ -8,3 +8,7 @@ thesun.co.uk
 --- domains
 
 ghostery_id: 3900
+
+---filters
+||thesun.co.uk^$3p
+---filters

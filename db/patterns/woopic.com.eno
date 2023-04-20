@@ -7,3 +7,7 @@ woopic.com
 --- domains
 
 ghostery_id: 3979
+
+---filters
+||woopic.com^$3p
+---filters

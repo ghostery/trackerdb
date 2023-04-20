@@ -7,3 +7,7 @@ overheat.it
 --- domains
 
 ghostery_id: 3752
+
+---filters
+||overheat.it^$3p
+---filters

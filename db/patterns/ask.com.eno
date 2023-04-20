@@ -7,3 +7,7 @@ ask.com
 --- domains
 
 ghostery_id: 3370
+
+---filters
+||ask.com^$3p
+---filters

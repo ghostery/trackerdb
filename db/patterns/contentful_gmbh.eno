@@ -8,3 +8,7 @@ ctfassets.net
 --- domains
 
 ghostery_id: 3473
+
+---filters
+||ctfassets.net^$3p
+---filters

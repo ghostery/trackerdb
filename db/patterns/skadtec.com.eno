@@ -7,3 +7,7 @@ skadtec.com
 --- domains
 
 ghostery_id: 3854
+
+---filters
+||skadtec.com^$3p
+---filters

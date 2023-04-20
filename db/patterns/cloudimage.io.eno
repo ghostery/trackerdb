@@ -8,3 +8,7 @@ cloudimg.io
 --- domains
 
 ghostery_id: 3459
+
+---filters
+||cloudimg.io^$3p
+---filters

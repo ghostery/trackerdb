@@ -8,3 +8,8 @@ tracc.it
 --- domains
 
 ghostery_id: 3910
+
+---filters
+||kiwe.io^$3p
+||tracc.it^$3p
+---filters

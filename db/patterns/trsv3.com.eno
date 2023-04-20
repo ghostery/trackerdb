@@ -7,3 +7,7 @@ trsv3.com
 --- domains
 
 ghostery_id: 3915
+
+---filters
+||trsv3.com^$3p
+---filters

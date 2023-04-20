@@ -7,3 +7,7 @@ poirreleast.club
 --- domains
 
 ghostery_id: 3771
+
+---filters
+||poirreleast.club^$3p
+---filters

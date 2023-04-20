@@ -8,3 +8,7 @@ smartstream.tv
 --- domains
 
 ghostery_id: 3859
+
+---filters
+||smartstream.tv^$3p
+---filters

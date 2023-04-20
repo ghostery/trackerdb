@@ -9,3 +9,8 @@ tyroodr.com
 --- domains
 
 ghostery_id: 3929
+
+---filters
+||tyroodirect.com^$3p
+||tyroodr.com^$3p
+---filters

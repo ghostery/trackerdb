@@ -7,3 +7,7 @@ loadbee.com
 --- domains
 
 ghostery_id: 3662
+
+---filters
+||loadbee.com^$3p
+---filters

@@ -8,3 +8,7 @@ avocet.io
 --- domains
 
 ghostery_id: 3379
+
+---filters
+||avocet.io^$3p
+---filters

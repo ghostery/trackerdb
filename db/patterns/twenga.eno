@@ -7,3 +7,7 @@ c4tw.net
 --- domains
 
 ghostery_id: 3923
+
+---filters
+||c4tw.net^$3p
+---filters

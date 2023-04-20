@@ -7,3 +7,7 @@ foxydeal.com
 --- domains
 
 ghostery_id: 3558
+
+---filters
+||foxydeal.com^$3p
+---filters

@@ -7,3 +7,7 @@ donation-tools.org
 --- domains
 
 ghostery_id: 3514
+
+---filters
+||donation-tools.org^$3p
+---filters

@@ -8,3 +8,7 @@ engagio.com
 --- domains
 
 ghostery_id: 3529
+
+---filters
+||engagio.com^$3p
+---filters

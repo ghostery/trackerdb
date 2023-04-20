@@ -8,3 +8,7 @@ elasticad.net
 --- domains
 
 ghostery_id: 2250
+
+---filters
+||elasticad.net^$3p
+---filters

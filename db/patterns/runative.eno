@@ -7,3 +7,7 @@ un-syndicate.com
 --- domains
 
 ghostery_id: 3822
+
+---filters
+||un-syndicate.com^$3p
+---filters

@@ -7,3 +7,7 @@ o2online.de
 --- domains
 
 ghostery_id: 3727
+
+---filters
+||o2online.de^$3p
+---filters

@@ -7,3 +7,7 @@ btncdn.com
 --- domains
 
 ghostery_id: 3424
+
+---filters
+||btncdn.com^$3p
+---filters

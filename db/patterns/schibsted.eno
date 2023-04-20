@@ -9,3 +9,8 @@ schibsted.io
 --- domains
 
 ghostery_id: 3829
+
+---filters
+||schibsted.com^$3p
+||schibsted.io^$3p
+---filters

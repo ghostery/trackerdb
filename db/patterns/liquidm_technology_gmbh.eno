@@ -9,3 +9,8 @@ lqmcdn.com
 --- domains
 
 ghostery_id: 3659
+
+---filters
+||lqm.io^$3p
+||lqmcdn.com^$3p
+---filters

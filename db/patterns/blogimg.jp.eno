@@ -8,3 +8,7 @@ blogimg.jp
 --- domains
 
 ghostery_id: 3405
+
+---filters
+||blogimg.jp^$3p
+---filters

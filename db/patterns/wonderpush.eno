@@ -8,3 +8,7 @@ wonderpush.com
 --- domains
 
 ghostery_id: 3978
+
+---filters
+||wonderpush.com^$3p
+---filters

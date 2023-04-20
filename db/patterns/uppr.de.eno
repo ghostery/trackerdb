@@ -7,3 +7,7 @@ uppr.de
 --- domains
 
 ghostery_id: 3936
+
+---filters
+||uppr.de^$3p
+---filters

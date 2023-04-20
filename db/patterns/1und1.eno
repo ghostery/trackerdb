@@ -10,3 +10,10 @@ website-start.de
 --- domains
 
 ghostery_id: 4013
+
+---filters
+||1and1.com^$3p
+||1und1.de^$3p
+||uicdn.com^$3p
+||website-start.de^$3p
+---filters

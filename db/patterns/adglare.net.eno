@@ -7,3 +7,7 @@ adglare.net
 --- domains
 
 ghostery_id: 3312
+
+---filters
+||adglare.net^$3p
+---filters

@@ -7,3 +7,7 @@ stalluva.pro
 --- domains
 
 ghostery_id: 3875
+
+---filters
+||stalluva.pro^$3p
+---filters

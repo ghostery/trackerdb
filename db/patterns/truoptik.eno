@@ -7,3 +7,7 @@ truoptik.com
 --- domains
 
 ghostery_id: 3916
+
+---filters
+||truoptik.com^$3p
+---filters

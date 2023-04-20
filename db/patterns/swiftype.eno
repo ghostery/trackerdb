@@ -8,3 +8,7 @@ swiftypecdn.com
 --- domains
 
 ghostery_id: 3888
+
+---filters
+||swiftypecdn.com^$3p
+---filters

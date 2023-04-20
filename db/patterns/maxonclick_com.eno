@@ -7,3 +7,7 @@ maxonclick.com
 --- domains
 
 ghostery_id: 3679
+
+---filters
+||maxonclick.com^$3p
+---filters

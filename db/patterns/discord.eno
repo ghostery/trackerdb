@@ -7,3 +7,7 @@ discordapp.com
 --- domains
 
 ghostery_id: 3507
+
+---filters
+||discordapp.com^$3p
+---filters

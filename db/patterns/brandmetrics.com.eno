@@ -7,3 +7,7 @@ brandmetrics.com
 --- domains
 
 ghostery_id: 3418
+
+---filters
+||brandmetrics.com^$3p
+---filters

@@ -8,3 +8,7 @@ strava.com
 --- domains
 
 ghostery_id: 2590
+
+---filters
+||strava.com^$3p
+---filters

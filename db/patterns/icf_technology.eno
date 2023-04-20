@@ -7,3 +7,7 @@ nsimg.net
 --- domains
 
 ghostery_id: 3608
+
+---filters
+||nsimg.net^$3p
+---filters

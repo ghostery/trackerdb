@@ -7,3 +7,7 @@ bongacams.com
 --- domains
 
 ghostery_id: 3411
+
+---filters
+||bongacams.com^$3p
+---filters

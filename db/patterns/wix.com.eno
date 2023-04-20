@@ -9,3 +9,8 @@ wix.com
 --- domains
 
 ghostery_id: 3975
+
+---filters
+||parastorage.com^$3p
+||wix.com^$3p
+---filters

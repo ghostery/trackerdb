@@ -8,3 +8,7 @@ cnetcontent.com
 --- domains
 
 ghostery_id: 3462
+
+---filters
+||cnetcontent.com^$3p
+---filters

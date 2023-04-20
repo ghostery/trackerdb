@@ -7,3 +7,7 @@ doofinder.com
 --- domains
 
 ghostery_id: 3515
+
+---filters
+||doofinder.com^$3p
+---filters

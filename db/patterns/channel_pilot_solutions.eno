@@ -7,3 +7,7 @@ cptrack.de
 --- domains
 
 ghostery_id: 3447
+
+---filters
+||cptrack.de^$3p
+---filters

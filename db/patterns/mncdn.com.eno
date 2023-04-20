@@ -7,3 +7,7 @@ mncdn.com
 --- domains
 
 ghostery_id: 3689
+
+---filters
+||mncdn.com^$3p
+---filters

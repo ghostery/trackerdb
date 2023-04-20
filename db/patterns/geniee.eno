@@ -7,3 +7,7 @@ gssprt.jp
 --- domains
 
 ghostery_id: 2346
+
+---filters
+||gssprt.jp^$3p
+---filters

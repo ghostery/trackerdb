@@ -7,3 +7,7 @@ umebiggestern.club
 --- domains
 
 ghostery_id: 3931
+
+---filters
+||umebiggestern.club^$3p
+---filters

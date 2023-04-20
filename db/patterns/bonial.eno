@@ -9,3 +9,9 @@ bonialserviceswidget.de
 --- domains
 
 ghostery_id: 3412
+
+---filters
+||bonial.com^$3p
+||bonialconnect.com^$3p
+||bonialserviceswidget.de^$3p
+---filters

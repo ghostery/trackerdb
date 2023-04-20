@@ -7,3 +7,7 @@ newsupdatedir.info
 --- domains
 
 ghostery_id: 3712
+
+---filters
+||newsupdatedir.info^$3p
+---filters

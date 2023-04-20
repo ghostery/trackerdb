@@ -7,3 +7,7 @@ highwebmedia.com
 --- domains
 
 ghostery_id: 3596
+
+---filters
+||highwebmedia.com^$3p
+---filters

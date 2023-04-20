@@ -7,3 +7,7 @@ cackle.me
 --- domains
 
 ghostery_id: 3430
+
+---filters
+||cackle.me^$3p
+---filters

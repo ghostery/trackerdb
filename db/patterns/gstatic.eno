@@ -8,3 +8,7 @@ gstatic.com
 --- domains
 
 ghostery_id: 3588
+
+---filters
+||gstatic.com^$3p
+---filters

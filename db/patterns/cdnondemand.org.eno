@@ -7,3 +7,7 @@ cdnondemand.org
 --- domains
 
 ghostery_id: 3443
+
+---filters
+||cdnondemand.org^$3p
+---filters

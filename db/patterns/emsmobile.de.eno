@@ -7,3 +7,7 @@ emsmobile.de
 --- domains
 
 ghostery_id: 3528
+
+---filters
+||emsmobile.de^$3p
+---filters

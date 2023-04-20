@@ -7,3 +7,7 @@ smartlink.cool
 --- domains
 
 ghostery_id: 3858
+
+---filters
+||smartlink.cool^$3p
+---filters

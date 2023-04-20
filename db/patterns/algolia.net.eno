@@ -8,3 +8,8 @@ algolia.net
 --- domains
 
 ghostery_id: 3344
+
+---filters
+||algolia.com^$3p
+||algolia.net^$3p
+---filters

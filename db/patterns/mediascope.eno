@@ -8,3 +8,7 @@ tns-counter.ru
 --- domains
 
 ghostery_id: 3682
+
+---filters
+||tns-counter.ru^$3p
+---filters

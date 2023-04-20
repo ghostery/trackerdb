@@ -7,3 +7,7 @@ viralgains.com
 --- domains
 
 ghostery_id: 3952
+
+---filters
+||viralgains.com^$3p
+---filters

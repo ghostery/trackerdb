@@ -11,3 +11,10 @@ dmcdn.net
 --- domains
 
 ghostery_id: 3487
+
+---filters
+||dailymotion.com^$3p
+||dailymotionbus.com^$3p
+||dm-event.net^$3p
+||dmcdn.net^$3p
+---filters

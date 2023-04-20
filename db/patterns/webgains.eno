@@ -7,3 +7,7 @@ webgains.com
 --- domains
 
 ghostery_id: 3968
+
+---filters
+||webgains.com^$3p
+---filters

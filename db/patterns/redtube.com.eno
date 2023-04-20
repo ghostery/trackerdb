@@ -8,3 +8,8 @@ redtube.com
 --- domains
 
 ghostery_id: 3804
+
+---filters
+||rdtcdn.com^$3p
+||redtube.com^$3p
+---filters

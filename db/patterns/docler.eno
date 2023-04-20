@@ -9,3 +9,8 @@ fwbntw.com
 --- domains
 
 ghostery_id: 3513
+
+---filters
+||awecr.com^$3p
+||fwbntw.com^$3p
+---filters

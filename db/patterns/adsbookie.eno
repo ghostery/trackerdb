@@ -7,3 +7,7 @@ adsbookie.com
 --- domains
 
 ghostery_id: 3326
+
+---filters
+||adsbookie.com^$3p
+---filters

@@ -8,3 +8,7 @@ wpengine.com
 --- domains
 
 ghostery_id: 3982
+
+---filters
+||wpengine.com^$3p
+---filters

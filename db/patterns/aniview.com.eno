@@ -7,3 +7,7 @@ aniview.com
 --- domains
 
 ghostery_id: 3359
+
+---filters
+||aniview.com^$3p
+---filters

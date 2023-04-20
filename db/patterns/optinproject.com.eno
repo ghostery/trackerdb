@@ -8,3 +8,7 @@ optincollect.com
 --- domains
 
 ghostery_id: 3744
+
+---filters
+||optincollect.com^$3p
+---filters

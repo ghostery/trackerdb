@@ -7,3 +7,7 @@ licensebuttons.net
 --- domains
 
 ghostery_id: 3657
+
+---filters
+||licensebuttons.net^$3p
+---filters

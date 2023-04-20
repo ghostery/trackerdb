@@ -7,3 +7,7 @@ ehi-siegel.de
 --- domains
 
 ghostery_id: 3525
+
+---filters
+||ehi-siegel.de^$3p
+---filters

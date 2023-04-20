@@ -7,3 +7,7 @@ superfastcdn.com
 --- domains
 
 ghostery_id: 3887
+
+---filters
+||superfastcdn.com^$3p
+---filters

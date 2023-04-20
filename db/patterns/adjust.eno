@@ -8,3 +8,7 @@ adjust.com
 --- domains
 
 ghostery_id: 3314
+
+---filters
+||adjust.com^$3p
+---filters

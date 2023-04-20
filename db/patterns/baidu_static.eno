@@ -9,3 +9,8 @@ bdstatic.com
 --- domains
 
 ghostery_id: 3383
+
+---filters
+||bdimg.com^$3p
+||bdstatic.com^$3p
+---filters

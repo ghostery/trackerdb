@@ -7,3 +7,7 @@ baletingo.com
 --- domains
 
 ghostery_id: 3384
+
+---filters
+||baletingo.com^$3p
+---filters

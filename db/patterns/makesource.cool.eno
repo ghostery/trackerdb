@@ -7,3 +7,7 @@ makesource.cool
 --- domains
 
 ghostery_id: 3673
+
+---filters
+||makesource.cool^$3p
+---filters

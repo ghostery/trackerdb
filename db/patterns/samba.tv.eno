@@ -8,3 +8,7 @@ samba.tv
 --- domains
 
 ghostery_id: 2845
+
+---filters
+||samba.tv^$3p
+---filters

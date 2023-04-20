@@ -11,3 +11,10 @@ ytimg.com
 --- domains
 
 ghostery_id: 2303
+
+---filters
+||googlevideo.com^$3p
+||youtube-nocookie.com^$3p
+||youtube.com^$3p
+||ytimg.com^$3p
+---filters

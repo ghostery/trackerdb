@@ -9,3 +9,8 @@ kctag.net
 --- domains
 
 ghostery_id: 3642
+
+---filters
+||kairion.de^$3p
+||kctag.net^$3p
+---filters

@@ -7,3 +7,7 @@ rawgit.com
 --- domains
 
 ghostery_id: 3798
+
+---filters
+||rawgit.com^$3p
+---filters

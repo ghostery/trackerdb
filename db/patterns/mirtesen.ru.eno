@@ -7,3 +7,7 @@ mirtesen.ru
 --- domains
 
 ghostery_id: 3688
+
+---filters
+||mirtesen.ru^$3p
+---filters

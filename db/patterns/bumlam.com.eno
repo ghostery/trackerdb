@@ -7,3 +7,7 @@ bumlam.com
 --- domains
 
 ghostery_id: 3426
+
+---filters
+||bumlam.com^$3p
+---filters

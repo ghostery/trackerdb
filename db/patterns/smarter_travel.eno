@@ -9,3 +9,8 @@ travelsmarter.net
 --- domains
 
 ghostery_id: 3857
+
+---filters
+||smartertravel.com^$3p
+||travelsmarter.net^$3p
+---filters

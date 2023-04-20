@@ -8,3 +8,7 @@ tmdb.org
 --- domains
 
 ghostery_id: 3902
+
+---filters
+||tmdb.org^$3p
+---filters
