@@ -19,6 +19,26 @@ The Tracker Database is used in [Ghostery Browser Extension](https://www.ghoster
 
 It is also used by universities, journalists, and companies that want to understand the nature of the web data exchange.
 
+## SDK
+
+The Ghostery Tracker Database comes with a JavaScript SDK. Sample usage:
+
+```js
+import loadTrackerDB from '@ghostery/trackerdb';
+
+const trackerDB = await loadTrackerDB();
+
+const domainMatches = await trackerDB.matchDomain('google.com');
+
+const urlMatches = await trackerDB.matchUrl({
+    url: 'https://google.com/gen_204',
+    type: 'xhr',
+    sourceUrl: 'https://google.com/'
+}, {
+    getDomainMetadata: true,
+});
+```
+
 ## CLI
 
 Ghostery Tracker Database can also be used in a commnad line, for example with:
