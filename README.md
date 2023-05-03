@@ -21,7 +21,7 @@ It is also used by universities, journalists, and companies that want to underst
 
 ## SDK
 
-Ghostery Tracker Database comes with JavaScript SDK. Sample usage:
+The Ghostery Tracker Database comes with a JavaScript SDK. Sample usage:
 
 ```js
 import loadTrackerDB from '@ghostery/trackerdb';
