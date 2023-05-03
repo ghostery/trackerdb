@@ -1,10 +1,8 @@
 #!/usr/bin/env node
 
-import path from 'node:path';
-import { existsSync, readFileSync, writeFileSync } from 'node:fs';
-import { FiltersEngine, Request, ENGINE_VERSION } from '@cliqz/adblocker';
-
-import { BASE_PATH } from './scripts/helpers.js';
+import { readFileSync } from 'node:fs';
+import { FiltersEngine, Request } from '@cliqz/adblocker';
+import { generateEngine } from './src/prepare.js';
 
 const debug = process.env.DEBUG === 'true' ? console.log : () => {};
 
@@ -17,30 +15,16 @@ const debug = process.env.DEBUG === 'true' ? console.log : () => {};
     process.exit(1);
   }
 
-  // Generate input JSON if missing
-  const trackerDBPath = path.join(BASE_PATH, 'dist', 'trackerdb.json');
-  if (!existsSync(trackerDBPath)) {
-    await import('./scripts/export-json/index.js');
-  }
-
-  // Generate binary engine if missing
-  const trackerEnginePath = path.join(
-    BASE_PATH,
-    'dist',
-    `trackerdb_${ENGINE_VERSION}.engine`,
-  );
-  if (!existsSync(trackerEnginePath)) {
-    const rawTrackerDB = JSON.parse(readFileSync(trackerDBPath, 'utf-8'));
-    const engine = FiltersEngine.fromTrackerDB(rawTrackerDB);
-    writeFileSync(trackerEnginePath, engine.serialize());
-  }
+  const trackerEnginePath = await generateEngine();
 
   const loadingStart = Date.now();
   const engine = FiltersEngine.deserialize(readFileSync(trackerEnginePath));
   const loadingEnd = Date.now();
 
   const matches = url.startsWith('http')
-    ? engine.getPatternMetadata(Request.fromRawDetails({ url }))
+    ? engine.getPatternMetadata(Request.fromRawDetails({ url, type: 'xhr' }), {
+        getDomainMetadata: true,
+      })
     : engine.metadata.fromDomain(url);
   const matchingEnd = Date.now();
 
