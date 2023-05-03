@@ -12,6 +12,8 @@ jobs:
   build:
     name: Create Release
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -44,6 +46,17 @@ jobs:
 
       - name: Export Adblocker Engine
         run: npm run export-engine
+
+      - name: NPM package version bump
+        run: npm version patch --no-git-tag-version
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "NPM package version bump"
+
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Create Release
         id: create_release
