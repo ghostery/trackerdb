@@ -1,8 +1,11 @@
 #!/usr/bin/env node
 
 import { readFileSync } from 'node:fs';
+import path from 'node:path';
+import * as url from 'url';
 import { FiltersEngine, Request } from '@cliqz/adblocker';
-import { generateEngine } from './src/prepare.js';
+
+const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 const debug = process.env.DEBUG === 'true' ? console.log : () => {};
 
@@ -15,10 +18,10 @@ const debug = process.env.DEBUG === 'true' ? console.log : () => {};
     process.exit(1);
   }
 
-  const trackerEnginePath = await generateEngine();
-
   const loadingStart = Date.now();
-  const engine = FiltersEngine.deserialize(readFileSync(trackerEnginePath));
+  const engine = FiltersEngine.deserialize(
+    readFileSync(path.join(__dirname, 'dist', 'trackerdb.engine')),
+  );
   const loadingEnd = Date.now();
 
   const matches = url.startsWith('http')

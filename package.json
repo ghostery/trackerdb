@@ -4,17 +4,29 @@
   "description": "Ghostery Tracker Database",
   "type": "module",
   "scripts": {
+    "build": "rm -fr dist/* && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && ./fixup && npm run export",
     "test": "node test/index.js",
-    "lint": "eslint test",
+    "lint": "eslint src test",
+    "export": "npm run export-json && npm run export-engine && npm run export-sql",
     "export-sql": "node scripts/export-sql/index.js",
     "export-engine": "node scripts/export-engine/index.js",
     "export-json": "node scripts/export-json/index.js"
   },
-  "main": "./index.js",
-  "exports": "./index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/mjs/index.js",
+  "types": "dist/mjs/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/mjs/index.js",
+      "require": "./dist/cjs/index.js"
+    }
+  },
   "bin": {
     "trackerdb": "./cli.js"
   },
+  "files": [
+    "dist/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ghostery/trackerdb.git"
@@ -37,11 +49,12 @@
     "tldts-experimental": "^5.7.76"
   },
   "devDependencies": {
-    "@types/node": "^18.11.10",
+    "@types/node": "^18.16.3",
     "chalk": "^5.1.2",
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.6.2"
+    "prettier": "^2.6.2",
+    "typescript": "^5.0.4"
   }
 }
