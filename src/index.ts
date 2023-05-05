@@ -1,18 +1,20 @@
-import { readFileSync } from 'node:fs';
 import { FiltersEngine, Request, ENGINE_VERSION } from '@cliqz/adblocker';
-
-import { generateEngine } from './src/prepare.js';
 
 export { Request as AdblockerRequest };
 
-export default async function loadTrackerDBEngine() {
-  const trackerEnginePath = await generateEngine();
-  const engine = FiltersEngine.deserialize(readFileSync(trackerEnginePath));
+type FromRawDetailsParams = Parameters<typeof Request.fromRawDetails>;
+type DeserializeParams = Parameters<typeof FiltersEngine.deserialize>;
+
+export default async function loadTrackerDBEngine(
+  engineBytes: DeserializeParams[0],
+) {
+  const engine = FiltersEngine.deserialize(engineBytes);
+
   return {
     ENGINE_VERSION,
     engine,
     matchUrl(
-      requestArgs,
+      requestArgs: FromRawDetailsParams[0],
       getPatternMetadataParams = { getDomainMetadata: true },
     ) {
       const params = { ...requestArgs };
@@ -24,7 +26,11 @@ export default async function loadTrackerDBEngine() {
         getPatternMetadataParams,
       );
     },
-    matchDomain(domain) {
+
+    matchDomain(domain: string) {
+      if (!engine.metadata) {
+        return [];
+      }
       return engine.metadata.fromDomain(domain);
     },
   };

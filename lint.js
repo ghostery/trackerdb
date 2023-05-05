@@ -126,22 +126,6 @@ function extractSection(source, tag) {
   }
 }
 
-function removeSection(source, section) {
-  return (
-    source.slice(0, source.lastIndexOf('\n\n---', section[0])) +
-    source.slice(source.indexOf('\n', section[1] + 1))
-  );
-}
-
-function replaceSection(source, section, replacement) {
-  replacement.sort();
-  return (
-    source.slice(0, section[0]) +
-    replacement.join('\n') +
-    source.slice(section[1])
-  );
-}
-
 function* iterPatternFiles() {
   const baseDir = path.join(
     path.dirname(fileURLToPath(import.meta.url)),

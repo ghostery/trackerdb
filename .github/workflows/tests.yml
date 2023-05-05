@@ -39,11 +39,5 @@ jobs:
       - name: Test
         run: npm test
 
-      - name: Export SQL
-        run: npm run export-sql
-
-      - name: Export JSON
-        run: npm run export-json
-
-      - name: Export Adblocker Engine
-        run: npm run export-engine
+      - name: Build
+        run: npm run build
