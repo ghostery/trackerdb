@@ -7,6 +7,7 @@ import { FiltersEngine, Request } from '@cliqz/adblocker';
 
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
+// eslint-disable-next-line @typescript-eslint/no-empty-function
 const debug = process.env.DEBUG === 'true' ? console.log : () => {};
 
 (async () => {
