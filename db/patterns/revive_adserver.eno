@@ -8,19 +8,19 @@ revive-adserver.com
 --- domains
 
 --- filters
-/adg.js
-/adx.js
-/afr.php
-/ag.php
-/ai.php
-/ajs.php
-/al.php
-/apu.php
-/avw.php
-/ck.php
-/fl.js
-/lg.php
-/spcjs.php
+/adg.js$3p
+/adx.js$3p
+/afr.php$3p
+/ag.php$3p
+/ai.php$3p
+/ajs.php$3p
+/al.php$3p
+/apu.php$3p
+/avw.php$3p
+/ck.php$3p
+/fl.js$3p
+/lg.php$3p
+/spcjs.php$3p
 --- filters
 
 ghostery_id: 3298
