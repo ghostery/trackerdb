@@ -1,11 +1,30 @@
 name: TrustArc
-category: essential
-website_url: 
+category: consent
+website_url: https://trustarc.com/customer-consent-preference/
 organization: trustarc
 
 --- domains
 trustarc.com
 truste.com
+truste-svc.net
 --- domains
+
+--- filters
+||trustarc.mgr.consensu.org
+||consent.trustarc.com/get?name=$subdocument,domain=avantiwestcoast.co.uk|oracle.com
+||consent.trustarc.com/notice$script
+||consent.trustarc.com/v2/notice$script
+||consent.truste.com/get?name=notice.js$script
+||consent.truste.com^$script,domain=docs.oracle.com
+###truste-banner
+###truste-button
+###truste-consent-track
+##.truste-sf-banner
+##.truste_box_overlay
+##.truste_cm_outerdiv:not(body):not(html)
+##.truste_overlay:not(body):not(html)
+pringles.com##.truste_box_overlay
+pringles.com##.truste_overlay
+--- filters
 
 ghostery_id: 3917
