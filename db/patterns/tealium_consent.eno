@@ -11,6 +11,7 @@ tiqcdn.com
 ###__tealiumDNS_banner
 ###__tealiumGDPRcpPrefs
 ###__tealiumGDPRecModal
+##div#__tealiumGDPRecModal
 ###__tealiumImplicitmodal
 ###tealium-cookies
 ##.cookie-banner-backside-tealium
@@ -21,7 +22,10 @@ radissonhotels.com###__tealiumGDPRecModal
 smartserve.hsbc,hsbc.ch,hsbc.com,hsbc.nl,hsbc.com.mt,hsbc.de,hsbc.cz,hsbc.be,hsbc.es,hsbc.pl,hsbc.uk,hsbc.ie,hsbc.com.tr,hsbc.it,hsbc.fr,hsbc.gr,hsbc-transactionservices.de,hsbcnet.com###__tealiumGDPRecModal
 ||prada.com/utag/prada/
 ||tags.tiqcdn.com^$3p$script,domain=firstdirect.com|santander.pl|swisscom.ch
+||tags.tiqcdn.com/utag/*/utag.js$script
+||tags.tiqcdn.com/utag/*/utag.sync.js$script
 ||tiqcdn.com^$3p
+||tealiumiq.com^
 --- filters
 
 ghostery_id: 4056
