@@ -61,9 +61,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
         with:
-          tag_name: ${{ TAG_NAME }}
-          release_name: ${{ TAG_NAME }}
-          body: Ghostery Tracker DB release for ${{ TAG_NAME }}
+          tag_name: ${{ env.TAG_NAME }}
+          release_name: ${{ env.TAG_NAME }}
+          body: Ghostery Tracker DB release for ${{ env.TAG_NAME }}
           draft: false
           prerelease: false
 
