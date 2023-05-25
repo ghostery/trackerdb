@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: set env
-          run: echo "::set-env name=TAG_NAME::$(date +'%Y%m%d%H%M')"
+        run: echo "::set-env name=TAG_NAME::$(date +'%Y%m%d%H%M')"
 
       - name: Checkout code
         uses: actions/checkout@v2
