@@ -1,6 +1,6 @@
 {
   "name": "@ghostery/trackerdb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ghostery Tracker Database",
   "type": "module",
   "scripts": {
