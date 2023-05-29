@@ -70,6 +70,11 @@ test(RESOURCE_PATH, async (t) => {
         }
       });
 
+      await t.test('has at least one domain', () => {
+        const domains = spec.field('domains').optionalStringValue() || '';
+        assert.ok(domains.length > 0, `${specFile} has no domains`);
+      });
+
       await t.test('has valid filters', () => {
         const filters = spec.field('filters').optionalStringValue();
         if (filters) {
