@@ -27,17 +27,18 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
     ),
   });
 
-  for (const [, spec] of getSpecs('categories')) {
-    await db.run(
+  const categoryIds = new Map();
+  for (const [id, spec] of getSpecs('categories')) {
+    const { lastID } = await db.run(
       'INSERT INTO categories (name) VALUES (?)',
       spec.field('name').requiredStringValue(),
     );
+    categoryIds.set(id, lastID);
   }
-  const categories = await db.all('SELECT * FROM categories');
-  const categoryIds = new Map(categories.map((c) => [c.name, c.id]));
 
+  const companyIds = new Map();
   for (const [id, spec] of getSpecs('organizations')) {
-    await db.run(
+    const { lastID } = await db.run(
       'INSERT INTO companies (id, name, description, privacy_url, website_url, country, privacy_contact, notes, ghostery_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
       id,
       spec.field('name').requiredStringValue(),
@@ -49,10 +50,8 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
       spec.field('notes').optionalStringValue(),
       spec.field('ghostery_id').optionalStringValue() || '',
     );
+    companyIds.set(id, lastID);
   }
-
-  const companies = await db.all('SELECT * FROM companies');
-  const companyIds = new Map(companies.map((c) => [c.name, c.id]));
 
   for (const [id, spec] of getSpecs('patterns')) {
     await db.run(
@@ -66,6 +65,7 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
       spec.field('alias').optionalStringValue(),
       spec.field('ghostery_id').optionalStringValue() || '',
     );
+
     const domains = (spec.field('domains').optionalStringValue() || '')
       .trim()
       .split(/\n+/g)
