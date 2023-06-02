@@ -28,19 +28,19 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
   });
 
   const categoryIds = new Map();
-  for (const [id, spec] of getSpecs('categories')) {
+  for (const [key, spec] of getSpecs('categories')) {
     const { lastID } = await db.run(
       'INSERT INTO categories (name) VALUES (?)',
-      spec.field('name').requiredStringValue(),
+      key,
     );
-    categoryIds.set(id, lastID);
+    categoryIds.set(key, lastID);
   }
 
   const companyIds = new Map();
-  for (const [id, spec] of getSpecs('organizations')) {
+  for (const [key, spec] of getSpecs('organizations')) {
     const { lastID } = await db.run(
       'INSERT INTO companies (id, name, description, privacy_url, website_url, country, privacy_contact, notes, ghostery_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
-      id,
+      key,
       spec.field('name').requiredStringValue(),
       spec.field('description').optionalStringValue(),
       spec.field('privacy_policy_url').optionalStringValue(),
@@ -50,13 +50,13 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
       spec.field('notes').optionalStringValue(),
       spec.field('ghostery_id').optionalStringValue() || '',
     );
-    companyIds.set(id, lastID);
+    companyIds.set(key, lastID);
   }
 
-  for (const [id, spec] of getSpecs('patterns')) {
+  for (const [key, spec] of getSpecs('patterns')) {
     await db.run(
       'INSERT INTO trackers (id, name, category_id, website_url, company_id, notes, alias, ghostery_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?)',
-      id,
+      key,
       spec.field('name').requiredStringValue(),
       categoryIds.get(spec.field('category').requiredStringValue()),
       spec.field('website_url').optionalStringValue(),
@@ -74,7 +74,7 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
     for (const domain of domains) {
       await db.run(
         'INSERT INTO tracker_domains (tracker, domain) VALUES (?, ?)',
-        id,
+        key,
         domain,
       );
     }
