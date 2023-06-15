@@ -28,7 +28,7 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
   });
 
   const categoryIds = new Map();
-  for (const [key, spec] of getSpecs('categories')) {
+  for (const [key] of getSpecs('categories')) {
     const { lastID } = await db.run(
       'INSERT INTO categories (name) VALUES (?)',
       key,
@@ -36,9 +36,8 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
     categoryIds.set(key, lastID);
   }
 
-  const companyIds = new Map();
   for (const [key, spec] of getSpecs('organizations')) {
-    const { lastID } = await db.run(
+    await db.run(
       'INSERT INTO companies (id, name, description, privacy_url, website_url, country, privacy_contact, notes, ghostery_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
       key,
       spec.field('name').requiredStringValue(),
@@ -50,7 +49,6 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
       spec.field('notes').optionalStringValue(),
       spec.field('ghostery_id').optionalStringValue() || '',
     );
-    companyIds.set(key, lastID);
   }
 
   for (const [key, spec] of getSpecs('patterns')) {
@@ -60,7 +58,7 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
       spec.field('name').requiredStringValue(),
       categoryIds.get(spec.field('category').requiredStringValue()),
       spec.field('website_url').optionalStringValue(),
-      companyIds.get(spec.field('organization').optionalStringValue()) || null,
+      spec.field('organization').optionalStringValue() || null,
       spec.field('notes').optionalStringValue(),
       spec.field('alias').optionalStringValue(),
       spec.field('ghostery_id').optionalStringValue() || '',
@@ -79,6 +77,8 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
       );
     }
   }
+
+  await db.run('DROP TABLE migrations');
 
   console.log(
     'Exported categories:',
