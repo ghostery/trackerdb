@@ -70,9 +70,11 @@ test(RESOURCE_PATH, async (t) => {
         }
       });
 
-      await t.test('has at least one domain', () => {
+      await t.test('has at least one domain if not a alias', () => {
         const domains = spec.field('domains').optionalStringValue() || '';
-        assert.ok(domains.length > 0, `${specFile} has no domains`);
+        if (!spec.field('alias').optionalStringValue()) {
+          assert.ok(domains.length > 0, `${specFile} has no domains`);
+        }
       });
 
       await t.test('has valid filters', () => {

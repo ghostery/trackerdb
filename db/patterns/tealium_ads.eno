@@ -2,6 +2,7 @@ name: Tealium Ads
 category: advertising
 website_url: https://www.tealium.com/
 organization: tealium
+alias: tealium
 
 --- filters
 ##.tealium-ad
