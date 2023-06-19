@@ -1,5 +1,5 @@
 name: "Categorize Tracker"
-description: File a report to identify a tracker
+description: "File a report to identify a tracker"
 title: "[Unidentified Tracker]: "
 labels: ["enhancement"]
 body:
