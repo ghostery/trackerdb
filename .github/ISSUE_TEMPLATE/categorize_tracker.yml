@@ -1,0 +1,125 @@
+name: Categorize Tracker
+description: File a report to identify a tracker
+title: "[Unidentified Tracker]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to help catalog TrackerDB!
+  - type: markdown
+    attributes:
+      value: |
+        ### Metadata
+  - type: input
+    id: request
+    attributes:
+      label: Request
+      description: What is the URL of the uncategorized tracker?
+      placeholder: analytics.google.com
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: On what site is the tracker located?
+      placeholder: https://www.cnn.com/
+    validations:
+      required: true
+  - type: input
+    id: tracker-organization
+    attributes:
+      label: Tracker Organization
+      description: What organization owns the tracker?
+      placeholder: Google
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Tracker Information
+ - type: input
+    id: organization-website
+    attributes:
+      label: Organization Website
+      description: What's the URL to the organization's website?
+      placeholder: https://www.google.com/
+    validations:
+      required: true
+  - type: input
+    id: organization-privacy-policy
+    attributes:
+      label: Organization Privacy Policy
+      description: Once you navigate to an organization's website, you can usually find their privacy policy in the page footer.
+      placeholder: https://policies.google.com/privacy
+    validations:
+      required: true
+  - type: textarea
+    id: organization-description
+    attributes:
+      label: Describe the organization
+      description: Please tell us what you know about the organization.
+    validations:
+      required: false
+ 
+ - type: textarea
+    id: tracker-name
+    attributes:
+      label: Suggested Name
+      description: What is the name you suggest for this unidentified tracker?
+      placeholder: CNN Analytics
+    validations:
+      required: false
+  - type: dropdown
+    id: tracker-category
+    attributes:
+      label: Category
+      description: Which category does this request **best** belong to? You can find category descriptions [here](https://example.com).
+      options:
+        - Adult Advertising
+        - Advertising
+        - Audio/Video Player
+        - CDN
+        - Comments
+        - Consent Management
+        - Customer Interaction
+        - Email
+        - Essential
+        - Extensions
+        - Hosting
+        - Miscellaneous
+        - Site Analytics
+        - Social Media
+        - Telemetry
+    validations:
+      required: false
+  - type: dropdown
+    id: tracker-identity
+    attributes:
+      label: What kind of tracker is it?
+      multiple: true
+      options:
+        - First-party
+        - Third-party
+        - Web socket
+        - more...
+    validations:
+      required: false
+  - type: textarea
+    id: tracker-domains
+    attributes:
+      label: Other Domains
+      description: Do you know of any other websites where this tracker appears?
+    validations:
+      required: false
+  - type: textarea
+    id: tracker-filters
+    attributes:
+      label: Filters
+      description: Can you suggest any filters to block the request? This will be automatically formatted into code, so no need for backticks.
+      render: shell
+      placeholder: ||analytics.google.com^$third-party
+    validations:
+      required: false
