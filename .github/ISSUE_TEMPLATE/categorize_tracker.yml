@@ -98,20 +98,18 @@ body:
   - type: dropdown
     id: tracker-identity
     attributes:
-      label: What kind of tracker is it?
-      multiple: true
+      label: First- or Third-party?
+      description: What kind of tracker is it?
       options:
         - First-party
         - Third-party
-        - Web socket
-        - more...
     validations:
       required: false
   - type: dropdown
     id: tracker-request-type
     attributes:
-      label: What is the request type?
-      multiple: false
+      label: Request Type
+      description: What kind of tracker is it?
       options:
         - beacon
         - csp_report
