@@ -107,6 +107,35 @@ body:
         - more...
     validations:
       required: false
+  - type: dropdown
+    id: tracker-request-type
+    attributes:
+      label: What is the request type?
+      multiple: false
+      options:
+        - beacon
+        - csp_report
+        - font
+        - image
+        - imageset
+        - main_frame
+        - media
+        - object
+        - object_subrequest
+        - ping
+        - script
+        - speculative
+        - stylesheet
+        - sub_frame
+        - websocket
+        - web_manifest
+        - xmlhttprequest
+        - xml_dtd
+        - xslt
+        - other
+        - I don't know
+    validations:
+      required: false
   - type: textarea
     id: tracker-domains
     attributes:
