@@ -1,5 +1,5 @@
-name: "Categorize Tracker"
-description: "File a report to identify a tracker"
+name: Categorize Tracker
+description: File a report to identify a tracker
 title: "[Unidentified Tracker]: "
 labels: ["enhancement"]
 body:
@@ -40,7 +40,7 @@ body:
     attributes:
       value: |
         ### Tracker Information
- - type: input
+  - type: input
     id: organization-website
     attributes:
       label: Organization Website
@@ -64,7 +64,7 @@ body:
     validations:
       required: false
  
- - type: textarea
+  - type: textarea
     id: tracker-name
     attributes:
       label: Suggested Name
