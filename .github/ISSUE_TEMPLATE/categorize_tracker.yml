@@ -52,7 +52,7 @@ body:
     id: organization-privacy-policy
     attributes:
       label: Organization Privacy Policy
-      description: Provide a link to the organization's privacy policy. (If you go to their website, you can usually find it in the page footer.)
+      description: Provide a link to the organization's privacy policy. (Usually, a link located at the bottom of their website.)
       placeholder: https://policies.google.com/privacy
     validations:
       required: false
