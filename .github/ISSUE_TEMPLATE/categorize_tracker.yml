@@ -120,6 +120,6 @@ body:
       label: Filters
       description: Can you suggest any filters to block the request? This will be automatically formatted into code, so no need for backticks.
       render: shell
-      placeholder: ||analytics.google.com^$third-party
+      placeholder: analytics.google.com^$third-party
     validations:
       required: false
