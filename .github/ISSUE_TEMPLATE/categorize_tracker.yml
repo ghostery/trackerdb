@@ -10,7 +10,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Metadata
+        ## Metadata
   - type: input
     id: request
     attributes:
@@ -24,14 +24,14 @@ body:
     attributes:
       label: Location
       description: On what site is the tracker located?
-      placeholder: https://www.cnn.com/
+      placeholder: https://www.google.com/
     validations:
-      required: true
+      required: false
   - type: input
     id: tracker-organization
     attributes:
-      label: Tracker Organization
-      description: What organization owns the tracker?
+      label: Tracker Company/Organization
+      description: What company/organization owns the tracker?
       placeholder: Google
     validations:
       required: true
@@ -39,11 +39,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Tracker Information
+        ## Tracker Information
   - type: input
     id: organization-website
     attributes:
-      label: Organization Website
+      label: Company/Organization Website
       description: What's the URL to the organization's website?
       placeholder: https://www.google.com/
     validations:
@@ -51,16 +51,16 @@ body:
   - type: input
     id: organization-privacy-policy
     attributes:
-      label: Organization Privacy Policy
-      description: Once you navigate to an organization's website, you can usually find their privacy policy in the page footer.
+      label: Company/Organization Privacy Policy
+      description: Provide a link to the company's/organization's privacy policy. (Usually, a link located at the bottom of their website.)
       placeholder: https://policies.google.com/privacy
     validations:
-      required: true
+      required: false
   - type: textarea
     id: organization-description
     attributes:
-      label: Describe the organization
-      description: Please tell us what you know about the organization.
+      label: Describe the company/organization
+      description: Please tell us what you know about the company/organization.
     validations:
       required: false
  
@@ -68,7 +68,7 @@ body:
     id: tracker-name
     attributes:
       label: Suggested Name
-      description: What is the name you suggest for this unidentified tracker?
+      description: Suggest a name for this unidentified tracker.
       placeholder: CNN Analytics
     validations:
       required: false
@@ -76,7 +76,7 @@ body:
     id: tracker-category
     attributes:
       label: Category
-      description: Which category does this request **best** belong to? You can find category descriptions [here](https://example.com).
+      description: Which category does this request **BEST** belong to? You can find category descriptions [here](https://example.com).
       options:
         - Adult Advertising
         - Advertising
@@ -109,7 +109,7 @@ body:
     id: tracker-request-type
     attributes:
       label: Request Type
-      description: What kind of tracker is it?
+      description: What kind web request is the tracker?
       options:
         - beacon
         - csp_report
