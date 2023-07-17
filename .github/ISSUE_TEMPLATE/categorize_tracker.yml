@@ -24,14 +24,14 @@ body:
     attributes:
       label: Location
       description: On what site is the tracker located?
-      placeholder: https://www.cnn.com/
+      placeholder: https://www.google.com/
     validations:
       required: true
   - type: input
     id: tracker-organization
     attributes:
-      label: Tracker Organization
-      description: What organization owns the tracker?
+      label: Tracker Company/Organization
+      description: What company/organization owns the tracker?
       placeholder: Google
     validations:
       required: true
@@ -43,7 +43,7 @@ body:
   - type: input
     id: organization-website
     attributes:
-      label: Organization Website
+      label: Company/Organization Website
       description: What's the URL to the organization's website?
       placeholder: https://www.google.com/
     validations:
@@ -51,16 +51,16 @@ body:
   - type: input
     id: organization-privacy-policy
     attributes:
-      label: Organization Privacy Policy
-      description: Provide a link to the organization's privacy policy. (Usually, a link located at the bottom of their website.)
+      label: Company/Organization Privacy Policy
+      description: Provide a link to the company's/organization's privacy policy. (Usually, a link located at the bottom of their website.)
       placeholder: https://policies.google.com/privacy
     validations:
       required: false
   - type: textarea
     id: organization-description
     attributes:
-      label: Describe the organization
-      description: Please tell us what you know about the organization.
+      label: Describe the company/organization
+      description: Please tell us what you know about the company/organization.
     validations:
       required: false
  
