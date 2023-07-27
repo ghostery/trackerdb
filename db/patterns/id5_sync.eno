@@ -1,0 +1,14 @@
+name: ID5 Sync
+category: site_analytics
+website_url: https://id5.io/
+organization: id5_technology_ltd
+
+--- domains
+id5-sync.com
+eu-1-id5-sync.com
+--- domains
+
+--- filters
+||id5-sync.com^$3p
+||eu-1-id5-sync.com^3p
+--- filters
