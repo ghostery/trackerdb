@@ -6,6 +6,7 @@ organization: google
 --- domains
 google-analytics.com
 region1.google-analytics.com
+googleanalytics.com
 --- domains
 
 --- filters
@@ -25,6 +26,7 @@ region1.google-analytics.com
 ||google-analytics.com/urchin.js
 ||stats.g.doubleclick.net/__utm.gif
 ||stats.g.doubleclick.net/dc.js
+||googleanalytics.com/analytics.js
 --- filters
 
 ghostery_id: 13
