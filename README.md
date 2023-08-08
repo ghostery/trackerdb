@@ -24,9 +24,11 @@ It is also used by universities, journalists, and companies that want to underst
 The Ghostery Tracker Database comes with a JavaScript SDK. Sample usage:
 
 ```js
+import { readFileSync } from 'node:fs';
 import loadTrackerDB from '@ghostery/trackerdb';
 
-const trackerDB = await loadTrackerDB();
+const engine = readFileSync('./node_modules/@ghostery/trackerdb/dist/trackerdb.engine');
+const trackerDB = await loadTrackerDB(engine);
 
 const domainMatches = await trackerDB.matchDomain('google.com');
 
