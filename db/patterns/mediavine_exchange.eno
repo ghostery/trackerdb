@@ -1,0 +1,14 @@
+name: Mediavine Exchange
+category: advertising
+website_url: https://www.mediavine.com/exchange/
+organization: mediavine_inc
+
+--- domains
+mediavine.com
+--- domains
+
+--- filters
+||mediavine.com^$3p
+--- filters
+
+ghostery_id: 4058
