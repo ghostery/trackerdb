@@ -8,8 +8,11 @@ npttech.com
 tinypass.com
 --- domains
 
+> Note: Temporarily turn off the detection on foreignpolicy.com
+> because of https://github.com/ghostery/broken-page-reports/issues/352
+
 --- filters
-||tinypass.com^$3p
+||tinypass.com^$3p,domain=~foreignpolicy.com
 --- filters
 
 ghostery_id: 1834
