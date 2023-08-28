@@ -43,7 +43,7 @@ const urlMatches = await trackerDB.matchUrl({
 
 ## CLI
 
-Ghostery Tracker Database can also be used in a commnad line, for example with:
+Ghostery Tracker Database can also be used in a command line, for example with:
 
 ```sh
 npx @ghostery/trackerdb "https://analytics.tiktok.com"
