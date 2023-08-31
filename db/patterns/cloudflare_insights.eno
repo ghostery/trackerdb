@@ -1,0 +1,14 @@
+name: Cloudflare Insights
+category: advertising
+website_url: https://www.cloudflare.com/insights/
+organization: cloudflare
+
+--- domains
+cloudflareinsights.com
+--- domains
+
+--- filters
+||cloudflareinsights.com^$3p
+--- filters
+
+ghostery_id: 4059
