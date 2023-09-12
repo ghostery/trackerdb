@@ -26,7 +26,7 @@ body:
       description: On what site is the tracker located?
       placeholder: https://www.google.com/
     validations:
-      required: false
+      required: true
   - type: input
     id: tracker-organization
     attributes:
@@ -34,7 +34,7 @@ body:
       description: What company/organization owns the tracker?
       placeholder: Google
     validations:
-      required: true
+      required: false
 
   - type: markdown
     attributes:
@@ -44,15 +44,15 @@ body:
     id: organization-website
     attributes:
       label: Company/Organization Website
-      description: What's the URL to the organization's website?
+      description: What is the website URL?
       placeholder: https://www.google.com/
     validations:
-      required: true
+      required: false
   - type: input
     id: organization-privacy-policy
     attributes:
       label: Company/Organization Privacy Policy
-      description: Provide a link to the company's/organization's privacy policy. (Usually, a link located at the bottom of their website.)
+      description: Provide a link to the company/organization privacy policy. (Usually, a link located at the bottom of their website.)
       placeholder: https://policies.google.com/privacy
     validations:
       required: false
@@ -64,19 +64,11 @@ body:
     validations:
       required: false
  
-  - type: textarea
-    id: tracker-name
-    attributes:
-      label: Suggested Name
-      description: Suggest a name for this unidentified tracker.
-      placeholder: CNN Analytics
-    validations:
-      required: false
   - type: dropdown
     id: tracker-category
     attributes:
       label: Category
-      description: Which category does this request **BEST** belong to? You can find category descriptions [here](https://example.com).
+      description: Which category does this request **BEST** belong to? You can find category descriptions here (forthcoming).
       options:
         - Adult Advertising
         - Advertising
@@ -93,16 +85,6 @@ body:
         - Site Analytics
         - Social Media
         - Telemetry
-    validations:
-      required: false
-  - type: dropdown
-    id: tracker-identity
-    attributes:
-      label: First- or Third-party?
-      description: What kind of tracker is it?
-      options:
-        - First-party
-        - Third-party
     validations:
       required: false
   - type: dropdown
@@ -131,7 +113,6 @@ body:
         - xml_dtd
         - xslt
         - other
-        - I don't know
     validations:
       required: false
   - type: textarea
