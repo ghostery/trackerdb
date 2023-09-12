@@ -68,7 +68,7 @@ body:
     id: tracker-category
     attributes:
       label: Category
-      description: Which category does this request **BEST** belong to? You can find category descriptions here (forthcoming).
+      description: Which category does this request **BEST** belong to? You can find category descriptions [here](https://github.com/ghostery/trackerdb/blob/264a8beb88eb1115a4109cd1c655a4c3d4f59a07/docs/categories.md).
       options:
         - Adult Advertising
         - Advertising
