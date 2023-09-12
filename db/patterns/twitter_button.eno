@@ -1,8 +1,8 @@
-name: Twitter Button
+name: X Button
 category: social_media
 website_url: http://twitter.com
-organization: twitter
-alias: twitter
+organization: X Corp
+alias: X
 
 --- filters
 ||platform.twitter.com/js/button
