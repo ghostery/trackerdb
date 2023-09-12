@@ -9,7 +9,7 @@ Data exchange can easily uncover personal details by private identifiers, often 
 At Ghostery, we're committed to describing things exactly as they are.
 
 The structure of Ghostery Tracker Database is simple and consists of three main elements:
-* **categories** - advertising, site analytics, consent management, etc.
+* **categories** - [advertising, site analytics, consent management, etc.](docs/categories.md)
 * **organizations** - companies like Google or Facebook, but also open source software like Matomo
 * **patterns** - that express various behaviors performed by organizations. For example, a pattern for Google Analytics is categorized as site analytics, but a pattern for Google Tag Manager is categorized as essential.
 
