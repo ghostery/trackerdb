@@ -49,6 +49,12 @@ Ghostery Tracker Database can also be used in a command line, for example with:
 npx @ghostery/trackerdb "https://analytics.tiktok.com"
 ```
 
+## How can I get involved?
+
+We encourage contributions from developers of all levels. If you come across any errors, such as typos, inaccuracies, or outdated information, please don't hesitate to open an issue, or, even better, send us a pull request. Your feedback is highly valued!
+
+If you are new to the project or want an easy starting point, check out our [Good First Issues](https://github.com/ghostery/trackerdb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). These are beginner-friendly tasks to help you get acquainted with our project. If you are unsure about an issue or have questions, feel free to ask in the issue comments.
+
 ## Licensing
 
 Ghostery Tracker Database is published under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license which means it is free to use for non-commercial purposes. If you want to use it in your business, please contact [sales@ghostery.com](mailto:sales@ghostery.com).
