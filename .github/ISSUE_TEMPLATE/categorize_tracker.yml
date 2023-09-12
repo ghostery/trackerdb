@@ -23,8 +23,8 @@ body:
     id: location
     attributes:
       label: Location
-      description: On what site is the tracker located?
-      placeholder: https://www.google.com/
+      description: On what site is the tracker located? Where did it appear?
+      placeholder: https://www.cnn.com/
     validations:
       required: true
   - type: input
@@ -116,10 +116,10 @@ body:
     validations:
       required: false
   - type: textarea
-    id: tracker-domains
+    id: tracker-additional-information
     attributes:
-      label: Other Domains
-      description: Do you know of any other websites where this tracker appears?
+      label: Additional Information
+      description: Do you have any additional information to include (e.g., any other websites where this tracker appears)?
     validations:
       required: false
   - type: textarea
