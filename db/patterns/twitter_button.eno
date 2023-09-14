@@ -1,8 +1,8 @@
-name: X Button
+name: Tweet Button
 category: social_media
-website_url: http://twitter.com
-organization: X Corp
-alias: X
+website_url: https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview
+organization: twitter
+alias: twitter
 
 --- filters
 ||platform.twitter.com/js/button

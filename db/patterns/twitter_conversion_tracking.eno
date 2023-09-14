@@ -1,8 +1,8 @@
 name: X Conversion Tracking
 category: advertising
 website_url: 
-organization: X Corp
-alias: X
+organization: twitter
+alias: twitter
 
 --- filters
 ||t.co/i/adsct

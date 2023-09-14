@@ -1,8 +1,8 @@
 name: X Badge
 category: social_media
 website_url: http://twitter.com/widgets
-organization: X Corp
-alias: X
+organization: twitter
+alias: twitter
 
 --- filters
 ||twitter.com/javascripts/*.js^$3p
