@@ -1,6 +1,6 @@
-name: Twitter Button
+name: Tweet Button
 category: social_media
-website_url: http://twitter.com
+website_url: https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview
 organization: twitter
 alias: twitter
 
