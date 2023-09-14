@@ -3,7 +3,7 @@ website_url: http://opensharecount.com/
 privacy_policy_url: 
 privacy_contact: 
 country: 
-description: "OpenShareCount aims to make this process a little simpler by providing a drop-in replacement for the old, undocumented and unofficial API endpoint that all the existing official and non-official share buttons were using. For people using X's default button, OpenShareCount provides a bubble with a counter to place next to it."
+description: "OpenShareCount aims to make this process a little simpler by providing a drop-in replacement for the old, undocumented and unofficial API endpoint that all the existing official and non-official share buttons were using. For people using X's default button (formerly Twitter), OpenShareCount provides a bubble with a counter to place next to it."
 
 --- notes
 --- notes
