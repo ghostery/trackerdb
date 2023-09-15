@@ -28,10 +28,10 @@ body:
     validations:
       required: true
   - type: input
-    id: tracker-organization
+    id: tracker-company
     attributes:
-      label: Tracker Company/Organization
-      description: What company/organization owns the tracker?
+      label: Tracker Company
+      description: What company owns the tracker?
       placeholder: Google
     validations:
       required: false
@@ -41,26 +41,26 @@ body:
       value: |
         ## Tracker Information
   - type: input
-    id: organization-website
+    id: company-website
     attributes:
-      label: Company/Organization Website
+      label: Company Website
       description: What is the website URL?
       placeholder: https://www.google.com/
     validations:
       required: false
   - type: input
-    id: organization-privacy-policy
+    id: company-privacy-policy
     attributes:
-      label: Company/Organization Privacy Policy
-      description: Provide a link to the company/organization privacy policy. (Usually, a link located at the bottom of their website.)
+      label: Privacy Policy
+      description: Provide a link to the company's privacy policy. (Usually, a link located at the bottom of their website.)
       placeholder: https://policies.google.com/privacy
     validations:
       required: false
   - type: textarea
-    id: organization-description
+    id: company-description
     attributes:
-      label: Describe the company/organization
-      description: Please tell us what you know about the company/organization.
+      label: Describe the company
+      description: Tell us what you know about the company. Ensure descriptions are informative and impartial. Please fact check the information if using generative AI. Be prepared to cite sources, if necessary.
     validations:
       required: false
  
