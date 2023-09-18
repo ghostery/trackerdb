@@ -1,6 +1,6 @@
 name: whos.amung.us
 website_url: https://whos.amung.us/
-privacy_policy_url: http://whos.amung.us/legal/privacy/
+privacy_policy_url: https://whos.amung.us/legal/privacy/
 privacy_contact: 
 country: CA
 description: Whos.Amung.Us is a web analytics service that uses widgets to enable web publishers to collect data on sources ranging from individual users to popular pages. Its map widget shows where all of the past and current visitors have come from.  The maps are customizable and the background, pin style/colors, and size are all configurable.

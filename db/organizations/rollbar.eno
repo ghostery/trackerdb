@@ -1,6 +1,6 @@
 name: Rollbar
 website_url: https://www.rollbar.com/
-privacy_policy_url: http://www.rollbar.com/privacy
+privacy_policy_url: https://www.rollbar.com/privacy
 privacy_contact: support@rollbar.com
 country: 
 description: "Rollbar collects and analyzes errors so you can find and fix them faster."

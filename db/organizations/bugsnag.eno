@@ -1,6 +1,6 @@
 name: Bugsnag
 website_url: https://bugsnag.com/
-privacy_policy_url: http://docs.bugsnag.com/legal/privacy-policy/
+privacy_policy_url: https://docs.bugsnag.com/legal/privacy-policy/
 privacy_contact: 
 country: 
 description: "Headquartered in San Francisco, Bugsnag provides software development teams with an automated crash detection platform for their web and mobile applications."
