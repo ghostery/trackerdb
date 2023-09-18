@@ -1,6 +1,6 @@
 name: YouTube Subscription
 category: customer_interaction
-website_url: http://www.youtube.com/
+website_url: https://www.youtube.com/
 organization: google
 alias: youtube
 
