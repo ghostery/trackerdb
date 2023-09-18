@@ -1,6 +1,6 @@
 name: MyCounter.ua
 website_url: http://mycounter.ua
-privacy_policy_url: http://mycounter.ua/privacy.php
+privacy_policy_url: https://mycounter.ua/privacy.php
 privacy_contact: 
 country: UA
 description: "My Counter allows you to display the current numeric value of your site's traffic (up to 10 parameters); collect statistics on visits to your site and handle it."
