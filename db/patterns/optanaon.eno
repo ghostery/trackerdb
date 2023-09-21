@@ -7,4 +7,8 @@ organization: onetrust
 cookielaw.org
 --- domains
 
+--- filters
+##.optanon-toggle-display
+--- filters
+
 ghostery_id: 3742
