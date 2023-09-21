@@ -11,7 +11,6 @@ onetrust.com
 ###onetrust-banner-sdk
 ###onetrust-consent-sdk
 ##.onetrust-pc-dark-filter
-##.js-consent-banner
 ###cookie-preferences
 ###consent_blackbar
 ||onetrust.com^$third-party
