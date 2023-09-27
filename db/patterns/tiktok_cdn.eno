@@ -1,0 +1,12 @@
+name: TikTok CDN
+category: cdn
+website_url: https://www.tiktok.com/
+organization: bytedance_inc
+
+--- domains
+p16-sign-va.tiktokcdn.com
+p77-sign-va.tiktokcdn.com
+s20.tiktokcdn.com
+--- domains
+
+ghostery_id: 4060
