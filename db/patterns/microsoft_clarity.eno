@@ -4,18 +4,7 @@ website_url: https://clarity.microsoft.com/
 organization: microsoft
 
 --- domains
-a.clarity.ms
-b.clarity.ms
-c.clarity.ms
-d.clarity.ms
-e.clarity.ms
-f.clarity.ms
-g.clarity.ms
-h.clarity.ms
-i.clarity.ms
-j.clarity.ms
-log.clarity.ms
-www.clarity.ms
+clarity.ms
 --- domains
 
 --- filters
