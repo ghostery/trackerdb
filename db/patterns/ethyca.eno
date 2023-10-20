@@ -1,0 +1,14 @@
+name: Ethyca
+category: consent
+website_url: https://ethyca.com/
+organization: ethyca
+
+--- domains
+ethyca.com
+--- domains
+
+--- filters
+||ethyca.com^$3p
+--- filters
+
+ghostery_id: 4062
