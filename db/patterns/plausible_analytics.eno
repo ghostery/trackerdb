@@ -1,0 +1,14 @@
+name: Plausible Analytics
+category: site_analytics
+website_url: https://plausible.io/
+organization: plausible
+
+--- domains
+plausible.io
+--- domains
+
+--- filters
+||plausible.io^$3p
+--- filters
+
+ghostery_id: 4063
