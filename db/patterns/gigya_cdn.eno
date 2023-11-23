@@ -1,0 +1,18 @@
+name: Gigya CDN
+category: cdn
+website_url: https://www.sap.com/products/acquired-brands/what-is-gigya.html
+organization: sap
+
+--- domains
+cdns.gigya.com
+cdns.us1.gigya.com
+cdns2.gigya.com
+--- domains
+
+--- filters
+||cdns.gigya.com^$3p
+||cdns.us1.gigya.com^$3p
+||cdns2.gigya.com^$3p
+--- filters
+
+ghostery_id: 4064
