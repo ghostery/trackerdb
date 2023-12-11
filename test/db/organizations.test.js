@@ -20,6 +20,7 @@ const FIELDS_ALLOW_LIST = [
   'description',
   'ghostery_id',
   'notes',
+  'archived',
 ];
 
 test(RESOURCE_PATH, async (t) => {
@@ -71,7 +72,7 @@ test(RESOURCE_PATH, async (t) => {
         }
       });
 
-      await t.test('has a description can be empty', () => {
+      await t.test('has a description that can be empty', () => {
         spec.field('description').optionalStringValue();
       });
 
