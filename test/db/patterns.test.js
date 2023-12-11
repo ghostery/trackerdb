@@ -23,6 +23,7 @@ const FIELDS_ALLOW_LIST = [
   'organization',
   'ghostery_id',
   'website_url',
+  'archived',
 ];
 
 test(RESOURCE_PATH, async (t) => {
