@@ -1,8 +1,19 @@
-import sqlite3 from 'sqlite3';
-import { open } from 'sqlite';
-import { rmSync, existsSync } from 'node:fs';
+import Database from 'better-sqlite3';
+
+import { rmSync, existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
+
+const migration = readFileSync(
+  path.join(
+    BASE_PATH,
+    'scripts',
+    'export-sql',
+    'migrations',
+    '001-initial.sql',
+  ),
+  { encoding: 'utf-8' },
+);
 
 (async () => {
   prepareDistFolder();
@@ -12,89 +23,101 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
   if (existsSync(dbPath)) {
     rmSync(dbPath);
   }
+  const db = new Database(dbPath);
 
-  const db = await open({
-    filename: dbPath,
-    driver: sqlite3.Database,
-  });
+  db.pragma('journal_mode = WAL');
 
-  await db.migrate({
-    migrationsPath: path.join(
-      process.cwd(),
-      'scripts',
-      'export-sql',
-      'migrations',
-    ),
-  });
+  db.exec(migration);
 
   const categoryIds = new Map();
   for (const [key] of getSpecs('categories')) {
-    const { lastID } = await db.run(
-      'INSERT INTO categories (name) VALUES (?)',
-      key,
-    );
-    categoryIds.set(key, lastID);
+    const { lastInsertRowid } = db
+      .prepare('INSERT INTO categories (name) VALUES (?)')
+      .run(key);
+    categoryIds.set(key, lastInsertRowid);
   }
+  const insertCompanies = db.prepare(
+    'INSERT INTO companies (id, name, description, privacy_url, website_url, country, privacy_contact, notes, ghostery_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
+  );
+  const insertManyCompanies = db.transaction((companies) => {
+    for (const company of companies) insertCompanies.run(company);
+  });
+  const companies = getSpecs('organizations').map(([key, spec]) => [
+    key,
+    spec.field('name').requiredStringValue(),
+    spec.field('description').optionalStringValue(),
+    spec.field('privacy_policy_url').optionalStringValue(),
+    spec.field('website_url').optionalStringValue(),
+    spec.field('country').optionalStringValue(),
+    spec.field('privacy_contact').optionalStringValue(),
+    spec.field('notes').optionalStringValue(),
+    spec.field('ghostery_id').optionalStringValue() || '',
+  ]);
+  insertManyCompanies(companies);
 
-  for (const [key, spec] of getSpecs('organizations')) {
-    await db.run(
-      'INSERT INTO companies (id, name, description, privacy_url, website_url, country, privacy_contact, notes, ghostery_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
-      key,
-      spec.field('name').requiredStringValue(),
-      spec.field('description').optionalStringValue(),
-      spec.field('privacy_policy_url').optionalStringValue(),
-      spec.field('website_url').optionalStringValue(),
-      spec.field('country').optionalStringValue(),
-      spec.field('privacy_contact').optionalStringValue(),
-      spec.field('notes').optionalStringValue(),
-      spec.field('ghostery_id').optionalStringValue() || '',
-    );
-  }
+  const insertTrackers = db.prepare(
+    'INSERT INTO trackers (id, name, category_id, website_url, company_id, notes, ghostery_id) VALUES (:id, :name, :category_id, :website_url, :company_id, :notes, :ghostery_id)',
+  );
+  const insertManyTrackers = db.transaction((trackers) => {
+    for (const tracker of trackers) insertTrackers.run(tracker);
+  });
+  const trackers = getSpecs('patterns').map(([key, spec]) => ({
+    id: key,
+    name: spec.field('name').requiredStringValue(),
+    category_id: '2',
+    website_url: spec.field('website_url').optionalStringValue(),
+    company_id: 'google',
+    notes: spec.field('notes').optionalStringValue(),
 
+    ghostery_id: spec.field('ghostery_id').optionalStringValue() || '',
+  }));
+  insertManyTrackers(trackers);
+
+  const updateTrackers = db.prepare(
+    'UPDATE trackers SET alias = :alias WHERE id = :id',
+  );
+  const updateManyTrackers = db.transaction((trackers) => {
+    for (const tracker of trackers) updateTrackers.run(tracker);
+  });
+  updateManyTrackers(
+    getSpecs('patterns').map(([key, spec]) => ({
+      id: key,
+      alias: spec.field('alias').optionalStringValue(),
+    })),
+  );
+
+  const insertDomains = db.prepare(
+    'INSERT INTO tracker_domains (tracker, domain) VALUES (?, ?)',
+  );
+  const insertManyDomains = db.transaction((domains) => {
+    for (const domain of domains) insertDomains.run(domain);
+  });
+  const domains = [];
   for (const [key, spec] of getSpecs('patterns')) {
-    await db.run(
-      'INSERT INTO trackers (id, name, category_id, website_url, company_id, notes, alias, ghostery_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?)',
-      key,
-      spec.field('name').requiredStringValue(),
-      categoryIds.get(spec.field('category').requiredStringValue()),
-      spec.field('website_url').optionalStringValue(),
-      spec.field('organization').optionalStringValue() || null,
-      spec.field('notes').optionalStringValue(),
-      spec.field('alias').optionalStringValue(),
-      spec.field('ghostery_id').optionalStringValue() || '',
-    );
-
-    const domains = (spec.field('domains').optionalStringValue() || '')
+    for (const domain of (spec.field('domains').optionalStringValue() || '')
       .trim()
       .split(/\n+/g)
-      .filter((d) => d !== '');
-
-    for (const domain of domains) {
-      await db.run(
-        'INSERT INTO tracker_domains (tracker, domain) VALUES (?, ?)',
-        key,
-        domain,
-      );
+      .filter((d) => d !== '')) {
+      domains.push([key, domain]);
     }
   }
-
-  await db.run('DROP TABLE migrations');
+  insertManyDomains(domains);
 
   console.log(
     'Exported categories:',
-    (await db.get('SELECT count(*) as count FROM categories')).count,
+    db.prepare('SELECT count(*) as count FROM categories').pluck().get(),
   );
   console.log(
     'Exported companies:',
-    (await db.get('SELECT count(*) as count FROM companies')).count,
+    db.prepare('SELECT count(*) as count FROM companies').pluck().get(),
   );
   console.log(
     'Exported trackers:',
-    (await db.get('SELECT count(*) as count FROM trackers')).count,
+    db.prepare('SELECT count(*) as count FROM trackers').pluck().get(),
   );
   console.log(
     'Exported tracker domains:',
-    (await db.get('SELECT count(*) as count FROM tracker_domains')).count,
+    db.prepare('SELECT count(*) as count FROM tracker_domains').pluck().get(),
   );
 
   await db.close();
