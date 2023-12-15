@@ -1,11 +1,12 @@
-name: Bugsnag
-website_url: https://bugsnag.com/
-privacy_policy_url: https://docs.bugsnag.com/legal/privacy-policy/
+name: SmartBear
+website_url: https://smartbear.com/
+privacy_policy_url: https://smartbear.com/privacy/
 privacy_contact: 
-country: 
-description: "Headquartered in San Francisco, Bugsnag provides software development teams with an automated crash detection platform for their web and mobile applications."
+country: US
+description: SmartBear Software is an American privately-held information technology company that delivers tools for application performance monitoring (APM), software development, software testing, API testing and API management. The company is based in Assembly Square in Somerville in the Greater Boston Area. 
 
 --- notes
+Bugsnag aquired by Smartbear 2021 https://www.bugsnag.com/blog/bugsnag-joins-smartbear/
 --- notes
 
 ghostery_id: 3347

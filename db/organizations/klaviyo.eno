@@ -1,11 +1,9 @@
 name: Klaviyo
 website_url: https://www.klaviyo.com/
-privacy_policy_url: https://www.klaviyo.com/privacy
+privacy_policy_url: https://www.klaviyo.com/legal/privacy
 privacy_contact: 
-country: 
-description: Klaviyo has built database technology to make 1:1 personalized email easy. For too long companies were stuck blasting everyone with the same email. Not because they think that’s what their customers want, but because they don’t have a choice. Klaviyo fundamentally changes the game. Our software aggregates everything a business knows about their customers into individual profiles in our customer analytics database. We’ve paired that with an email platform that makes designing beautiful emails easy. Those pieces together, Klaviyo is one unified platform for personalized, 1:1 email that drives results.
-| 
-| 
+country: US
+description: Klaviyo, Inc. is a global technology company that provides a marketing automation platform, used primarily for email marketing and SMS marketing.
 
 --- notes
 --- notes

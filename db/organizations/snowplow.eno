@@ -2,8 +2,8 @@ name: Snowplow
 website_url: http://snowplowanalytics.com/
 privacy_policy_url: https://snowplowanalytics.com/privacy-policy/
 privacy_contact: contact@snowplowanalytics.com
-country: 
-description: 
+country: GB
+description: Snowplow’s Behavioral Data Platform (BDP) creates first-party customer data in real time, built on the open source standard for event tracking. A second-by-second record of user interactions allows any team to power next-gen digital analytics and customer engagement.
 
 --- notes
 --- notes

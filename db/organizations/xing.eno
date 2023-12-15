@@ -2,12 +2,8 @@ name: XING
 website_url: https://www.xing.com/
 privacy_policy_url: https://www.xing.com/privacy
 privacy_contact: 
-country: 
-description: "XING is the social network for business professionals."
-| 
-| "XING is the social network for business contacts. XING has close to 11 million users in its core German-speaking market (September 2016)."
-| 
-| "XING is a platform where professionals from all kinds of different industries can meet up, find jobs, colleagues, new assignments, cooperation partners, experts and generate business ideas."
+country: DE
+description: XING is a Hamburg-based career-oriented social networking site. The site is primarily focused on the German-speaking market, alongside XING Spain, and competes with the American platform LinkedIn.
 
 --- notes
 --- notes

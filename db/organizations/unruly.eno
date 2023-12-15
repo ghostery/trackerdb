@@ -1,11 +1,12 @@
-name: Unruly Group Ltd
-website_url: https://unruly.co/
-privacy_policy_url: https://unruly.co/privacy/
-privacy_contact: hi@unrulymedia.com
-country: 
-description: "Video ad tech company Unruly is the leading programmatic platform for social video advertising, powered by UnrulyX, the first supply side platform (SSP) for mobile video to offer scaled delivery of native ad formats and guarantee the viewability of premium video impressions bought via RTB."
+name: Tremor International
+website_url: https://www.tremorinternational.com/
+privacy_policy_url: https://www.tremorinternational.com/privacy/
+privacy_contact: privacy@tremorinternational.com 
+country: US
+description: Tremor International Ltd., comprising Tremor Video and Unruly, is a publicly traded advertising-technology company. Founded in 2007, it focuses on digital advertising including video, mobile, native, display technology, and connected TV. 
 
 --- notes
+In 2020, Tremor International acquired video ad platform, Unruly, from News Corp. https://en.wikipedia.org/wiki/Tremor_International
 --- notes
 
 ghostery_id: 1904

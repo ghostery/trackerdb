@@ -2,9 +2,8 @@ name: adNET.de
 website_url: http://www.adnet.de
 privacy_policy_url: http://www.adnet.de/index-6_datenschutz.html
 privacy_contact: 
-country: 
-description: adNET.de wurde Anfang 2004 mit dem Bestreben gegründet, günstige AdServertechnologie auf höchstem technischen Niveau anzubieten.
-| Das anfängliche Konzept bestand darin kleinen und mittleren Unternehmen mit 1-100 Mio. Werbemittelauslieferungen im Monat eine kostengünstige Alternative zum eigenen AdServer zu bieten. Bedingt durch die hocheffiziente Technik, welche permanent weiter entwickelt wurde, war adNET.de bereits nach 6 Monaten in der Lage, auch Kunden mit höchsten Anforderungen und Auslieferungszahlen von > 1.000.000.000 Werbemitteln - wie Werbeagenturen, großen Onlinevermarktern und Werbetreibenden - eine optimale Lösung bei nahezu unbegrenzt möglichen Auslieferungszahlen anbieten zu können.
+country: DE
+description: The adNET.de AdServer is the optimal solution for advertisers, agencies, marketers and webmasters.
 
 --- notes
 --- notes

@@ -1,11 +1,12 @@
-name: Just Premium
-website_url: http://justpremium.com/
-privacy_policy_url: 
+name: GumGum
+website_url: https://gumgum.com/
+privacy_policy_url: https://gumgum.com/terms-and-policies/privacy-policy
 privacy_contact: 
-country: 
-description: "JustPremium is the world's first RTB Ad Exchange for High-Impact Adsizes in the Netherlands, Germany, and Belgium. This new exchange offers advertisers state-of-the-art Rich Media Ads on a network of Premium Publishers."
+country: US
+description: GumGum is a Santa Monica, California-based developer of computer vision and machine learning systems for contextually driven advertising and brand protection.
 
 --- notes
+Acquired by gumgum 2021 https://gumgum.com/press-releases/gumgum-acquires-justpremium
 --- notes
 
 ghostery_id: 2882

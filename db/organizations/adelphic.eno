@@ -1,14 +1,12 @@
-name: Adelphic
-website_url: http://www.adelphic.com/
-privacy_policy_url: https://adelphic.com/platform/privacy/
+name: Viant
+website_url: https://www.viantinc.com/solutions/dsp/
+privacy_policy_url: https://www.viantinc.com/wp-content/uploads/2023/02/Viant-Privacy-Policy-AMERICAS-1094727173-v11.pdf
 privacy_contact: 
-country: 
-description: Adelphic is a mobile and cross-device demand side platform. We provide an enterprise-ready solution for agencies, brands and other large media buyers who aim to have meaningful engagements with consumers on the move.
-| 
-| Our platform is fully RTB-enabled and delivers massive global reach through access to all leading inventory providers. Adelphic’s patented technology overcomes the limitations of user identification in mobile and across networked devices, yielding rich, nuanced portraits of real consumers. That gives marketers the power to deliver precise communications resulting in meaningful interaction, dialog and transactions.
-| 
+country: US
+description: Viant is a leading advertising software company that enables marketers to plan, execute and measure omnichannel ad campaigns through a cloud-based platform. Viant’s self-service Demand Side Platform, Adelphic®, powers programmatic advertising across Connected TV, Linear TV, mobile, desktop, audio, gaming and digital out-of-home channels.
 
 --- notes
+Viant purchased the mobile ad company Adelphic in 2017. https://en.everybodywiki.com/Viant_Technology
 --- notes
 
 ghostery_id: 3878

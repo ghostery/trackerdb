@@ -1,11 +1,12 @@
-name: Smaato
-website_url: https://www.smaato.com/
-privacy_policy_url: https://www.smaato.com/privacy/
-privacy_contact: privacy@smaato.com
+name: Verve Group
+website_url: https://verve.com
+privacy_policy_url: https://verve.com/product-privacy-policies/
+privacy_contact: privacy@verve.com
 country: US
 description: Smaato operates a mobile advertising optimization platform called SOMA. Through an open API and a range of Software Developer Kits (SDKs), SOMA can be integrated with ad networks, ad inventory owners (publishers, developers and operators) and third party ad technology providers.
 
 --- notes
+Acquired by Verve Group 2021 https://www.crunchbase.com/organization/verve-group
 --- notes
 
 ghostery_id: 920
