@@ -1,9 +1,16 @@
-name: Criteo
-website_url: https://www.criteo.com/
-privacy_policy_url: https://www.criteo.com/privacy/
-privacy_contact: dpo@criteo.com
-country: FR
-description: Criteo is an advertising company that provides online display advertisements. The company was founded and is headquartered in Paris, France.
+name: IPONWEB
+website_url: https://www.iponweb.com/
+privacy_policy_url: https://www.iponweb.com/privacy-policy/
+privacy_contact: info@iponweb.net
+country: 
+description: "IPONWEB has a long and unique history pioneering innovation in ad exchange & online advertising platform development. As the development team behind the first Ad exchange, RightMedia, we have evolved with the industry from its outset.
+| From 2004 to 2007, IPONWEB built most components of the Right Media platform at least once. Some components had up to 3 complete redesign and builds by different teams. In 2007, Yahoo acquired Right Media, and began to phase out IPONWEB’s involvement. IPONWEB finished working on the Right Media platform in 2009.
+| Since then, we have now contributed to, in part or in entirety, the build and operation of dozens of similar scale projects, and several dozen smaller, but just as algorithmically complex platforms. In total, we have built more than 120 different flavours of trading systems (DSP’s, SSP’s, Exchanges, DMP’s and other acronyms) for many of the biggest names in the industry.
+| 80% of our senior team has been with us since those early days, an almost unprecedented achievement in today’s high turnover and competitive Internet environment. We believe we are one of the few companies in the world that have the exposure to the type of engineering challenges that building and operating these platforms represents, not once, not twice, but tens of dozens of times. We know of no other company that can boast of this depth of experience and knowledge in this space.
+| Each IPONWEB solution is unique and proprietary for every customer; but we leverage the collective experience to evolve products & platforms at an unmatched level of scale & sophistication. We have developed a unique methodology, based around our u-Platform technology stack, that delivers a fast, flexible, innovative and definitive solution for platform development in the online media space.
+| This combined with our extensive background in algorithmic refinement and probability modeling gets our customers to market quickly, at high quality, with minimal engineering risk. We save our customers the years of development time, investment, mistakes & learning required to simply gain competitive parity.
+| Importantly though this is just the start of the journey. With IPONWEB as a partner, our customers are able to focus their resources on what really matters, iterating their business and commercial model. Freed from technology limitations, our platforms flexibility and our iterative development processes, allow customers to rapidly evolve unique, market leading technology and proprietary product-sets, customised specifically to meet their future needs."
+| 
 
 --- notes
 Acquired by Criteo SA in 2022. https://rocketreach.co/iponweb-acquired-by-criteo-profile_b5c717dcf42e0d2f
