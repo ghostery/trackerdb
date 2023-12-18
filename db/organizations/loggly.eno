@@ -1,9 +1,9 @@
-name: SolarWinds
-website_url: https://www.solarwinds.com/
-privacy_policy_url: https://www.solarwinds.com/legal/privacy
-privacy_contact: 
-country: US
-description: SolarWinds Corporation is an American company that develops software for businesses to help manage their networks, systems, and information technology infrastructure. It is headquartered in Austin, Texas, with sales and product development offices in a number of locations in the United States and several other countries. It has also acquired a number of other companies, some of which it still operates under their original names, including Pingdom, Papertrail and Loggly.
+name: Loggly
+website_url: https://www.loggly.com/
+privacy_policy_url: https://www.loggly.com/about/privacy-policy/
+privacy_contact: info@loggly.com
+country: 
+description: "Loggly is a San Francisco startup developing the world's most popular cloud based logging platform. We have built a highly scalable log management service as a platform which provides great value for the entire organization."
 
 --- notes
 Loggly acquired by SolarWinds 2018. https://en.wikipedia.org/wiki/Loggly
