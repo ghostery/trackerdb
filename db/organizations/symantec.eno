@@ -1,18 +1,9 @@
-name: Symantec
-website_url: https://www.symantec.com/page.jsp?id=ssl-resources&tabID=3#
-privacy_policy_url: https://www.symantec.com/privacy/
-privacy_contact: privacyteam@symantec.com
-country: 
-description: "We are dedicated to investing in the online security ecosystem, and will continue to lead the field with the most recognized trust mark on the internet– look for the Norton Secured Seal!
-| Consumer tests by Symantec show that the Norton Secured Seal retains the high level of recognition and trust valued by eCommerce and other privacy-minded web owners. An independent test run in January 2013 also showed that the Norton Secured Seal offers consumers the greatest feeling of trust on the internet!
-| Symantec has invested in making the online ecosystem safer by also offering:
-| Daily malware scanning and vulnerability testing
-| ECC and DSA algorithm agility
-| Improved SSL Tools for certificate checking
-| Seal-in-search
-| Express and auto-renewals
-| Enterprise offering - Certificate Intelligence Center"
-| 
+name: Broadcom
+website_url: https://www.broadcom.com/
+privacy_policy_url: https://www.broadcom.com/company/legal/privacy
+privacy_contact: 
+country: US
+description: Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings serve the data center, networking, software, broadband, wireless, storage, and industrial markets.
 
 --- notes
 --- notes

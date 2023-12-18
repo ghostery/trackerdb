@@ -1,11 +1,12 @@
-name: AppNexus Inc.
-website_url: https://www.appnexus.com/en
-privacy_policy_url: https://www.appnexus.com/en/company/platform-privacy-policy
+name: Microsoft
+website_url: https://www.microsoft.com/
+privacy_policy_url: https://privacy.microsoft.com/en-us/privacystatement/
 privacy_contact: https://www.appnexus.com/platform-privacy-policy/dpo-inquiry
 country: US
-description: AppNexus operates an online advertising exchange. Their core technology platform enables ad networks and agencies real-time media buying capabilities and a gateway to multiple inventory aggregators.  Their platform is supported by cloud computing technology. In 2018, AppNexus was bought by AT&T.
+description: Microsoft is an American multinational corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
 
 --- notes
+AppNexus acquired by Xandr (AT&T, 2018), acquired by Microsoft (2021). https://en.wikipedia.org/wiki/AppNexus
 --- notes
 
 ghostery_id: 17

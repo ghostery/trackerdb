@@ -2,8 +2,8 @@ name: AppDynamics
 website_url: http://www.appdynamics.com
 privacy_policy_url: https://www.appdynamics.com/privacy-policy
 privacy_contact: privacy@appdynamics.com
-country: 
-description: "AppDynamics is the easy-to-use application performance management solution that simplifies the management of complex, business-critical apps."
+country: US
+description: AppDynamics is a full-stack application performance management (APM) and IT operations analytics (ITOA) company based in San Francisco. The company focuses on managing the performance and availability of applications across cloud computing environments, IT infrastructure, network architecture, digital user experience design, application security threat detection, observability, and data centers.
 
 --- notes
 --- notes

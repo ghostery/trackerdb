@@ -1,11 +1,9 @@
 name: Adnet Media
 website_url: http://www.adnetmedia.lt/
 privacy_policy_url: http://www.adnetmedia.lt/
-privacy_contact: info@adnetmedia.lt
-country: 
-description: "Adnet Media Network reaches 1.6 million people or 81% of Lithuanian Internet per month."
-| 
-| Translated by Google Translate
+privacy_contact: gdpr@digitalmatter.ai
+country: LT
+description: Provides publishers with a platform to manage their ad inventory and maximize their revenue. They offer access to 15+ header bidding partners, Google Ad Exchange, Google Open Bidding, programmatic deals, direct orders and automated programmatic optimization solutions. 
 
 --- notes
 --- notes

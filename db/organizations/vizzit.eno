@@ -1,9 +1,9 @@
 name: Vizzit
 website_url: https://www.vizzit.se/h/
-privacy_policy_url: http://www.vizzit.se/h/sv/cookies/
+privacy_policy_url: https://www.vizzit.se/h/en/integritetspolicy/
 privacy_contact: info@vizzit.se
-country: US
-description: "We offer web analysis tools that are suitable for everything from basic gathering of statistics to advanced analysis of what the visitors do on your website."
+country: SE
+description: Vizzit provides you with easy-to-read visitor statistics, insights into your customers’ behaviours, more effective web maintenance, and the ability to easily prioritise work on your most important pages. 
 
 --- notes
 --- notes

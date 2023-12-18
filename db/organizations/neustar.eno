@@ -1,11 +1,12 @@
-name: Neustar 
-website_url: http://www.neustar.biz/marketing-solutions#.U-kEJZSwJTM
-privacy_policy_url: https://www.neustar.biz/privacy/privacy_policy
-privacy_contact: privacy@neustar.biz
-country: 
-description: "... We help marketers promote their businesses and IT and security professionals protect them. As an innovator in real-time technologies, we have the expertise to drive high-volume and high value decision-making. Whether you’re in media and advertising, communications or financial services, retail, you name it, we’re here to help you take fast, informed action—whether it's choosing the best offer to make to a new customer, or recognizing and instantly mitigating a DDoS attack on your Website."
+name: TransUnion
+website_url: https://www.transunion.com/solution/truaudience
+privacy_policy_url: https://www.transunion.com/privacy/transunion
+privacy_contact: privacy@transunion.com
+country: US
+description: TransUnion is an American consumer credit reporting agency. TransUnion collects and aggregates information on over one billion individual consumers in over thirty countries including 200 million files profiling nearly every credit-active consumer in the United States.
 
 --- notes
+TransUnion acquired Neustar's main business for 3.1 billion, 2021 https://en.wikipedia.org/wiki/Neustar
 --- notes
 
 ghostery_id: 3452

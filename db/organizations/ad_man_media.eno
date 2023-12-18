@@ -1,11 +1,12 @@
-name: Ad Man Media
-website_url: https://www.admanmedia.com/
-privacy_policy_url: https://www.admanmedia.com/politica
+name: illumin
+website_url: https://illumin.com
+privacy_policy_url: https://illumin.com/legal/privacy/
 privacy_contact: ayuda@admanmedia.com
-country: 
-description: 
+country: CA
+description: illumin Holdings Inc. provides a journey advertising platform, which enables marketers to reach consumers at every stage of their journey by leveraging advanced machine learning algorithms and real-time data analytics. 
 
 --- notes
+illumin acquired Adman Media 2018. https://www.crunchbase.com/acquisition/acuityads-acquires-adman-media--cdf9a3f9
 --- notes
 
 ghostery_id: 4490

@@ -1,11 +1,12 @@
-name: SmartLook
-website_url: https://www.smartlook.com/
-privacy_policy_url: https://www.smartlook.com/privacy
+name: Cisco
+website_url: https://www.cisco.com
+privacy_policy_url: https://www.cisco.com/c/en/us/about/legal/privacy-full.html
 privacy_contact: sales@smartlook.com
-country: 
-description: Smartlook is a simple tool which records the screens of real users on your website. You can see what visitors clicked with their mouse, what they filled into a form field, where they spend most of their time, and how they browse through each page.
+country: US
+description: Cisco Systems, Inc., is an American multinational digital communications technology conglomerate corporation headquartered in San Jose, California. Cisco develops, manufactures, and sells networking hardware, software, telecommunications equipment and other high-technology services and products.
 
 --- notes
+Smartlook acquired by Cisco 2023. https://www.cisco.com/c/en/us/about/corporate-strategy-office/acquisitions/smartlook.html
 --- notes
 
 ghostery_id: 4505

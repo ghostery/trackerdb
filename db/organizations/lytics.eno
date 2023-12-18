@@ -1,15 +1,9 @@
 name: Lytics
 website_url: https://www.lytics.com/
-privacy_policy_url: https://www.getlytics.com/privacy
-privacy_contact: privacy@lytics.io
-country: 
-description: Lytics helps enterprises automate personalized marketing experiences through the industry’s most advanced Customer Data Platform (CDP). Popular retailing, media, consumer goods, banking, and tech brands use Lytics to execute one-to-one marketing programs that their customers welcome.
-| 
-| The Lytics Customer Data (CDP) Platform, the company's flagship product, was launched in October 2014. The Lytics CDP connects a company's marketing data about customers and users from multiple sources (e.g., structured and unstructured data from tools, anonymous and known profiles, and other interactions and events from the marketing stack, sales, and support databases) and creates behavior-rich user segments (e.g., likely to churn, most active on mobile, coupon lover). These customer segments then sync with a company's marketing tools (from web-site personalization and ad retargeting, to email marketing and content optimization) to improve marketing campaign results and reduce inefficiencies.
-| 
-| Many marketing technology vendors claim "customer data management," yet deal with only one or two types of data (such as customers who've signed in via a social media tool or provided an email address). Lytics builds a profile based on unifying any fragment of customer information using sophisticated data science and conducts probabilistic matching to merge identities. The result: a golden record of reference for each consumer.
-| 
-| Lytics is led by marketing-technology veterans who’ve held leadership positions at Webtrends, Urban Airship, and Hewlett Packard Enterprise. Our customers include DirectTV, Conde Nast, and Nestle. We are headquartered in Portland, Oregon, a hotbed of marketing technologies and agencies.
+privacy_policy_url: https://www.lytics.com/privacy-policy/
+privacy_contact: privacy@lytics.com
+country: US
+description: Lytics provides customer data, analytics, and marketing intelligence solutions to our customer via a software as a service platform. The Service is designed to help our Clients’ marketing communications and campaigns be more useful and relevant to their respective consumers by showing them content and messages that best address their specific interests and needs.
 
 --- notes
 --- notes

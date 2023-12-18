@@ -2,9 +2,8 @@ name: Sentry
 website_url: https://sentry.io/welcome/
 privacy_policy_url: https://sentry.io/privacy/
 privacy_contact: support@getsentry.com
-country: 
-description: "Sentry provides real-time crash reporting that gives your team insight into errors affecting your customers in production. Each month we process billions of exceptions from the most popular products on the internet."
-| 
+country: US
+description: Functional Software, Inc., doing business as Sentry, operates as a software company. The Company develops first error tracking and performance monitoring platform that helps developers diagnose, fix, and optimize the performance of their code. Sentry serves customers in the United States.
 
 --- notes
 --- notes

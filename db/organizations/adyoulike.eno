@@ -1,11 +1,12 @@
-name: Adyoulike
-website_url: https://www.adyoulike.com/
-privacy_policy_url: https://www.adyoulike.com/privacy_policy.php
-privacy_contact: contact@adyoulike.com
-country: 
-description: "Adyoulike offer[s] a new advertising experience thanks to intuitive and interactive formats completely fit to the editorial content."
+name: Open Web
+website_url: https://www.openweb.com/
+privacy_policy_url: https://www.openweb.com/legal-and-privacy/
+privacy_contact: privacy@openweb.com
+country: US
+description: OpenWeb is a social engagement platform that builds online communities around digital content. OpenWeb works with publishers to bring conversations back from social networks to publisher sites.
 
 --- notes
+In April 2022, OpenWeb acquired French advertising company Adyoulike for a mix of cash and stock, with a total value of $100M. https://en.wikipedia.org/wiki/OpenWeb
 --- notes
 
 ghostery_id: 2629

@@ -1,12 +1,12 @@
-name: Bidtellect, Inc
-website_url: https://www.bidtellect.com/
-privacy_policy_url: https://www.bidtellect.com/privacy-policy/
+name: Simpli.fi
+website_url: https://simpli.fi
+privacy_policy_url: https://simpli.fi/services-privacy-policy
 privacy_contact: privacy@bidtellect.com
-country: 
-description: "Bidtellect was created with one game-changing mission – to facilitate efficiency in Native Ad buying, selling and delivery across the web. Founded by industry veterans, John Ferber and Chad Folkening, our team of superior developers has built a revolutionary Real-time Bidding (RTB) platform that allows brands to activate Native Advertising campaigns at scale!
-| Whether you’re a Native Ad publisher looking for RTB platform integration, or an advertiser interested in deploying a multi-channel Native Advertising campaign, the Bidtellect team is here for you. Any questions? Contact a team member below."
+country: US
+description: Simpli.fi is an demand side platform (DSP) that leverages unstructured data elements to deliver improved performance and deeper insights.
 
 --- notes
+Simpli.fi acquired Bidtellect 2023. https://simpli.fi/latest/simpli-fi-completes-acquisition-of-contextual-and-native-demand-side-platform-bidtellect
 --- notes
 
 ghostery_id: 4166

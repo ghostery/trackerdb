@@ -3,14 +3,7 @@ website_url: http://withcubed.com/
 privacy_policy_url: http://withcubed.com/privacy-policy/
 privacy_contact: privacy@withcubed.com
 country: 
-description: The CUBED Attribution algorithm is calculated based on a number of elements of importance that allow us to understand the propensity for someone to complete an action. We are constantly refining and improving the algorithm, and it currently has seven core factors that are used to create the weightings: 
-| • number of touchpoint interactions 
-| • number of pageviews 
-| • recency of visit 
-| • time on site 
-| • channel 
-| • device 
-| • location 
+description: The CUBED Attribution algorithm is calculated based on a number of elements of importance that allow us to understand the propensity for someone to complete an action. We are constantly refining and improving the algorithm, and it currently has seven core factors that are used to create the weightings:• number of touchpoint interactions• number of pageviews• recency of visit• time on site• channel• device• location
 
 --- notes
 --- notes

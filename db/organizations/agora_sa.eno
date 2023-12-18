@@ -1,11 +1,9 @@
 name: Agora SA
 website_url: http://www.agora.pl
-privacy_policy_url: http://serwisy.gazeta.pl/O_nas/1,111259,8856779,Ochrona_prywatnosci.html
+privacy_policy_url: https://www.agora.pl/polityka-prywatnosci
 privacy_contact: pomoc@agora.pl
-country: 
-description: "Agora is one of the largest media companies in Poland listed on the Warsaw Stock Exchange since 1999, with a range of media [including] newspapers, outdoor advertising, cinema network, enterprise and Internet radio, magazines, and selling collections."
-| 
-| "Agora and "Gazeta Wyborcza" arose before the parliamentary elections in 1989. "Gazeta" has become the first independent newspaper in the country, and Agora grew into one of the largest and most renowned media companies in Poland. Since 1999. The company is listed on the Stock Exchange in Warsaw." (Translated by Google) 
+country: PL
+description: Agora is one of the largest media companies in Poland listed on the Warsaw Stock Exchange since 1999, with a range of media including newspapers, outdoor advertising, cinema network, enterprise and Internet radio, magazines, and selling collections.
 
 --- notes
 --- notes

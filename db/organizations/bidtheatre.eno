@@ -1,9 +1,10 @@
-name: BidTheatre AB
+name: BidTheatre
 website_url: https://www.bidtheatre.com/
 privacy_policy_url: https://www.bidtheatre.com/privacy-policy
 privacy_contact: 
-country: 
-description: "Our mission is to build RTB infrastructure and an easy-to-use efficient management system that allows for exact execution, control and reporting of online media campaigns for media agencies and ad networks in the Nordics."
+country: SE
+description: BidTheatre is a provider of data driven marketing software to media agencies, advertisers and publishers. With BidTheatre DSP, marketers get unified and efficient access to the fragmented European media landscape and can launch awareness building or conversion driving banner or video campaigns. With its capabilities to target and understand digital audiences, BidTheatre's platform makes marketing a dialogue, not a one-way communication.
+
 
 --- notes
 --- notes

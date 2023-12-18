@@ -1,9 +1,9 @@
 name: Nielsen
 website_url: https://www.nielsen.com/us/en.html
-privacy_policy_url: https://www.nielsen.com/us/en/about-us/privacy.html
-privacy_contact: https://www.nielsen.com/us/en/privacy-inquiries.html
-country: IN
-description: Nielsen is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence and mobile measurement.
+privacy_policy_url: https://www.nielsen.com/legal/privacy-principles/
+privacy_contact: privacy.department@nielsen.com
+country: US
+description: Nielsen is a global, independent measurement and data company for fast-moving consumer goods, consumer behavior, and media. With a presence in more than 100 countries and services covering more than 90% of the globe's GDP and population, Nielsen provides clients with data about what consumers watch (programming, advertising) and what they buy (categories, brands, products) on a global and local basis and how those choices intersect.
 
 --- notes
 --- notes

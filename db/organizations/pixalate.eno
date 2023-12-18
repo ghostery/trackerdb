@@ -1,11 +1,9 @@
 name: Pixalate, Inc.
 website_url: https://www.pixalate.com/
-privacy_policy_url: https://pixalate.com/privacypolicy/
+privacy_policy_url: https://www.pixalate.com/privacypolicy
 privacy_contact: info@pixalate.com
-country: 
-description: Pixalate is the first and only data platform with a comprehensive suite of products specifically built to bring transparency to programmatic advertising. Pixalate monitors hundreds of billions of ad events in real time by tapping into the global RTB data stream, providing insights to optimize performance, benchmark supply quality, and eliminate fraud. 
-| 
-| Together, we’re raising the bar for RTB.
+country: US
+description: Pixalate is an omni-channel fraud intelligence company that works with brands and platforms to prevent invalid traffic and improve ad inventory quality.
 
 --- notes
 --- notes
