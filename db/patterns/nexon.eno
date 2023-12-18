@@ -1,0 +1,16 @@
+name: Nexon Global
+category: site_analytics
+website_url: https://www.nexon.com/main/en
+organization: nexon
+
+--- domains
+ssl.nexon.com
+public.api.nexon.com
+--- domains
+
+--- filters
+||ssl.nexon.com/s1/da/a2s.js
+||public.api.nexon.com/nxlog-collect/apne2/client.all
+--- filters
+
+ghostery_id:
