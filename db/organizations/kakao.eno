@@ -1,7 +1,7 @@
 name: Kakao
 website_url: https://www.kakaocorp.com/page/
 privacy_policy_url: https://www.kakao.com/policy/privacy?lang=en
-privacy_contact:
+privacy_contact: https://cs.kakao.com/requests?category=1&locale=en&node=30288&service=8&select=combo2
 country: KR
 description: Kakao Corp is the company behind KakaoTalk, which serves as its main platform and flagship application.
 
