@@ -3,9 +3,14 @@ website_url: https://www.leafgroup.com/
 privacy_policy_url: https://www.leafgroup.com/privacy-policy/
 privacy_contact: legal@leafgroup.com
 country: US
-description: Demand Media operates an online media company based on a combination of services including integrated content, a social media platform, and registered domain services.  Content is produced, created and monetized through articles and videos for their network of web sites including eHow and LIVESTRONG.com.  Demand Media also integrates a social media platform that provides an application system designed to match content and advertisements for their partners.  
+description: Leaf Group, formerly Demand Media Inc, is an American content company that operates online brands including eHow, livestrong.com, and marketplace brands Saatchi Art and Society6. The company also provides social media platforms to existing large company websites and distributes content bundled with social media tools to outlets around the web.
 
 --- notes
+According to this source, Leaf Group (belong currently to Graham Holdings Company) now operates under the name World of Good Brands:
+https://www.globenewswire.com/news-release/2023/05/31/2679342/0/en/Leaf-Group-s-Media-Business-is-Now-World-of-Good-Brands.html
+
+See also https://github.com/ghostery/trackerdb/issues/139
 --- notes
 
 ghostery_id: 374
+archived
