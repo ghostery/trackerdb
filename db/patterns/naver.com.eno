@@ -6,13 +6,12 @@ organization: naver
 --- domains
 naver.com
 naver.net
-pstatic.net
 --- domains
 
 --- filters
 ||search.naver.com^$3p
 ||wcs.naver.net/wcslog.js
-||siape.veta.naver.com
+||siape.veta.naver.com^$3p
 ||event.impression-neo.naver.com
 ||ssl.pstatic.net/adimg3.search/adpost/js/event_tracker.js
 --- filters
