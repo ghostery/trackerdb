@@ -11,6 +11,9 @@ naver.net
 --- filters
 ||search.naver.com^$3p
 ||wcs.naver.net/wcslog.js
+||siape.veta.naver.com^$3p
+||event.impression-neo.naver.com
+||ssl.pstatic.net/adimg3.search/adpost/js/event_tracker.js
 --- filters
 
 ghostery_id: 2456
