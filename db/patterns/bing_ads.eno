@@ -1,9 +1,10 @@
-name: Bing Ads
+name: Microsoft Advertising
 category: advertising
-website_url: https://bingads.microsoft.com/
+website_url: https://ads.microsoft.com/
 organization: microsoft
 
 --- domains
+ads.microsoft.com
 bat.r.msn.com
 bing.com
 bing.net
