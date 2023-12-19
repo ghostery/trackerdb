@@ -1,7 +1,7 @@
 name: Loggly
 category: site_analytics
 website_url: https://loggly.com/
-organization: loggly
+organization: solarwinds
 
 --- domains
 loggly.com

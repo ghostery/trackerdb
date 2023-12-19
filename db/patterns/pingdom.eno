@@ -1,7 +1,7 @@
 name: Pingdom
 category: site_analytics
 website_url: https://www.pingdom.com/
-organization: pingdom
+organization: solarwinds
 
 --- domains
 pingdom.net
