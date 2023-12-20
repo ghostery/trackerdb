@@ -49,6 +49,49 @@ Ghostery Tracker Database can also be used in a command line, for example with:
 npx @ghostery/trackerdb "https://analytics.tiktok.com"
 ```
 
+Output:
+
+```json
+{
+  "url": "https://analytics.tiktok.com",
+  "matches": [
+    {
+      "pattern": {
+        "key": "tiktok_analytics",
+        "name": "TikTok Analytics",
+        "category": "site_analytics",
+        "organization": "bytedance_inc",
+        "alias": null,
+        "website_url": "https://analytics.tiktok.com",
+        "ghostery_id": "4050",
+        "domains": [
+          "analytics.tiktok.com"
+        ],
+        "filters": [
+          "||analytics.tiktok.com^$3p"
+        ]
+      },
+      "category": {
+        "key": "site_analytics",
+        "name": "Site Analytics",
+        "color": "#87d7ef",
+        "description": "Data analytics, site usage, and performance trackers."
+      },
+      "organization": {
+        "key": "bytedance_inc",
+        "name": "ByteDance Inc",
+        "description": "ByteDance, a Chinese multinational internet technology company headquartered in Beijing and legally domiciled in the Cayman Islands. Its main product is TikTok, known in China as Douyin, a video-focused social networking service.",
+        "website_url": "https://www.bytedance.com/",
+        "country": "KY",
+        "privacy_policy_url": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/upsnuhpevbn/bytedance_official/PrivacyPolicy_ByteDance.com.pdf",
+        "privacy_contact": "privacy@bytedance.com",
+        "ghostery_id": "5432"
+      }
+    }
+  ]
+}
+```
+
 ## How can I get involved?
 
 We encourage contributions from developers of all levels. If you come across any errors, such as typos, inaccuracies, or outdated information, please don't hesitate to open an issue, or, even better, send us a pull request. Your feedback is highly valued!
