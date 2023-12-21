@@ -1,0 +1,14 @@
+name: Cafe24 Analytics
+category: site_analytics
+website_url: https://developers.cafe24.com/docs/en/api/cafe24data
+organization: cafe24
+
+--- domains
+ca-api.cafe24data.com
+--- domains
+
+--- filters
+||ca-api.cafe24data.com$3p
+--- filters
+
+ghostery_id: 2365
