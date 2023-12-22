@@ -1,0 +1,13 @@
+name: NHN Commerce
+category: site_analytics
+website_url: https://www.nhn-commerce.com/
+organization: naver
+
+--- domains
+nhn-commerce.com
+collector-statistics.nhn-commerce.com
+--- domains
+
+--- filters
+||collector-statistics.nhn-commerce.com
+--- filters
