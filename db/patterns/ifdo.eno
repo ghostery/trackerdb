@@ -1,0 +1,15 @@
+name: IFDO
+category: site_analytics
+website_url: https://ifdo.co.kr/
+organization: niblesky
+
+--- domains
+ifdo.co.kr
+script.ifdo.co.kr
+wlog.ifdo.co.kr
+--- domains
+
+--- filters
+||wlog.ifdo.co.kr^
+||script.ifdo.co.kr^$3p
+--- filters
