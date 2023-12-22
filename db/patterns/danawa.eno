@@ -1,0 +1,14 @@
+name: Danawa
+category: advertising
+website_url: https://danawa.com/
+organization: connectwave
+
+--- domains
+ad.danawa.com
+las.danawa.com
+--- domains
+
+--- filters
+||ad.danawa.com^$3p
+||las.danawa.com^
+--- filters
