@@ -98,6 +98,12 @@ We encourage contributions from developers of all levels. If you come across any
 
 If you are new to the project or want an easy starting point, check out our [Good First Issues](https://github.com/ghostery/trackerdb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). These are beginner-friendly tasks to help you get acquainted with our project. If you are unsure about an issue or have questions, feel free to ask in the issue comments.
 
+### Data Partners
+
+Big thanks to the companies collaborating closely with us to enhance the quality of this project. Their ongoing contributions are pivotal in improving and refining the information. We highly value their partnership and dedication to achieving top-notch quality!
+
+<a href="https://verified-data.com/" target="_blank"><img src="assets/logo-verified-data.svg" height="64"></a>
+
 ## Licensing
 
 Ghostery Tracker Database is published under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license which means it is free to use for non-commercial purposes. If you want to use it in your business, please contact [sales@ghostery.com](mailto:sales@ghostery.com).
