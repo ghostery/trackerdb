@@ -9,8 +9,6 @@ onetrust.com
 
 --- filters
 ###onetrust-banner-sdk
-###onetrust-consent-sdk
-##.onetrust-pc-dark-filter
 ###cookie-preferences
 ###consent_blackbar
 ||onetrust.com^$third-party
