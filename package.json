@@ -8,10 +8,11 @@
     "test": "node test/index.js",
     "lint": "eslint --ignore-path .gitignore --ext .js,.ts .",
     "update-docs": "node scripts/update-docs.js",
-    "export": "npm run export-json && npm run export-engine && npm run export-sql",
+    "export": "npm run export-json && npm run export-engine && npm run export-sql && npm run export-txt",
     "export-sql": "node scripts/export-sql/index.js",
     "export-engine": "node scripts/export-engine/index.js",
-    "export-json": "node scripts/export-json/index.js"
+    "export-json": "node scripts/export-json/index.js",
+    "export-txt": "node scripts/export-txt/index.js"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
