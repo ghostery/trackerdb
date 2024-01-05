@@ -1,0 +1,14 @@
+name: Acecounter
+category: site_analytics
+website_url: https://www.home.acecounter.com/
+organization: naver
+
+--- domains
+acecounter.com
+cr.acecounter.com
+www.home.acecounter.com
+--- domains
+
+--- filters
+||cr.acecounter.com^
+--- filters
