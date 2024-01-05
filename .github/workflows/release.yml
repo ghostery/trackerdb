@@ -96,3 +96,13 @@ jobs:
           asset_path: ./dist/trackerdb.engine
           asset_name: trackerdb.engine
           asset_content_type: application/octet-stream
+
+      - name: Upload TXT
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./dist/trackerdb.txt
+          asset_name: trackerdb.txt
+          asset_content_type: text/plain
