@@ -64,9 +64,9 @@ const migration = readFileSync(
   const trackers = getSpecs('patterns').map(([key, spec]) => ({
     id: key,
     name: spec.field('name').requiredStringValue(),
-    category_id: '2',
+    category_id: categoryIds.get(spec.field('category').requiredStringValue()),
     website_url: spec.field('website_url').optionalStringValue(),
-    company_id: 'google',
+    company_id: spec.field('organization').optionalStringValue() || null,
     notes: spec.field('notes').optionalStringValue(),
 
     ghostery_id: spec.field('ghostery_id').optionalStringValue() || '',
