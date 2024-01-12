@@ -14,6 +14,8 @@ naver.net
 ||siape.veta.naver.com^$3p
 ||event.impression-neo.naver.com
 ||ssl.pstatic.net/adimg3.search/adpost/js/event_tracker.js
+||apis.naver.com/mcollector/mcollector/qoe
+||scv-game.io.naver.com/jackpotlog/v1/logs
 --- filters
 
 ghostery_id: 2456
