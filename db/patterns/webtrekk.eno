@@ -17,12 +17,17 @@ wt-safetag.com
 --- domains
 
 --- filters
-/webtrekk*.js^
+/webtrekk_gdpr.js
+/webtrekk_gdpr.min.js
+/webtrekk_mediaTracking.min.js
 ||cdn.wbtrk.net/js/geid.min.js
 ||responder.wt-safetag.com^$3p
 ||webtrekk-asia.net^$3p
 ||webtrekk.de/^$3p
 ||webtrekk.net^$3p
+||static.wertpapiere.ing.de/js/gcoconfig/production/webtrekk-production_dr.js
+||static.wertpapiere.ing.de/lib/smarthouse/frameworks/webtrekk.min.js
+||static.wertpapiere.ing.de/lib/smarthouse/frameworks/webtrekk-safetag.js
 --- filters
 
 ghostery_id: 269
