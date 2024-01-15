@@ -17,7 +17,9 @@ wt-safetag.com
 --- domains
 
 --- filters
-/webtrekk*.js^
+/webtrekk_gdpr.js
+/webtrekk_gdpr.min.js
+/webtrekk_mediaTracking.min.js
 ||cdn.wbtrk.net/js/geid.min.js
 ||responder.wt-safetag.com^$3p
 ||webtrekk-asia.net^$3p
