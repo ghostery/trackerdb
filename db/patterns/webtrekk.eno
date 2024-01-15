@@ -25,6 +25,9 @@ wt-safetag.com
 ||webtrekk-asia.net^$3p
 ||webtrekk.de/^$3p
 ||webtrekk.net^$3p
+||static.wertpapiere.ing.de/js/gcoconfig/production/webtrekk-production_dr.js
+||static.wertpapiere.ing.de/lib/smarthouse/frameworks/webtrekk.min.js
+||static.wertpapiere.ing.de/lib/smarthouse/frameworks/webtrekk-safetag.js
 --- filters
 
 ghostery_id: 269
