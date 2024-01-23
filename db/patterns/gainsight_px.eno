@@ -1,0 +1,15 @@
+name: Gainsight PX
+category: site_analytics
+website_url: https://www.gainsight.com/product-experience/
+organization: gainsight
+
+--- domains
+gainsight.com
+aptrinsic.com
+web-sdk.aptrinsic.com
+---
+
+--- filters
+||aptrinsic.com^3p
+||web-sdk.aptrinsic.com^3p
+--- filters
