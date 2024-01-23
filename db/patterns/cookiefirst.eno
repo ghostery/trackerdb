@@ -1,0 +1,13 @@
+name: CookieFirst
+category: consent
+website_url: https://cookiefirst.com/
+organization: digitaldatasolutions
+
+--- domains
+cookiefirst.com
+consent.cookiefirst.com
+--- domains
+
+--- filters
+||consent.cookiefirst.com^
+--- filters
