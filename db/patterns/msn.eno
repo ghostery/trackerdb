@@ -6,6 +6,11 @@ organization: microsoft
 --- domains
 msn.com
 s-msn.com
+js.monitor.azure.com
 --- domains
+
+--- filters
+||js.monitor.azure.com^
+--- filters
 
 ghostery_id: 3697
