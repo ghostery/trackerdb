@@ -1,0 +1,13 @@
+name: Cookie Information
+category: consent
+website_url: https://cookieinformation.com/website-consent/
+organization: cookieinformation
+
+--- domains
+cookieinformation.com
+policy.app.cookieinformation.com
+--- domains
+
+--- filters
+||policy.app.cookieinformation.com^$3p
+--- filters
