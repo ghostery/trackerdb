@@ -1,0 +1,17 @@
+name: Fathom Analytics
+category: site_analytics
+website_url: https://usefathom.com/
+organization: conva
+
+--- domains
+usefathom.com
+quick-esteemed.usefathom.com
+--- domains
+
+--- filters
+||usefathom.com^$3p
+||usefathom.com/assets/scripts/compiled.js
+||quick-esteemed.usefathom.com^
+--- filters
+
+ghostery_id: 1637
