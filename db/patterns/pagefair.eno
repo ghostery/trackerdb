@@ -5,12 +5,14 @@ organization: blockthrough
 
 --- domains
 blockmetrics.com
+btloader.com
 pagefair.com
 pagefair.net
 --- domains
 
 --- filters
 ||blockmetrics.com^$3p
+||btloader.com^
 ||pagefair.com^$3p
 ||pagefair.net^$3p
 ||s3.amazonaws.com/asset.pagefair.com
