@@ -10,8 +10,6 @@ wistia.net
 
 --- filters
 ||distillery.wistia.com^$3p
-||fast.wistia.com/assets/external/popover-v1.js
-||fast.wistia.net^$3p
 ||pipedream.wistia.com^$3p
 --- filters
 
