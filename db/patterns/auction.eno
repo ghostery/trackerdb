@@ -1,0 +1,19 @@
+name: Auction
+category: advertising
+website_url: https://auction.co.kr/
+organization: gmarket
+
+--- domains
+auction.co.kr
+ats.auction.co.kr
+utsgw.auction.co.kr
+montelena.auction.co.kr
+pds.auction.co.kr
+--- domains
+
+--- filters
+||ats.auction.co.kr^
+||utsgw.auction.co.kr^
+||montelena.auction.co.kr^
+||pds.auction.co.kr^
+--- filters
