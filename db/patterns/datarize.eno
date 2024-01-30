@@ -1,0 +1,18 @@
+name: Datarize
+category: site_analytics
+website_url: https://datarize.ai/en
+organization: datarize
+
+--- domains
+assets.datarize.ai
+dtr-onsite-feed.datarize.ai
+log.pipeline.datarize.io
+realtime-profiling.datarize.ai
+--- domains
+
+--- filters
+||assets.datarize.ai^
+||dtr-onsite-feed.datarize.ai^
+||log.pipeline.datarize.io^
+||realtime-profiling.datarize.ai^
+--- filters
