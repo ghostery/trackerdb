@@ -1,0 +1,13 @@
+name: Adfit
+category: advertising
+website_url: https://adfit.kakao.com/info
+organization: kakao
+
+--- domains
+adfit.kakao.com
+--- domains
+
+--- filters
+||t1.daumcdn.net/adfit/static/ad.min.js^$domain=~gallery.v.daum.net
+||t1.daumcdn.net/adfit/static/kp.js^$3p
+--- filters
