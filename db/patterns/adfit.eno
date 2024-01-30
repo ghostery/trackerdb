@@ -8,5 +8,6 @@ adfit.kakao.com
 --- domains
 
 --- filters
+||t1.daumcdn.net/adfit/static/ad.min.js^$domain=~gallery.v.daum.net
 ||t1.daumcdn.net/adfit/static/kp.js^$3p
 --- filters
