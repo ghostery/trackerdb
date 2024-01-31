@@ -1,0 +1,16 @@
+name: Shinsegae Duty Free
+category: site_analytics
+website_url: https://www.ssgdfs.com/kr/main/initMain
+organization: shinsegae
+
+--- domains
+ssgdfs.com
+applog.ssgdfs.com
+--- domains
+
+--- filters
+||applog.ssgdfs.com^
+||ssgdfs.com/kr/common/getPageIcfCd^
+--- filters
+
+ghostery_id: 3285
