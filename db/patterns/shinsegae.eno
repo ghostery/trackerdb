@@ -1,0 +1,12 @@
+name: Shinsegae
+category: site_analytics
+website_url: https://www.shinsegae.com/
+organization: shinsegae
+
+--- domains
+www.shinsegae.com
+--- domains
+
+--- filters
+||shinsegae.com/topNPopup.do
+--- filters

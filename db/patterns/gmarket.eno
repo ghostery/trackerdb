@@ -1,0 +1,19 @@
+name: Gmarket
+category: advertising
+website_url: https://www.gmarket.co.kr
+organization: shinsegae
+
+--- domains
+gmarket.co.kr
+mobile.gmarket.co.kr
+global.gmarket.co.kr
+dadispapi.gmarket.co.kr
+montelena-rcv.gmarket.co.kr
+uts.gmarket.co.kr
+--- domains
+
+--- filters
+||dadispapi.gmarket.co.kr^
+||montelena-rcv.gmarket.co.kr^
+||uts.gmarket.co.kr^
+--- filters

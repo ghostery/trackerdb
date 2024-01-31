@@ -1,0 +1,12 @@
+name: Emart Traders
+category: site_analytics
+website_url:
+organization: shinsegae
+
+--- domains
+www.traders.co.kr
+--- domains
+
+--- filters
+||traders.co.kr/common/js/makePCookie.js
+--- filters
