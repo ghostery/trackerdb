@@ -5,10 +5,12 @@ organization: klaviyo
 
 --- domains
 a.klaviyo.com
+static.klaviyo.com
+static-tracking.klaviyo.com
 --- domains
 
 --- filters
 ||a.klaviyo.com/media/js/analytics/analytics.js
+||static.klaviyo.com/onsite/js/klaviyo.js
+||static-tracking.klaviyo.com^
 --- filters
-
-ghostery_id: 2768
