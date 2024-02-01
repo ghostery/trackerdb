@@ -1,0 +1,12 @@
+name: AfterShip Email (formerly Automizely)
+category: site_analytics
+website_url: https://www.aftership.com/email
+organization: aftership
+
+--- domains
+www.automizely-analytics.com
+--- domains
+
+--- filters
+||www.automizely-analytics.com^
+--- filters
