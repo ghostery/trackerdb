@@ -9,7 +9,7 @@ sharpspring.com
 --- domains
 
 --- filters
-||marketingautomation.services^$3p
+||marketingautomation.services^$3p,xhr
 ||sharpspring.com/client/ss.js
 ||sharpspring.com/koi
 --- filters
