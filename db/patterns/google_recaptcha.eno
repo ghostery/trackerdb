@@ -1,8 +1,14 @@
 name: Google Recaptcha
 category: essential
-website_url: 
+website_url: https://www.google.com/recaptcha/about/
 organization: google
 
 --- domains
 recaptcha.net
 --- domains
+
+--- filters
+||recaptcha.net/recaptcha/
+||google.com/recaptcha/$frame,script
+||gstatic.*/recaptcha/
+--- filters
