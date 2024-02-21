@@ -36,6 +36,10 @@ test(RESOURCE_PATH, async (t) => {
     await t.test(`pattern: ${specName}`, async (t) => {
       let spec;
 
+      await t.test('has a valid filename', () => {
+        assert(!specName.includes(':'));
+      });
+
       await t.test('has spec file', () => {
         spec = enolib.parse(
           readFileSync(path.join(RESOURCE_PATH, specFile), 'utf-8'),
