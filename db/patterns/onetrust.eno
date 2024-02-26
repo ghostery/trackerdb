@@ -8,20 +8,7 @@ onetrust.com
 --- domains
 
 --- filters
-###onetrust-banner-sdk
-###onetrust-consent-sdk
-##.onetrust-pc-dark-filter
-###cookie-preferences
-###consent_blackbar
 ||onetrust.com^$third-party
-/onetrustConsent.js
-/onetrust/consent/*
-/js/onetrust/*
-###ot-sdk-btn:not(button)
-##.ot-sdk-show-settings
-###teconsent
-/onetrust.
-/otbannersdk.js
 --- filters
 
 ghostery_id: 3740
