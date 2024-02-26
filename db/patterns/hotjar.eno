@@ -5,10 +5,12 @@ organization: hotjar
 
 --- domains
 hotjar.com
+hotjar.io
 --- domains
 
 --- filters
-||hotjar.com^$3p
+||hotjar.com^$third-party
+||hotjar.io^$third-party
 --- filters
 
 ghostery_id: 2199
