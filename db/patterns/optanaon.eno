@@ -1,4 +1,4 @@
-name: Optanaon by OneTrust
+name: CookieLaw by OneTrust (formerly Optanaon)
 category: consent
 website_url: https://www.cookielaw.org/
 organization: onetrust
@@ -8,7 +8,20 @@ cookielaw.org
 --- domains
 
 --- filters
+/js/onetrust/*
+/onetrust.
+/onetrust/consent/*
+/onetrustConsent.js
+/otBannerSdk.js
+##.onetrust-pc-dark-filter
 ##.optanon-toggle-display
+##.ot-sdk-show-settings
+###consent_blackbar
+###cookie-preferences
+###onetrust-banner-sdk
+###onetrust-consent-sdk
+###ot-sdk-btn:not(button)
+###teconsent
 --- filters
 
 ghostery_id: 3742
