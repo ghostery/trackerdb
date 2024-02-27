@@ -1,0 +1,15 @@
+name: HubSpot Cookies
+category: consent
+website_url: http://www.hubspot.com
+organization: hubspot
+
+--- domains
+hs-banner.com
+js.hs-banner.com
+wtcfns.hubspot.com
+--- domains
+
+--- filters
+||js.hs-banner.com/v*/activity$3p
+||wtcfns.hubspot.com^$3p
+--- filters

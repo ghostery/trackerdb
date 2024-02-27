@@ -6,9 +6,11 @@ organization: hubspot
 --- domains
 hs-analytics.net
 hs-scripts.com
+hs-sites.com
 hsleadflows.net
 hubapi.com
 hubspot.com
+app.hubspot.com
 --- domains
 
 --- filters
@@ -18,6 +20,7 @@ hubspot.com
 ||js.hs-scripts.com^$3p
 ||leadin.hubspot.com^$3p
 ||track.hubspot.com^$3p
+||app.hubspot.com/content-tools-menu/api/v1/tools-menu/has-permission-json
 --- filters
 
 ghostery_id: 26
