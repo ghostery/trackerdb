@@ -6,11 +6,13 @@ organization: google
 --- domains
 googletagmanager.com
 googletagservices.com
+tctm.xyz
 --- domains
 
 --- filters
 ||googletagmanager.com^$3p
 ||googletagservices.com^$3p
+||tctm.xyz^
 --- filters
 
 ghostery_id: 1283
