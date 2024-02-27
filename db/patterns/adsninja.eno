@@ -1,0 +1,12 @@
+name: Adsninja
+category: advertising
+website_url: https://www.adsninja.com/
+organization: adsninja
+
+--- domains
+1x1.a-mo.net
+--- domains
+
+--- filters
+||1x1.a-mo.net^
+--- filters
