@@ -1,0 +1,13 @@
+name: Google Signals
+category: advertising
+website_url: https://support.google.com/analytics/answer/9445345?hl=en#zippy=%2Cin-this-article
+organization: google
+
+--- domains
+analytics.google.com
+--- domains
+
+--- filters
+||analytics.google.com^$third-party
+||region1.analytics.google.com^$third-party
+--- filters
