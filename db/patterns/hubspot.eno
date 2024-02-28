@@ -21,6 +21,7 @@ hubspot.com
 ||leadin.hubspot.com^$3p
 ||track.hubspot.com^$3p
 ||app.hubspot.com/content-tools-menu/api/v1/tools-menu/has-permission-json
+||cta-service-cms2.hubspot.com^
 --- filters
 
 ghostery_id: 26
