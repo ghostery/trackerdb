@@ -5,10 +5,12 @@ organization: audiencerate
 
 --- domains
 12mlbe.com
+audrte.com
 --- domains
 
 --- filters
-||12mlbe.com^$3p
+||12mlbe.com^
+||audrte.com^
 --- filters
 
 ghostery_id: 1203
