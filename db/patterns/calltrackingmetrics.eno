@@ -1,0 +1,14 @@
+name: CallTrackingMetrics
+category: advertising
+website_url: https://www.calltrackingmetrics.com/
+organization: calltrackingmetrics
+
+--- domains
+tctm.xyz
+tctm.co
+--- domains
+
+--- filters
+||tctm.xyz^
+||tctm.co
+--- filters
