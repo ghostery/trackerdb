@@ -1,0 +1,14 @@
+name: Technology Product Marketing Network
+category: advertising
+website_url: https://www.tpmn.io/
+organization: technologyproductmarketingnetwork
+
+--- domains
+ad.tpmn.co.kr
+ad.tpmn.io
+--- domains
+
+--- filters
+||ad.tpmn.co.kr^
+||ad.tpmn.io^
+--- filters
