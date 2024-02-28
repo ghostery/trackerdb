@@ -1,0 +1,14 @@
+name: accessiBe
+category: customer_interaction
+website_url: https://accessibe.com/
+organization: accessibe
+
+--- domains
+acsbap.com
+acsbapp.com
+--- domains
+
+--- filters
+||acsbap.com^
+||acsbapp.com^
+--- filters
