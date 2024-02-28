@@ -1,0 +1,13 @@
+name: Audience Square
+category: advertising
+website_url: http://www.audiencesquare.fr/
+organization: audigent
+
+--- domains
+audigent.com
+ad.gt
+--- domains
+
+--- filters
+||ad.gt^
+--- filters
