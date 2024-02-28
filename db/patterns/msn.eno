@@ -7,10 +7,12 @@ organization: microsoft
 msn.com
 s-msn.com
 js.monitor.azure.com
+adlibrisprod.azure-api.net
 --- domains
 
 --- filters
 ||js.monitor.azure.com^
+||adlibrisprod.azure-api.net^
 --- filters
 
 ghostery_id: 3697
