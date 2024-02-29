@@ -1,0 +1,12 @@
+name: Leadoo
+category: site_analytics
+website_url: https://leadoo.com/
+organization: leadoo
+
+--- domains
+anl.leadoo.com
+--- domains
+
+--- filters
+||anl.leadoo.com^
+--- filters
