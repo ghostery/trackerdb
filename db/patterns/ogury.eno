@@ -1,0 +1,14 @@
+name: Ogury
+category: advertising
+website_url: https://ogury.com/
+organization: ogury
+
+--- domains
+ogury.com
+presage.io
+--- domains
+
+--- filters
+||ogury.com^
+||presage.io^
+--- filters
