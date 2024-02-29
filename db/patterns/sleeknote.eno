@@ -1,14 +1,16 @@
 name: Sleeknote
 category: customer_interaction
-website_url: 
+website_url: https://sleeknote.com/
 organization: sleeknote
 
 --- domains
 sleeknotestaticcontent.sleeknote.com
+analytics.sleeknote.com
 --- domains
 
 --- filters
 ||sleeknotestaticcontent.sleeknote.com/core.js
+||analytics.sleeknote.com^
 --- filters
 
 ghostery_id: 2653
