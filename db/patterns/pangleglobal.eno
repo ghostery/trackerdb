@@ -1,0 +1,12 @@
+name: Pangle
+category: advertising
+website_url: https://www.pangleglobal.com/
+organization: bytedance
+
+--- domains
+analytics.pangle-ads.com
+--- domains
+
+--- filters
+||analytics.pangle-ads.com^
+--- filters
