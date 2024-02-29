@@ -1,0 +1,12 @@
+name: AppCenter
+category: site_analytics
+website_url: https://api.appcenter.it/
+organization: monforte
+
+--- domains
+api.appcenter.it
+--- domains
+
+--- filters
+||api.appcenter.it^$xhr
+--- filters
