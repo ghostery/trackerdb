@@ -1,0 +1,12 @@
+name: audioeye
+category: site_analytics
+website_url: http://www.audioeye.com/
+organization: audioeye
+
+--- domains
+analytics.audioeye.com
+--- domains
+
+--- filters
+||analytics.audioeye.com^
+--- filters
