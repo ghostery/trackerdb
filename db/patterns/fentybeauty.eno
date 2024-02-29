@@ -1,0 +1,12 @@
+name: FENTY BEAUTY
+category: site_analytics
+website_url: https://fentybeauty.com/
+organization: kendobrands
+
+--- domains
+api-v3-docker-nrl2mwczfq-uc.a.run.app
+--- domains
+
+--- filters
+||run.app/tracking$domain=fentybeauty.com
+--- filters
