@@ -1,0 +1,12 @@
+name: Ondics
+category: site_analytics
+website_url: https://ondics.de/
+organization: ondics
+
+--- domains
+analyse.ondics.de
+--- domains
+
+--- filters
+||analyse.ondics.de^
+--- filters
