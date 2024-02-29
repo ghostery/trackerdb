@@ -16,6 +16,7 @@ ensighten.com
 ||nexus.ensighten.com/*/production/serverComponent.php^$3p
 ||nexus.ensighten.com/*/t-bat-prod/code/*.js^$3p
 ||nexus.ensighten.com/staples2/Bootstrap.js^$3p
+||data.privacy.ensighten.com^$3p
 --- filters
 
 ghostery_id: 459
