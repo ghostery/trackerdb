@@ -1,15 +1,17 @@
 name: Giosg
 category: site_analytics
-website_url: 
+website_url: https://www.giosg.com/
 organization: giosg
 
 --- domains
+api.giosg.com
 service.giosg.com
 --- domains
 
 --- filters
 ||service.giosg.com/static/giosgclient
 ||service.giosg.com/static/giosgclient.app.build
+||api.giosg.com^$3p
 --- filters
 
 ghostery_id: 2848
