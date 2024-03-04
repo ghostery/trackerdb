@@ -1,0 +1,12 @@
+name: Piano Analytics
+category: site_analytics
+website_url: https://piano.io/
+organization: piano
+
+--- domains
+piano.io
+--- domains
+
+--- filters
+||piano.io/tracker/
+--- filters
