@@ -1,0 +1,12 @@
+name: Exponea by BloomReach
+category: customer_interaction
+website_url: https://exponea.com/blog/bloomreach-acquisition-ceo-perspective/?utm_referrer=https%3A%2F%2Fexponea.com%2F
+organization: bloomreach
+
+--- domains
+exponea.com
+--- domains
+
+--- filters
+||exponea.com^$3p
+--- filters
