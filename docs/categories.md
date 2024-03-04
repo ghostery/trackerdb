@@ -59,8 +59,3 @@ Features related to social media platforms.
 ## Telemetry
 
 Gathers information about user interaction, error reports, and performance. The data is used to improve products.
-
-## Unidentified
-
-These trackers have not been categorized yet.
-
