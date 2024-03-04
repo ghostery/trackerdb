@@ -1,11 +1,14 @@
-name: aggle.net
-category: unidentified
-website_url:
+name: GrowthCode Analysis
+category: site_analytics
+website_url: https://gcprivacy.com/
+organization: growthcode
 
 --- domains
 aggle.net
+gcprivacy.com
 --- domains
 
 --- filters
 ||aggle.net^
+||gcprivacy.com^$3p
 --- filters
