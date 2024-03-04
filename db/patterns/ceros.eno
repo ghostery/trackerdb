@@ -1,0 +1,12 @@
+name: Ceros
+category: site_analytics
+website_url: https://www.ceros.com/
+organization: ceros
+
+--- domains
+api.ceros.com
+--- domains
+
+--- filters
+||api.ceros.com^$3p
+--- filters
