@@ -5,8 +5,10 @@ organization: glia
 
 --- domains
 api.glia.com
+api.salemove.com
 --- domains
 
 --- filters
 ||api.glia.com^$3p
+||api.salemove.com^$3p
 --- filters
