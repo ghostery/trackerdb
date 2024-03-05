@@ -1,0 +1,12 @@
+name: Bili CDN
+category: cdn
+website_url:
+organization: bilibili
+
+--- domains
+hdslb.com
+bilicdn2.com
+--- domains
+
+--- filters
+--- filters
