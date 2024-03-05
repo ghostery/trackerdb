@@ -1,0 +1,17 @@
+name: Fiverr Analytics
+category: site_analytics
+website_url:
+organization: fiverr
+
+--- domains
+fiverr.com
+--- domains
+
+-- filters
+||activity.fiverr.com^
+||collector.fiverr.com^
+||fiverr.com/api/v1/activities
+||fiverr.com/px/client/PXK3bezZfO/main.min.js
+||hjgkdv.fiverr.com^
+||relay.fiverr.com^
+-- filters
