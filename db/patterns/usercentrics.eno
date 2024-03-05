@@ -1,0 +1,15 @@
+name: Cookiebot by Usercentrics
+category: consent
+website_url: https://www.cookiebot.com/en/about/
+organization: usercentrics
+
+--- domains
+usercentrics.eu
+--- domains
+
+--- filters
+/usercentrics/cmp.js
+###comspace-usercentrics
+||usercentrics.eu/session/$image
+||usercentrics.eu^$third-party
+--- filters
