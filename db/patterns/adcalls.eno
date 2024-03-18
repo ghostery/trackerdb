@@ -1,0 +1,13 @@
+name: AdCalls
+category: site_analytics
+website_url: https://adcalls.com/dynamic-call-tracking/
+organization: adcalls
+
+--- domains
+adcalls.nl
+--- domains
+
+--- filters
+||adcalls.nl^$third-party
+--- filters
+
