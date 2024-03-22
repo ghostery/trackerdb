@@ -1,0 +1,12 @@
+name: CsApps
+category: customer_interaction
+website_url: https://cirkleinc.com/
+organization: cirklestudio
+
+--- domains
+cirkleinc.com
+--- domains
+
+--- filters
+||cirkleinc.com^$3p
+--- filters

@@ -1,0 +1,12 @@
+name: Imbox
+category: customer_interaction
+website_url: https://imbox.se/en/
+organization: imbox
+
+--- domains
+imbox.io
+--- domains
+
+--- filters
+||apiv2.imbox.io/message/widgetAnalytics
+--- filters

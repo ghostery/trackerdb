@@ -1,0 +1,13 @@
+name: Kvd Vegan Beauty
+category: site_analytics
+website_url: https://kvdveganbeauty.com/
+organization: kendobrands
+
+--- domains
+kvdveganbeauty.com
+olehenriksen.com
+--- domains
+
+--- filters
+/*?view=tracking$xhr,domain=kvdveganbeauty.com|olehenriksen.com
+--- filters

@@ -6,11 +6,13 @@ organization: microsoft
 --- domains
 adnxs.com
 adnxs.net
+adnxs-simple.com
 --- domains
 
 --- filters
 ||adnxs.com^$3p
 ||adnxs.net^$3p
+||adnxs-simple.com^$3p
 --- filters
 
 ghostery_id: 170

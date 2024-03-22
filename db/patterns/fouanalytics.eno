@@ -1,0 +1,12 @@
+name: FouAnalytics
+category: site_analytics
+website_url: https://fouanalytics.com/
+organization: fouanalytics
+
+--- domains
+api.fouanalytics.com
+--- domains
+
+--- filters
+||api.fouanalytics.com^$script
+--- filters

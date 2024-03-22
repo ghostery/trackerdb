@@ -1,0 +1,12 @@
+name: Social Snowball Affiliates
+category: site_analytics
+website_url: https://api.socialsnowball.io/
+organization: socialsnowball
+
+--- domains
+api.socialsnowball.io
+--- domains
+
+--- filters
+||api.socialsnowball.io^$3p,script,xhr
+--- filters

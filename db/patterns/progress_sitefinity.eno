@@ -1,0 +1,12 @@
+name: Sitefinity by Progress
+category: site_analytics
+website_url: https://www.progress.com/sitefinity-cms
+organization: progress
+
+--- domains
+api.insight.sitefinity.com
+--- domains
+
+--- filters
+||api.insight.sitefinity.com^$3p
+--- filters

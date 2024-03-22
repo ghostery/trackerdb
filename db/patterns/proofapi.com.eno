@@ -1,0 +1,12 @@
+name: Proof
+category: customer_interaction
+website_url: https://useproof.com/
+organization: proof
+
+--- domains
+proofapi.com
+--- domains
+
+--- filters
+||proofapi.com^
+--- filters

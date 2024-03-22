@@ -1,0 +1,12 @@
+name: HubSpot LiveChat
+category: customer_interaction
+website_url: https://www.hubspot.com/
+organization: hubspot
+
+--- domains
+hsappstatic.net
+--- domains
+
+--- filters
+||hubspot.com/_hcms/livechat/widget
+--- filters

@@ -1,0 +1,14 @@
+name: Glia
+category: customer_interaction
+website_url: https://www.glia.com/
+organization: glia
+
+--- domains
+api.glia.com
+api.salemove.com
+--- domains
+
+--- filters
+||api.glia.com^$3p
+||api.salemove.com^$3p
+--- filters

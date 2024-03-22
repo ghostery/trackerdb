@@ -29,6 +29,7 @@ ad4mat.ro
 ad4mat.ru
 ad4mat.se
 ad4mat.tr
+ad4m.at
 --- domains
 
 --- filters
@@ -57,6 +58,7 @@ ad4mat.tr
 ||ad4mat.ru^$3p
 ||ad4mat.se^$3p
 ||ad4mat.tr^$3p
+||ad4m.at^$3p
 --- filters
 
 ghostery_id: 1288

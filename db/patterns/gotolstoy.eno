@@ -1,0 +1,12 @@
+name: Tolstoy
+category: site_analytics
+website_url: https://www.gotolstoy.com/
+organization: gotolstoy
+
+--- domains
+api.gotolstoy.com
+--- domains
+
+--- filters
+||api.gotolstoy.com^$3p
+--- filters

@@ -1,0 +1,14 @@
+name: TPMN
+category: advertising
+website_url: https://www.tpmn.io/
+organization: tpmn
+
+--- domains
+ad.tpmn.co.kr
+ad.tpmn.io
+--- domains
+
+--- filters
+||ad.tpmn.co.kr^
+||ad.tpmn.io^
+--- filters

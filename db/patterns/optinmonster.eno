@@ -8,11 +8,13 @@ mstrlytcs.com
 optmnstr.com
 optmstr.com
 optnmstr.com
+omappapi.com
 --- domains
 
 --- filters
 ||a.optmstr.com/app/js/api.min.js
 ||a.optmstr.com/app/js/legacy-api.min.js
+||omappapi.com^$3p,script,xhr
 --- filters
 
 ghostery_id: 3139

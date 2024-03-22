@@ -1,0 +1,12 @@
+name: ClickUp
+category: site_analytics
+website_url: https://clickup.com/
+organization: clickup
+
+--- domains
+clickup.com
+--- domains
+
+--- filters
+||data.web.clickup.com/analytics.js/*$script
+--- filters

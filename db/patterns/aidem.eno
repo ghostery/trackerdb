@@ -1,0 +1,14 @@
+name: Aidem
+category: advertising
+website_url: https://aidem.com/
+organization: aidem
+
+--- domains
+api.b2c.com
+aidemsrv.com
+--- domains
+
+--- filters
+||api.b2c.com^
+||aidemsrv.com^
+--- filters

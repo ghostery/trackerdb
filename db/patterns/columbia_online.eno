@@ -4,10 +4,12 @@ website_url:
 organization: columbia_online
 
 --- domains
+ade.clmbtech.com
 static.clmbtech.com
 --- domains
 
 --- filters
+||ade.clmbtech.com^
 ||static.clmbtech.com/ad/commons/js/colombia_v2.js
 --- filters
 
