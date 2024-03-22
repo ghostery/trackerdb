@@ -7,3 +7,7 @@ combotag.com
 --- domains
 
 ghostery_id: 3466
+
+---filters
+||combotag.com^$3p
+---filters

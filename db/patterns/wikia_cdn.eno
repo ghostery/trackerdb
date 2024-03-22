@@ -8,3 +8,7 @@ nocookie.net
 --- domains
 
 ghostery_id: 3971
+
+---filters
+||nocookie.net^$3p
+---filters

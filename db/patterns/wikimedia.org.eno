@@ -10,3 +10,9 @@ wikiquote.org
 --- domains
 
 ghostery_id: 3973
+
+---filters
+||wikimedia.org^$3p
+||wikipedia.org^$3p
+||wikiquote.org^$3p
+---filters

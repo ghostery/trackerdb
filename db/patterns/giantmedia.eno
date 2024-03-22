@@ -8,3 +8,7 @@ videostat.com
 --- domains
 
 ghostery_id: 3567
+
+---filters
+||videostat.com^$3p
+---filters

@@ -7,3 +7,7 @@ adtag.cc
 --- domains
 
 ghostery_id: 3503
+
+---filters
+||adtag.cc^$3p
+---filters

@@ -7,3 +7,7 @@ haendlerbund.de
 --- domains
 
 ghostery_id: 3591
+
+---filters
+||haendlerbund.de^$3p
+---filters

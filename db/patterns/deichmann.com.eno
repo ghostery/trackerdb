@@ -7,3 +7,7 @@ deichmann.com
 --- domains
 
 ghostery_id: 3498
+
+---filters
+||deichmann.com^$3p
+---filters

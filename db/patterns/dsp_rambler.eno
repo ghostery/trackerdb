@@ -8,3 +8,7 @@ dsp-rambler.ru
 --- domains
 
 ghostery_id: 3518
+
+---filters
+||dsp-rambler.ru^$3p
+---filters

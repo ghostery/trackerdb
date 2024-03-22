@@ -7,3 +7,7 @@ zog.link
 --- domains
 
 ghostery_id: 4008
+
+---filters
+||zog.link^$3p
+---filters

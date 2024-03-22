@@ -7,3 +7,7 @@ stripst.com
 --- domains
 
 ghostery_id: 3885
+
+---filters
+||stripst.com^$3p
+---filters

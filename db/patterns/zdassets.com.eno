@@ -8,3 +8,7 @@ zdassets.com
 --- domains
 
 ghostery_id: 4003
+
+---filters
+||zdassets.com^$3p
+---filters

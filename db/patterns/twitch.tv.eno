@@ -9,3 +9,8 @@ twitch.tv
 --- domains
 
 ghostery_id: 3925
+
+---filters
+||ext-twitch.tv^$3p
+||twitch.tv^$3p
+---filters

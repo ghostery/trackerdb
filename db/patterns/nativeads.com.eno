@@ -7,3 +7,7 @@ nativeads.com
 --- domains
 
 ghostery_id: 3703
+
+---filters
+||nativeads.com^$3p
+---filters

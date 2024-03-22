@@ -7,3 +7,7 @@ ispot.tv
 --- domains
 
 ghostery_id: 3630
+
+---filters
+||ispot.tv^$3p
+---filters

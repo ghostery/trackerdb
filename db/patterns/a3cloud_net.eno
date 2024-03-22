@@ -7,3 +7,7 @@ a3cloud.net
 --- domains
 
 ghostery_id: 4018
+
+---filters
+||a3cloud.net^$3p
+---filters

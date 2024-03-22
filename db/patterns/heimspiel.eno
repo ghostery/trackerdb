@@ -7,3 +7,7 @@ weltsport.net
 --- domains
 
 ghostery_id: 3593
+
+---filters
+||weltsport.net^$3p
+---filters

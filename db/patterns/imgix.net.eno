@@ -7,3 +7,7 @@ imgix.net
 --- domains
 
 ghostery_id: 3616
+
+---filters
+||imgix.net^$3p
+---filters

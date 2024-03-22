@@ -7,3 +7,7 @@ pubnub.com
 --- domains
 
 ghostery_id: 3780
+
+---filters
+||pubnub.com^$3p
+---filters

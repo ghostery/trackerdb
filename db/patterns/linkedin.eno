@@ -11,3 +11,10 @@ lynda.com
 --- domains
 
 ghostery_id: 3658
+
+---filters
+||bizo.com^$3p
+||licdn.com^$3p
+||linkedin.com^$3p
+||lynda.com^$3p
+---filters

@@ -7,3 +7,7 @@ stayfriends.de
 --- domains
 
 ghostery_id: 3879
+
+---filters
+||stayfriends.de^$3p
+---filters

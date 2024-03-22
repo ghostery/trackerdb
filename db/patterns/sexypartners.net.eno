@@ -7,3 +7,7 @@ sexypartners.net
 --- domains
 
 ghostery_id: 3839
+
+---filters
+||sexypartners.net^$3p
+---filters

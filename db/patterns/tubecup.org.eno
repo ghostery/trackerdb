@@ -7,3 +7,7 @@ tubecup.org
 --- domains
 
 ghostery_id: 3920
+
+---filters
+||tubecup.org^$3p
+---filters

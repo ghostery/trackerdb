@@ -7,3 +7,7 @@ dimml.io
 --- domains
 
 ghostery_id: 3506
+
+---filters
+||dimml.io^$3p
+---filters

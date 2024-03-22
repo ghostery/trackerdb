@@ -7,3 +7,7 @@ semknox.com
 --- domains
 
 ghostery_id: 3835
+
+---filters
+||semknox.com^$3p
+---filters

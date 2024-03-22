@@ -7,3 +7,7 @@ adtriba.com
 --- domains
 
 ghostery_id: 3332
+
+---filters
+||adtriba.com^$3p
+---filters

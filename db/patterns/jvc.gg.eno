@@ -7,3 +7,7 @@ jvc.gg
 --- domains
 
 ghostery_id: 3640
+
+---filters
+||jvc.gg^$3p
+---filters

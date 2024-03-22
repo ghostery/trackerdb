@@ -11,3 +11,10 @@ switchafrica.com
 --- domains
 
 ghostery_id: 1343
+
+---filters
+||myswitchads.com^$3p
+||switchadhub.com^$3p
+||switchads.com^$3p
+||switchafrica.com^$3p
+---filters

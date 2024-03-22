@@ -8,3 +8,7 @@ pscp.tv
 --- domains
 
 ghostery_id: 3777
+
+---filters
+||pscp.tv^$3p
+---filters

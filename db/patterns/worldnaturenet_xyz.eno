@@ -7,3 +7,7 @@ worldnaturenet.xyz
 --- domains
 
 ghostery_id: 3981
+
+---filters
+||worldnaturenet.xyz^$3p
+---filters

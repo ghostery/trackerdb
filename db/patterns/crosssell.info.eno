@@ -8,3 +8,7 @@ crosssell.info
 --- domains
 
 ghostery_id: 3480
+
+---filters
+||crosssell.info^$3p
+---filters

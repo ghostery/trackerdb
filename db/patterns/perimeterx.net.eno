@@ -7,3 +7,7 @@ perimeterx.net
 --- domains
 
 ghostery_id: 3763
+
+---filters
+||perimeterx.net^$3p
+---filters

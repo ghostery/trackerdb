@@ -28,3 +28,8 @@ pringles.com##.truste_overlay
 --- filters
 
 ghostery_id: 3917
+
+---filters
+||trustarc.com^$3p
+||truste.com^$3p
+---filters

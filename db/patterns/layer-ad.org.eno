@@ -7,3 +7,7 @@ layer-ad.org
 --- domains
 
 ghostery_id: 3651
+
+---filters
+||layer-ad.org^$3p
+---filters

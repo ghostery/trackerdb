@@ -8,3 +8,7 @@ myfonts.net
 --- domains
 
 ghostery_id: 3700
+
+---filters
+||myfonts.net^$3p
+---filters

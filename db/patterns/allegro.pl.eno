@@ -12,3 +12,11 @@ ngastatic.com
 --- domains
 
 ghostery_id: 3348
+
+---filters
+||allegroimg.com^$3p
+||allegrostatic.com^$3p
+||allegrostatic.pl^$3p
+||ngacm.com^$3p
+||ngastatic.com^$3p
+---filters

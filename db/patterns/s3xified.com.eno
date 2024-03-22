@@ -7,3 +7,7 @@ s3xified.com
 --- domains
 
 ghostery_id: 3825
+
+---filters
+||s3xified.com^$3p
+---filters

@@ -7,3 +7,7 @@ othersearch.info
 --- domains
 
 ghostery_id: 3749
+
+---filters
+||othersearch.info^$3p
+---filters

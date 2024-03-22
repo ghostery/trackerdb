@@ -45,3 +45,44 @@ google.tn
 --- domains
 
 ghostery_id: 3579
+
+---filters
+||google.at^$3p
+||google.be^$3p
+||google.ca^$3p
+||google.ch^$3p
+||google.co.id^$3p
+||google.co.in^$3p
+||google.co.jp^$3p
+||google.co.ma^$3p
+||google.co.th^$3p
+||google.co.uk^$3p
+||google.com^$3p
+||google.com.ar^$3p
+||google.com.au^$3p
+||google.com.br^$3p
+||google.com.mx^$3p
+||google.com.tr^$3p
+||google.com.tw^$3p
+||google.com.ua^$3p
+||google.cz^$3p
+||google.de^$3p
+||google.dk^$3p
+||google.dz^$3p
+||google.es^$3p
+||google.fi^$3p
+||google.fr^$3p
+||google.gr^$3p
+||google.hu^$3p
+||google.ie^$3p
+||google.it^$3p
+||google.nl^$3p
+||google.no^$3p
+||google.pl^$3p
+||google.pt^$3p
+||google.ro^$3p
+||google.rs^$3p
+||google.ru^$3p
+||google.se^$3p
+||google.tn^$3p
+---filters

@@ -7,3 +7,7 @@ asambeauty.com
 --- domains
 
 ghostery_id: 3369
+
+---filters
+||asambeauty.com^$3p
+---filters

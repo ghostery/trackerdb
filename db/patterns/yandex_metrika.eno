@@ -8,3 +8,7 @@ mc.yandex.ru
 --- domains
 
 ghostery_id: 3993
+
+---filters
+||mc.yandex.ru^$3p
+---filters

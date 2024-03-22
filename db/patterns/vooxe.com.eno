@@ -7,3 +7,7 @@ vooxe.com
 --- domains
 
 ghostery_id: 3957
+
+---filters
+||vooxe.com^$3p
+---filters

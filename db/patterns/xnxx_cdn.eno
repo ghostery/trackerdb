@@ -7,3 +7,7 @@ xnxx-cdn.com
 --- domains
 
 ghostery_id: 3987
+
+---filters
+||xnxx-cdn.com^$3p
+---filters

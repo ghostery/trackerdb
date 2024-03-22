@@ -8,3 +8,7 @@ cloudfront.net
 --- domains
 
 ghostery_id: 3352
+
+---filters
+||cloudfront.net^$3p
+---filters

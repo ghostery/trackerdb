@@ -8,3 +8,7 @@ ixquick.com
 --- domains
 
 ghostery_id: 3634
+
+---filters
+||ixquick.com^$3p
+---filters

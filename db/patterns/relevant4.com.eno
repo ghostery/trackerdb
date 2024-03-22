@@ -7,3 +7,7 @@ relevant4.com
 --- domains
 
 ghostery_id: 3806
+
+---filters
+||relevant4.com^$3p
+---filters

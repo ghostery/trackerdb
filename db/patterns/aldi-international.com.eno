@@ -7,3 +7,7 @@ aldi-international.com
 --- domains
 
 ghostery_id: 3342
+
+---filters
+||aldi-international.com^$3p
+---filters

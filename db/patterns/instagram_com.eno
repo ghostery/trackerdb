@@ -9,3 +9,8 @@ instagram.com
 --- domains
 
 ghostery_id: 3623
+
+---filters
+||cdninstagram.com^$3p
+||instagram.com^$3p
+---filters

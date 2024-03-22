@@ -7,3 +7,7 @@ ctret.de
 --- domains
 
 ghostery_id: 3512
+
+---filters
+||ctret.de^$3p
+---filters

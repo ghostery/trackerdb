@@ -7,3 +7,7 @@ westlotto.com
 --- domains
 
 ghostery_id: 3969
+
+---filters
+||westlotto.com^$3p
+---filters

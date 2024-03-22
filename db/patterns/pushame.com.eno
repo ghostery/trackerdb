@@ -7,3 +7,7 @@ pushame.com
 --- domains
 
 ghostery_id: 3784
+
+---filters
+||pushame.com^$3p
+---filters

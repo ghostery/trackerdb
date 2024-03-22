@@ -7,3 +7,7 @@ vidazoo.com
 --- domains
 
 ghostery_id: 3947
+
+---filters
+||vidazoo.com^$3p
+---filters

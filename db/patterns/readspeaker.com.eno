@@ -7,3 +7,7 @@ readspeaker.com
 --- domains
 
 ghostery_id: 3799
+
+---filters
+||readspeaker.com^$3p
+---filters

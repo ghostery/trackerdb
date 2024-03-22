@@ -7,3 +7,7 @@ octapi.net
 --- domains
 
 ghostery_id: 3729
+
+---filters
+||octapi.net^$3p
+---filters

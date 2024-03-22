@@ -7,3 +7,7 @@ pushnative.com
 --- domains
 
 ghostery_id: 3786
+
+---filters
+||pushnative.com^$3p
+---filters

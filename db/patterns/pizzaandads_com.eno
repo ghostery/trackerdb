@@ -7,3 +7,7 @@ pizzaandads.com
 --- domains
 
 ghostery_id: 3766
+
+---filters
+||pizzaandads.com^$3p
+---filters

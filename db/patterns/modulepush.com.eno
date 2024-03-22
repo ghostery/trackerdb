@@ -7,3 +7,7 @@ modulepush.com
 --- domains
 
 ghostery_id: 3691
+
+---filters
+||modulepush.com^$3p
+---filters

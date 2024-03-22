@@ -8,3 +8,7 @@ blogsmithmedia.com
 --- domains
 
 ghostery_id: 3406
+
+---filters
+||blogsmithmedia.com^$3p
+---filters

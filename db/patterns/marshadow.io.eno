@@ -7,3 +7,7 @@ marshadow.io
 --- domains
 
 ghostery_id: 3676
+
+---filters
+||marshadow.io^$3p
+---filters

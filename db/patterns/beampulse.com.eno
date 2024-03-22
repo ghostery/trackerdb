@@ -7,3 +7,7 @@ beampulse.com
 --- domains
 
 ghostery_id: 3392
+
+---filters
+||beampulse.com^$3p
+---filters

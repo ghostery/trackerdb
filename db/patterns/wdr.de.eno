@@ -7,3 +7,7 @@ wdr.de
 --- domains
 
 ghostery_id: 3963
+
+---filters
+||wdr.de^$3p
+---filters

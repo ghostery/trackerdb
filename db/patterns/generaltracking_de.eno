@@ -7,3 +7,7 @@ generaltracking.de
 --- domains
 
 ghostery_id: 3564
+
+---filters
+||generaltracking.de^$3p
+---filters

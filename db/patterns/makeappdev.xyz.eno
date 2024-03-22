@@ -7,3 +7,7 @@ makeappdev.xyz
 --- domains
 
 ghostery_id: 3672
+
+---filters
+||makeappdev.xyz^$3p
+---filters

@@ -8,3 +8,7 @@ alipcsec.com
 --- domains
 
 ghostery_id: 3894
+
+---filters
+||alipcsec.com^$3p
+---filters

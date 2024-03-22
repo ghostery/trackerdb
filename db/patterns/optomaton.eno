@@ -8,3 +8,7 @@ volvelle.tech
 --- domains
 
 ghostery_id: 3745
+
+---filters
+||volvelle.tech^$3p
+---filters

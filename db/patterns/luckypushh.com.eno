@@ -7,3 +7,7 @@ luckypushh.com
 --- domains
 
 ghostery_id: 3667
+
+---filters
+||luckypushh.com^$3p
+---filters

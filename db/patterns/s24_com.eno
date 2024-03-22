@@ -7,3 +7,7 @@ s24.com
 --- domains
 
 ghostery_id: 3824
+
+---filters
+||s24.com^$3p
+---filters

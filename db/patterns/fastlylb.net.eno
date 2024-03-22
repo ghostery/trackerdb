@@ -9,3 +9,8 @@ fastlylb.net
 --- domains
 
 ghostery_id: 3545
+
+---filters
+||fastly.net^$3p
+||fastlylb.net^$3p
+---filters

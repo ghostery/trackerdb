@@ -7,3 +7,7 @@ txxx.com
 --- domains
 
 ghostery_id: 3926
+
+---filters
+||txxx.com^$3p
+---filters

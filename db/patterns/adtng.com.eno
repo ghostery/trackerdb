@@ -7,3 +7,7 @@ adtng.com
 --- domains
 
 ghostery_id: 3330
+
+---filters
+||adtng.com^$3p
+---filters

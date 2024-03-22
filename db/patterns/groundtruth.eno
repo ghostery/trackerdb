@@ -8,3 +8,7 @@ bidagent.xad.com
 --- domains
 
 ghostery_id: 3587
+
+---filters
+||bidagent.xad.com^$3p
+---filters

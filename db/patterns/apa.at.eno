@@ -8,3 +8,7 @@ apa.at
 --- domains
 
 ghostery_id: 3360
+
+---filters
+||apa.at^$3p
+---filters

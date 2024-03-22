@@ -8,3 +8,8 @@ onap.io
 --- domains
 
 ghostery_id: 3734
+
+---filters
+||olx-st.com^$3p
+||onap.io^$3p
+---filters

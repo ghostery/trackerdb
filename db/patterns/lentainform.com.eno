@@ -7,3 +7,7 @@ lentainform.com
 --- domains
 
 ghostery_id: 3654
+
+---filters
+||lentainform.com^$3p
+---filters

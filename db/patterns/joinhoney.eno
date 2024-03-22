@@ -7,3 +7,7 @@ joinhoney.com
 --- domains
 
 ghostery_id: 3636
+
+---filters
+||joinhoney.com^$3p
+---filters

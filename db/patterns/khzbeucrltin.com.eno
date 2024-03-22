@@ -7,3 +7,7 @@ khzbeucrltin.com
 --- domains
 
 ghostery_id: 3645
+
+---filters
+||khzbeucrltin.com^$3p
+---filters

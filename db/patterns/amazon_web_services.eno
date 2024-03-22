@@ -10,3 +10,9 @@ awsstatic.com
 --- domains
 
 ghostery_id: 3355
+
+---filters
+||amazonaws.com^$3p
+||amazonwebservices.com^$3p
+||awsstatic.com^$3p
+---filters

@@ -7,3 +7,7 @@ hoholikik.club
 --- domains
 
 ghostery_id: 3598
+
+---filters
+||hoholikik.club^$3p
+---filters

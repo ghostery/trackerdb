@@ -7,3 +7,7 @@ logsss.com
 --- domains
 
 ghostery_id: 3665
+
+---filters
+||logsss.com^$3p
+---filters

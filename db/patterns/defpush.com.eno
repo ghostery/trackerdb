@@ -7,3 +7,7 @@ defpush.com
 --- domains
 
 ghostery_id: 3497
+
+---filters
+||defpush.com^$3p
+---filters

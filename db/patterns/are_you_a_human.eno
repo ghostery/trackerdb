@@ -8,3 +8,7 @@ areyouahuman.com
 --- domains
 
 ghostery_id: 3365
+
+---filters
+||areyouahuman.com^$3p
+---filters

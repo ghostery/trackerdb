@@ -9,3 +9,8 @@ prismamediadigital.com
 --- domains
 
 ghostery_id: 1223
+
+---filters
+||pmdrecrute.com^$3p
+||prismamediadigital.com^$3p
+---filters

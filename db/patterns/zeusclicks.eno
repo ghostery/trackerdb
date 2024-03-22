@@ -7,3 +7,7 @@ zeusclicks.com
 --- domains
 
 ghostery_id: 4005
+
+---filters
+||zeusclicks.com^$3p
+---filters

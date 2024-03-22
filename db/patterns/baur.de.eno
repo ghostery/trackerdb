@@ -7,3 +7,7 @@ baur.de
 --- domains
 
 ghostery_id: 3389
+
+---filters
+||baur.de^$3p
+---filters

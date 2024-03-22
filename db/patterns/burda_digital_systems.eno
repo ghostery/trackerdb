@@ -8,3 +8,7 @@ bstatic.de
 --- domains
 
 ghostery_id: 3427
+
+---filters
+||bstatic.de^$3p
+---filters

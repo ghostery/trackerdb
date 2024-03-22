@@ -7,3 +7,7 @@ tororango.com
 --- domains
 
 ghostery_id: 3907
+
+---filters
+||tororango.com^$3p
+---filters

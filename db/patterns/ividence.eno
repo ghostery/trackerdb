@@ -8,3 +8,7 @@ ivitrack.com
 --- domains
 
 ghostery_id: 3633
+
+---filters
+||ivitrack.com^$3p
+---filters

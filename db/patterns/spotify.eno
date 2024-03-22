@@ -9,3 +9,8 @@ spotify.com
 --- domains
 
 ghostery_id: 3867
+
+---filters
+||scdn.co^$3p
+||spotify.com^$3p
+---filters

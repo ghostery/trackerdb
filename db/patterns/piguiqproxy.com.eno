@@ -7,3 +7,7 @@ piguiqproxy.com
 --- domains
 
 ghostery_id: 3765
+
+---filters
+||piguiqproxy.com^$3p
+---filters

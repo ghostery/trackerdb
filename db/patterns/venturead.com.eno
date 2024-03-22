@@ -7,3 +7,7 @@ venturead.com
 --- domains
 
 ghostery_id: 3945
+
+---filters
+||venturead.com^$3p
+---filters

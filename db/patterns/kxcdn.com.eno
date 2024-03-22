@@ -7,3 +7,7 @@ kxcdn.com
 --- domains
 
 ghostery_id: 3649
+
+---filters
+||kxcdn.com^$3p
+---filters

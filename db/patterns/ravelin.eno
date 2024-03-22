@@ -7,3 +7,7 @@ ravelin.com
 --- domains
 
 ghostery_id: 3797
+
+---filters
+||ravelin.com^$3p
+---filters

@@ -8,3 +8,7 @@ inspsearchapi.com
 --- domains
 
 ghostery_id: 3622
+
+---filters
+||inspsearchapi.com^$3p
+---filters

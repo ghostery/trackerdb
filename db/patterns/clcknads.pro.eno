@@ -7,3 +7,7 @@ clcknads.pro
 --- domains
 
 ghostery_id: 3453
+
+---filters
+||clcknads.pro^$3p
+---filters

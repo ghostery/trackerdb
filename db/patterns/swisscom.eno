@@ -7,3 +7,7 @@ swisscom.ch
 --- domains
 
 ghostery_id: 3889
+
+---filters
+||swisscom.ch^$3p
+---filters

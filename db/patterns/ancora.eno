@@ -8,3 +8,7 @@ ancoraplatform.com
 --- domains
 
 ghostery_id: 2660
+
+---filters
+||ancoraplatform.com^$3p
+---filters

@@ -9,3 +9,8 @@ embedly.com
 --- domains
 
 ghostery_id: 3527
+
+---filters
+||embed.ly^$3p
+||embedly.com^$3p
+---filters

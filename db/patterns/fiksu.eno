@@ -8,3 +8,7 @@ fiksu.com
 --- domains
 
 ghostery_id: 3547
+
+---filters
+||fiksu.com^$3p
+---filters

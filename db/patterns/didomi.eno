@@ -8,3 +8,7 @@ privacy-center.org
 --- domains
 
 ghostery_id: 3501
+
+---filters
+||privacy-center.org^$3p
+---filters

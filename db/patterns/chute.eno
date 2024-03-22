@@ -9,3 +9,8 @@ media.chute.io
 --- domains
 
 ghostery_id: 3450
+
+---filters
+||api.getchute.com^$3p
+||media.chute.io^$3p
+---filters

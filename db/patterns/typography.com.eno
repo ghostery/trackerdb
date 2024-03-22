@@ -7,3 +7,7 @@ typography.com
 --- domains
 
 ghostery_id: 3928
+
+---filters
+||typography.com^$3p
+---filters

@@ -7,3 +7,7 @@ gamedistribution.com
 --- domains
 
 ghostery_id: 3563
+
+---filters
+||gamedistribution.com^$3p
+---filters

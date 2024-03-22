@@ -8,3 +8,7 @@ dmxleo.com
 --- domains
 
 ghostery_id: 3488
+
+---filters
+||dmxleo.com^$3p
+---filters

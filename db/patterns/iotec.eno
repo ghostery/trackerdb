@@ -8,3 +8,7 @@ dsp.io
 --- domains
 
 ghostery_id: 3628
+
+---filters
+||dsp.io^$3p
+---filters

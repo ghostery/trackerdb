@@ -9,3 +9,8 @@ marketplace.atlassian.com
 --- domains
 
 ghostery_id: 3373
+
+---filters
+||d1xfq2052q7thw.cloudfront.net^$3p
+||marketplace.atlassian.com^$3p
+---filters

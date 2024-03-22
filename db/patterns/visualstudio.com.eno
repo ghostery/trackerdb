@@ -8,3 +8,7 @@ visualstudio.com
 --- domains
 
 ghostery_id: 3953
+
+---filters
+||visualstudio.com^$3p
+---filters

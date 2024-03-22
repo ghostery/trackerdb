@@ -7,3 +7,7 @@ fap.to
 --- domains
 
 ghostery_id: 3543
+
+---filters
+||fap.to^$3p
+---filters

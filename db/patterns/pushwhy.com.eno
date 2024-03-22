@@ -7,3 +7,7 @@ pushwhy.com
 --- domains
 
 ghostery_id: 3788
+
+---filters
+||pushwhy.com^$3p
+---filters

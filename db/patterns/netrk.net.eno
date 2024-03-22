@@ -8,3 +8,7 @@ netrk.net
 --- domains
 
 ghostery_id: 3709
+
+---filters
+||netrk.net^$3p
+---filters

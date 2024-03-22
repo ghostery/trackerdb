@@ -8,3 +8,7 @@ shoppingshadow.com
 --- domains
 
 ghostery_id: 3845
+
+---filters
+||shoppingshadow.com^$3p
+---filters

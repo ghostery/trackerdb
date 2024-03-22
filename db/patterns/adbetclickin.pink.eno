@@ -7,3 +7,7 @@ adbetclickin.pink
 --- domains
 
 ghostery_id: 3309
+
+---filters
+||adbetclickin.pink^$3p
+---filters

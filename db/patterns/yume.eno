@@ -8,3 +8,7 @@ yume.com
 --- domains
 
 ghostery_id: 4001
+
+---filters
+||yume.com^$3p
+---filters

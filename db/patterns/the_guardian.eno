@@ -10,3 +10,9 @@ guim.co.uk
 --- domains
 
 ghostery_id: 3899
+
+---filters
+||gu-web.net^$3p
+||guardianapps.co.uk^$3p
+||guim.co.uk^$3p
+---filters

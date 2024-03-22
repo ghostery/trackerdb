@@ -7,3 +7,7 @@ bluenewsupdate.info
 --- domains
 
 ghostery_id: 3408
+
+---filters
+||bluenewsupdate.info^$3p
+---filters

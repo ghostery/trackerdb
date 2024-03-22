@@ -7,3 +7,7 @@ conative.de
 --- domains
 
 ghostery_id: 3470
+
+---filters
+||conative.de^$3p
+---filters

@@ -7,3 +7,7 @@ rncdn3.com
 --- domains
 
 ghostery_id: 3814
+
+---filters
+||rncdn3.com^$3p
+---filters

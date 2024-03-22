@@ -7,3 +7,7 @@ aftv-serving.bid
 --- domains
 
 ghostery_id: 3339
+
+---filters
+||aftv-serving.bid^$3p
+---filters

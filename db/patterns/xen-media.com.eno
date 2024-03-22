@@ -7,3 +7,7 @@ xen-media.com
 --- domains
 
 ghostery_id: 3984
+
+---filters
+||xen-media.com^$3p
+---filters

@@ -7,3 +7,7 @@ dcmn.com
 --- domains
 
 ghostery_id: 3496
+
+---filters
+||dcmn.com^$3p
+---filters

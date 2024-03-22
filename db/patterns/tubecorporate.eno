@@ -7,3 +7,7 @@ tubecorporate.com
 --- domains
 
 ghostery_id: 3919
+
+---filters
+||tubecorporate.com^$3p
+---filters

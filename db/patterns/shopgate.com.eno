@@ -7,3 +7,7 @@ shopgate.com
 --- domains
 
 ghostery_id: 3843
+
+---filters
+||shopgate.com^$3p
+---filters

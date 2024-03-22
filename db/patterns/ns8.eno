@@ -7,3 +7,7 @@ ns8.com
 --- domains
 
 ghostery_id: 3721
+
+---filters
+||ns8.com^$3p
+---filters

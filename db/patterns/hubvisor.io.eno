@@ -7,3 +7,7 @@ hubvisor.io
 --- domains
 
 ghostery_id: 3604
+
+---filters
+||hubvisor.io^$3p
+---filters

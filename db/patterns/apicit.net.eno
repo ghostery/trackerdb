@@ -7,3 +7,7 @@ apicit.net
 --- domains
 
 ghostery_id: 3361
+
+---filters
+||apicit.net^$3p
+---filters

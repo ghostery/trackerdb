@@ -7,3 +7,7 @@ bulkhentai.com
 --- domains
 
 ghostery_id: 3425
+
+---filters
+||bulkhentai.com^$3p
+---filters

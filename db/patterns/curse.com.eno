@@ -8,3 +8,7 @@ curse.com
 --- domains
 
 ghostery_id: 3481
+
+---filters
+||curse.com^$3p
+---filters

@@ -7,3 +7,7 @@ adtr02.com
 --- domains
 
 ghostery_id: 3331
+
+---filters
+||adtr02.com^$3p
+---filters

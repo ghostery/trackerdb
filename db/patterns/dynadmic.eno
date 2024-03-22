@@ -7,3 +7,7 @@ dyntrk.com
 --- domains
 
 ghostery_id: 3519
+
+---filters
+||dyntrk.com^$3p
+---filters

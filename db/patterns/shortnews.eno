@@ -7,3 +7,7 @@ shortnews.de
 --- domains
 
 ghostery_id: 3846
+
+---filters
+||shortnews.de^$3p
+---filters

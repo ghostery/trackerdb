@@ -8,3 +8,7 @@ emxdgt.com
 --- domains
 
 ghostery_id: 3748
+
+---filters
+||emxdgt.com^$3p
+---filters

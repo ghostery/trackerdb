@@ -7,3 +7,7 @@ beeline.ru
 --- domains
 
 ghostery_id: 3393
+
+---filters
+||beeline.ru^$3p
+---filters

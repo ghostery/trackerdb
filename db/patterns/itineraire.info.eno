@@ -7,3 +7,7 @@ itineraire.info
 --- domains
 
 ghostery_id: 3631
+
+---filters
+||itineraire.info^$3p
+---filters

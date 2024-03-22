@@ -7,3 +7,7 @@ freegeoip.net
 --- domains
 
 ghostery_id: 3561
+
+---filters
+||freegeoip.net^$3p
+---filters

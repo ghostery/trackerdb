@@ -7,3 +7,7 @@ loadsource.org
 --- domains
 
 ghostery_id: 3664
+
+---filters
+||loadsource.org^$3p
+---filters

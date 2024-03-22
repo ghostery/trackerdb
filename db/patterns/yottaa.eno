@@ -8,3 +8,7 @@ yottaa.net
 --- domains
 
 ghostery_id: 3999
+
+---filters
+||yottaa.net^$3p
+---filters

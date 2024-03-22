@@ -7,3 +7,7 @@ bfmio.com
 --- domains
 
 ghostery_id: 3391
+
+---filters
+||bfmio.com^$3p
+---filters

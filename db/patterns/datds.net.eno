@@ -7,3 +7,7 @@ datds.net
 --- domains
 
 ghostery_id: 3492
+
+---filters
+||datds.net^$3p
+---filters

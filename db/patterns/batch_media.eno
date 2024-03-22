@@ -8,3 +8,7 @@ t4ft.de
 --- domains
 
 ghostery_id: 3388
+
+---filters
+||t4ft.de^$3p
+---filters

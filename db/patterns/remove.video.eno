@@ -7,3 +7,7 @@ remove.video
 --- domains
 
 ghostery_id: 3808
+
+---filters
+||remove.video^$3p
+---filters

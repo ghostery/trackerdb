@@ -8,3 +8,7 @@ fonts.net
 --- domains
 
 ghostery_id: 3693
+
+---filters
+||fonts.net^$3p
+---filters

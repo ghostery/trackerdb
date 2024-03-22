@@ -7,3 +7,7 @@ kaeufersiegel.de
 --- domains
 
 ghostery_id: 3641
+
+---filters
+||kaeufersiegel.de^$3p
+---filters

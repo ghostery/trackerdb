@@ -7,3 +7,7 @@ dotmetrics.net
 --- domains
 
 ghostery_id: 3516
+
+---filters
+||dotmetrics.net^$3p
+---filters

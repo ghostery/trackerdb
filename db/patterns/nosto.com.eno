@@ -7,3 +7,7 @@ nosto.com
 --- domains
 
 ghostery_id: 3719
+
+---filters
+||nosto.com^$3p
+---filters

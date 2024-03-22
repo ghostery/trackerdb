@@ -8,3 +8,8 @@ txt.eu
 --- domains
 
 ghostery_id: 3325
+
+---filters
+||adrom.net^$3p
+||txt.eu^$3p
+---filters

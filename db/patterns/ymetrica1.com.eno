@@ -7,3 +7,7 @@ ymetrica1.com
 --- domains
 
 ghostery_id: 3996
+
+---filters
+||ymetrica1.com^$3p
+---filters

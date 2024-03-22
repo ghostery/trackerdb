@@ -7,3 +7,7 @@ usemessages.com
 --- domains
 
 ghostery_id: 3939
+
+---filters
+||usemessages.com^$3p
+---filters

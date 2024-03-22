@@ -7,3 +7,7 @@ wnzmauurgol.com
 --- domains
 
 ghostery_id: 3977
+
+---filters
+||wnzmauurgol.com^$3p
+---filters

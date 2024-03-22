@@ -7,3 +7,7 @@ jsdelivr.net
 --- domains
 
 ghostery_id: 3638
+
+---filters
+||jsdelivr.net^$3p
+---filters

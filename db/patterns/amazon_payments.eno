@@ -9,3 +9,8 @@ payments-amazon.com
 --- domains
 
 ghostery_id: 3353
+
+---filters
+||amazonpay.com^$3p
+||payments-amazon.com^$3p
+---filters

@@ -7,3 +7,7 @@ adac.de
 --- domains
 
 ghostery_id: 3305
+
+---filters
+||adac.de^$3p
+---filters

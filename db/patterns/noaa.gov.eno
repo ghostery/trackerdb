@@ -7,3 +7,7 @@ noaa.gov
 --- domains
 
 ghostery_id: 3717
+
+---filters
+||noaa.gov^$3p
+---filters

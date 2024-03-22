@@ -8,3 +8,7 @@ greatviews.de
 --- domains
 
 ghostery_id: 3585
+
+---filters
+||greatviews.de^$3p
+---filters

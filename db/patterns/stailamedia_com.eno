@@ -7,3 +7,7 @@ stailamedia.com
 --- domains
 
 ghostery_id: 3874
+
+---filters
+||stailamedia.com^$3p
+---filters

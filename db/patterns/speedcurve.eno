@@ -7,3 +7,7 @@ speedcurve.com
 --- domains
 
 ghostery_id: 3866
+
+---filters
+||speedcurve.com^$3p
+---filters

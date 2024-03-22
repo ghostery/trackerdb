@@ -8,3 +8,7 @@ emsservice.de
 --- domains
 
 ghostery_id: 3590
+
+---filters
+||emsservice.de^$3p
+---filters

@@ -7,3 +7,7 @@ brightonclick.com
 --- domains
 
 ghostery_id: 3422
+
+---filters
+||brightonclick.com^$3p
+---filters
