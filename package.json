@@ -43,7 +43,7 @@
     "node": ">=18.0"
   },
   "dependencies": {
-    "@cliqz/adblocker": "^1.26.16",
+    "@cliqz/adblocker": "^1.27.0",
     "better-sqlite3": "^9.2.2",
     "enolib": "^0.8.2",
     "iso-3166-1-alpha-2": "^1.0.0",
