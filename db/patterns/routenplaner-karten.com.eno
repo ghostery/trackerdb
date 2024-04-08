@@ -7,3 +7,7 @@ routenplaner-karten.com
 --- domains
 
 ghostery_id: 3818
+
+---filters
+||routenplaner-karten.com^$3p
+---filters

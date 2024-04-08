@@ -7,3 +7,7 @@ basilic.io
 --- domains
 
 ghostery_id: 3387
+
+---filters
+||basilic.io^$3p
+---filters

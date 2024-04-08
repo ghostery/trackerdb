@@ -8,3 +8,7 @@ optimatic.com
 --- domains
 
 ghostery_id: 2360
+
+---filters
+||optimatic.com^$3p
+---filters

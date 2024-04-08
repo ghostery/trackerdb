@@ -8,3 +8,7 @@ recettes.net
 --- domains
 
 ghostery_id: 3801
+
+---filters
+||recettes.net^$3p
+---filters

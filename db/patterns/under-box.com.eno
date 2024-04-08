@@ -7,3 +7,7 @@ under-box.com
 --- domains
 
 ghostery_id: 3932
+
+---filters
+||under-box.com^$3p
+---filters

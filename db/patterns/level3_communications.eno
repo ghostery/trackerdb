@@ -8,3 +8,7 @@ footprint.net
 --- domains
 
 ghostery_id: 3656
+
+---filters
+||footprint.net^$3p
+---filters

@@ -8,3 +8,7 @@ allo-pages.fr
 --- domains
 
 ghostery_id: 3349
+
+---filters
+||allo-pages.fr^$3p
+---filters

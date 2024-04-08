@@ -7,3 +7,7 @@ inboxsdk.com
 --- domains
 
 ghostery_id: 3620
+
+---filters
+||inboxsdk.com^$3p
+---filters

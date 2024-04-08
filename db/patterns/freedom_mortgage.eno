@@ -8,3 +8,7 @@ freedom.com
 --- domains
 
 ghostery_id: 3560
+
+---filters
+||freedom.com^$3p
+---filters

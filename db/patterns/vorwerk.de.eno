@@ -7,3 +7,7 @@ vorwerk.de
 --- domains
 
 ghostery_id: 3958
+
+---filters
+||vorwerk.de^$3p
+---filters

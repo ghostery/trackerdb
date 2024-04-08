@@ -9,3 +9,8 @@ vigo.ru
 --- domains
 
 ghostery_id: 3950
+
+---filters
+||vigo.one^$3p
+||vigo.ru^$3p
+---filters

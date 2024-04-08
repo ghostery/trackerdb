@@ -7,3 +7,7 @@ exoticads.com
 --- domains
 
 ghostery_id: 3536
+
+---filters
+||exoticads.com^$3p
+---filters

@@ -7,3 +7,7 @@ sheego.de
 --- domains
 
 ghostery_id: 3841
+
+---filters
+||sheego.de^$3p
+---filters

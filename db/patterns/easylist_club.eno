@@ -7,3 +7,7 @@ easylist.club
 --- domains
 
 ghostery_id: 3524
+
+---filters
+||easylist.club^$3p
+---filters

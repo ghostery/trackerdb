@@ -7,3 +7,7 @@ fontawesome.com
 --- domains
 
 ghostery_id: 3554
+
+---filters
+||fontawesome.com^$3p
+---filters

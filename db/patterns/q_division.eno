@@ -7,3 +7,7 @@ q-divisioncdn.de
 --- domains
 
 ghostery_id: 3791
+
+---filters
+||q-divisioncdn.de^$3p
+---filters

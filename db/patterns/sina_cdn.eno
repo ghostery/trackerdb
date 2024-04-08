@@ -8,3 +8,7 @@ sinaimg.cn
 --- domains
 
 ghostery_id: 3850
+
+---filters
+||sinaimg.cn^$3p
+---filters

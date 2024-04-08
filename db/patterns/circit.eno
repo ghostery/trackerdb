@@ -7,3 +7,7 @@ iqcontentplatform.de
 --- domains
 
 ghostery_id: 3451
+
+---filters
+||iqcontentplatform.de^$3p
+---filters

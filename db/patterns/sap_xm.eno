@@ -7,3 +7,7 @@ sap-xm.org
 --- domains
 
 ghostery_id: 3826
+
+---filters
+||sap-xm.org^$3p
+---filters

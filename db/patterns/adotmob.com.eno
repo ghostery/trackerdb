@@ -8,3 +8,7 @@ adotmob.com
 --- domains
 
 ghostery_id: 3323
+
+---filters
+||adotmob.com^$3p
+---filters

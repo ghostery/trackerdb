@@ -7,3 +7,7 @@ webclicks24.com
 --- domains
 
 ghostery_id: 3965
+
+---filters
+||webclicks24.com^$3p
+---filters

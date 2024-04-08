@@ -8,3 +8,7 @@ fastly-insights.com
 --- domains
 
 ghostery_id: 3544
+
+---filters
+||fastly-insights.com^$3p
+---filters

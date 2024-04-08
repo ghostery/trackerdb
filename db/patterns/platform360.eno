@@ -7,3 +7,7 @@ pfrm.co
 --- domains
 
 ghostery_id: 3768
+
+---filters
+||pfrm.co^$3p
+---filters

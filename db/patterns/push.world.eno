@@ -8,3 +8,7 @@ push.world
 --- domains
 
 ghostery_id: 3783
+
+---filters
+||push.world^$3p
+---filters

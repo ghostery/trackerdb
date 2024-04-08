@@ -7,3 +7,7 @@ adnium.com
 --- domains
 
 ghostery_id: 3320
+
+---filters
+||adnium.com^$3p
+---filters

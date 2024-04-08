@@ -8,3 +8,7 @@ etsystatic.com
 --- domains
 
 ghostery_id: 3534
+
+---filters
+||etsystatic.com^$3p
+---filters

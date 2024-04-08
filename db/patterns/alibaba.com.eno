@@ -9,3 +9,8 @@ alicdn.com
 --- domains
 
 ghostery_id: 3346
+
+---filters
+||alibaba.com^$3p
+||alicdn.com^$3p
+---filters

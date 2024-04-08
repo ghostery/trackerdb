@@ -9,3 +9,8 @@ facebook.net
 --- domains
 
 ghostery_id: 2491
+
+---filters
+||facebook.com^$3p
+||facebook.net^$3p
+---filters

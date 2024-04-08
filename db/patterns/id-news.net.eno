@@ -8,3 +8,8 @@ idcdn.de
 --- domains
 
 ghostery_id: 3610
+
+---filters
+||id-news.net^$3p
+||idcdn.de^$3p
+---filters

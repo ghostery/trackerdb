@@ -8,3 +8,7 @@ riskified.com
 --- domains
 
 ghostery_id: 3813
+
+---filters
+||riskified.com^$3p
+---filters

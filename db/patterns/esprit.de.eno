@@ -7,3 +7,7 @@ esprit.de
 --- domains
 
 ghostery_id: 3532
+
+---filters
+||esprit.de^$3p
+---filters

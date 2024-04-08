@@ -9,3 +9,8 @@ paypalobjects.com
 --- domains
 
 ghostery_id: 3757
+
+---filters
+||paypal.com^$3p
+||paypalobjects.com^$3p
+---filters

@@ -11,3 +11,11 @@ nflxvideo.net
 --- domains
 
 ghostery_id: 3707
+
+---filters
+||netflix.com^$3p
+||nflxext.com^$3p
+||nflximg.net^$3p
+||nflxso.net^$3p
+||nflxvideo.net^$3p
+---filters

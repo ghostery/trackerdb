@@ -8,3 +8,7 @@ rqtrk.eu
 --- domains
 
 ghostery_id: 3817
+
+---filters
+||rqtrk.eu^$3p
+---filters

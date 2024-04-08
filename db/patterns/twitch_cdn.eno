@@ -11,3 +11,10 @@ twitchsvc.net
 --- domains
 
 ghostery_id: 3924
+
+---filters
+||jtvnw.net^$3p
+||ttvnw.net^$3p
+||twitchcdn.net^$3p
+||twitchsvc.net^$3p
+---filters

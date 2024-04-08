@@ -7,3 +7,7 @@ herokuapp.com
 --- domains
 
 ghostery_id: 3595
+
+---filters
+||herokuapp.com^$3p
+---filters

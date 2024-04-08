@@ -7,3 +7,7 @@ adx1.com
 --- domains
 
 ghostery_id: 4029
+
+---filters
+||adx1.com^$3p
+---filters

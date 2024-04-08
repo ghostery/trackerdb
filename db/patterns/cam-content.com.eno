@@ -7,3 +7,7 @@ cam-content.com
 --- domains
 
 ghostery_id: 3432
+
+---filters
+||cam-content.com^$3p
+---filters

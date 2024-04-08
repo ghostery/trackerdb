@@ -8,3 +8,7 @@ rhythmxchange.com
 --- domains
 
 ghostery_id: 2323
+
+---filters
+||rhythmxchange.com^$3p
+---filters

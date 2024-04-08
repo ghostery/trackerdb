@@ -7,3 +7,7 @@ nt.vc
 --- domains
 
 ghostery_id: 3722
+
+---filters
+||nt.vc^$3p
+---filters

@@ -8,3 +8,7 @@ active-agent.com
 --- domains
 
 ghostery_id: 4024
+
+---filters
+||active-agent.com^$3p
+---filters

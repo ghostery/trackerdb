@@ -8,3 +8,8 @@ pix-cdn.org
 --- domains
 
 ghostery_id: 3333
+
+---filters
+||ahcdn.com^$3p
+||pix-cdn.org^$3p
+---filters

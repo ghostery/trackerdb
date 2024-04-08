@@ -8,3 +8,7 @@ ampproject.org
 --- domains
 
 ghostery_id: 3357
+
+---filters
+||ampproject.org^$3p
+---filters

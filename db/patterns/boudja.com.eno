@@ -7,3 +7,7 @@ boudja.com
 --- domains
 
 ghostery_id: 3416
+
+---filters
+||boudja.com^$3p
+---filters

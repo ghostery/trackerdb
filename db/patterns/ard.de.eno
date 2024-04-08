@@ -7,3 +7,7 @@ ard.de
 --- domains
 
 ghostery_id: 3364
+
+---filters
+||ard.de^$3p
+---filters

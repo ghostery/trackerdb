@@ -7,3 +7,7 @@ loadercdn.com
 --- domains
 
 ghostery_id: 3663
+
+---filters
+||loadercdn.com^$3p
+---filters

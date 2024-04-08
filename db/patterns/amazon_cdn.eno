@@ -10,3 +10,9 @@ ssl-images-amazon.com
 --- domains
 
 ghostery_id: 3351
+
+---filters
+||images-amazon.com^$3p
+||media-amazon.com^$3p
+||ssl-images-amazon.com^$3p
+---filters

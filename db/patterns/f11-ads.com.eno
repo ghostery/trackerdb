@@ -7,3 +7,7 @@ f11-ads.com
 --- domains
 
 ghostery_id: 3540
+
+---filters
+||f11-ads.com^$3p
+---filters

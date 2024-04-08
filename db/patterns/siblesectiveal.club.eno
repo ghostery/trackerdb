@@ -7,3 +7,7 @@ siblesectiveal.club
 --- domains
 
 ghostery_id: 3848
+
+---filters
+||siblesectiveal.club^$3p
+---filters

@@ -8,3 +8,7 @@ disabled.invalid
 --- domains
 
 ghostery_id: 44
+
+---filters
+||disabled.invalid^$3p
+---filters

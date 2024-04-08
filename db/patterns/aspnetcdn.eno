@@ -8,3 +8,7 @@ aspnetcdn.com
 --- domains
 
 ghostery_id: 3371
+
+---filters
+||aspnetcdn.com^$3p
+---filters

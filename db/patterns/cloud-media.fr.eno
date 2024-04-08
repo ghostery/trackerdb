@@ -7,3 +7,7 @@ cloud-media.fr
 --- domains
 
 ghostery_id: 3457
+
+---filters
+||cloud-media.fr^$3p
+---filters

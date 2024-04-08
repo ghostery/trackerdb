@@ -8,3 +8,8 @@ openload.co
 --- domains
 
 ghostery_id: 3741
+
+---filters
+||oloadcdn.net^$3p
+||openload.co^$3p
+---filters

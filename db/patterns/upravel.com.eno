@@ -7,3 +7,7 @@ upravel.com
 --- domains
 
 ghostery_id: 3937
+
+---filters
+||upravel.com^$3p
+---filters

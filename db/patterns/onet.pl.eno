@@ -8,3 +8,8 @@ onet.pl
 --- domains
 
 ghostery_id: 3739
+
+---filters
+||ocdn.eu^$3p
+||onet.pl^$3p
+---filters

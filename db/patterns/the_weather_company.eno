@@ -10,3 +10,9 @@ wfxtriggers.com
 --- domains
 
 ghostery_id: 3901
+
+---filters
+||w-x.co^$3p
+||weather.com^$3p
+||wfxtriggers.com^$3p
+---filters

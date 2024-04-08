@@ -8,3 +8,7 @@ clearbit.com
 --- domains
 
 ghostery_id: 3455
+
+---filters
+||clearbit.com^$3p
+---filters

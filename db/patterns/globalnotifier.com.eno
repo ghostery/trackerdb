@@ -7,3 +7,7 @@ globalnotifier.com
 --- domains
 
 ghostery_id: 3574
+
+---filters
+||globalnotifier.com^$3p
+---filters

@@ -7,3 +7,7 @@ tovarro.com
 --- domains
 
 ghostery_id: 3908
+
+---filters
+||tovarro.com^$3p
+---filters

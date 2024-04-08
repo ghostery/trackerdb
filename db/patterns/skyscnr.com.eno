@@ -7,3 +7,7 @@ skyscnr.com
 --- domains
 
 ghostery_id: 3855
+
+---filters
+||skyscnr.com^$3p
+---filters

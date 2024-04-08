@@ -7,3 +7,7 @@ i10c.net
 --- domains
 
 ghostery_id: 3606
+
+---filters
+||i10c.net^$3p
+---filters

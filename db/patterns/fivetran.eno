@@ -8,3 +8,7 @@ fivetran.com
 --- domains
 
 ghostery_id: 3551
+
+---filters
+||fivetran.com^$3p
+---filters

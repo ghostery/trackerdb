@@ -7,3 +7,7 @@ walmart.com
 --- domains
 
 ghostery_id: 3961
+
+---filters
+||walmart.com^$3p
+---filters

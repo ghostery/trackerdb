@@ -7,3 +7,7 @@ acestream.net
 --- domains
 
 ghostery_id: 3297
+
+---filters
+||acestream.net^$3p
+---filters

@@ -7,3 +7,7 @@ nyetm2mkch.com
 --- domains
 
 ghostery_id: 3724
+
+---filters
+||nyetm2mkch.com^$3p
+---filters

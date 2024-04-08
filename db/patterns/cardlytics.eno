@@ -7,3 +7,7 @@ cardlytics.com
 --- domains
 
 ghostery_id: 3437
+
+---filters
+||cardlytics.com^$3p
+---filters

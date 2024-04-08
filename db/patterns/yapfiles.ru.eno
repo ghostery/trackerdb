@@ -7,3 +7,7 @@ yapfiles.ru
 --- domains
 
 ghostery_id: 3994
+
+---filters
+||yapfiles.ru^$3p
+---filters

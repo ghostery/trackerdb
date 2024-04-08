@@ -7,3 +7,7 @@ coll2onf.com
 --- domains
 
 ghostery_id: 3465
+
+---filters
+||coll2onf.com^$3p
+---filters

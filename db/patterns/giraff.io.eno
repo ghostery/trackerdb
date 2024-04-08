@@ -7,3 +7,7 @@ giraff.io
 --- domains
 
 ghostery_id: 3569
+
+---filters
+||giraff.io^$3p
+---filters

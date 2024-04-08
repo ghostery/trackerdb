@@ -10,3 +10,9 @@ staticimgfarm.com
 --- domains
 
 ghostery_id: 3687
+
+---filters
+||imgfarm.com^$3p
+||mindspark.com^$3p
+||staticimgfarm.com^$3p
+---filters

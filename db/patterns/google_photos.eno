@@ -8,3 +8,7 @@ ggpht.com
 --- domains
 
 ghostery_id: 3582
+
+---filters
+||ggpht.com^$3p
+---filters

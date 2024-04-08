@@ -7,3 +7,7 @@ brandwire.tv
 --- domains
 
 ghostery_id: 3419
+
+---filters
+||brandwire.tv^$3p
+---filters

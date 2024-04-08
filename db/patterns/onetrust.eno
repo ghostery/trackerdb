@@ -12,3 +12,7 @@ onetrust.com
 --- filters
 
 ghostery_id: 3740
+
+---filters
+||onetrust.com^$3p
+---filters

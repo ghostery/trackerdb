@@ -9,3 +9,9 @@ du11hjcvx0uqb.cloudfront.net
 --- domains
 
 ghostery_id: 3434
+
+---filters
+||canvas.net^$3p
+||canvasnetwork.com^$3p
+||du11hjcvx0uqb.cloudfront.net^$3p
+---filters

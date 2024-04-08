@@ -16,3 +16,15 @@ d3io1k5o0zdpqr.cloudfront.net
 --- domains
 
 ghostery_id: 3350
+
+---filters
+||amazon.ca^$3p
+||amazon.co.jp^$3p
+||amazon.co.uk^$3p
+||amazon.com^$3p
+||amazon.de^$3p
+||amazon.es^$3p
+||amazon.fr^$3p
+||amazon.it^$3p
+||d3io1k5o0zdpqr.cloudfront.net^$3p
+---filters

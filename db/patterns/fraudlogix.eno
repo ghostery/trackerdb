@@ -7,3 +7,7 @@ yabidos.com
 --- domains
 
 ghostery_id: 3559
+
+---filters
+||yabidos.com^$3p
+---filters

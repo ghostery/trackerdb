@@ -7,3 +7,7 @@ dcbap.com
 --- domains
 
 ghostery_id: 3495
+
+---filters
+||dcbap.com^$3p
+---filters

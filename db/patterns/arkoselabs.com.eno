@@ -7,3 +7,7 @@ arkoselabs.com
 --- domains
 
 ghostery_id: 3366
+
+---filters
+||arkoselabs.com^$3p
+---filters

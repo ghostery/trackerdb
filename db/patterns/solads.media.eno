@@ -7,3 +7,7 @@ solads.media
 --- domains
 
 ghostery_id: 3862
+
+---filters
+||solads.media^$3p
+---filters

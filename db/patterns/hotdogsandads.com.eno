@@ -7,3 +7,7 @@ hotdogsandads.com
 --- domains
 
 ghostery_id: 3600
+
+---filters
+||hotdogsandads.com^$3p
+---filters

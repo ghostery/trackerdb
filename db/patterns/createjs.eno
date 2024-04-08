@@ -7,3 +7,7 @@ createjs.com
 --- domains
 
 ghostery_id: 3477
+
+---filters
+||createjs.com^$3p
+---filters

@@ -7,3 +7,7 @@ moz.com
 --- domains
 
 ghostery_id: 3695
+
+---filters
+||moz.com^$3p
+---filters

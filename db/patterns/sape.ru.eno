@@ -8,3 +8,7 @@ sape.ru
 --- domains
 
 ghostery_id: 3827
+
+---filters
+||sape.ru^$3p
+---filters

@@ -7,3 +7,7 @@ website_url: http://www.24-ads.com/
 --- domains
 
 ghostery_id: 4020
+
+---filters
+||24-ads.com^$3p
+---filters

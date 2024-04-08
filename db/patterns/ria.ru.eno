@@ -7,3 +7,7 @@ ria.ru
 --- domains
 
 ghostery_id: 3811
+
+---filters
+||ria.ru^$3p
+---filters

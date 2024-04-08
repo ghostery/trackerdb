@@ -8,3 +8,7 @@ king.com
 --- domains
 
 ghostery_id: 2689
+
+---filters
+||king.com^$3p
+---filters

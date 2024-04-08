@@ -7,3 +7,7 @@ kaptcha.com
 --- domains
 
 ghostery_id: 3648
+
+---filters
+||kaptcha.com^$3p
+---filters

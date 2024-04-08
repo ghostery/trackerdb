@@ -7,3 +7,7 @@ devappgrant.space
 --- domains
 
 ghostery_id: 3692
+
+---filters
+||devappgrant.space^$3p
+---filters

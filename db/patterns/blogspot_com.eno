@@ -10,3 +10,9 @@ blogspot.com
 --- domains
 
 ghostery_id: 3407
+
+---filters
+||blogblog.com^$3p
+||blogger.com^$3p
+||blogspot.com^$3p
+---filters

@@ -7,3 +7,7 @@ glotgrx.com
 --- domains
 
 ghostery_id: 3576
+
+---filters
+||glotgrx.com^$3p
+---filters

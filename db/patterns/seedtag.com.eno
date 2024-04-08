@@ -8,3 +8,7 @@ seedtag.com
 --- domains
 
 ghostery_id: 3833
+
+---filters
+||seedtag.com^$3p
+---filters

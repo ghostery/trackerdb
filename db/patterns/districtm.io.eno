@@ -9,3 +9,8 @@ districtm.io
 --- domains
 
 ghostery_id: 3509
+
+---filters
+||districtm.ca^$3p
+||districtm.io^$3p
+---filters

@@ -7,3 +7,7 @@ t8cdn.com
 --- domains
 
 ghostery_id: 3891
+
+---filters
+||t8cdn.com^$3p
+---filters

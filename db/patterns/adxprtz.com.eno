@@ -7,3 +7,7 @@ adxprtz.com
 --- domains
 
 ghostery_id: 3336
+
+---filters
+||adxprtz.com^$3p
+---filters

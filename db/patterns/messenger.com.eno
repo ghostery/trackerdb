@@ -8,3 +8,7 @@ messenger.com
 --- domains
 
 ghostery_id: 3685
+
+---filters
+||messenger.com^$3p
+---filters

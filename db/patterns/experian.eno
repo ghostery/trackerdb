@@ -8,3 +8,7 @@ eccmp.com
 --- domains
 
 ghostery_id: 3538
+
+---filters
+||eccmp.com^$3p
+---filters

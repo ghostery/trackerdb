@@ -7,3 +7,7 @@ homeaway.com
 --- domains
 
 ghostery_id: 3599
+
+---filters
+||homeaway.com^$3p
+---filters

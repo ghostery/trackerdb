@@ -7,3 +7,7 @@ velocecdn.com
 --- domains
 
 ghostery_id: 3943
+
+---filters
+||velocecdn.com^$3p
+---filters

@@ -11,3 +11,10 @@ d12ramskps3070.cloudfront.net
 --- domains
 
 ghostery_id: 3374
+
+---filters
+||atl-paas.net^$3p
+||atlassian.com^$3p
+||atlassian.net^$3p
+||d12ramskps3070.cloudfront.net^$3p
+---filters

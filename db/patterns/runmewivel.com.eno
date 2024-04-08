@@ -7,3 +7,7 @@ runmewivel.com
 --- domains
 
 ghostery_id: 3823
+
+---filters
+||runmewivel.com^$3p
+---filters

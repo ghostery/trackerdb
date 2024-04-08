@@ -7,3 +7,7 @@ cdnsure.com
 --- domains
 
 ghostery_id: 3444
+
+---filters
+||cdnsure.com^$3p
+---filters

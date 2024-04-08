@@ -7,3 +7,7 @@ vergic.com
 --- domains
 
 ghostery_id: 3946
+
+---filters
+||vergic.com^$3p
+---filters

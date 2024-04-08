@@ -7,3 +7,7 @@ propvideo.net
 --- domains
 
 ghostery_id: 3776
+
+---filters
+||propvideo.net^$3p
+---filters

@@ -7,3 +7,7 @@ zmctrack.net
 --- domains
 
 ghostery_id: 4007
+
+---filters
+||zmctrack.net^$3p
+---filters

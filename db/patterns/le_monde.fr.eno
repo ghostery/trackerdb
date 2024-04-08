@@ -8,3 +8,7 @@ lemde.fr
 --- domains
 
 ghostery_id: 3652
+
+---filters
+||lemde.fr^$3p
+---filters

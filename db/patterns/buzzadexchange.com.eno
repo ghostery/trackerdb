@@ -7,3 +7,7 @@ buzzadexchange.com
 --- domains
 
 ghostery_id: 3428
+
+---filters
+||buzzadexchange.com^$3p
+---filters

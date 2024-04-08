@@ -7,3 +7,7 @@ blau.de
 --- domains
 
 ghostery_id: 3402
+
+---filters
+||blau.de^$3p
+---filters

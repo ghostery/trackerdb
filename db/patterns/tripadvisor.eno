@@ -13,3 +13,12 @@ tripadvisor.de
 --- domains
 
 ghostery_id: 3914
+
+---filters
+||jscache.com^$3p
+||tacdn.com^$3p
+||tamgrt.com^$3p
+||tripadvisor.co.uk^$3p
+||tripadvisor.com^$3p
+||tripadvisor.de^$3p
+---filters

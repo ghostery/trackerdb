@@ -7,3 +7,7 @@ eanalyzer.de
 --- domains
 
 ghostery_id: 3523
+
+---filters
+||eanalyzer.de^$3p
+---filters

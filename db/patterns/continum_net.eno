@@ -7,3 +7,7 @@ continum.net
 --- domains
 
 ghostery_id: 3474
+
+---filters
+||continum.net^$3p
+---filters

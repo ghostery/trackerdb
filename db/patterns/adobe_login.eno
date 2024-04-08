@@ -8,3 +8,7 @@ adobelogin.com
 --- domains
 
 ghostery_id: 3321
+
+---filters
+||adobelogin.com^$3p
+---filters

@@ -9,3 +9,8 @@ static-immobilienscout24.de
 --- domains
 
 ghostery_id: 3618
+
+---filters
+||immobilienscout24.de^$3p
+||static-immobilienscout24.de^$3p
+---filters

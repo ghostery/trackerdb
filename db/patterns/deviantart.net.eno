@@ -8,3 +8,8 @@ deviantart.net
 --- domains
 
 ghostery_id: 3500
+
+---filters
+||dapxl.com^$3p
+||deviantart.net^$3p
+---filters

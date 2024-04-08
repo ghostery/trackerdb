@@ -10,3 +10,9 @@ wbdx.fr
 --- domains
 
 ghostery_id: 3967
+
+---filters
+||goutee.top^$3p
+||mediaathay.org.uk^$3p
+||wbdx.fr^$3p
+---filters

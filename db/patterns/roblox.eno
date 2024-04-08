@@ -7,3 +7,7 @@ rbxcdn.com
 --- domains
 
 ghostery_id: 3815
+
+---filters
+||rbxcdn.com^$3p
+---filters

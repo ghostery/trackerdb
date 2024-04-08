@@ -8,3 +8,8 @@ xvideos.com
 --- domains
 
 ghostery_id: 3988
+
+---filters
+||xvideos-cdn.com^$3p
+||xvideos.com^$3p
+---filters

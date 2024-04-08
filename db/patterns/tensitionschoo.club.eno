@@ -7,3 +7,7 @@ tensitionschoo.club
 --- domains
 
 ghostery_id: 3897
+
+---filters
+||tensitionschoo.club^$3p
+---filters

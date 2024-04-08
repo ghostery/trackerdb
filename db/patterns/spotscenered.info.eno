@@ -7,3 +7,7 @@ spotscenered.info
 --- domains
 
 ghostery_id: 3868
+
+---filters
+||spotscenered.info^$3p
+---filters

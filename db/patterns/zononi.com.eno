@@ -7,3 +7,7 @@ zononi.com
 --- domains
 
 ghostery_id: 4009
+
+---filters
+||zononi.com^$3p
+---filters

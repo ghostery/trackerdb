@@ -8,3 +8,7 @@ pulseradius.com
 --- domains
 
 ghostery_id: 3454
+
+---filters
+||pulseradius.com^$3p
+---filters

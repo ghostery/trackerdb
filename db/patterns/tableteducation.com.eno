@@ -7,3 +7,7 @@ tableteducation.com
 --- domains
 
 ghostery_id: 3892
+
+---filters
+||tableteducation.com^$3p
+---filters

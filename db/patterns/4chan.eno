@@ -7,3 +7,7 @@ website_url: https://www.4chan.org/
 --- domains
 
 ghostery_id: 4015
+
+---filters
+||4cdn.org^$3p
+---filters

@@ -7,3 +7,7 @@ website_url: https://www.7tv.de/
 --- domains
 
 ghostery_id: 4017
+
+---filters
+||7tv.de^$3p
+---filters

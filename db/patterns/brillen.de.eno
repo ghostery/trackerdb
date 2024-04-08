@@ -7,3 +7,7 @@ brillen.de
 --- domains
 
 ghostery_id: 3423
+
+---filters
+||brillen.de^$3p
+---filters

@@ -8,3 +8,7 @@ fileserve.xyz
 --- domains
 
 ghostery_id: 3548
+
+---filters
+||fileserve.xyz^$3p
+---filters

@@ -7,3 +7,7 @@ v12group.com
 --- domains
 
 ghostery_id: 3941
+
+---filters
+||v12group.com^$3p
+---filters

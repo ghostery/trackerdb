@@ -7,3 +7,7 @@ mein-bmi.com
 --- domains
 
 ghostery_id: 3684
+
+---filters
+||mein-bmi.com^$3p
+---filters

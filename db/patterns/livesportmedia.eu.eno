@@ -7,3 +7,7 @@ livesportmedia.eu
 --- domains
 
 ghostery_id: 3661
+
+---filters
+||livesportmedia.eu^$3p
+---filters

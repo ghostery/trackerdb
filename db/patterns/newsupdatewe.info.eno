@@ -7,3 +7,7 @@ newsupdatewe.info
 --- domains
 
 ghostery_id: 3713
+
+---filters
+||newsupdatewe.info^$3p
+---filters

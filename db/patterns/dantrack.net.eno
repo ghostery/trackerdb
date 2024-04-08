@@ -8,3 +8,7 @@ dantrack.net
 --- domains
 
 ghostery_id: 3489
+
+---filters
+||dantrack.net^$3p
+---filters

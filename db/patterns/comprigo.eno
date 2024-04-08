@@ -7,3 +7,7 @@ comprigo.com
 --- domains
 
 ghostery_id: 3468
+
+---filters
+||comprigo.com^$3p
+---filters

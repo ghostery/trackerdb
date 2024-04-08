@@ -8,3 +8,7 @@ sharepointonline.com
 --- domains
 
 ghostery_id: 3840
+
+---filters
+||sharepointonline.com^$3p
+---filters

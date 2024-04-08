@@ -8,3 +8,7 @@ sli-system.com
 --- domains
 
 ghostery_id: 3809
+
+---filters
+||sli-system.com^$3p
+---filters

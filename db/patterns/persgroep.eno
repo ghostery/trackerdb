@@ -8,3 +8,7 @@ persgroep.net
 --- domains
 
 ghostery_id: 3764
+
+---filters
+||persgroep.net^$3p
+---filters

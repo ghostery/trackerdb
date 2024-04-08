@@ -7,3 +7,7 @@ wayfair.com
 --- domains
 
 ghostery_id: 3962
+
+---filters
+||wayfair.com^$3p
+---filters

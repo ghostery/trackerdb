@@ -7,3 +7,7 @@ trustwave.com
 --- domains
 
 ghostery_id: 3918
+
+---filters
+||trustwave.com^$3p
+---filters

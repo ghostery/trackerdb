@@ -8,3 +8,7 @@ pubmine.com
 --- domains
 
 ghostery_id: 3980
+
+---filters
+||pubmine.com^$3p
+---filters

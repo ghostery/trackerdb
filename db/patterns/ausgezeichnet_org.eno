@@ -7,3 +7,7 @@ ausgezeichnet.org
 --- domains
 
 ghostery_id: 3376
+
+---filters
+||ausgezeichnet.org^$3p
+---filters

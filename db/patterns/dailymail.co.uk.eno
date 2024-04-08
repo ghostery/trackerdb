@@ -8,3 +8,7 @@ dailymail.co.uk
 --- domains
 
 ghostery_id: 3486
+
+---filters
+||dailymail.co.uk^$3p
+---filters

@@ -7,3 +7,7 @@ tdsrmbl.net
 --- domains
 
 ghostery_id: 3896
+
+---filters
+||tdsrmbl.net^$3p
+---filters
