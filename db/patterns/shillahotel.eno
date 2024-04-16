@@ -1,0 +1,12 @@
+name: Hotel Shilla
+category: site_analytics
+website_url: https://www.hotelshilla.net/
+organization: samsung
+
+--- domains
+logc.shilladfs.com
+--- domains
+
+--- filters
+||logc.shilladfs.com^$3p
+--- filters
