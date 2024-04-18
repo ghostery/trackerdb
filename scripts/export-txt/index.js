@@ -16,12 +16,23 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
   for (const [id, spec] of getSpecs('patterns')) {
     const category = spec.field('category').requiredStringValue();
     const filters = spec.field('filters').optionalStringValue();
+    const domains = spec.field('domains').optionalStringValue();
+    const comment = `! trackerdb_id:${id} trackerdb_category:${category}`;
     if (filters) {
       for (const line of filters.split(/[\r\n]+/g)) {
         const trimmed = line.trim();
         if (trimmed && !trimmed.startsWith('!')) {
-          FILTERS.push(`! trackerdb_id:${id} trackerdb_category:${category}`);
+          FILTERS.push(`${comment} trackerdb_filter`);
           FILTERS.push(trimmed);
+        }
+      }
+    }
+    if (domains) {
+      for (const line of domains.split(/[\r\n]+/g)) {
+        const trimmed = line.trim();
+        if (trimmed && !trimmed.startsWith('!')) {
+          FILTERS.push(`${comment} trackerdb_domain`);
+          FILTERS.push(`||${trimmed}^$third-party`);
         }
       }
     }
