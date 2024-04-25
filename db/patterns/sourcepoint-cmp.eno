@@ -1,0 +1,12 @@
+name: Sourcepoint CMP
+category: consent
+website_url: https://sourcepoint.com/cmp/
+organization: sourcepoint
+
+--- domains
+privacy-mgmt.com
+--- domains
+
+--- filters
+/v2/pv-data?
+--- filters
