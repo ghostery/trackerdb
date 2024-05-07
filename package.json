@@ -43,22 +43,22 @@
     "node": ">=18.0"
   },
   "dependencies": {
-    "@cliqz/adblocker": "^1.27.1",
-    "better-sqlite3": "^9.2.2",
+    "@cliqz/adblocker": "^1.27.3",
+    "better-sqlite3": "^9.6.0",
     "enolib": "^0.8.2",
-    "iso-3166-1-alpha-2": "^1.0.0",
-    "tldts-experimental": "^5.7.76"
+    "iso-3166-1-alpha-2": "^1.0.2",
+    "tldts-experimental": "^6.1.19"
   },
   "devDependencies": {
-    "@types/node": "^18.16.3",
-    "@typescript-eslint/eslint-plugin": "^5.59.2",
-    "@typescript-eslint/parser": "^5.59.2",
-    "chalk": "^5.1.2",
-    "ejs": "^3.1.9",
-    "eslint": "^8.39.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.6.2",
-    "typescript": "^5.0.4"
+    "@types/node": "^20.12.10",
+    "@typescript-eslint/eslint-plugin": "^7.8.0",
+    "@typescript-eslint/parser": "^7.8.0",
+    "chalk": "^5.3.0",
+    "ejs": "^3.1.10",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
   }
 }
