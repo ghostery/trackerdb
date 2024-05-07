@@ -1,0 +1,9 @@
+name: CookieYes
+category: consent
+website_url: https://www.cookieyes.com/
+organization: cookieyes
+
+--- domains
+cdn-cookieyes.com
+log.cookieyes.com
+--- domains
