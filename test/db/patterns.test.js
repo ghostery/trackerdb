@@ -36,6 +36,10 @@ test(RESOURCE_PATH, async (t) => {
     await t.test(`pattern: ${specName}`, async (t) => {
       let spec;
 
+      t.test('filename is not a number', () => {
+        assert.strictEqual(Number(specName), NaN);
+      });
+
       await t.test('has a valid filename', () => {
         assert(!specName.includes(':'));
       });
