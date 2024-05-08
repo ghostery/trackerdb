@@ -9,11 +9,6 @@ en25.com
 --- domains
 
 --- filters
-/elqcfg.js
-/elqcfgxml.js
-/elqimg.js
-||eloqua.com^$3p
-||en25.com^$3p
 --- filters
 
 ghostery_id: 166
