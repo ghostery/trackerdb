@@ -4,7 +4,7 @@ website_url: https://www.skyscanner.com
 organization: trip_com
 
 --- domains
-espanol.skyscanner.com
+skyscanner.com
 skyscanner.net
 skyscanner.pt
 skyscanner.qa
@@ -13,7 +13,6 @@ skyscanner.at
 skyscanner.fr
 skyscanner.com.au
 skyscanner.ro
-skyscanner.com
 skyscanner.com.sa
 skyscanner.com.br
 skyscanner.se
@@ -54,7 +53,7 @@ skyscanner.pl
 --- domains
 
 --- filters
-||espanol.skyscanner.com/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
+||skyscanner.com/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
 ||skyscanner.net/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
 ||skyscanner.pt/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
 ||skyscanner.qa/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
@@ -63,7 +62,6 @@ skyscanner.pl
 ||skyscanner.fr/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
 ||skyscanner.com.au/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
 ||skyscanner.ro/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
-||skyscanner.com/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
 ||skyscanner.com.sa/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
 ||skyscanner.com.br/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
 ||skyscanner.se/slipstream/grp/v1/custom/public/banana/mbd-web/user_behaviour_data_domain.ElementImpression
