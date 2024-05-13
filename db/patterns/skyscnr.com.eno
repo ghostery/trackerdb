@@ -1,9 +1,8 @@
 name: Skyscanner CDN
 category: cdn
 website_url: https://www.skyscanner.net/
+organization: trip_com
 
 --- domains
 skyscnr.com
 --- domains
-
-ghostery_id: 3855
