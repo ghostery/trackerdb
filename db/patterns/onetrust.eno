@@ -5,9 +5,24 @@ organization: onetrust
 
 --- domains
 onetrust.com
+cookielaw.org
 --- domains
 
 --- filters
+/js/onetrust/*
+/onetrust.
+/onetrust/consent/*
+/onetrustConsent.js
+/otBannerSdk.js
+##.onetrust-pc-dark-filter
+##.optanon-toggle-display
+##.ot-sdk-show-settings
+###consent_blackbar
+###cookie-preferences
+###onetrust-banner-sdk
+###onetrust-consent-sdk
+###ot-sdk-btn:not(button)
+###teconsent
 ||onetrust.com^$third-party
 --- filters
 

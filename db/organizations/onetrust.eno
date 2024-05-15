@@ -1,11 +1,9 @@
 name: OneTrust
 website_url: https://www.onetrust.com/
-privacy_policy_url: https://www.cookielaw.org/privacy-policy/
-privacy_contact: info@cookielaw.org
+privacy_policy_url: https://www.onetrust.com/privacy-notice/
+privacy_contact: dpo@onetrust.com
 country: US
-description: Evolving data privacy regulations create consistent challenges for website owners. EU cookie laws based on the ePrivacy Directive and GDPR, require organizations to inform website visitors about the data that’s being collected from them and to provide them with the choice over sharing their information.
-|  
-| OneTrust provides website owners with a transparent mechanism for obtaining required cookie consent from website visitors and respecting Do Not Track requests, helping organizations comply with EU Cookie Laws. Our comprehensive cookie compliance solution includes continuous website scanning against a 5.5M cookie database, flexible interface for managing visitor consent, and customizable visitor preferences center.
+description: OneTrust is a privacy and security software provider that offers a comprehensive Trust Intelligence Platform for consent management. It also operates CookieLaw, a website providing compliance tools for cookie laws, under the domain cookielaw.org. CookieLaw was previously known as Optanon before being acquired by OneTrust in 2016. OneTrust's solutions aim to streamline privacy and compliance processes for organizations of all sizes, enabling them to build trust and maintain regulatory compliance.
 
 --- notes
 --- notes
