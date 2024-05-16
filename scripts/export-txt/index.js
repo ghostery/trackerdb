@@ -32,7 +32,7 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
         const trimmed = line.trim();
         if (trimmed && !trimmed.startsWith('!')) {
           FILTERS.push(`${comment} trackerdb_domain`);
-          FILTERS.push(`||${trimmed}^$third-party`);
+          FILTERS.push(`||${trimmed}^`);
         }
       }
     }
