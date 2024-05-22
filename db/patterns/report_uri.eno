@@ -4,8 +4,9 @@ website_url: https://report-uri.com
 organization: report_uri
 
 --- domains
-||report-uri.com^$3p
+report-uri.com
 --- domains
 
 --- filters
+||report-uri.com^$3p
 --- filters
