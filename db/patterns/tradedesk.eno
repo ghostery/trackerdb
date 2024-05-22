@@ -5,10 +5,12 @@ organization: the_trade_desk
 
 --- domains
 adsrvr.org
+adsrvr.cn
 --- domains
 
 --- filters
 ||adsrvr.org^$3p
+||adsrvr.cn^$3p
 --- filters
 
 ghostery_id: 579
