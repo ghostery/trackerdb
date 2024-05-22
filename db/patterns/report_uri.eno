@@ -1,0 +1,11 @@
+name: Report URI
+category: essential
+website_url: https://report-uri.com
+organization: report_uri
+
+--- domains
+||report-uri.com^$3p
+--- domains
+
+--- filters
+--- filters
