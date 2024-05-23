@@ -1,0 +1,12 @@
+name: iQIYI
+category: advertising
+website_url: https://www.iqiyi.com
+organization: baidu
+
+--- domains
+iqiyi.com
+--- domains
+
+--- filters
+||cmk.iqiyi.com/pixel^$3p
+--- filters
