@@ -1,0 +1,14 @@
+name: ZoomInfo
+category: advertising
+website_url: https://www.zoominfo.com
+organization: zoominfo
+
+--- domains
+zoominfo.com
+clickagy.com
+--- domains
+
+--- filters
+||zoominfo.com^$3p
+||clickagy.com^$3p
+--- filters
