@@ -12,10 +12,6 @@ Most audio and video players on websites.
 
 Content Delivery Networks (CDNs) distribute resources for different site utilities, and collect user analytics and tracking data.
 
-## Comments
-
-Comment sections for articles and product reviews.
-
 ## Consent Management
 
 Cookie consent managers, allowing websites different levels of tracking user activity.
@@ -23,10 +19,6 @@ Cookie consent managers, allowing websites different levels of tracking user act
 ## Customer Interaction
 
 Chat widgets, customer support, and other interaction tools.
-
-## Email
-
-Tracking pixels used to measure email open rates.
 
 ## Essential
 
@@ -59,3 +51,4 @@ Features related to social media platforms.
 ## Telemetry
 
 Gathers information about user interaction, error reports, and performance. The data is used to improve products.
+
