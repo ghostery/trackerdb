@@ -23,6 +23,7 @@ alias: google_syndication
 ||pagead2.googlesyndication.com/pub-config/*/ca-pub-*.js^$3p
 ||partner.googleadservices.com/gampad/
 ||tpc.googlesyndication.com/sodar
+||fundingchoicesmessages.google.com
 --- filters
 
 ghostery_id: 37
