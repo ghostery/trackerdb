@@ -1,0 +1,12 @@
+name: Disney+ Analytics
+category: site_analytics
+website_url: https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/
+organization: disney
+
+--- domains
+sanalytics.disneyplus.com
+--- domains
+
+--- filters
+||sanalytics.disneyplus.com^$3p
+--- filters
