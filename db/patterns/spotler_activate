@@ -1,0 +1,12 @@
+name: Spotler Activate
+category: marketing
+website_url: https://spotleractivate.com
+organization: spotler_group
+
+--- domains
+squeezely.tech
+--- domains
+
+--- filters
+||squeezely.tech^$3p
+--- filters
