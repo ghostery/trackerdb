@@ -1,0 +1,13 @@
+name: Panasonic Inflight WiFi
+category: customer_interaction
+website_url: https://www.panasonic.aero/
+organization: panasonic
+
+--- domains
+pacwisp.net
+inflightpanasonic.aero
+--- domains
+
+--- filters
+||services.inflightpanasonic.aero/inflight/services/analytics
+--- filters
