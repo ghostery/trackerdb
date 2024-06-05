@@ -1,0 +1,12 @@
+name: HubSpot Ads pixel
+category: advertising
+website_url: https://www.hubspot.com
+organization: hubspot
+
+--- domains
+hsadspixel.net
+--- domains
+
+--- filters
+||hsadspixel.net^$3p
+--- filters
