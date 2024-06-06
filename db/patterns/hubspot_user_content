@@ -1,0 +1,20 @@
+name: HubSpot User Content
+category: hosting
+website_url: http://www.hubspot.com
+organization: hubspot
+
+--- domains
+hubspotusercontent00.net
+hubspotusercontent10.net
+hubspotusercontent20.net
+hubspotusercontent30.net
+hubspotusercontent40.net
+hubspot.net
+hubspotvideo.com
+hsappstatic.net	
+--- domains
+
+--- filters
+cdn2.hubspot.net^&3p
+static.hsappstatic.net^&3p
+--- filters
