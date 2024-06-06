@@ -4,11 +4,10 @@ website_url: http://www.hubspot.com
 organization: hubspot
 
 --- domains
-js.hs-banner.com
+hs-banner.com
 wtcfns.hubspot.com
 --- domains
 
 --- filters
-||js.hs-banner.com/v*/activity$3p
 ||wtcfns.hubspot.com^$3p
 --- filters
