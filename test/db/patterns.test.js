@@ -26,6 +26,12 @@ const FIELDS_ALLOW_LIST = [
   'archived',
 ];
 
+function parseSpecFile(specFile) {
+  return enolib.parse(
+    readFileSync(path.join(RESOURCE_PATH, specFile), 'utf-8'),
+  );
+}
+
 test(RESOURCE_PATH, async (t) => {
   const specFiles = readdirSync(RESOURCE_PATH).filter(
     (file) => path.extname(file) === SPEC_FILE_EXTENSION,
@@ -45,9 +51,7 @@ test(RESOURCE_PATH, async (t) => {
       });
 
       await t.test('has spec file', () => {
-        spec = enolib.parse(
-          readFileSync(path.join(RESOURCE_PATH, specFile), 'utf-8'),
-        );
+        spec = parseSpecFile(specFile);
       });
 
       await t.test('has a name', () => {
@@ -113,4 +117,21 @@ test(RESOURCE_PATH, async (t) => {
       });
     });
   }
+
+  await t.test('has no overlapping domains', () => {
+    const domainsSeen = new Map();
+    for (const specFile of specFiles) {
+      const specName = path.basename(specFile, SPEC_FILE_EXTENSION);
+      const spec = parseSpecFile(specFile);
+      const domains = spec.field('domains').optionalStringValue();
+      if (domains) {
+        for (const line of domains.split(/[\r\n]+/g)) {
+          const domain = line.trim();
+          const conflict = domainsSeen.get(domain);
+          assert.ok(!conflict, `Domain lists overlap between: "${domain}" is included both in "${conflict}" and "${specName}"`);
+          domainsSeen.set(domain, specName);
+        }
+      }
+    }
+  });
 });
