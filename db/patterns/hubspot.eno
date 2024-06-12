@@ -11,6 +11,7 @@ hubapi.com
 hubspot.com
 hscta.net
 hs-sites-eu1.com
+no-cache.hubspot.com
 --- domains
 
 --- filters
@@ -22,8 +23,6 @@ hs-sites-eu1.com
 ||track.hubspot.com^$3p
 ||app.hubspot.com/content-tools-menu/api/v1/tools-menu/has-permission-json
 ||cta-service-cms2.hubspot.com^
-||hubspot.net^$3p
-||no-cache.hubspot.com
 --- filters
 
 ghostery_id: 26

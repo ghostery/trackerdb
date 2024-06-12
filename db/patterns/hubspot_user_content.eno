@@ -13,8 +13,3 @@ cdn2.hubspot.net
 hubspotvideo.com
 hsappstatic.net
 --- domains
-
---- filters
-cdn2.hubspot.net^&3p
-static.hsappstatic.net^&3p
---- filters
