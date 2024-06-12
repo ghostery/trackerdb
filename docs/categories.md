@@ -8,10 +8,6 @@ Advertising services that utilize data collection, behavioral analysis, and user
 
 Most audio and video players on websites.
 
-## CDN
-
-Content Delivery Networks (CDNs) distribute resources for different site utilities, and collect user analytics and tracking data.
-
 ## Consent Management
 
 Cookie consent managers, allowing websites different levels of tracking user activity.
