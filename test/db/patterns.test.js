@@ -128,7 +128,10 @@ test(RESOURCE_PATH, async (t) => {
         for (const line of domains.split(/[\r\n]+/g)) {
           const domain = line.trim();
           const conflict = domainsSeen.get(domain);
-          assert.ok(!conflict, `Domain lists overlap between: "${domain}" is included both in "${conflict}" and "${specName}"`);
+          assert.ok(
+            !conflict,
+            `Domain lists overlap between: "${domain}" is included both in "${conflict}" and "${specName}"`,
+          );
           domainsSeen.set(domain, specName);
         }
       }
