@@ -8,4 +8,6 @@ svc.dynamics.com
 --- domains
 
 --- filters
+||svc.dynamics.com/f/m/$3p
+||svc.dynamics.com/t/w$3p
 --- filters
