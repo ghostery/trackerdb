@@ -1,0 +1,13 @@
+name: Life Inside
+category: customer_interaction
+website_url: https://www.lifeinside.io
+organization: life_inside
+
+--- domains
+app.lifeinside.io
+backend.lifeinside.io
+widget.lifeinside.io
+--- domains
+
+--- filters
+--- filters
