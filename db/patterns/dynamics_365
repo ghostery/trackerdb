@@ -1,0 +1,11 @@
+name: Dynamics 365
+category: advertising
+website_url: https://www.microsoft.com/en-gb/dynamics-365
+organization: microsoft
+
+--- domains
+svc.dynamics.com
+--- domains
+
+--- filters
+--- filters
