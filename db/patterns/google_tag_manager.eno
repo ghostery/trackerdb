@@ -5,12 +5,10 @@ organization: google
 
 --- domains
 googletagmanager.com
-googletagservices.com
 --- domains
 
 --- filters
-||googletagmanager.com^$3p
-||googletagservices.com^$3p
+||googletagmanager.com/gtm.js^$3p
 --- filters
 
 ghostery_id: 1283
