@@ -1,0 +1,12 @@
+name: consentmanager
+category: consent
+website_url: https://www.consentmanager.net
+organization: iubenda
+
+--- domains
+consentmanager.net
+--- domains
+
+--- filters
+||consentmanager.net^$3p
+--- filters
