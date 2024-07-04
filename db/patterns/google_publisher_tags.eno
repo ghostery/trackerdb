@@ -1,11 +1,12 @@
 name: Google Publisher Tags
 category: site_analytics
-website_url: 
+website_url: https://developers.google.com/publisher-tag/reference
 organization: google
 alias: google_tag_manager
 
 --- filters
 ||partner.googleadservices.com/gpt/pubads_impl
+||googletagservices.com/tag/js/gpt.js
 --- filters
 
 ghostery_id: 2453
