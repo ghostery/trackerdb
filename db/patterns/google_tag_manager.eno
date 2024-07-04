@@ -2,10 +2,7 @@ name: Google Tag Manager
 category: essential
 website_url: https://marketingplatform.google.com/about/tag-manager/
 organization: google
-
---- domains
-googletagmanager.com
---- domains
+alias: google_tag
 
 --- filters
 ||googletagmanager.com/gtm.js^$3p
