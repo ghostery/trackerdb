@@ -1,0 +1,12 @@
+name: CookieTractor
+category: consent
+website_url: https://www.cookietractor.com
+organization: obvi_use
+
+--- domains
+cookietractor.com
+--- domains
+
+--- filters
+||cookietractor.com^$3p
+--- filters
