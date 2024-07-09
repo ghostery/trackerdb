@@ -7,6 +7,7 @@
     "build": "rm -fr dist/* && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && ./fixup && npm run export",
     "test": "node test/index.js",
     "lint": "eslint --ignore-path .gitignore --ext .js,.ts .",
+    "lint-fix": "eslint --fix --ignore-path .gitignore --ext .js,.ts .",
     "update-docs": "node scripts/update-docs.js",
     "export": "npm run export-json && npm run export-engine && npm run export-sql && npm run export-txt",
     "export-sql": "node scripts/export-sql/index.js",

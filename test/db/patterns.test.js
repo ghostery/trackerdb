@@ -8,7 +8,9 @@ import {
   CATEGORIES,
   ORGANIZATIONS,
   SPEC_FILE_EXTENSION,
+  isSpecFile,
   assertUrl,
+  partition,
 } from '../helpers.js';
 
 const RESOURCE_PATH = path.join('db', 'patterns');
@@ -33,9 +35,37 @@ function parseSpecFile(specFile) {
 }
 
 test(RESOURCE_PATH, async (t) => {
-  const specFiles = readdirSync(RESOURCE_PATH).filter(
-    (file) => path.extname(file) === SPEC_FILE_EXTENSION,
+  const [specFiles, nonSpecFiles] = partition(
+    readdirSync(RESOURCE_PATH),
+    isSpecFile,
   );
+
+  await t.test('All patterns must end with ".eno"', () => {
+    assert.ok(
+      nonSpecFiles.length === 0,
+      `Patterns files detected that do not end on ".eno". Rename the following files to end with .eno:\n${nonSpecFiles.toSorted().join('\n')}\n`,
+    );
+  });
+
+  await t.test('Patterns must be ASCII without white spaces', () => {
+    const badNames = new Set(
+      specFiles.filter((file) => !/^[a-z0-9._-]+[.]eno$/.test(file)),
+    );
+
+    // these are historical names, but should be avoided in the future:
+    for (const exception of ['yume,_inc..eno', 'mark_+_mini.eno']) {
+      assert(
+        badNames.delete(exception),
+        `Exception no longer needed, please remove: ${exception}`,
+      );
+    }
+
+    assert.ok(
+      badNames.size === 0,
+      `The following files do not meet the naming conventions. Rename the following files:\n${[...badNames].sort().join('\n')}\n`,
+    );
+  });
+
   for (const specFile of specFiles) {
     const specName = path.basename(specFile, SPEC_FILE_EXTENSION);
 
