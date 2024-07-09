@@ -5,6 +5,10 @@ import { parse } from 'tldts-experimental';
 
 export const SPEC_FILE_EXTENSION = '.eno';
 
+export function isSpecFile(file) {
+  return path.extname(file) === SPEC_FILE_EXTENSION;
+}
+
 export const CATEGORIES = readdirSync('./db/categories')
   .filter((file) => path.extname(file) === SPEC_FILE_EXTENSION)
   .map((file) => path.basename(file, SPEC_FILE_EXTENSION));
@@ -21,3 +25,17 @@ export const assertUrl = (url) => {
   );
   assert(url.startsWith('http'), `${url} does not start with http`);
 };
+
+export function partition(arr, pred) {
+  const matches = [];
+  const rest = [];
+
+  for (const x of arr) {
+    if (pred(x)) {
+      matches.push(x);
+    } else {
+      rest.push(x);
+    }
+  }
+  return [matches, rest];
+}

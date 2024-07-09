@@ -4,7 +4,12 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import enolib from 'enolib';
 import iso3311a2 from 'iso-3166-1-alpha-2';
-import { SPEC_FILE_EXTENSION, assertUrl } from '../helpers.js';
+import {
+  SPEC_FILE_EXTENSION,
+  isSpecFile,
+  assertUrl,
+  partition,
+} from '../helpers.js';
 
 const ALLOWED_COUNTRIES = iso3311a2.getCodes();
 const ALLOWER_COUNTRIES_STRING = ALLOWED_COUNTRIES.sort()
@@ -24,9 +29,51 @@ const FIELDS_ALLOW_LIST = [
 ];
 
 test(RESOURCE_PATH, async (t) => {
-  const specFiles = readdirSync(RESOURCE_PATH).filter(
-    (file) => path.extname(file) === SPEC_FILE_EXTENSION,
+  const [specFiles, nonSpecFiles] = partition(
+    readdirSync(RESOURCE_PATH),
+    isSpecFile,
   );
+
+  await t.test('All organizations must end with ".eno"', () => {
+    const unexpectedFiles = new Set(nonSpecFiles);
+    unexpectedFiles.delete('.gitkeep');
+
+    assert.ok(
+      unexpectedFiles.size === 0,
+      `Organization files detected that do not end on ".eno". Rename the following files to end with .eno:\n${[...unexpectedFiles].sort().join('\n')}\n`,
+    );
+  });
+
+  await t.test('Organizations must be ASCII without white spaces', () => {
+    const badNames = new Set(
+      specFiles.filter((file) => !/^[a-z0-9._-]+[.]eno$/.test(file)),
+    );
+
+    // these are historical names, but should be avoided in the future:
+    for (const exception of [
+      'AO Kaspersky Lab.eno',
+      'dun_&_bradstreet.eno',
+      'contact_at_once!.eno',
+      'financeads_gmbh_&_co._kg.eno',
+      'green_&_red_technologies.eno',
+      "i'mad_republic.eno",
+      'livechatnow!.eno',
+      'lucini_&_lucini_communications.eno',
+      'press+.eno',
+      'sitemeter,_inc..eno',
+    ]) {
+      assert(
+        badNames.delete(exception),
+        `Exception no longer needed, please remove: ${exception}`,
+      );
+    }
+
+    assert.ok(
+      badNames.size === 0,
+      `The following files do not meet the naming conventions. Rename the following files:\n${[...badNames].sort().join('\n')}\n`,
+    );
+  });
+
   for (const specFile of specFiles) {
     const specName = path.basename(specFile, SPEC_FILE_EXTENSION);
 
