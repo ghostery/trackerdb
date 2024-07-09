@@ -5,7 +5,12 @@ organization: microsoft
 
 --- domains
 js.monitor.azure.com
+visualstudio.com
+applicationinsights.azure.com
+applicationinsights.microsoft.com
+monitor.azure.com
 --- domains
 
 --- filters
+||visualstudio.com/v2/track
 --- filters
