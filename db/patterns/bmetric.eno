@@ -1,0 +1,25 @@
+name: bmetric
+category: customer_interaction
+website_url: https://bmetric.com/
+organization: bmetric
+
+--- domains
+web.telemetric.dk
+insight.bellmetric.net
+bmetricpublisher.com
+--- domains
+
+--- filters
+||web.telemetric.dk/t/.*/bm.js
+||web.telemetric.dk/t/.*/tm.js
+||web.telemetric.dk/t/.*/n?.*
+||web.telemetric.dk/t/c/.*
+||insight.bellmetric.net/static/js/publisher.min.js
+||insight.bellmetric.net/vipbar/getnumber/.*
+||bmetricpublisher.com/t/.*/bm.js
+||bmetricpublisher.com/t/.*/tm.js
+||bmetricpublisher.com/t/.*/n?.*
+||bmetricpublisher.com/t/c/.*
+||bmetricpublisher.com/static/js/publisher.min.js
+||bmetricpublisher.com/vipbar/getnumber/.*
+--- filters
