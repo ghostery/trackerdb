@@ -11,7 +11,6 @@ bmetricpublisher.com
 --- domains
 
 --- filters
-
 ||web.telemetric.dk/t/.*/bm.js
 ||web.telemetric.dk/t/.*/tm.js
 ||web.telemetric.dk/t/.*/n?.*
