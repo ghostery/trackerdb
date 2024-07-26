@@ -1,0 +1,23 @@
+name: Omnisend
+category: site_analytics
+website_url: https://www.omnisend.com/
+organization: omnisend
+
+--- domains
+app.omnisend.com
+omnisnippet1.com
+wt.omnisendlink.com
+--- domains
+
+--- filters
+||omnisnippet1.com/inShop/Embed/shopify.js$3p
+||omnisnippet1.com/forms/main.js$3p
+||omnisnippet1.com/inshop/launcher-v2.js$3p
+||omnisnippet1.com/inShop/push-notifications.js$3p
+||wt.omnisendlink.com/REST/inShop/v1/getSettings$3p
+/scripts/omnitrack-lately.js$3p
+||cdn.shopify.com/extensions/*omnisend*
+||cdn.shopify.com/extensions/*omnitrack*
+||extensions.shopifycdn.com/*omnisend*
+||extensions.shopifycdn.com/*omnitrack*
+--- filters
