@@ -6,6 +6,8 @@ alias: google_tag
 
 --- filters
 ||googletagmanager.com/gtm.js^$3p
+||googletagmanager.com/a?^$3p
+||googletagmanager.com/td?^$3p
 --- filters
 
 ghostery_id: 1283
