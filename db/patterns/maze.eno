@@ -1,0 +1,12 @@
+name: Maze
+category: site_analytics
+website_url: https://maze.co
+organization: maze
+
+--- domains
+maze.co
+--- domains
+
+--- filters
+||maze.co^$3p
+--- filters
