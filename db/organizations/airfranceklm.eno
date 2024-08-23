@@ -1,8 +1,8 @@
 name: Air France-KLM Group
 website_url: https://www.airfranceklm.com/en
 privacy_policy_url: https://wwws.airfrance.fr/en/information/legal/edito-psc
-privacy_contact:
-country:
+privacy_contact: mail.data.protection@airfrance.fr
+country: FR
 description: Air France-KLM Group provides passenger and cargo transportation services, including scheduled flights, freight forwarding, and logistical support across global routes.
 
 --- notes
