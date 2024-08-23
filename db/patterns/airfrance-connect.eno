@@ -1,0 +1,12 @@
+name: AirFrance Connect
+category: telemetry
+website_url: https://airfrance.com/
+organization: airfranceklm
+
+--- domains
+connect.airfrance.com
+--- domains
+
+--- filters
+||connect.airfrance.com/ach/api/event^
+--- filters
