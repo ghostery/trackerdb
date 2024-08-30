@@ -1,0 +1,9 @@
+name: Ketch Kloud
+category: consent
+website_url: https://www.ketch.com
+organization: ketch
+
+--- domains
+global.ketchcdn.com
+cdn.ketchjs.com
+--- domains
