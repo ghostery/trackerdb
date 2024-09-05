@@ -1,0 +1,11 @@
+name: Piwik PRO Tag Manager
+category: essential
+website_url: https://piwik.pro/tag-manager/
+organization: cookieinformation
+
+--- domains
+containers.piwik.pro
+--- domains
+
+--- filters
+--- filters

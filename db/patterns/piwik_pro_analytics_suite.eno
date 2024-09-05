@@ -1,15 +1,13 @@
 name: Piwik PRO Analytics Suite
 category: site_analytics
-website_url: https://piwik.pro/
-organization: piwik_pro
+website_url: https://piwik.pro/web-analytics/
+organization: cookieinformation
 
 --- domains
 piwik.pro
 --- domains
 
 --- filters
-||cdn.piwik.pro/consent
-||marketing.piwik.pro/containers/
 --- filters
 
 ghostery_id: 4052
