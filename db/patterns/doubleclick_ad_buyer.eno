@@ -1,6 +1,6 @@
-name: DoubleClick Ad Exchange-Buyer
+name: Authorized Buyers
 category: advertising
-website_url: 
+website_url: https://developers.google.com/authorized-buyers/
 organization: google
 alias: google_adservices
 
