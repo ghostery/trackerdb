@@ -16,10 +16,6 @@ Cookie consent managers, allowing websites different levels of tracking user act
 
 Chat widgets, customer support, and other interaction tools.
 
-## Essential
-
-Site requests that may be critical to website functionality, such as tag managers and privacy notices.
-
 ## Extensions
 
 Software that intercepts and analyzes browser requests by redirecting traffic to itself. This includes browser hijacking extensions, but also legitimate applications like anti-virus software.
@@ -47,4 +43,8 @@ Features related to social media platforms.
 ## Telemetry
 
 Gathers information about user interaction, error reports, and performance. The data is used to improve products.
+
+## Utility
+
+Site requests that may be critical to website functionality, such as tag managers and privacy notices.
 
