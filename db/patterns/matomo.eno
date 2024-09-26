@@ -15,8 +15,6 @@ piwik.org
 /matomo.php
 /piwik.js
 /piwik.php
-/ppms.js
-/ppms.php
 audiences/static/widget/audience-manager.api.min.js
 ||piwik.bayreuth.de/js/index.php
 --- filters
