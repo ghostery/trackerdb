@@ -1,16 +1,15 @@
 name: 6Sense
 category: site_analytics
-website_url: http://home.grepdata.com
+website_url: https://6sense.com/
 organization: 6sense
 
 --- domains
-d1lm7kd3bd3yo9.cloudfront.net
-grepdata.com
+6sc.co
+6sense.com
 --- domains
 
 --- filters
-||d1lm7kd3bd3yo9.cloudfront.net^$3p
-||grepdata.com^$3p
+||6sense.com^$3p
 --- filters
 
 ghostery_id: 1501
