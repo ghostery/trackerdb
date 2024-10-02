@@ -1,6 +1,6 @@
 name: Matomo
 category: site_analytics
-website_url: https://matomo.org/s
+website_url: https://matomo.org
 organization: matomo
 
 --- domains
@@ -16,7 +16,6 @@ piwik.org
 /piwik.js
 /piwik.php
 audiences/static/widget/audience-manager.api.min.js
-||piwik.bayreuth.de/js/index.php
 --- filters
 
 ghostery_id: 3127
