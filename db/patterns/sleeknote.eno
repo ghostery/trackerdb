@@ -4,13 +4,11 @@ website_url: https://sleeknote.com/
 organization: sleeknote
 
 --- domains
-sleeknotestaticcontent.sleeknote.com
-analytics.sleeknote.com
+sleeknote.com
 --- domains
 
 --- filters
-||sleeknotestaticcontent.sleeknote.com/core.js
-||analytics.sleeknote.com^
+||sleeknote.com^$3p
 --- filters
 
 ghostery_id: 2653
