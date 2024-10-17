@@ -6,7 +6,7 @@ alias: google_tag
 
 --- filters
 ||googletagmanager.com/gtm.js^$3p
-||googletagmanager.com/a?id=GTM-^$3p
+||googletagmanager.com/a\?(.+)&gtm=^$3p
 ||googletagmanager.com/td?id=GTM-^$3p
 --- filters
 
