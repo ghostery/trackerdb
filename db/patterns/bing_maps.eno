@@ -11,6 +11,8 @@ atlas.microsoft.com
 
 --- filters
 ||r.bing.com/rp^$script
+||www.bing.com/rp/.+\.js^$script
+||www.bing.com/rp/.+\.css^$stylesheet
 ||www.bing.com/api/maps/
 ||www.bing.com/maps/sdk
 ||www.bing.com/maps/geotfe
