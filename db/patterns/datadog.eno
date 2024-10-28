@@ -1,0 +1,12 @@
+name: Datadog
+category: utilities
+website_url: https://www.datadoghq.com
+organization: datadog
+
+--- domains
+browser-intake-datadoghq.com
+datadoghq-browser-agent.com
+--- domains
+
+--- filters
+--- filters
