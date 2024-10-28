@@ -1,7 +1,7 @@
 name: ThreatMetrix
 category: utilities
-website_url: http://threatmetrix.com/
-organization: threatmetrix
+website_url: https://risk.lexisnexis.com/products/threatmetrix
+organization: lexisnexis
 
 --- domains
 online-metrix.net
