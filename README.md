@@ -11,7 +11,7 @@ At Ghostery, we're committed to describing things exactly as they are.
 The structure of Ghostery Tracker Database is simple and consists of three main elements:
 * **categories** - [advertising, site analytics, consent management, etc.](docs/categories.md)
 * **organizations** - companies like [Google](db/organizations/google.eno) or [Meta](db/organizations/facebook.eno), but also open source software like [Matomo](db/organizations/matomo.eno)
-* **patterns** - that express various behaviors performed by organizations. For example, a pattern for [Google Analytics](db/patterns/google_analytics.eno) is categorized as [site analytics](docs/categories.md#site-analytics), but a pattern for [Google Tag Manager](db/patterns/google_tag_manager.eno) is categorized as [essential](docs/categories.md#essential).
+* **patterns** - that express various behaviors performed by organizations. For example, a pattern for [Google Analytics](db/patterns/google_analytics.eno) is categorized as [site analytics](docs/categories.md#site-analytics), but a pattern for [Google Tag Manager](db/patterns/google_tag_manager.eno) is categorized as [utilities](docs/categories.md#utilities).
 
 ## Where is it used?
 
