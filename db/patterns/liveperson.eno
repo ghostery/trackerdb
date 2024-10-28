@@ -6,11 +6,13 @@ organization: liveperson
 --- domains
 liveperson.net
 lpsnmedia.net
+liveperson.com
 --- domains
 
 --- filters
 ||liveperson.net^$3p
 ||lpsnmedia.net^$3p
+||liveperson.com^$3p
 --- filters
 
 ghostery_id: 106
