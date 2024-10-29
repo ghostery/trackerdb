@@ -1,4 +1,4 @@
-import { FiltersEngine, Request, ENGINE_VERSION } from '@cliqz/adblocker';
+import { FiltersEngine, Request, ENGINE_VERSION } from '@ghostery/adblocker';
 
 export { Request as AdblockerRequest };
 

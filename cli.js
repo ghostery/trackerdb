@@ -3,7 +3,7 @@
 import { readFileSync } from 'node:fs';
 import path from 'node:path';
 import * as url from 'url';
-import { FiltersEngine, Request } from '@cliqz/adblocker';
+import { FiltersEngine, Request } from '@ghostery/adblocker';
 
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 

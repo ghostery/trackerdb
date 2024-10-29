@@ -2,7 +2,7 @@ import test from 'node:test';
 import { readdirSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import * as adblocker from '@cliqz/adblocker';
+import * as adblocker from '@ghostery/adblocker';
 import enolib from 'enolib';
 import {
   CATEGORIES,
