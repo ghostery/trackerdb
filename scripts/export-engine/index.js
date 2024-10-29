@@ -1,6 +1,6 @@
 import { rmSync, existsSync, writeFileSync, readFileSync } from 'node:fs';
 import path from 'node:path';
-import { FiltersEngine } from '@cliqz/adblocker';
+import { FiltersEngine } from '@ghostery/adblocker';
 import { prepareDistFolder, BASE_PATH } from '../helpers.js';
 
 (async () => {

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import * as adblocker from '@cliqz/adblocker';
+import * as adblocker from '@ghostery/adblocker';
 import chalk from 'chalk';
 
 import * as fs from 'fs';
