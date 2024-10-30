@@ -1,9 +1,9 @@
 name: Optimizely
 website_url: https://www.optimizely.com/
-privacy_policy_url: https://www.optimizely.com/privacy/
-privacy_contact: dpo@optimizely.com
+privacy_policy_url: https://www.optimizely.com/legal/privacy-notice/
+privacy_contact: privacy@optimizely.com
 country: US
-description: Optimizely is a website optimization solution. The product allows website owners to improve their websites via A/B testing tools.
+description: Optimizely provides digital experience platform software as a service. Optimizely provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.
 
 --- notes
 --- notes
