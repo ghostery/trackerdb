@@ -16,13 +16,13 @@ jobs:
         run: echo "TAG_NAME=$(date +'%Y%m%d%H%M')" >> $GITHUB_ENV
 
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: asdf_install
-        uses: asdf-vm/actions/install@v1
+        uses: asdf-vm/actions/install@05e0d2ed97b598bfce82fd30daf324ae0c4570e6
 
       - name: Cache node modules
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         env:
           cache-name: cache-node-modules
         with:
@@ -44,7 +44,7 @@ jobs:
       - name: NPM package version bump
         run: npm version patch --no-git-tag-version
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@8621497c8c39c72f3e2a999a26b4ca1b5058a842
         with:
           commit_message: "NPM package version bump"
 
