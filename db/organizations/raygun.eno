@@ -2,15 +2,8 @@ name: Raygun
 website_url: https://raygun.com/
 privacy_policy_url: https://raygun.com/privacy
 privacy_contact: hello@raygun.com
-country: 
-description: A Little About Us
-| Behind every great company there are great people. Raygun is no exception and we strive to deliver the highest quality service and tools for our customers all around the world.
-| 
-| Raygun helps 30,000 developers globally build better software and be the best developers they can be. Our tools integrate in minutes and provide deep insights into problems that are affecting end users, so you can find, diagnose and fix issues faster.
-| 
-| We believe that all software contains errors and problems, but it’s how you deal with those issues as a developer that can set you apart. Only 1% of users actively report issues they encounter, so we’re here to put the power in the developer's hands.
-| 
-| Our goal is to produce an unbeatable solution for our customers with powerful tools and responsive support. With 10 years experience building tools for developers, we can deliver.
+country: NZ
+description: Raygun provides error, crash and performance monitoring for software teams. Our tools integrate in minutes and provide deep insights into problems that are affecting end users, so you can find, diagnose and fix issues faster.
 
 --- notes
 --- notes
