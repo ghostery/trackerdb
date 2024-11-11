@@ -4,5 +4,9 @@ website_url: https://taggstar.com/
 organization: taggstar
 
 --- domains
-api.taggstar.com
+taggstar.com
 --- domains
+
+--- filters
+||taggstar.com^$3p
+--- filters
