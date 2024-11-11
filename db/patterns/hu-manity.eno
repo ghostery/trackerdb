@@ -1,0 +1,12 @@
+name: Hu-manity
+category: utilities
+website_url: https://hu-manity.co/
+organization: hu-manity
+
+--- domains
+hu-manity.co
+--- domains
+
+--- filters
+||hu-manity.co^$3p
+--- filters
