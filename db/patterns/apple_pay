@@ -1,0 +1,8 @@
+name: Apple Pay
+category: utilities
+website_url: https://www.apple.com/apple-pay/
+organization: apple
+
+--- domains
+applepay.cdn-apple.com
+--- domains
