@@ -1,0 +1,9 @@
+name: Coveo Platform
+category: customer_interaction
+website_url: https://docs.coveo.com/en/3361/coveo-platform-overview
+organization: coveo
+
+--- domains
+platform-eu.cloud.coveo.com
+platform.cloud.coveo.com
+--- domains
