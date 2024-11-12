@@ -1,0 +1,9 @@
+name: Coveo Usage Analytics
+category: site_analytics
+website_url: https://docs.coveo.com/en/l3bf0598/analyze-usage-data/overview
+organization: coveo
+
+--- domains
+analytics-eu.cloud.coveo.com
+analytics.cloud.coveo.com
+--- domains
