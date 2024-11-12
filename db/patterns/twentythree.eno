@@ -1,0 +1,16 @@
+name: TwentyThree
+category: audio_video_player
+website_url: https://www.twentythree.com
+organization: twentythree
+
+--- domains
+23video.com
+twentythree.net
+twentythree.com
+--- domains
+
+--- filters
+||23video.com^$3p
+||twentythree.net^$3p
+||twentythree.com^$3p
+--- filters
