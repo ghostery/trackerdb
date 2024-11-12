@@ -1,0 +1,12 @@
+name: UsableNet
+category: utilities
+website_url: https://usablenet.com
+organization: usablenet
+
+--- domains
+usablenet.com
+--- domains
+
+--- filters
+||usablenet.com^$3p
+--- filters
