@@ -1,11 +1,9 @@
 name: Active Campaign
 website_url: https://www.activecampaign.com
-privacy_policy_url: https://help.activecampaign.com/hc/en-us/articles/218789997-Privacy-Policy
-privacy_contact:
-country:
-description: ActiveCampaign began as a solution for business owners who needed to keep in touch with their contacts. There was a demand for a powerful, easy-to-use solution at a reasonable price in a market that lacked options. Over the years, the company has seen a number of drastic transitions. We cut our product line from eight solutions to one, transitioning from a traditional software company to the SaaS model, providing a consistent and stable experience for our users.
-| At that point, we set a goal: to help marketers send fewer emails while still achieving better results by giving them the marketing automation and automated sales CRM features they need to send intelligent, targeted campaigns.
-| Today, ActiveCampaign is one of the fastest growing tech startups in Chicago. We're constantly looking to add diverse voices to our team, to strengthen our position as an innovator in the marketing automation space.
+privacy_policy_url: https://www.activecampaign.com/legal/privacy-policy
+privacy_contact: privacy@activecampaign.com
+country: US
+description: ActiveCampaign provides a marketing platform that allows clients to reach their customers, to understand how their customers interact with those communications and other content, and to customize marketing based on their customers’ interests. 
 
 --- notes
 --- notes
