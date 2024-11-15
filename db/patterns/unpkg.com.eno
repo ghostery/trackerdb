@@ -1,6 +1,7 @@
 name: unpkg
 category: hosting
 website_url: https://unpkg.com/#/
+organization: unpkg
 
 --- domains
 unpkg.com
