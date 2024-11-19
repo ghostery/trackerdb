@@ -1,7 +1,7 @@
 name: Freshdesk
 category: customer_interaction
-website_url: http://www.freshdesk.com
-organization: freshdesk
+website_url: https://www.freshworks.com/freshdesk/
+organization: freshworks
 
 --- domains
 d36mpcpuzc4ztk.cloudfront.net
