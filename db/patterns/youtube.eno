@@ -8,6 +8,11 @@ googlevideo.com
 youtube-nocookie.com
 youtube.com
 ytimg.com
+play.google.com
 --- domains
+
+--- filters
+||play.google.com/log?format=json
+--- filters
 
 ghostery_id: 2303
