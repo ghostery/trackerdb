@@ -10,4 +10,6 @@ recaptcha.net
 --- filters
 ||google.com/recaptcha/$frame,script
 ||gstatic.*/recaptcha/
+||google.com/js/bg/^$script
+||google.com/js/th/^$script
 --- filters
