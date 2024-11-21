@@ -1,0 +1,12 @@
+name: Videoly
+category: audio_video_player
+website_url: https://videoly.co/
+organization: videoly
+
+--- domains
+videoly.co
+--- domains
+
+--- filters
+||videoly.co^$3p
+--- filters
