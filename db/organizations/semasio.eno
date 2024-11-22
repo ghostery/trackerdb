@@ -1,9 +1,9 @@
-name: Semasio GmbH
+name: Semasio
 website_url: https://semasio.com/
-privacy_policy_url: http://www.semasio.com/privacy-policy/
-privacy_contact: info@semasio.com
-country: 
-description: "The User Intelligence Platform enables you to turn all of the potentially hundreds of contacts you have with digital media users into data points from which a qualitatively new level of information is derived – information which belongs to you and only you."
+privacy_policy_url: https://www.semasio.com/legal/semasio-privacy-policy
+privacy_contact: privacy@semasio.com
+country: DE
+description: Semasio is a provider of targeting and insight solutions for programmatic advertising. Semasio’s product portfolio includes Audience Targeting, Contextual Targeting and Brand Fit Targeting. Using Natural Language Processing, Semasio analyzes content on websites to generate website profiles and user profiles.
 
 --- notes
 --- notes
