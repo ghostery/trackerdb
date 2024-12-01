@@ -4,7 +4,10 @@ website_url: https://www.brightcove.com/en/
 organization: brightcove
 
 --- domains
-brightcove.com
+admin.brightcove.com
+goku.brightcove.com
+metrics.brightcove.com
+sadmin.brightcove.com
 --- domains
 
 --- filters
