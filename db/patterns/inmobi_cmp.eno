@@ -1,0 +1,12 @@
+name: InMobi CMP
+category: consent
+website_url: https://advertising.inmobi.com/cmp
+organization: inmobi
+
+--- domains
+cmp.inmobi.com
+--- domains
+
+--- filters
+||cmp.inmobi.com^
+--- filters
