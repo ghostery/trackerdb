@@ -1,0 +1,9 @@
+name: Streamlike
+category: audio_video_player
+website_url: https://www.streamlike.eu/
+organization: mediatech_streamlike
+
+--- domains
+cdn.streamlike.com
+cfcdn.streamlike.com
+--- domains
