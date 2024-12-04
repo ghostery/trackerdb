@@ -1,0 +1,11 @@
+name: Google Accounts
+category: customer_interaction
+website_url: https://accounts.google.com
+organization: google
+
+--- domains
+accounts.google.com
+--- domains
+
+--- filters
+--- filters
