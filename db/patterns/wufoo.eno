@@ -1,0 +1,12 @@
+name: Wufoo
+category: customer_interaction
+website_url: https://www.wufoo.com/
+organization: surveymonkey
+
+--- domains
+wufoo.com
+--- domains
+
+--- filters
+||wufoo.com^$3p
+--- filters
