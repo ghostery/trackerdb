@@ -1,0 +1,12 @@
+name: Kundo
+category: customer_interaction
+website_url: https://www.kundo.se/
+organization: kundo
+
+--- domains
+chat.kundo.se
+static-chat.kundo.se
+--- domains
+
+--- filters
+--- filters
