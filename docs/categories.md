@@ -38,7 +38,7 @@ Data analytics, site usage, and performance trackers.
 
 ## Social Media
 
-Features related to social media platforms.
+Features related to social media platforms. For example, a script used to embed a content feed on another site.
 
 ## Utilities
 
