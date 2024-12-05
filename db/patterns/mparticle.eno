@@ -1,0 +1,12 @@
+name: mParticle
+category: site_analytics
+website_url: https://www.mparticle.com/
+organization: mparticle
+
+--- domains
+mparticle.com
+--- domains
+
+--- filters
+||mparticle.com^$3p
+--- filters
