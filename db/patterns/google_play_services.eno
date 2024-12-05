@@ -1,0 +1,12 @@
+name: Google Play Services
+category: hosting
+website_url: https://developers.google.com/products/services-and-integrations
+organization: google
+
+--- domains
+play.google.com
+--- domains
+
+--- filters
+||play.google.com/log?format=json
+--- filters
