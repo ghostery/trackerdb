@@ -1,0 +1,9 @@
+name: Woosmap
+category: customer_interaction
+website_url: https://www.woosmap.com/
+organization: woosmap
+
+--- domains
+sdk.woosmap.com
+api.woosmap.com
+--- domains
