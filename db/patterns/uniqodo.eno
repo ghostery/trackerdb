@@ -5,4 +5,10 @@ organization: uniqodo
 
 --- domains
 uqd.io
+promotionx.io
+uniqodo.com
 --- domains
+
+--- filters
+||uniqodo.com^$3p
+--- filters
