@@ -1,7 +1,7 @@
 name: AMP Project
-category: misc
-website_url: https://www.ampproject.org/
-organization: google
+category: utilities
+website_url: https://amp.dev/
+organization: openjsf
 
 --- domains
 ampproject.org
