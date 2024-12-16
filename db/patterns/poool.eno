@@ -1,0 +1,14 @@
+name: Poool
+category: utilities
+website_url: https://www.poool.fr/en/
+organization: poool
+
+--- domains
+api.poool.fr
+assets.poool.fr
+frontend.poool.fr
+--- domains
+
+--- filters
+||poool.fr^$3p
+--- filters
