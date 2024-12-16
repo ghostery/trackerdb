@@ -1,0 +1,14 @@
+name: Mavenoid
+category: customer_interaction
+website_url: https://www.mavenoid.com/
+organization: mavenoid
+
+--- domains
+api.mavenoid.com
+app.mavenoid.com
+widget-hosts.mavenoid.com
+--- domains
+
+--- filters
+||mavenoid.com^$3p
+--- filters
