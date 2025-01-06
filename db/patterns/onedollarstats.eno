@@ -1,0 +1,13 @@
+name: One Dollar Stats
+category: site_analytics
+website_url: https://onedollarstats.com/
+organization: drizzle
+
+--- domains
+onedollarstats.com
+--- domains
+
+--- filters
+||assets.onedollarstats.com^$script
+||api.onedollarstats.com^$3p
+--- filters
