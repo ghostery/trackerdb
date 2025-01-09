@@ -1,4 +1,4 @@
-name: Transcend Consent
+name: Transcend Consent Management
 category: consent
 website_url: https://transcend.io/consent/
 organization: transcend
@@ -6,6 +6,9 @@ organization: transcend
 --- domains
 api.transcend.io
 cdn.transcend.io
+transcend-cdn.com
+status.transcend.io
+sync-transcend-cdn.com
 --- domains
 
 --- filters
