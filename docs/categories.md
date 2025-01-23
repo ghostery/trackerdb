@@ -14,7 +14,7 @@ Cookie consent managers, allowing websites different levels of tracking user act
 
 ## Customer Interaction
 
-Chat widgets, customer support, and other interaction tools.
+Chat widgets, customer support, e-commerce/content personalization and other interaction tools.
 
 ## Extensions
 
