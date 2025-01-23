@@ -1,0 +1,12 @@
+name: Alive5
+category: customer_interaction
+website_url: https://www.alive5.com/
+organization: alive_technologies
+
+--- domains
+alive5.com
+--- domains
+
+--- filters
+||alive5.com^$3p
+--- filters
