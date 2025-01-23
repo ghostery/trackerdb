@@ -23,6 +23,8 @@ adtrafficquality.google
 ||securepubads.g.doubleclick.net/pcs/view
 ||securepubads.g.doubleclick.net^$3p
 ||static.doubleclick.net/instream/ad_status.js
+||www.googletagservices.com/dcm/dcmads.js
+||www.googletagservices.com/dcm/impl_v103.js
 --- filters
 
 ghostery_id: 41
