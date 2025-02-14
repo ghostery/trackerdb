@@ -1,0 +1,8 @@
+name: Google Cloud
+category: Misc
+website_url: https://cloud.google.com/
+organization: google
+
+--- domains
+*.cloud.google.com
+--- domains
