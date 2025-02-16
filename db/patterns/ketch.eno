@@ -4,6 +4,6 @@ website_url: https://www.ketch.com
 organization: ketch
 
 --- domains
-global.ketchcdn.com
+*.ketchcdn.com
 cdn.ketchjs.com
 --- domains
