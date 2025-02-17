@@ -1,10 +1,9 @@
 name: fullstory
 website_url: http://fullstory.com
 privacy_policy_url: https://www.fullstory.com/legal/privacy/
-privacy_contact: 
-country: 
-description: Understand your customers like never before with FullStory
-| Make users happier by going beyond analytics to actionable insights.
+privacy_contact: privacy@fullstory.com
+country: US
+description: FullStory is a customer experience data app that captures customer experience data in one platform. Its script unlocks session playback, automatic insights, funnel analytics, and robust search and segmentation empowering an organization to build an online experience for customers.
 
 --- notes
 --- notes
