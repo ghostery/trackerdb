@@ -1,8 +1,12 @@
 name: Google Cloud
-category: Misc
+category: misc
 website_url: https://cloud.google.com/
 organization: google
 
 --- domains
-*.cloud.google.com
+cloud.google.com
 --- domains
+
+--- filters
+||cloud.google.com/v1/integrations/
+--- filters
