@@ -5,7 +5,6 @@ organization: google
 alias: google_syndication
 
 --- filters
-||ade.googlesyndication.com/ddm/activity_ext
 ||adservice.google.com/adsid/integrator.js
 ||feedads.g.doubleclick.net^$3p
 ||google.com/adsense/domains/caf.js
@@ -14,15 +13,7 @@ alias: google_syndication
 ||google.com/afsonline/show_afs_ads.js
 ||google.com/uds/afs
 ||googleadservices.com/pagead/aclk
-||googlesyndication.com/apps/domainpark/
-||googlesyndication.com/pagead/
-||googlesyndication.com/simgad/
-||pagead2.googlesyndication.com/activeview
-||pagead2.googlesyndication.com/bg
-||pagead2.googlesyndication.com/pagead/osd.js
-||pagead2.googlesyndication.com/pub-config/*/ca-pub-*.js^$3p
 ||partner.googleadservices.com/gampad/
-||tpc.googlesyndication.com/sodar
 ||fundingchoicesmessages.google.com
 --- filters
 
