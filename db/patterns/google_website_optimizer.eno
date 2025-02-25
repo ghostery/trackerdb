@@ -4,6 +4,10 @@ website_url: https://www.google.com/analytics/siteopt/prev
 organization: google
 alias: google_analytics
 
+--- domains
+googleoptimize.com
+--- domains
+
 --- filters
 ||google-analytics.com/siteopt.js
 --- filters
