@@ -1,10 +1,11 @@
 name: Shopify Stats
-category: advertising
+category: site_analytics
 website_url: https://www.shopify.com/
 organization: shopify
 
 --- domains
 shopify.com
+stats.myshopify.com
 --- domains
 
 --- filters
