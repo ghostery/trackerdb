@@ -1,0 +1,8 @@
+name: Dialogflow
+category: customer_interaction
+website_url: https://cloud.google.com/dialogflow/docs
+organization: google
+
+--- domains
+static.dialogflow.com
+--- domains
