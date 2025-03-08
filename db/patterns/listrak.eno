@@ -5,14 +5,11 @@ organization: listrak
 
 --- domains
 listrakbi.com
-cdn.listrakbi.com
-st.listrak.com
+listrak.com
 --- domains
 
 --- filters
-||listrakbi.com^$3p
-||cdn.listrakbi.com^$3p
-||st.listrak.com^$3p
+||listrak.com^$3p
 --- filters
 
 ghostery_id: 760
