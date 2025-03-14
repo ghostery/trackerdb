@@ -1,0 +1,12 @@
+name: Videobot
+category: audio_video_player
+website_url: https://www.videobot.com/
+organization: videobot
+
+--- domains
+videobot.com
+--- domains
+
+--- filters
+||videobot.com^$3p
+--- filters
