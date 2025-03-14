@@ -1,0 +1,14 @@
+name: Voyado
+category: advertising
+website_url: https://voyado.com/
+organization: voyado
+
+--- domains
+eclub.se
+voyado.com
+--- domains
+
+--- filters
+||eclub.se^$3p
+||voyado.com^$3p
+--- filters
