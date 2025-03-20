@@ -12,6 +12,7 @@ imageg.net
 nedstat.com
 omtrdc.net
 sitestat.com
+rum.hlx.page
 --- domains
 
 --- filters
@@ -28,6 +29,7 @@ sitestat.com
 ||nedstat.com^$3p
 ||omtrdc.net^$3p
 ||sitestat.com^$3p
+||rum.hlx.page/.rum/@adobe/helix-rum-js
 --- filters
 
 ghostery_id: 19
