@@ -4,9 +4,9 @@ website_url: https://leadoo.com/
 organization: leadoo
 
 --- domains
-anl.leadoo.com
+leadoo.com
 --- domains
 
 --- filters
-||anl.leadoo.com^
+||leadoo.com^$3p
 --- filters
