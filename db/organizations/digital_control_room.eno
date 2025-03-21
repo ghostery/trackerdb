@@ -1,15 +1,8 @@
 name: Digital Control Room
 website_url: https://www.digitalcontrolroom.com/
-privacy_policy_url: https://www.digitalcontrolroom.com/privacy/
-privacy_contact: support@CookieReports.com
-country: 
-description: "We believe that privacy is going to be one of the defining themes of the next decade. People are increasingly aware of how their personal data gets used (and abused) – and are rightly demanding more control and accountability.
-| 
-| Legislation, such as the EU GDPR and the EU ePrivacy Directive, is changing how organisations need to engage with their customers and only brands that are honest, helpful and transparent about how they handle all aspects of privacy and information will earn the trust of their customers.
-| 
-| That’s what we help our clients do: strengthen the bond of trust with their customers, by helping them control and manage their information portfolios – from directly ‘privacy-affecting’ data such as cookie policies, through to the small print at the heart of their contracts."
-
---- notes
---- notes
+privacy_policy_url: https://www.digitalcontrolroom.com/privacy-policy/
+privacy_contact: privacy@digitalcontrolroom.com
+country: GB
+description: Digital Control Room is an independent RegTech software company specialising in providing Governance Risk and Compliance (GRC) software solutions and services to organisations across the globe.
 
 ghostery_id: 2576
