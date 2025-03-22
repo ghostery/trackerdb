@@ -1,5 +1,5 @@
 name: Ethnio
-category: advertising
+category: customer_interaction
 website_url: https://ethn.io/
 organization: ethnio
 
@@ -8,8 +8,7 @@ ethn.io
 --- domains
 
 --- filters
-||ethn.io/85330.js
-||ethn.io/remotes
+||ethn.io^$3p
 --- filters
 
 ghostery_id: 1597
