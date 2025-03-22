@@ -1,9 +1,9 @@
-name: Launch Darkly
-website_url: https://launchdarkly.com/index.html
-privacy_policy_url: https://launchdarkly.com/privacy.html
-privacy_contact: support@launchdarkly.com
-country: 
-description: LaunchDarkly is a Feature Management Platform that serves over 10 billion feature flags daily to help software teams build better software, faster. Feature flagging is an industry best practice of wrapping a new or risky section of code or infrastructure change with a flag. Each flag can easily be turned off independent of code deployment (aka ”dark launching”). LaunchDarkly has SDKs for all major web and mobile platforms. We are building a diverse team so that we can offer robust products and services. Our team culture is fast-paced, friendly, and supportive.
+name: LaunchDarkly
+website_url: https://launchdarkly.com/
+privacy_policy_url: https://launchdarkly.com/policies/privacy/
+privacy_contact: privacy@launchdarkly.com
+country: US
+description: LaunchDarkly is a Feature Management Platform that serves over 10 billion feature flags daily to help software teams build better software, faster. Feature flagging is an industry best practice of wrapping a new or risky section of code or infrastructure change with a flag. Each flag can easily be turned off independent of code deployment (aka ”dark launching”). LaunchDarkly has SDKs for all major web and mobile platforms.
 
 --- notes
 --- notes
