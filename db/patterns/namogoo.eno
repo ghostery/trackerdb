@@ -1,15 +1,17 @@
-name: Namoogoo
-category: advertising
-website_url: https://www.namogoo.com/
-organization: namogoo
+name: Wandz.ai
+category: site_analytics
+website_url: https://wandz.ai
+organization: wandz_ai
 
 --- domains
 namogoo.coom
 nmgassets.com
+wandz.ai
 --- domains
 
 --- filters
 ||gs.nmgassets.com^$3p
+||wandz.ai^$3p
 --- filters
 
 ghostery_id: 3701
