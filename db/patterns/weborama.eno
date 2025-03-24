@@ -8,6 +8,7 @@ adrcdn.com
 adrcntr.com
 weborama.com
 weborama.fr
+weborama.nl
 --- domains
 
 --- filters
@@ -15,6 +16,7 @@ weborama.fr
 ||adrcntr.com^$3p
 ||dx.bigsea.weborama.com/collect
 ||weborama.fr^$3p
+||weborama.nl^$3p
 --- filters
 
 ghostery_id: 532
