@@ -1,14 +1,16 @@
 name: NetEase
 category: advertising
-website_url:
+website_url: http://126.net/
 organization: netease
 
 --- domains
-analytics.163.com
+126.net
+163.com
 --- domains
 
 --- filters
-||analytics.163.com/ntes.js
+||126.net^$3p
+||163.com^$3p
 --- filters
 
 ghostery_id: 2383
