@@ -1,0 +1,12 @@
+name: Streamio
+category: audio_video_player
+website_url: https://www.streamio.com/
+organization: rackfish
+
+--- domains
+streamio.com
+--- domains
+
+--- filters
+||streamio.com^$3p
+--- filters
