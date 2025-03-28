@@ -4,11 +4,11 @@ website_url: https://launchdarkly.com/
 organization: launch_darkly
 
 --- domains
-events.launchdarkly.com
+launchdarkly.com
 --- domains
 
 --- filters
-||events.launchdarkly.com^$3p
+||launchdarkly.com^$3p
 --- filters
 
 ghostery_id: 2977
