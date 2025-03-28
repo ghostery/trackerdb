@@ -1,9 +1,9 @@
-name: Contentful GmbH
+name: Contentful
 website_url: https://www.contentful.com/
-privacy_policy_url: https://www.contentful.com/legal/de/privacy/
-privacy_contact: 
-country: 
-description: 
+privacy_policy_url: https://www.contentful.com/legal/privacy-at-contentful/privacy-notice/
+privacy_contact: privacy@contentful.com
+country: DE
+description: Contentful is a headless content management system (CMS).
 
 --- notes
 --- notes
