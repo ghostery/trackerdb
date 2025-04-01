@@ -1,10 +1,37 @@
 name: Azure CDN
 category: hosting
-website_url: 
+website_url: https://learn.microsoft.com/en-us/azure/security/fundamentals/azure-domains
 organization: microsoft
 
 --- domains
 azureedge.net
+accesscontrol.windows.net
+graph.windows.net
+onmicrosoft.com
+azure-api.net
+biztalk.windows.net
+blob.core.windows.net
+cloudapp.net
+cloudapp.azure.com
+azurecr.io
+azurecontainer.io
+vo.msecnd.net
+cosmos.azure.com
+documents.azure.com
+file.core.windows.net
+azurefd.net
+vault.azure.net
+azmk8s.io
+management.core.windows.net
+origin.mediaservices.windows.net
+azure-mobile.net
+queue.core.windows.net
+servicebus.windows.net
+database.windows.net
+table.core.windows.net
+trafficmanager.net
+azurewebsites.net
+visualstudio.com
 --- domains
 
 ghostery_id: 3380
