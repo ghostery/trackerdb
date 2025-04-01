@@ -1,9 +1,9 @@
 name: ipinfo.io
 website_url: https://ipinfo.io/
-privacy_policy_url: https://ipinfo.io/terms
-privacy_contact: 
-country: 
-description: 
+privacy_policy_url: https://ipinfo.io/privacy-policy
+privacy_contact: support@ipinfo.io
+country: US
+description: IPinfo is the developer of an IP geolocation data platform offering reliable and accurate IP address data of internet users, enabling businesses to pinpoint their users' locations, customize their experiences, prevent fraud and ensure compliance.
 
 --- notes
 --- notes
