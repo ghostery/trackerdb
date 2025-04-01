@@ -31,6 +31,7 @@ database.windows.net
 table.core.windows.net
 trafficmanager.net
 azurewebsites.net
+azurestaticapps.net
 visualstudio.com
 --- domains
 
