@@ -1,6 +1,6 @@
 name: Ipinfo
-category: customer_interaction
-website_url: 
+category: site_analytics
+website_url: https://ipinfo.io/
 organization: ipinfo.io
 
 --- domains
