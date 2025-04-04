@@ -1,0 +1,12 @@
+name: Cevoid
+category: customer_interaction
+website_url: https://cevoid.com
+organization: cevoid
+
+--- domains
+cevoid.com
+--- domains
+
+--- filters
+||cevoid.com^$3p
+--- filters
