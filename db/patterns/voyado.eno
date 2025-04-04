@@ -6,9 +6,11 @@ organization: voyado
 --- domains
 eclub.se
 voyado.com
+redeal.se
 --- domains
 
 --- filters
 ||eclub.se^$3p
 ||voyado.com^$3p
+||redeal.se^$3p
 --- filters
