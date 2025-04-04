@@ -1,0 +1,12 @@
+name: TestFreaks
+category: customer_interaction
+website_url: https://www.testfreaks.com
+organization: testfreaks
+
+--- domains
+testfreaks.com
+--- domains
+
+--- filters
+||testfreaks.com^$3p
+--- filters
