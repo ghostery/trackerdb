@@ -1,0 +1,12 @@
+name: ProfitMetrics
+category: site_analytics
+website_url: https://profitmetrics.io/
+organization: profitmetrics
+
+--- domains
+profitmetrics.io
+--- domains
+
+--- filters
+||profitmetrics.io^$3p
+--- filters
