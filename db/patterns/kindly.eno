@@ -1,0 +1,16 @@
+name: Kindly
+category: customer_interaction
+website_url: https://www.kindly.ai/
+organization: kindly
+
+--- domains
+kindly.com
+kindlycdn.com
+kindly.ai
+--- domains
+
+--- filters
+||kindly.com^$3p
+||kindlycdn.com^$3p
+||kindly.ai^$3p
+--- filters
