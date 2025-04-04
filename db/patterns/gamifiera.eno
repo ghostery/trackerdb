@@ -1,0 +1,12 @@
+name: Gamifiera
+category: customer_interaction
+website_url: http://www.gamifiera.com/
+organization: gamifiera
+
+--- domains
+gamifiera.com
+--- domains
+
+--- filters
+||gamifiera.com^$3p
+--- filters
