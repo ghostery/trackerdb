@@ -1,0 +1,12 @@
+name: Dixa
+category: customer_interaction
+website_url: https://www.dixa.com/
+organization: dixa
+
+--- domains
+dixa.io
+--- domains
+
+--- filters
+||dixa.io^$3p
+--- filters
