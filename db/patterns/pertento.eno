@@ -1,0 +1,12 @@
+name: Pertento
+category: site_analytics
+website_url: https://www.pertento.ai/
+organization: pertento
+
+--- domains
+pertento.ai
+--- domains
+
+--- filters
+||pertento.ai^$3p
+--- filters
