@@ -77,12 +77,12 @@ body:
         - Consent Management
         - Customer Interaction
         - Email
-        - Essential
         - Extensions
         - Hosting
         - Miscellaneous
         - Site Analytics
         - Social Media
+        - Utilities
     validations:
       required: false
   - type: dropdown
