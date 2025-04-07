@@ -1,0 +1,12 @@
+name: Lipscore
+category: customer_interaction
+website_url: https://lipscore.com/
+organization: lipscore
+
+--- domains
+lipscore.com
+--- domains
+
+--- filters
+||lipscore.com^$3p
+--- filters
