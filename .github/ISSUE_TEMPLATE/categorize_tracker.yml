@@ -63,7 +63,6 @@ body:
       description: Tell us what you know about the company. Ensure descriptions are informative and impartial. Please fact check the information if using generative AI. Be prepared to cite sources, if necessary.
     validations:
       required: false
- 
   - type: dropdown
     id: tracker-category
     attributes:
@@ -84,7 +83,6 @@ body:
         - Miscellaneous
         - Site Analytics
         - Social Media
-        - Telemetry
     validations:
       required: false
   - type: dropdown
