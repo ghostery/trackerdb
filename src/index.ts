@@ -5,6 +5,7 @@ export { Request as AdblockerRequest };
 type FromRawDetailsParams = Parameters<typeof Request.fromRawDetails>;
 type DeserializeParams = Parameters<typeof FiltersEngine.deserialize>;
 
+// eslint-disable-next-line @typescript-eslint/require-await
 export default async function loadTrackerDBEngine(
   engineBytes: DeserializeParams[0],
 ) {
