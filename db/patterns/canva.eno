@@ -1,0 +1,12 @@
+name: Canva
+category: telemetry
+website_url: https://www.canva.com/
+organization: canva
+
+--- domains
+telemetry.canva.com
+--- domains
+
+--- filters
+||telemetry.canva.com^
+--- filters
