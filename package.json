@@ -6,8 +6,8 @@
   "scripts": {
     "build": "rm -fr dist/* && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && ./fixup && npm run export",
     "test": "node test/index.js",
-    "lint": "eslint --ignore-path .gitignore --ext .js,.ts .",
-    "lint-fix": "eslint --fix --ignore-path .gitignore --ext .js,.ts .",
+    "lint": "eslint --ext .js,.ts .",
+    "lint-fix": "eslint --fix --ext .js,.ts .",
     "update-docs": "node scripts/update-docs.js",
     "export": "npm run export-json && npm run export-engine && npm run export-sql && npm run export-txt",
     "export-sql": "node scripts/export-sql/index.js",
@@ -44,22 +44,26 @@
     "node": ">=18.0"
   },
   "dependencies": {
-    "@ghostery/adblocker": "2.0.2",
-    "better-sqlite3": "^11.5.0",
+    "@ghostery/adblocker": "2.5.0",
+    "better-sqlite3": "^11.9.1",
     "enolib": "^0.8.2",
     "iso-3166-1-alpha-2": "^1.0.2",
-    "tldts-experimental": "^6.1.57"
+    "tldts-experimental": "^6.1.85"
   },
   "devDependencies": {
-    "@types/node": "22.8.2",
-    "@typescript-eslint/eslint-plugin": "8.12.2",
-    "@typescript-eslint/parser": "8.12.2",
-    "chalk": "5.3.0",
+    "@eslint/js": "^9.24.0",
+    "@types/node": "22.14.0",
+    "@typescript-eslint/eslint-plugin": "8.29.0",
+    "@typescript-eslint/parser": "8.29.0",
+    "chalk": "5.4.1",
     "ejs": "3.1.10",
-    "eslint": "8.57.0",
-    "eslint-config-prettier": "9.1.0",
-    "eslint-plugin-prettier": "5.2.1",
-    "prettier": "3.3.3",
-    "typescript": "5.6.3"
+    "eslint": "9.24.0",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-prettier": "^5.2.6",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3",
+    "tsx": "^4.19.3",
+    "typescript": "5.8.3",
+    "typescript-eslint": "^8.29.0"
   }
 }
