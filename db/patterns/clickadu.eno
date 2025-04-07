@@ -1,0 +1,13 @@
+name: Clickadu
+category: advertising
+website_url: https://www.clickadu.com/
+organization: clickadu
+
+--- domains
+clickadu.com
+chestgoingpunch.com
+--- domains
+
+--- filters
+||chestgoingpunch.com^
+--- filters
