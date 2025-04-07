@@ -1,0 +1,13 @@
+name: Canva
+category: site_analytics
+website_url: https://www.canva.com/
+organization: canva
+
+--- domains
+telemetry.canva.com
+--- domains
+
+--- filters
+||telemetry.canva.com^
+||canva.com/_ajax/ae/createBatch^
+--- filters
