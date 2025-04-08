@@ -1,0 +1,12 @@
+name: Salesloft
+category: site_analytics
+website_url: https://www.salesloft.com/
+organization: salesloft
+
+--- domains
+salesloft.com
+--- domains
+
+--- filters
+||salesloft.com^$3p
+--- filters
