@@ -1,9 +1,14 @@
-name: Brandmetrics.com
+name: Brand Metrics
 category: advertising
 website_url: https://www.brandmetrics.com/
+organization: brand_metrics
 
 --- domains
 brandmetrics.com
 --- domains
+
+--- filters
+||brandmetrics.com^$3p
+--- filters
 
 ghostery_id: 3418
