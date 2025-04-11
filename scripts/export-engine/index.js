@@ -20,6 +20,9 @@ import { prepareDistFolder, BASE_PATH } from '../helpers.js';
 
   const engine = FiltersEngine.fromTrackerDB(
     JSON.parse(readFileSync(inputPath)),
+    {
+      enableOptimizations: false,
+    },
   );
 
   const serialized = engine.serialize();
