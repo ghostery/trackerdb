@@ -5,8 +5,10 @@ organization: airfranceklm
 
 --- domains
 connect.airfrance.com
+connect.klm.com
 --- domains
 
 --- filters
 ||connect.airfrance.com/ach/api/event^
+||connect.klm.com/ach/api/event^
 --- filters
