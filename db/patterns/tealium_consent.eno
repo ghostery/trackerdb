@@ -2,10 +2,7 @@ name: Tealium Consent
 category: consent
 website_url: https://www.tealium.com/
 organization: tealium
-
---- domains
-tiqcdn.com
---- domains
+alias: tealium
 
 --- filters
 ###consent_blackbar
@@ -22,11 +19,6 @@ mediamarkt.de,saturn.de###__tealiumGDPRecModal > #privacy-layer__wrapper
 radissonhotels.com###__tealiumGDPRecModal
 smartserve.hsbc,hsbc.ch,hsbc.com,hsbc.nl,hsbc.com.mt,hsbc.de,hsbc.cz,hsbc.be,hsbc.es,hsbc.pl,hsbc.uk,hsbc.ie,hsbc.com.tr,hsbc.it,hsbc.fr,hsbc.gr,hsbc-transactionservices.de,hsbcnet.com###__tealiumGDPRecModal
 ||prada.com/utag/prada/
-||tags.tiqcdn.com^$3p$script,domain=firstdirect.com|santander.pl|swisscom.ch
-||tags.tiqcdn.com/utag/*/utag.js$script
-||tags.tiqcdn.com/utag/*/utag.sync.js$script
-||tiqcdn.com^$3p
-||tealiumiq.com^
 --- filters
 
 ghostery_id: 4056
