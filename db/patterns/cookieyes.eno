@@ -6,4 +6,9 @@ organization: cookieyes
 --- domains
 cdn-cookieyes.com
 log.cookieyes.com
+cookieyes.com
 --- domains
+
+--- filters
+||cookieyes.com^$3p
+--- filters
