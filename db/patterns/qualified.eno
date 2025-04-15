@@ -1,0 +1,12 @@
+name: Qualified
+category: site_analytics
+website_url: https://www.qualified.com/
+organization: qualified
+
+--- domains
+qualified.com
+--- domains
+
+--- filters
+||qualified.com^$3p
+--- filters
