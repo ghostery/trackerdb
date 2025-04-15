@@ -1,0 +1,12 @@
+name: InMoment
+category: customer_interaction
+website_url: https://inmoment.com/
+organization: inmoment
+
+--- domains
+inmoment.com
+--- domains
+
+--- filters
+||inmoment.com^$3p
+--- filters
