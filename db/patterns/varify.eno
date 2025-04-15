@@ -1,0 +1,12 @@
+name: Varify
+category: site_analytics
+website_url: https://varify.io/
+organization: varify
+
+--- domains
+varify.io
+--- domains
+
+--- filters
+||varify.io^$3p
+--- filters
