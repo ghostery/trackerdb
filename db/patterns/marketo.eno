@@ -1,12 +1,13 @@
 name: Marketo
 category: advertising
 website_url: http://www.marketo.com/
-organization: marketo
+organization: adobe
 
 --- domains
 marketo.com
 marketo.net
 mktoresp.com
+bizible.com
 --- domains
 
 --- filters
