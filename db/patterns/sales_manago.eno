@@ -1,6 +1,6 @@
 name: SALESmanago
 category: site_analytics
-website_url: 
+website_url: https://www.salesmanago.pl
 organization: sales_manago
 
 --- domains
@@ -11,6 +11,8 @@ salesmanago.pl
 --- filters
 ||files.salesmanago.pl/mainPageAssets/blockadblock.js
 ||salesmanago.pl/static/sm.js
+||salesmanago.pl^$3p
+||salesmanago.com^$3p
 --- filters
 
 ghostery_id: 2403
