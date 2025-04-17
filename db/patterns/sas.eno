@@ -10,8 +10,10 @@ sas.com
 
 --- filters
 ||aimatch.com^$3p
+||sas.com^$3p
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||ci360.sas.com/js/ot_boot-min.js
+/js/ot2.min.js
 --- filters
 
 ghostery_id: 1407
