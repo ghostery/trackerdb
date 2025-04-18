@@ -6,8 +6,10 @@ organization: symplify
 --- domains
 sitegainer.com
 cdn-sitegainer.com
+symplify.com
 --- domains
 
 --- filters
 ||sitegainer.com^$3p
+||symplify.com^$3p
 --- filters
