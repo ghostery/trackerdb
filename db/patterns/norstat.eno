@@ -1,0 +1,12 @@
+name: Norstat
+category: site_analytics
+website_url: https://www.norstatpanel.com/
+organization: norstat
+
+--- domains
+norstatsurveys.com
+--- domains
+
+--- filters
+||norstatsurveys.com^$3p
+--- filters
