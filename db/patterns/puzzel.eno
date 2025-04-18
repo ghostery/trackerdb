@@ -1,0 +1,12 @@
+name: Puzzel
+category: customer_interaction
+website_url: https://www.puzzel.com/
+organization: puzzel
+
+--- domains
+puzzel.com
+--- domains
+
+--- filters
+||puzzel.com^$3p
+--- filters
