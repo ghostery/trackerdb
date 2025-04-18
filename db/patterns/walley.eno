@@ -1,0 +1,12 @@
+name: Walley
+category: utilities
+website_url: www.walley.com
+organization: norion_bank
+
+--- domains
+walleypay.com
+--- domains
+
+--- filters
+||walleypay.com^$3p
+--- filters
