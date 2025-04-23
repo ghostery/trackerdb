@@ -1,7 +1,7 @@
-name: AT Internet
+name: Piano Analytics
 category: site_analytics
-website_url: https://www.xiti.com/
-organization: at_internet
+website_url: https://www.piano.io/product/analytics
+organization: piano
 
 --- domains
 ati-host.net
@@ -14,6 +14,7 @@ xiti.com
 ||ati-host.net^$3p
 ||logc257.at.pagesjaunes.fr/hit.xiti
 ||xiti.com^$3p
+/piano-analytics.js^$script
 --- filters
 
 ghostery_id: 50
