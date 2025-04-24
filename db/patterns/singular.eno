@@ -1,0 +1,12 @@
+name: Singular
+category: site_analytics
+website_url: https://www.singular.net/privacy-policy/
+organization: singular_labs
+
+--- domains
+singular.net
+--- domains
+
+--- filters
+||singular.net^$3p
+--- filters
