@@ -1,0 +1,12 @@
+name: UserWay
+category: utilities
+website_url: https://userway.org/
+organization: userway
+
+--- domains
+userway.org
+--- domains
+
+--- filters
+||userway.org^$3p
+--- filters
