@@ -1,17 +1,9 @@
 name: SALESmanago
 website_url: https://www.salesmanago.com/
-privacy_policy_url: https://www.salesmanago.pl/marketing-automation/terms.htm
-privacy_contact: 
-country: 
-description: "Welcome to SALESmanago,
-| 
-| We have created the world’s most innovative marketing automation platform for eCommerce, B2C and B2B companies of all sizes. Our software enables our customers to achieve outstanding sales results by implementing a complete range of automated and personalized marketing in a multichannel environment.
-| 
-| SALESmanago Marketing Automation provides an easy to implement next generation solutions that redefine the way traditional marketing tools are used. We are always going above and beyond the expectations regarding the capabilities of email marketing, dynamic & personalized website content, social media marketing, online advertising, and mobile marketing. Our unique methodology are done by powering them by the real-time flow of customer behavioral and transactional data.
-| 
-| Our goal is to create a product that empowers its users to implement any kind of marketing processes they desire. This is done by working with our customers every step of the way and customizing SALESmanago to their most specific needs.
-| 
-| We understand that software is not all. Each of our customers gets dedicated specialized support from our Marketing Automation Specialist that helps in designing the processes and proactively helping in the implementation. We are proud to play a part in your marketing and working with you to achieve your desired business outcomes."
+privacy_policy_url: https://www.salesmanago.pl/info/obowiazek-informacyjny.htm
+privacy_contact: dpo@salesmanago.com
+country: PL
+description: SALESmanago is a customer engagement platform designed for e-commerce sites. The software helps businesses collect and manage customer data, automate marketing tasks, and create personalized experiences for their customers.
 
 --- notes
 --- notes
