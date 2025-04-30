@@ -18,6 +18,7 @@ snplow.net
 ||dc8xl0ndzn2cb.cloudfront.net/sp.js
 /sp.js^$script
 /snowplow_*.js^$script
+/com.snowplowanalytics.snowplow/tp2
 --- filters
 
 ghostery_id: 2671
