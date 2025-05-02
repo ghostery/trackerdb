@@ -1,0 +1,12 @@
+name: Commerce Layer
+category: utilities
+website_url: https://commercelayer.io
+organization: commerce_layer
+
+--- domains
+commercelayer.io
+--- domains
+
+--- filters
+||commercelayer.io^$3p
+--- filters
