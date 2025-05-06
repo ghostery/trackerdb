@@ -1,0 +1,12 @@
+name: Switch
+category: site_analytics
+website_url: https://switchgrowth.com/
+organization: switch_growth
+
+--- domains
+switchgrowth.com
+--- domains
+
+--- filters
+||switchgrowth.com^$3p
+--- filters
