@@ -4,9 +4,9 @@ website_url: https://mountain.com/
 organization: mntn
 
 --- domains
-dx.mountain.com
+mountain.com
 --- domains
 
 --- filters
-||dx.mountain.com^
+||mountain.com^$3p
 --- filters
