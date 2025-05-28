@@ -1,0 +1,15 @@
+name: Re:amaze
+category: customer_interaction
+website_url: https://www.reamaze.com/
+organization: godaddy
+
+--- domains
+reamaze.com
+reamaze.io
+--- domains
+
+--- filters
+||reamaze.com^$3p
+||reamaze.io^$3p
+--- filters
+
