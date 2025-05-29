@@ -1,0 +1,12 @@
+name: Chili Piper
+category: site_analytics
+website_url: https://www.chilipiper.com/
+organization: chilipiper
+
+--- domains
+chilipiper.com
+--- domains
+
+--- filters
+||chilipiper.com^$3p
+--- filters
