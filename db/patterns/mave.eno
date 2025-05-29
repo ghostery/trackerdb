@@ -1,0 +1,14 @@
+name: mave
+category: audio_video_player
+website_url: https://www.mave.io/
+organization: mave
+
+--- domains
+mave.io
+video-dns.com
+--- domains
+
+--- filters
+||mave.io^$3p
+||video-dns.com^$3p
+--- filters
