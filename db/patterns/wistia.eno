@@ -1,11 +1,9 @@
 name: Wistia
 category: site_analytics
-website_url: 
-organization: wistia
+website_url: https://wistia.com/ 
+alias: wistia_assets
 
 --- domains
-wistia.com
-wistia.net
 --- domains
 
 --- filters
