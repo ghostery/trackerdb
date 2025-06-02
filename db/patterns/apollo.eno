@@ -1,0 +1,12 @@
+name: Apollo
+category: site_analytics
+website_url: https://www.apollo.io/
+organization: zenleads
+
+--- domains
+apollo.io
+--- domains
+
+--- filters
+||apollo.io^$3p
+--- filters
