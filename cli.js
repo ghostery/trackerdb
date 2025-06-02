@@ -9,14 +9,43 @@ const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 const debug = process.env.DEBUG === 'true' ? console.log : () => {};
 
-(async () => {
-  const startTime = Date.now();
-  const [, , url] = process.argv;
+function showUsage() {
+  console.log(`
+Usage: node script.js [--source-url FIRST_PARTY_URL] URL
 
+Options:
+  --source-url URL  Overwrites the source URL (needed to test third-party requests).
+  --help            Show help.
+`);
+}
+
+function parseArguments() {
+  const args = process.argv.slice(2);
+  if (args.includes('--help')) {
+    showUsage();
+    process.exit(0);
+  }
+
+  let sourceUrl = null;
+  const sourceUrlIndex = args.indexOf('--source-url');
+  if (sourceUrlIndex !== -1 && sourceUrlIndex + 1 < args.length) {
+    sourceUrl = args[sourceUrlIndex + 1];
+    args.splice(sourceUrlIndex, 2);
+  }
+
+  const url = args[0];
   if (!url) {
-    console.error('trackerdb takes URL as first argument');
+    showUsage();
+    console.error('ERROR: Missing argument: URL is needed');
     process.exit(1);
   }
+
+  return { url, sourceUrl };
+}
+
+(async () => {
+  const startTime = Date.now();
+  const { url, sourceUrl } = parseArguments();
 
   const loadingStart = Date.now();
   const engine = FiltersEngine.deserialize(
@@ -24,8 +53,13 @@ const debug = process.env.DEBUG === 'true' ? console.log : () => {};
   );
   const loadingEnd = Date.now();
 
+  const requestDetails = { url: url, type: 'xhr' };
+  if (sourceUrl) {
+    requestDetails.sourceUrl = sourceUrl;
+  }
+
   const matches = url.startsWith('http')
-    ? engine.getPatternMetadata(Request.fromRawDetails({ url, type: 'xhr' }), {
+    ? engine.getPatternMetadata(Request.fromRawDetails(requestDetails), {
         getDomainMetadata: true,
       })
     : engine.metadata.fromDomain(url);
