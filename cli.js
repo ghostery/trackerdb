@@ -11,7 +11,7 @@ const debug = process.env.DEBUG === 'true' ? console.log : () => {};
 
 function showUsage() {
   console.log(`
-Usage: node script.js [--source-url FIRST_PARTY_URL] URL
+Usage: node cli.js [--source-url FIRST_PARTY_URL] URL
 
 Options:
   --source-url URL  Overwrites the source URL (needed to test third-party requests).
