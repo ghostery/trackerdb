@@ -5,8 +5,10 @@ organization: outgrow
 
 --- domains
 outgrow.co
+outgrow.us
 --- domains
 
 --- filters
 ||outgrow.co^$3p
+||outgrow.us^$3p
 --- filters
