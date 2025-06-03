@@ -1,6 +1,7 @@
 name: Wistia
 category: site_analytics
 website_url: https://wistia.com/ 
+organization: wistia
 alias: wistia_assets
 
 --- domains
