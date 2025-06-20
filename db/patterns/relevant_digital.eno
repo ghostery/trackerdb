@@ -1,0 +1,12 @@
+name: Relevant Digital
+category: advertising
+website_url: https://www.paypal.com
+organization: relevant_digital
+
+--- domains
+relevant-digital.com
+--- domains
+
+--- filters
+||relevant-digital.com^$3p
+--- filters
