@@ -1,0 +1,12 @@
+name: Amazon Metrics
+category: site_analytics
+website_url: https://www.amazon.com/
+organization: amazon_associates
+
+--- domains
+a2z.com
+--- domains
+
+--- filters
+||a2z.com^$3p
+--- filters
