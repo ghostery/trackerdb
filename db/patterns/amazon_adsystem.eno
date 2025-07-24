@@ -7,12 +7,14 @@ organization: amazon_associates
 amazon-adsystem.com
 serving-sys.com
 sizmek.com
+paa-reporting-advertising.amazon
 --- domains
 
 --- filters
 ||amazon-adsystem.com^$3p
 ||serving-sys.com^$3p
 ||sizmek.com^$3p
+||paa-reporting-advertising.amazon^$3p
 --- filters
 
 ghostery_id: 2480
