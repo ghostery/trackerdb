@@ -6,11 +6,13 @@ organization: bytedance_inc
 --- domains
 analytics.tiktok.com
 mon.tiktokv.com
+analytics-ipv6.tiktokw.us
 --- domains
 
 --- filters
 ||analytics.tiktok.com^$3p
 ||mon.tiktokv.com^$3p
+||analytics-ipv6.tiktokw.us^3p
 --- filters
 
 ghostery_id: 4050
