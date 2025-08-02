@@ -1,0 +1,12 @@
+name: Eye-Able
+category: utilities
+website_url: https://eye-able.com/
+organization: web_inclusion
+
+--- domains
+eye-able.com
+--- domains
+
+--- filters
+||eye-able.com^$3p
+--- filters
