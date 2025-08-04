@@ -1,0 +1,12 @@
+name: Truyo
+category: consent
+website_url: https://truyo.com/
+organization: intraedge
+
+--- domains
+truyo.com
+--- domains
+
+--- filters
+||truyo.com^$3p
+--- filters
