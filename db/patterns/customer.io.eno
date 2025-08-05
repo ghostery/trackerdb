@@ -5,6 +5,10 @@ organization: customer.io
 
 --- domains
 assets.customer.io
+cdp.customer.io
+cdp-eu.customer.io
+api.customer.io
+api-eu.customer.io
 --- domains
 
 --- filters

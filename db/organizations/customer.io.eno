@@ -1,11 +1,9 @@
 name: Customer.io
 website_url: https://www.customer.io/
-privacy_policy_url: https://www.customer.io/privacy-policy.html
-privacy_contact: privacy@customer.io
-country: 
-description: "We allow you to send emails to people based on how they use your app.
-| 
-| We track user behavior, and use techniques pioneered by google to identify the "needle in a haystack" in big sets of data. We then send emails and track how they influence user behavior." Customer.io is owned by Peaberry Software Inc.
+privacy_policy_url: https://customer.io/legal/privacy-policy
+privacy_contact: compliance@customer.io
+country: US
+description: Customer.io is a leading customer engagement platform designed for tech-savvy organizations to create personalized customer journeys that engage, convert, and scale. It uses first-party data to send meaningful messages across all channels, including email, in-app, push, SMS, and webhooks. Customer.io is the trading name of Peaberry Software Inc.
 
 --- notes
 --- notes

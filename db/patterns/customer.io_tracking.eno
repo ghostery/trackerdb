@@ -1,0 +1,9 @@
+name: Customer.io Tracking
+category: site_analytics
+website_url: https://www.customer.io/
+organization: customer.io
+
+--- domains
+track.customer.io
+track-eu.customer.io
+--- domains
