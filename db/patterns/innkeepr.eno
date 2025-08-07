@@ -1,0 +1,12 @@
+name: Innkeepr
+category: site_analytics
+website_url: https://innkeepr.ai
+organization: innkeepr
+
+--- domains
+innkeepr.ai
+--- domains
+
+--- filters
+||innkeepr.ai^$3p
+--- filters
