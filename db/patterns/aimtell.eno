@@ -1,0 +1,12 @@
+name: Aimtell
+category: site_analytics
+website_url: https://aimtell.com/
+organization: digital_media_solutions
+
+--- domains
+aimtell.com
+--- domains
+
+--- filters
+||aimtell.com^$3p
+--- filters
