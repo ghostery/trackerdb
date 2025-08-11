@@ -6,14 +6,10 @@ organization: adobe
 --- domains
 adobe.com
 demdex.net
-everestjs.net
-everesttech.net
 --- domains
 
 --- filters
 ||demdex.net^$3p
-||everestjs.net^$3p
-||everesttech.net^$3p
 --- filters
 
 ghostery_id: 354

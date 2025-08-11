@@ -1,0 +1,14 @@
+name: Adobe Advertising Cloud
+category: advertising
+website_url: https://business.adobe.com/products/advertising.html
+organization: adobe
+
+--- domains
+everestjs.net
+everesttech.net
+--- domains
+
+--- filters
+||everestjs.net^$3p
+||everesttech.net^$3p
+--- filters
