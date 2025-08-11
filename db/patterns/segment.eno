@@ -9,10 +9,12 @@ d47xnnr8b1rki.cloudfront.net
 segment.com
 segment.io
 t.arcade.show
+segmentapis.com
 --- domains
 
 --- filters
 ||d2dq2ahtl5zl1z.cloudfront.net^$3p
 ||d47xnnr8b1rki.cloudfront.net^$3p
 ||t.arcade.show^$3p
+||segmentapis.com^3p
 --- filters
