@@ -1,10 +1,9 @@
 name: Clerk.io
 website_url: https://clerk.io/
-privacy_policy_url: https://clerk.io/privacy
-privacy_contact: 
-country: 
-description: We work hard every day to bring your business the best digital sales assistant you have ever had.
-| While having a ton of fun along the way!
+privacy_policy_url: https://trust.clerk.io/privacy
+privacy_contact: privacy@clerk.io
+country: DK
+description: Clerk.io is an e-commerce personalization platform that helps online retailers improve customer experience and drive sales. Founded in 2011 and based in Copenhagen, it offers AI-driven tools for search, product recommendations, and email marketing automation.
 
 --- notes
 --- notes
