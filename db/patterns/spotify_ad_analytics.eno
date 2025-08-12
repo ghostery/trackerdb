@@ -1,0 +1,8 @@
+name: Spotify Ad Analytics
+category: site_analytics
+website_url: https://help.adanalytics.spotify.com/about-ad-analytics
+organization: spotify
+
+--- domains
+pixel.byspotify.com
+--- domains

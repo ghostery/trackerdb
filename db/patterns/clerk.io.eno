@@ -1,14 +1,11 @@
 name: Clerk.io
-category: advertising
-website_url: 
+category: customer_interaction
+website_url: https://www.clerk.io/platform
 organization: clerk.io
 
 --- domains
 api.clerk.io
+cdn.clerk.io
 --- domains
-
---- filters
-||api.clerk.io/static/clerk.js
---- filters
 
 ghostery_id: 2554
