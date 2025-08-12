@@ -1,14 +1,14 @@
 name: Sprinklr
-category: advertising
-website_url: 
+category: site_analytics
+website_url: https://www.sprinklr.com/
 organization: sprinklr
 
 --- domains
-pixel.sprinklr.com
+sprinklr.com
 --- domains
 
 --- filters
-||pixel.sprinklr.com/btp
+||sprinklr.com^$3p
 --- filters
 
 ghostery_id: 2876
