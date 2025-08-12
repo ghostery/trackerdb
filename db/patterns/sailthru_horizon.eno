@@ -1,5 +1,5 @@
 name: Sailthru Horizon
-category: advertising
+category: site_analytics
 website_url: https://www.sailthru.com
 organization: sailthru
 
@@ -7,6 +7,7 @@ organization: sailthru
 sail-horizon.com
 sail-personalize.com
 sailthru.com
+api.sail-track.com
 --- domains
 
 --- filters
