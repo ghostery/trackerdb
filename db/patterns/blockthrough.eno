@@ -1,6 +1,6 @@
-name: PageFair
+name: Blockthrough
 category: customer_interaction
-website_url: https://pagefair.com/
+website_url: https://blockthrough.com/
 organization: blockthrough
 
 --- domains
@@ -17,5 +17,3 @@ pagefair.net
 ||pagefair.net^$3p
 ||s3.amazonaws.com/asset.pagefair.com
 --- filters
-
-ghostery_id: 1628
