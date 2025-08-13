@@ -1,10 +1,16 @@
-name: nosto
+name: Nosto
 category: site_analytics
 website_url: https://www.nosto.com/
 organization: nosto
 
 --- domains
 nosto.com
+stackla.com
 --- domains
+
+--- filters
+||nosto.com^$3p
+||stackla.com^$3p
+--- filters
 
 ghostery_id: 3719
