@@ -1,0 +1,13 @@
+name: SurveyMonkey
+category: customer_interaction
+website_url: https://www.surveymonkey.com/
+organization: surveymonkey
+
+--- domains
+widget.surveymonkey.com
+--- domains
+
+--- filters
+||widget.surveymonkey.com^$3p
+--- filters
+
