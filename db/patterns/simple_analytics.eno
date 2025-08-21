@@ -1,0 +1,14 @@
+name: Simple Analytics
+category: site_analytics
+website_url: https://www.simpleanalytics.com/
+organization: simple_analytics
+
+--- domains
+scripts.simpleanalyticscdn.com
+queue.simpleanalyticscdn.com
+--- domains
+
+--- filters
+||scripts.simpleanalyticscdn.com/latest.js^$3p
+||queue.simpleanalyticscdn.com/simple.gif^$3p
+--- filters
