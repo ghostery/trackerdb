@@ -1,11 +1,13 @@
 name: Brightcove Player
 category: audio_video_player
-website_url: 
+website_url: https://www.brightcove.com/
 organization: brightcove
 
 --- domains
 brightcove.net
 api.brightcove.com
+map.brightcove.com
+brightcovecdn.com
 --- domains
 
 --- filters
