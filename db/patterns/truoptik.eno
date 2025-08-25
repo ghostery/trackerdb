@@ -1,10 +1,19 @@
-name: Tru Optik
+name: TruAudience Data Marketplace
 category: advertising
-website_url: http://truoptik.com/
+website_url: https://www.transunion.com/solution/truaudience
 organization: transunion
 
 --- domains
 truoptik.com
 --- domains
+
+--- notes
+Originally named Tru Optik before being acquired (Oct 2020) and renamed to TruAudience Data Marketplace:
+* https://newsroom.transunion.com/transunion-introduces-truaudience-marketing-solutions--to-power-privacy-centric-identity-and-data-capabilities-for-omnichannel-advertising/
+* https://web.archive.org/web/20210802092555/https://newsroom.transunion.com/transunion-accelerates-strategic-focus-on-identity-enabled-marketing-solutions-with-agreement-to-acquire-tru-optik
+
+Last version of Tru Optik's original homepage (https://truoptik.com/) before being shut down (Aug 2nd, 2021):
+https://web.archive.org/web/20210802131816/https://truoptik.com/
+--- notes
 
 ghostery_id: 3916
