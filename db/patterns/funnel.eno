@@ -1,0 +1,12 @@
+name: Funnel
+category: site_analytics
+website_url: https://funnel.io
+organization: funnel
+
+--- domains
+adtriba.com
+--- domains
+
+--- filters
+||adtriba.com^$3p
+--- filters
