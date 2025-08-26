@@ -1,0 +1,9 @@
+name: movingimage
+category: audio_video_player
+website_url: https://www.movingimage.com
+organization: movingimage
+
+--- domains
+nr-agent.movingimage.com
+video-cdn.net
+--- domains
