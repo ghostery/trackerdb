@@ -1,16 +1,19 @@
 name: Tealeaf
 category: site_analytics
-website_url: https://www.ibm.com/digital-marketing
-organization: ibm
+website_url: https://www.acoustic.com/tealeaf
+organization: acoustic
 
 --- domains
-tealeaf.ibmcloud.com
+acoustic.com
 --- domains
 
 --- filters
 /tealeaf.js
 /tealeafcfg.js
 /tealeaftarget.jsp
+/TealeafTarget.php
+/TealeafTarget.jsp
+/TealeafTarget.asp
 tealeaf/levi-tealeaf-w3c
 ||tealeaf.ibmcloud.com/collector
 --- filters
