@@ -1,0 +1,12 @@
+name: DAX
+category: advertising
+website_url: https://global.com/dax/
+organization: global
+
+--- domains
+thisisdax.com
+--- domains
+
+--- filters
+||thisisdax.com^$3p
+--- filters
