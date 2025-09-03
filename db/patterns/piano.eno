@@ -1,12 +1,19 @@
 name: Piano Analytics
 category: site_analytics
-website_url: https://piano.io/
+website_url: https://www.piano.io/product/analytics
 organization: piano
 
 --- domains
 piano.io
+ati-host.net
+aticdn.net
+xiti.com
 --- domains
 
 --- filters
 ||piano.io/tracker/
+/piano-analytics.js^$script
+/xtcore.js
+||ati-host.net^$3p
+||xiti.com^$3p
 --- filters
