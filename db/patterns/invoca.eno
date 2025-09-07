@@ -1,16 +1,18 @@
 name: Invoca
-category: advertising
+category: site_analytics
 website_url: https://www.invoca.com/
 organization: invoca
 
 --- domains
-js12.invoca.net
 ringrevenue.com
+invoca.net
+invocacdn.com
 --- domains
 
 --- filters
-||js12.invoca.net/12/integration.js
 ||ringrevenue.com^$3p
+||invoca.net^$3p
+||invocacdn.com^$3p
 --- filters
 
 ghostery_id: 1934
