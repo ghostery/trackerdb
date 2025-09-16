@@ -1,0 +1,17 @@
+name: WiFi OnBoard
+category: site_analytics
+website_url: https://www.wifionboard.com/
+organization: intelsat
+
+--- domains
+wifionboard.com
+inflightinternet.com
+--- domains
+
+--- filters
+||wifi.inflightinternet.com/app/analytics/dynatrace.js^
+||adcontent.inflightinternet.com^
+||adserver.inflightinternet.com^
+||wifi.inflightinternet.com/abp/rest/v1/data
+wifi.inflightinternet.com##div[class^="CookiesRequiredNotification"]
+--- filters
