@@ -1,0 +1,12 @@
+name: MediaGo
+category: advertising
+website_url: https://www.mediago.com/
+organization: mediago
+
+--- domains
+mediago.io
+--- domains
+
+--- filters
+||mediago.io^$3p
+--- filters
