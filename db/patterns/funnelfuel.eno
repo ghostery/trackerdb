@@ -1,0 +1,12 @@
+name: FunnelFuel
+category: advertising
+website_url: https://www.funnelfuel.io
+organization: funnelfuel
+
+--- domains
+funnelfuel.io
+--- domains
+
+--- filters
+||funnelfuel.io^$3p
+--- filters
