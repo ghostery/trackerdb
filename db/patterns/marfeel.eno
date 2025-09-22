@@ -5,7 +5,9 @@ organization: marfeel_solutions
 
 --- domains
 mrf.io
+events.newsroom.bi
 --- domains
 
 --- filters
+||newsroom.bi^$3p
 --- filters
