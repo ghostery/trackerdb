@@ -7,10 +7,14 @@ organization: wunderkind
 bounceexchange.com
 bouncex.com
 bouncex.net
+wknd.ai
+wunderkind.co
+ibx2.net
 --- domains
 
 --- filters
 ||bounceexchange.com^$3p
+||wunderkind.co^$3p
 --- filters
 
 ghostery_id: 1463
