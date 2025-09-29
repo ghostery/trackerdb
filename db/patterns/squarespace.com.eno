@@ -1,9 +1,14 @@
 name: Squarespace
-category: site_analytics
+category: hosting
 website_url: https://www.squarespace.com/
+organization: squarespace
 
 --- domains
 squarespace.com
 --- domains
+
+--- filters
+||squarespace.com^$3p
+--- filters
 
 ghostery_id: 3869
