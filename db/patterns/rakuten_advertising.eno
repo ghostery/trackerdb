@@ -1,0 +1,12 @@
+name: Rakuten Advertising
+category: advertising
+website_url: https://rakutenadvertising.com
+organization: rakuten
+
+--- domains
+rakutenadvertising.io
+--- domains
+
+--- filters
+||rakutenadvertising.io^$3p
+--- filters
