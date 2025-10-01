@@ -10,6 +10,7 @@ cookiebot.eu
 
 --- filters
 ||consent.cookiebot.com^$3p
+||imgsct.cookiebot.com/1.gif^
 --- filters
 
 ghostery_id: 3475
