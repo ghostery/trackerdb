@@ -15,4 +15,6 @@ amazon.it
 d3io1k5o0zdpqr.cloudfront.net
 --- domains
 
-ghostery_id: 3350
+--- filters
+||fls-*.amazon.com^$image
+--- filters
