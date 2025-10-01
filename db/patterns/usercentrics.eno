@@ -10,6 +10,7 @@ usercentrics.eu
 --- filters
 /usercentrics/cmp.js
 ###comspace-usercentrics
-||usercentrics.eu/session/$image
+||usercentrics.eu/session^$image
 ||usercentrics.eu^$third-party
+||uct.service.usercentrics.eu/uct^$image
 --- filters
