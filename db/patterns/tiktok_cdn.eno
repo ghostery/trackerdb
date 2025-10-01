@@ -7,6 +7,9 @@ organization: bytedance_inc
 p16-sign-va.tiktokcdn.com
 p77-sign-va.tiktokcdn.com
 s20.tiktokcdn.com
+p16-tiktok-ads-sg.tiktokcdn.com
 --- domains
 
-ghostery_id: 4060
+--- filters
+ads*.tiktokcdn.com^
+--- filters
