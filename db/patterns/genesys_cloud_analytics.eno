@@ -1,0 +1,8 @@
+name: Genesys Cloud CX Analytics
+category: site_analytics
+website_url: https://www.genesys.com/genesys-cloud
+organization: genesys
+
+--- filters
+||api.mypurecloud.de/*/ping^
+--- filters
