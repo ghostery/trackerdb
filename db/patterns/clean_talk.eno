@@ -1,0 +1,13 @@
+name: CleanTalk Spam Protect
+category: utilities
+website_url: https://cleantalk.org/
+organization: clean_talk
+
+--- domains
+fd.cleantalk.org
+--- domains
+
+--- filters
+||fd.cleantalk.org/api3.0/frontend_data
+/wp-content/plugins/cleantalk-spam-protect/
+--- filters
