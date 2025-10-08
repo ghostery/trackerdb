@@ -1,0 +1,12 @@
+name: Nespresso
+category: site_analytics
+website_url: https://www.nespresso.com/
+organization: nestle
+
+--- domains
+nespresso.com
+--- domains
+
+--- filters
+||servertag.nespresso.com^
+--- filters
