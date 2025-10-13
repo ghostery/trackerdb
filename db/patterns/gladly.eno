@@ -1,0 +1,12 @@
+name: Gladly
+category: customer_interaction
+website_url: https://www.gladly.ai/
+organization: gladly_software
+
+--- domains
+gladly.com
+--- domains
+
+--- filters
+||gladly.com^$3p
+--- filters
