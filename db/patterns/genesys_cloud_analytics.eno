@@ -5,5 +5,5 @@ organization: genesys
 alias: genesys_cloud
 
 --- filters
-||api.mypurecloud.de/*/ping^
+||api.mypurecloud.*/*/ping^
 --- filters
