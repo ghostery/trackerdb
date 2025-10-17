@@ -5,5 +5,14 @@ organization: genesys
 
 --- domains
 genesys.com
+mypurecloud.com
 mypurecloud.de
+mypurecloud.jp
+mypurecloud.ie
+mypurecloud.co.uk
+mypurecloud.com.au
 --- domains
+
+--- filters
+||genesys.com^$3p
+--- filters
