@@ -1,0 +1,12 @@
+name: Storyblok
+category: utilities
+website_url: https://www.storyblok.com
+organization: storyblok
+
+--- domains
+storyblok.com
+--- domains
+
+--- filters
+||storyblok.com^$3p
+--- filters
