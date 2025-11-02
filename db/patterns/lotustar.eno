@@ -1,0 +1,16 @@
+name: Lotustar
+category: advertising
+website_url: https://www.vietnamairlines.com/vn/en/plan-book/experience/entertainment/lotustar
+organization: vietnam_airlines
+
+--- domains
+lotustar.vietnamairlines.com
+--- domains
+
+--- filters
+! https://lotustar.vietnamairlines.com/ishtehaar/v1/getActiveIshtehaars
+||lotustar.vietnamairlines.com/ishtehaar^
+! https://lotustar.vietnamairlines.com/content/anuvu/ishtehaar/eng/d5172b77-069e-4b9c-9a0d-abdd21af2e50_8306f91c-33be-4753-9c6e-5bd4d0c09f16/Omachi_15s_16x9_0710_VNA_.mp4
+||lotustar.vietnamairlines.com/content/anuvu/ishtehaar^
+lotustar.vietnamairlines.com###ishtehaar-overlay
+--- filters
