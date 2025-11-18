@@ -1,6 +1,7 @@
 name: Cloudinary
 category: hosting
 website_url: https://cloudinary.com/
+organization: cloudinary
 
 --- domains
 cloudinary.com
