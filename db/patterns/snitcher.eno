@@ -1,0 +1,12 @@
+name: Snitcher
+category: site_analytics
+website_url: https://www.snitcher.com/
+organization: snitcher
+
+--- domains
+snitcher.com
+--- domains
+
+--- filters
+||snitcher.com^$3p
+--- filters
