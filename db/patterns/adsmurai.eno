@@ -1,0 +1,12 @@
+name: ADSMURAI
+category: advertising
+website_url: https://www.adsmurai.com
+organization: adsmurai
+
+--- domains
+adsmurai.com
+--- domains
+
+--- filters
+||adsmurai.com^$3p
+--- filters
