@@ -1,11 +1,12 @@
 name: Heap
 category: site_analytics
-website_url: https://heapanalytics.com/
+website_url: https://www.heap.io
 organization: heap
 
 --- domains
 d36lvucg9kzous.cloudfront.net
 heapanalytics.com
+heap-api.com
 --- domains
 
 --- filters
