@@ -1,0 +1,14 @@
+name: Framer
+category: hosting
+website_url: https://www.framer.com/
+organization: framer
+
+--- domains
+framer.com
+framerusercontent.com
+--- domains
+
+--- filters
+||framer.com^$3p
+||framerusercontent.com^$3p
+--- filters
