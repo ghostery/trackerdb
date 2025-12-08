@@ -4,11 +4,11 @@ website_url: https://www.rollbar.com/
 organization: rollbar
 
 --- domains
-d37gvrvc0wt4s1.cloudfront.net
+rollbar.com
 --- domains
 
 --- filters
-||d37gvrvc0wt4s1.cloudfront.net/js/
+||rollbar.com^$3p
 --- filters
 
 ghostery_id: 1828
