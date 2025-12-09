@@ -1,9 +1,9 @@
 name: Rollbar
 website_url: https://www.rollbar.com/
-privacy_policy_url: https://www.rollbar.com/privacy
-privacy_contact: support@rollbar.com
-country: 
-description: "Rollbar collects and analyzes errors so you can find and fix them faster."
+privacy_policy_url: https://docs.rollbar.com/docs/privacy-policy
+privacy_contact: privacy@rollbar.com
+country: US
+description: Rollbar, Inc. provides a real-time error monitoring and continuous code improvement platform, helping development teams quickly find, analyze, and fix bugs in code using AI-assisted workflows, integrating with tools like GitHub and Jira to manage software quality and reduce deployment risks.
 
 --- notes
 --- notes

@@ -1,14 +1,13 @@
-name: Idio
-category: advertising
-website_url: 
-organization: idio
+name: Optimizely Recommendations
+category: site_analytics
+website_url: https://www.optimizely.com/idio/
+organization: optimizely
 
 --- domains
-s.idio.co
+idio.co
 --- domains
 
 --- filters
-||s.idio.co/ia.js
 --- filters
 
 ghostery_id: 2381
