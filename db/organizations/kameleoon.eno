@@ -1,11 +1,9 @@
 name: Kameleoon
 website_url: https://www.kameleoon.com/
-privacy_policy_url: 
-privacy_contact: INFO@KAMELEOON.COM
-country: 
-description: "Kameleoon is a complete solution for A / B testing, available in SaaS (Software as a Service)...  Our software is specifically aimed at managers of e-marketing, conversion specialists and enthusiastic leaders pure Internet players."
-| 
-| Translated by Kameleoon
+privacy_policy_url: https://www.kameleoon.com/privacy-policy
+privacy_contact: legal@kameleoon.com
+country: FR
+description: Kameleoon is a B2B SaaS company providing an all-in-one web/full-stack experimentation and AI-driven personalization platform for marketing/product teams, helping businesses optimize customer experiences, engagement, and revenue through A/B testing, feature experimentation, and real-time data analysis.
 
 --- notes
 --- notes
