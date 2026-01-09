@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      id-token: write
     steps:
       - name: set env
         run: echo "TAG_NAME=$(date +'%Y%m%d%H%M')" >> $GITHUB_ENV
@@ -20,6 +21,11 @@ jobs:
 
       - name: asdf_install
         uses: asdf-vm/actions/install@05e0d2ed97b598bfce82fd30daf324ae0c4570e6
+
+      - name: Setup Node.js for NPM publish
+        uses: actions/setup-node@v4
+        with:
+          registry-url: 'https://registry.npmjs.org'
 
       - name: Cache node modules
         uses: actions/cache@v4
@@ -49,11 +55,7 @@ jobs:
           commit_message: "NPM package version bump"
 
       - name: Publish to npm
-        run: |
-          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
-          npm publish --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npm publish --access public --provenance
 
       - name: Create Release
         id: create_release
