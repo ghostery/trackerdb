@@ -5,7 +5,10 @@ organization: jotform
 
 --- domains
 jotfor.ms
+jotform.io
+jotform.com
 --- domains
 
 --- filters
+||jotform.com^$3p
 --- filters
