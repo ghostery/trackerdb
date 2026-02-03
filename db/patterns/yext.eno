@@ -1,0 +1,13 @@
+name: Yext
+category: site_analytics
+website_url: https://www.yext.com
+organization: yext
+
+--- domains
+realtimeanalytics.yext.com
+www.yextevents.com
+www.yext-pixel.com
+--- domains
+
+--- filters
+--- filters
