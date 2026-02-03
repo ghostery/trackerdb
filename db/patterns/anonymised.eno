@@ -1,0 +1,12 @@
+name: Anonymised
+category: advertising
+website_url: https://www.anonymised.io/
+organization: anonymised
+
+--- domains
+anonymised.io
+--- domains
+
+--- filters
+||anonymised.io^$3p
+--- filters
