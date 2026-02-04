@@ -1,0 +1,13 @@
+name: Securiti CMP
+category: consent
+website_url: https://securiti.ai/products/consent-management-platform/
+organization: securiti
+
+--- domains
+securiti.ai
+--- domains
+
+--- filters
+||securiti.ai/consent/^$3p
+||securiti.ai/privaci/^$3p
+--- filters
