@@ -6,10 +6,12 @@ organization: dstillery
 --- domains
 m6d.com
 media6degrees.com
+dstillery.com
 --- domains
 
 --- filters
 ||media6degrees.com^$3p
+||dstillery.com^$3p
 --- filters
 
 ghostery_id: 147
