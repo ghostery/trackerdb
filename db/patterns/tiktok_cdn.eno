@@ -4,10 +4,9 @@ website_url: https://www.tiktok.com/
 organization: bytedance_inc
 
 --- domains
-p16-sign-va.tiktokcdn.com
-p77-sign-va.tiktokcdn.com
-s20.tiktokcdn.com
-p16-tiktok-ads-sg.tiktokcdn.com
+tiktokcdn.com
+tiktokcdn-eu.com
+ttwstatic.com
 --- domains
 
 --- filters
