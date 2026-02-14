@@ -1,7 +1,7 @@
 name: Elastic
 website_url: https://www.elastic.co/
-privacy_policy_url: https://www.elastic.co/de/legal/privacy-statement
-privacy_contact: 
+privacy_policy_url: https://www.elastic.co/trust/faq#data-privacy
+privacy_contact: security@elastic.co
 country: US
 description: Elastic builds software to make data usable in real time and at scale for search, logging, security, and analytics use cases.
 
