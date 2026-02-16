@@ -1,0 +1,9 @@
+name: Tickaroo Analytics
+category: site_analytics
+website_url: https://tickaroo.com/en/
+organization: tickaroo
+alias: tickaroo
+
+--- filters
+||cdn.tickaroo.com/api/collect^$3p
+--- filters
