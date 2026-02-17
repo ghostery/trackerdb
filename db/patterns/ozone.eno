@@ -1,0 +1,12 @@
+name: Ozone
+category: advertising
+website_url: https://ozoneproject.com/
+
+--- domains
+ozoneproject.com
+the-ozone-project.com
+--- domains
+
+--- filters
+||the-ozone-project.com^f
+--- filters
