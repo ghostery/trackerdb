@@ -1,0 +1,11 @@
+name: Trustx
+category: advertising
+website_url: https://trustx.org
+
+--- domains
+trustx.org
+--- domains
+
+--- filters
+||trustx.org^$3p
+--- filters
