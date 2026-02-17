@@ -1,9 +1,9 @@
 name: ConnectAd
 website_url: https://connectad.io/
-privacy_policy_url: https://connectad.io/
-privacy_contact: 
-country: 
-description: The Right Message. To the Right user. At the right time. 100% Audience targeted - 0% Wastage
+privacy_policy_url: https://connectad.io/privacy-policy/
+privacy_contact: privacy@connectad.io
+country: AT
+description: ConnectAd is a European-based independent supply-side platform (SSP) that provides technology for digital publishers to programmatically sell advertising inventory and connect with advertisers and demand partners. Its platform emphasizes automated monetization, transparency, and efficiency in the programmatic ad ecosystem.
 
 --- notes
 --- notes
