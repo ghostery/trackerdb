@@ -5,11 +5,14 @@ organization: connectad
 
 --- domains
 connected-by.connectad.io
+i.connectad.io
 sync.connectad.io
 --- domains
 
 --- filters
 ||connected-by.connectad.io/adview.php
+||i.connectad.io^
+||sync.connectad.io^
 --- filters
 
 ghostery_id: 2934
