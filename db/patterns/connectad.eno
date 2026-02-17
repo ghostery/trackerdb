@@ -1,10 +1,11 @@
 name: ConnectAd
 category: advertising
-website_url: 
+website_url:
 organization: connectad
 
 --- domains
 connected-by.connectad.io
+sync.connectad.io
 --- domains
 
 --- filters
