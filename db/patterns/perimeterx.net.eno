@@ -5,6 +5,11 @@ organization: human_security
 
 --- domains
 perimeterx.net
+px-cloud.net
 --- domains
+
+--- filters
+||client.px-cloud.net/PXduTzFCoj/main.min.js
+--- filters
 
 ghostery_id: 3763
