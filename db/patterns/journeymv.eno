@@ -1,0 +1,12 @@
+name: Journey by Mediavine
+category: advertising
+website_url: https://www.journeymv.com/
+organization: mediavine_inc
+
+--- domains
+journeymv.com
+--- domains
+
+--- filters
+||exchange.journeymv.com^
+--- filters
