@@ -1,0 +1,12 @@
+name: PubNation
+category: advertising
+website_url: https://www.pubnation.com/
+organization: mediavine_inc
+
+--- domains
+pubnation.com
+--- domains
+
+--- filters
+||exchange.pubnation.com^
+--- filters
