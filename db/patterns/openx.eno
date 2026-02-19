@@ -9,6 +9,7 @@ openx.net
 openx.org
 openxenterprise.com
 servedbyopenx.com
+openxcdn.net
 --- domains
 
 --- filters
@@ -23,6 +24,7 @@ servedbyopenx.com
 ||openxenterprise.com^$3p
 ||ox-d.
 ||servedbyopenx.com^$3p
+||oa.openxcdn.net/esp.js^
 --- filters
 
 ghostery_id: 32
