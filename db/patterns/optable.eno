@@ -6,7 +6,9 @@ organization: optable_technologies
 --- domains
 cdn.optable.co
 cloud.optable.co
+edge.optable.co
 --- domains
 
 --- filters
+||edge.optable.co^$script
 --- filters
