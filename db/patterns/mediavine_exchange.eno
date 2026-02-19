@@ -5,10 +5,12 @@ organization: mediavine_inc
 
 --- domains
 mediavine.com
+pb-ing-mediavine.ccgateway.net
 --- domains
 
 --- filters
 ||mediavine.com^$3p
+||pb-ing-mediavine.ccgateway.net^
 --- filters
 
 ghostery_id: 4058
