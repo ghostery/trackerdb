@@ -1,0 +1,12 @@
+name: Alliance Gravity
+category: site_analytics
+website_url: https://www.alliancegravity.com/
+organization: alliance_gravity
+
+--- domains
+tag.agrvt.com
+--- domains
+
+--- filters
+||tag.agrvt.com/tag/v2/wrapper.js^
+--- filters
