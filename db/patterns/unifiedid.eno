@@ -1,0 +1,14 @@
+name: Unified iD
+category: advertising
+website_url: https://unifiedid.com/
+organization: thetradedesk
+
+--- domains
+unifiedid.com
+uidapi.com
+--- domains
+
+--- filters
+||unifiedid.com^$3p
+||uidapi.com^
+--- filters
