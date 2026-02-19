@@ -1,5 +1,6 @@
 name: Google Recaptcha
 category: utilities
+tags: anti-fraud
 website_url: https://www.google.com/recaptcha/about/
 organization: google
 

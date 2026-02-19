@@ -26,6 +26,7 @@ const FIELDS_ALLOW_LIST = [
   'ghostery_id',
   'website_url',
   'archived',
+  'tags',
 ];
 
 function parseSpecFile(specFile) {
@@ -127,6 +128,21 @@ test(RESOURCE_PATH, async (t) => {
             const trimmed = line.trim();
             if (trimmed && !trimmed.startsWith('!')) {
               assert.ok(adblocker.parseFilter(trimmed), trimmed);
+            }
+          }
+        }
+      });
+
+      await t.test('has valid tags', () => {
+        const tags = spec.field('tags').optionalStringValue();
+        if (tags) {
+          for (const tag of tags.split(',')) {
+            const trimmed = tag.trim();
+            if (trimmed) {
+              assert.ok(
+                /^[a-zA-Z0-9_-]+(::[a-zA-Z0-9_-]+)*$/.test(trimmed),
+                `Tag '${trimmed}' contains invalid characters. Only ASCII letters, numbers, hyphens, underscores, and namespace::tag format are allowed.`,
+              );
             }
           }
         }
