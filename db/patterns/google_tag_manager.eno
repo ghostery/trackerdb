@@ -8,7 +8,7 @@ alias: google_tag
 ||googletagmanager.com/gtm.js^$3p
 /^https:\/\/www\.googletagmanager\.com\/a\?(?:.+&)?gtm=/$3p
 /^https:\/\/www\.googletagmanager\.com\/td\?(?:.+&)?id=GTM-/$3p
-/^https:\/\/gtm\.[^/]+\/gtm.js\?id=GTM-/$3p
+/^https:\/\/gtm\.[^/]+\/gtm.js\?id=GTM-/
 --- filters
 
 ghostery_id: 1283
