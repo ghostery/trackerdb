@@ -1,9 +1,11 @@
 name: Prebid
 category: advertising
 website_url: https://prebid.org/
+organization: prebid
 
 --- domains
 prebid.org
+receptivity.io
 --- domains
 
 ghostery_id: 3774
