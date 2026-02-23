@@ -5,12 +5,10 @@ organization: prebid
 
 --- domains
 prebid.org
-receptivity.io
 --- domains
 
 --- filters
 ||prebid.org^$3p
-||receptivity.io^$3p
 --- filters
 
 ghostery_id: 3774
