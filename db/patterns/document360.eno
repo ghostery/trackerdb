@@ -1,0 +1,12 @@
+name: Document360
+category: site_analytics
+website_url: https://document360.com/
+organization: kovai
+
+--- domains
+document360.com
+--- domains
+
+--- filters
+||document360.com^$3p
+--- filters
