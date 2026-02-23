@@ -1,9 +1,14 @@
 name: Prebid
 category: advertising
 website_url: https://prebid.org/
+organization: prebid
 
 --- domains
 prebid.org
 --- domains
+
+--- filters
+||prebid.org^$3p
+--- filters
 
 ghostery_id: 3774

@@ -1,0 +1,14 @@
+name: Receptiv
+category: advertising
+website_url: https://www.getreceptiv.com
+organization: receptiv
+
+--- domains
+contxtful.com
+getreceptiv.com
+receptivity.io
+--- domains
+
+--- filters
+||receptivity.io^$3p
+--- filters
