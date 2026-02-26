@@ -1,0 +1,12 @@
+name: Document360
+category: customer_interaction
+website_url: https://document360.com/
+organization: kovai
+
+--- domains
+document360.com
+--- domains
+
+--- filters
+||document360.com^$3p
+--- filters
