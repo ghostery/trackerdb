@@ -1,0 +1,13 @@
+name: Delivr.ai
+category: advertising
+website_url: https://www.delivr.ai/solutions/resolution
+organization: delivrai
+
+--- domains
+delivr.ai
+usbrowserspeed.com
+--- domains
+
+--- filters
+||usbrowserspeed.com^$3p
+--- filters
