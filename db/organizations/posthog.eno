@@ -1,0 +1,6 @@
+name: PostHog
+website_url: https://posthog.com/
+privacy_policy_url: https://posthog.com/privacy
+privacy_contact: privacy@posthog.com
+country: US
+description: PostHog is an open-source platform providing an integrated suite of product analytics, session recording, feature flags, and A/B testing tools. Designed for engineers and product teams, it offers cloud-hosted and self-hosted options to ensure greater control over data ownership and privacy. It operates as a "product OS," consolidating multiple functionalities into one interface to eliminate the need for disparate third-party integrations.

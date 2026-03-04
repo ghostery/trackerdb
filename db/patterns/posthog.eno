@@ -1,0 +1,12 @@
+name: PostHog
+category: site_analytics
+website_url: https://posthog.com/
+organization: posthog
+
+--- domains
+posthog.com
+--- domains
+
+--- filters
+||posthog.com^$3p
+--- filters
