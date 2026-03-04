@@ -9,6 +9,8 @@ prebid.org
 
 --- filters
 ||prebid.org^$3p
+||hq2zc2zefnwmg3wcm.ay.delivery/s2s-client-v1.js^$3p
+||hq2zc2zefnwmg3wcm.ay.delivery/client-v2.js^$3p
 --- filters
 
 ghostery_id: 3774
