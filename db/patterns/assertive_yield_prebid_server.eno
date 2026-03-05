@@ -1,0 +1,10 @@
+name: AY Prebid Server
+category: site_analytics
+website_url: https://www.assertiveyield.com/ay_prebidserver/
+organization: assertive_yield
+alias: assertive_yield
+
+--- filters
+||hq2zc2zefnwmg3wcm.ay.delivery/s2s-client-v1.js^$3p
+||hq2zc2zefnwmg3wcm.ay.delivery/client-v2.js^$3p
+--- filters
