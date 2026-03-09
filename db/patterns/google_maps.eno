@@ -1,0 +1,13 @@
+name: Google Maps
+category: utilities
+website_url: https://www.google.com/maps
+organization: google
+
+--- domains
+maps.googleapis.com
+maps.google.com
+--- domains
+
+--- filters
+||www.google.com/maps^
+--- filters
