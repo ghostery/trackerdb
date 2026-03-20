@@ -63,6 +63,18 @@ function parseArguments() {
         getDomainMetadata: true,
       })
     : engine.metadata.fromDomain(url);
+
+  // Tags are not provided by the engine, but we can enrich the matches using the json export
+  if (matches.length > 0) {
+    const db = JSON.parse(
+      readFileSync(path.join(__dirname, 'dist', 'trackerdb.json')),
+    );
+    for (const match of matches) {
+      if (match.pattern && db.patterns[match.pattern.key]) {
+        match.pattern.tags = db.patterns[match.pattern.key].tags;
+      }
+    }
+  }
   const matchingEnd = Date.now();
 
   debug('Timing:', {

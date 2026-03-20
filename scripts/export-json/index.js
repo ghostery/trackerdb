@@ -38,6 +38,13 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
         .optionalStringValue(),
       privacy_contact: spec.field('privacy_contact').optionalStringValue(),
       ghostery_id: spec.field('ghostery_id').optionalStringValue(),
+      tags:
+        spec
+          .field('tags')
+          .optionalStringValue()
+          ?.split(',')
+          .map((t) => t.trim())
+          .filter((t) => t.length > 0) || [],
     };
   }
 
@@ -49,6 +56,13 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
       alias: spec.field('alias').optionalStringValue(),
       website_url: spec.field('website_url').optionalStringValue(),
       ghostery_id: spec.field('ghostery_id').optionalStringValue(),
+      tags:
+        spec
+          .field('tags')
+          .optionalStringValue()
+          ?.split(',')
+          .map((t) => t.trim())
+          .filter((t) => t.length > 0) || [],
       domains: [],
       filters: [],
     };
