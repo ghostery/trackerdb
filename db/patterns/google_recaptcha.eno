@@ -8,7 +8,7 @@ recaptcha.net
 --- domains
 
 --- filters
-||google.com/recaptcha/$frame,script
+||google.com/recaptcha/
 ||gstatic.*/recaptcha/
 ||google.com/js/bg/^$script
 ||google.com/js/th/^$script
