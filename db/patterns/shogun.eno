@@ -1,0 +1,14 @@
+name: Shogun Analytics
+category: site_analytics
+website_url: https://getshogun.com/help/en/articles/3054981-get-more-from-your-pages-with-analytics
+organization: shogun_labs
+
+--- domains
+na.shgcdn3.com
+--- domains
+
+--- filters
+||na.shgcdn3.com/pixel-collector.js
+||na.shgcdn3.com/pageview
+||na.shgcdn3.com/clickthrough
+--- filters
