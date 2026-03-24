@@ -1,0 +1,13 @@
+name: Sentry Session Replay
+category: site_analytics
+website_url: https://sentry.io/
+organization: sentry
+
+--- domains
+browser.sentry-cdn.com
+--- domains
+
+--- filters
+||browser.sentry-cdn.com/*/bundle.*replay.*.js
+||browser.sentry-cdn.com/*/bundle.*replay.js
+--- filters
