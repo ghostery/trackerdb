@@ -1,0 +1,12 @@
+name: ipapi
+category: site_analytics
+website_url: https://ipapi.co/
+organization: Kloudend
+
+--- domains
+ipapi.co
+--- domains
+
+--- filters
+||ipapi.co/json^$3p
+--- filters
