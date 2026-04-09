@@ -22,7 +22,7 @@ adoberesources.net
 ||.122.2o7.net^$3p
 ||adoberesources.net/alloy/*/alloy^$3p
 /h10000/cma/tms/metrics.js
-/metrics\..*\.(com|net|org)\/b\/(s|ss)\//
+/\/b\/ss?\/[^\/]+\/\d+\//
 ||2o7.net^$3p
 ||du8783wkf05yr.cloudfront.net^$3p
 ||hitbox.com^$3p
