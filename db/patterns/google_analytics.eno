@@ -28,6 +28,7 @@ analytics.google.com
 ||stats.g.doubleclick.net/__utm.gif
 ||stats.g.doubleclick.net/dc.js
 ||googleanalytics.com/analytics.js
+/\/g\/collect\?v=\d+&tid=G-/
 --- filters
 
 ghostery_id: 13
