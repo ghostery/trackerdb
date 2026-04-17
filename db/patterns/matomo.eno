@@ -1,5 +1,6 @@
 name: Matomo
 category: site_analytics
+tags: passive-statistics, site-statistics
 website_url: https://matomo.org
 organization: matomo
 
