@@ -2,6 +2,7 @@ name: Sentry Session Replay
 category: site_analytics
 website_url: https://sentry.io/
 organization: sentry
+alias: sentry
 
 --- filters
 ||browser.sentry-cdn.com/*/bundle.*replay.*.js
