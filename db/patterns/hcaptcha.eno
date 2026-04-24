@@ -1,0 +1,14 @@
+name: hCaptcha
+category: utilities
+tags: anti-fraud
+website_url: https://www.hcaptcha.com/
+organization: intuition_machines
+
+--- domains
+api.hcaptcha.com
+js.hcaptcha.com
+newassets.hcaptcha.com
+--- domains
+
+--- filters
+--- filters
