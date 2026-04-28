@@ -1,0 +1,10 @@
+name: Okendo
+category: customer_interaction
+website_url: https://okendo.io/
+organization: okendo
+
+--- domains
+api.okendo.io
+cdn-static.okendo.io
+surveys.okendo.io
+--- domains
