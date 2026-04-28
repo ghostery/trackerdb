@@ -1,0 +1,12 @@
+name: Shopify App
+category: customer_interaction
+website_url: https://shop.app/
+organization: shopify
+
+--- domains
+shop.app
+--- domains
+
+--- filters
+||shop.app^$3p
+--- filters
