@@ -1,8 +1,10 @@
 name: Honey
-category: misc
+category: extensions
 website_url: https://www.joinhoney.com/
+organization: paypal
 
 --- domains
+honey.io
 joinhoney.com
 --- domains
 
