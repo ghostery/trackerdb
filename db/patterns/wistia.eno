@@ -1,15 +1,10 @@
 name: Wistia
 category: site_analytics
-website_url: https://wistia.com/ 
+website_url: https://wistia.com/
 organization: wistia
 alias: wistia_assets
-
---- domains
---- domains
 
 --- filters
 ||distillery.wistia.com^$3p
 ||pipedream.wistia.com^$3p
 --- filters
-
-ghostery_id: 2336

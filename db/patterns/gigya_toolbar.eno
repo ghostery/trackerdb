@@ -7,5 +7,3 @@ alias: gigya
 --- filters
 ||toolbar.cdn.gigya.com^$3p
 --- filters
-
-ghostery_id: 1143

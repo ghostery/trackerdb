@@ -20,5 +20,3 @@ snplow.net
 /snowplow_*.js^$script
 /com.snowplowanalytics.snowplow/tp2
 --- filters
-
-ghostery_id: 2671

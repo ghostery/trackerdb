@@ -10,5 +10,3 @@ ingestion.contentinsights.com
 --- filters
 ||ingestion.contentinsights.com^$3p
 --- filters
-
-ghostery_id: 3235

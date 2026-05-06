@@ -12,5 +12,3 @@ hotjar.io
 ||hotjar.com^$third-party
 ||hotjar.io^$third-party
 --- filters
-
-ghostery_id: 2199

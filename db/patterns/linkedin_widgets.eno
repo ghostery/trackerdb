@@ -11,5 +11,3 @@ platform.linkedin.com
 ||api.linkedin.com/v1/people/~/shares
 ||platform.linkedin.com^$3p
 --- filters
-
-ghostery_id: 697

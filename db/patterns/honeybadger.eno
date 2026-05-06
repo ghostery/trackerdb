@@ -10,5 +10,3 @@ honeybadger.io
 --- filters
 ||js.honeybadger.io/v*/honeybadger.min.js^$3p
 --- filters
-
-ghostery_id: 2278

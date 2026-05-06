@@ -7,5 +7,3 @@ alias: optimizely
 --- filters
 ||errors.client.optimizely.com/log
 --- filters
-
-ghostery_id: 3101
