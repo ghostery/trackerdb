@@ -5,8 +5,10 @@ organization: 33across
 
 --- domains
 33across.com
+tynt.com
 --- domains
 
 --- filters
 ||33across.com^$3p
+||tynt.com^$3p
 --- filters
