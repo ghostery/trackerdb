@@ -1,0 +1,16 @@
+name: Google CSP Reporting
+category: utilities
+website_url: https://csp.withgoogle.com/
+organization: google
+
+--- domains
+csp.withgoogle.com
+--- domains
+
+--- filters
+||csp.withgoogle.com/csp/
+--- filters
+
+--- notes
+Generated with AI assistance.
+--- notes
