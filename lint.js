@@ -184,7 +184,7 @@ function formatFile(patterns) {
   // Format domains
   if (patterns.domains) {
     out.push('--- domains');
-    for (const line of [...new Set(splitlines(patterns.domains[2]))]) {
+    for (const line of new Set(splitlines(patterns.domains[2]))) {
       out.push(line);
     }
     out.push('--- domains');
@@ -194,7 +194,7 @@ function formatFile(patterns) {
   // Format filters
   if (patterns.filters) {
     out.push('--- filters');
-    for (const line of [...new Set(splitlines(patterns.filters[2]))]) {
+    for (const line of new Set(splitlines(patterns.filters[2]))) {
       out.push(line);
     }
     out.push('--- filters');
