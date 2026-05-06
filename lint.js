@@ -79,13 +79,18 @@ function showHelp() {
   console.log();
   console.log('USAGE');
   console.log();
-  console.log('lint.js [--help] [--explain-warnings]');
+  console.log('lint.js [--help] [--explain-warnings] [--check]');
   console.log();
   console.log('COMMON COMMANDS');
   console.log();
-  console.log(chalk.bold('  > node lint.js --explain-warnings'));
+  console.log(chalk.bold('  > node lint.js'));
   console.log(
     '  Lint all files from TrackerDB: normalizing format and finding common mistakes.',
+  );
+  console.log();
+  console.log(chalk.bold('  > node lint.js --check'));
+  console.log(
+    '  Verify all files are properly formatted without modifying them. Exits with non-zero status if changes are needed.',
   );
   console.log();
   console.log(chalk.bold('  > node lint.js --explain-warnings'));
@@ -179,7 +184,7 @@ function formatFile(patterns) {
   // Format domains
   if (patterns.domains) {
     out.push('--- domains');
-    for (const line of splitlines(patterns.domains[2]).sort()) {
+    for (const line of [...new Set(splitlines(patterns.domains[2]))]) {
       out.push(line);
     }
     out.push('--- domains');
@@ -189,7 +194,7 @@ function formatFile(patterns) {
   // Format filters
   if (patterns.filters) {
     out.push('--- filters');
-    for (const line of splitlines(patterns.filters[2]).sort()) {
+    for (const line of [...new Set(splitlines(patterns.filters[2]))]) {
       out.push(line);
     }
     out.push('--- filters');
@@ -218,13 +223,18 @@ function formatFile(patterns) {
     return;
   }
 
+  const checkMode = process.argv.includes('--check');
+
   const startTime = Date.now();
   let numberOfFiles = 0;
   let numberOfCosmeticFilters = 0;
   let numberOfNetworkFilters = 0;
   let numberOfDomains = 0;
+  const unformattedFiles = [];
 
-  console.log(chalk.bold(chalk.magenta('Linting...')));
+  console.log(
+    chalk.bold(chalk.magenta(checkMode ? 'Checking...' : 'Linting...')),
+  );
   for (const patterns of iterPatterns()) {
     numberOfFiles += 1;
     const warnings = [];
@@ -281,9 +291,16 @@ function formatFile(patterns) {
       }
     }
 
-    fs.writeFileSync(patterns.path, formatFile(patterns), {
-      encoding: 'utf-8',
-    });
+    const formatted = formatFile(patterns);
+    if (checkMode) {
+      if (patterns.source !== formatted) {
+        unformattedFiles.push(patterns.path);
+      }
+    } else {
+      fs.writeFileSync(patterns.path, formatted, {
+        encoding: 'utf-8',
+      });
+    }
   }
   const endTime = Date.now();
 
@@ -297,4 +314,19 @@ function formatFile(patterns) {
   console.log(' + network:', numberOfNetworkFilters);
   console.log(' + cosmetic:', numberOfCosmeticFilters);
   console.log('Number of domains:', numberOfDomains);
+
+  if (checkMode && unformattedFiles.length > 0) {
+    console.log();
+    console.log(
+      chalk.bold(
+        chalk.red(
+          `${unformattedFiles.length} file(s) need formatting. Run "node lint.js" to fix:`,
+        ),
+      ),
+    );
+    for (const file of unformattedFiles) {
+      console.log(`  ${file}`);
+    }
+    process.exit(1);
+  }
 })();
