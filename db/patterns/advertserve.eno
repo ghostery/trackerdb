@@ -11,5 +11,3 @@ advertserve.com
 /advertpro/servlet/view^
 ||advertserve.com^$3p
 --- filters
-
-ghostery_id: 2542

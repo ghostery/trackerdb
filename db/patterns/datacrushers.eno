@@ -11,5 +11,3 @@ datacrushers.com
 --- filters
 ||s3.amazonaws.com/aascript*/abandonaid*.js^$3p
 --- filters
-
-ghostery_id: 2147

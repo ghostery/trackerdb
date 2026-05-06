@@ -22,7 +22,6 @@ tiqcdn.com
 /tealium-api/*
 /tealium-udo.
 /tealium-utag-
-/tealium-utag-
 /tealium-web/*
 /tealium.html?
 /tealium.js
@@ -44,5 +43,3 @@ tiqcdn.com
 ||tealiumiq.com^$3p$domain=autobild.de|metal-hammer.de|musikexpress.de|transfermarkt.de
 ||tealiumiq.com^$3p$third-party
 --- filters
-
-ghostery_id: 505

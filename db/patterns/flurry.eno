@@ -12,5 +12,3 @@ data.flurry.com
 ||cdn.flurry.com/js/
 ||data.flurry.com^$3p
 --- filters
-
-ghostery_id: 1892

@@ -8,5 +8,3 @@ alias: optimizely
 ||log.optimizely.com/event
 ||logx.optimizely.com/log/event
 --- filters
-
-ghostery_id: 3097

@@ -12,5 +12,3 @@ performancing.com
 ||pmetrics.performancing.com/in.php^$3p
 ||pmetrics.performancing.com/*.js^$3p
 --- filters
-
-ghostery_id: 382

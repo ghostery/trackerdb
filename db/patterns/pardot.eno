@@ -11,5 +11,3 @@ pardot.com
 ||pardot.com^$3p
 /\/analytics\?.+visitor_id=.+pi_opt_in=/$script
 --- filters
-
-ghostery_id: 241
