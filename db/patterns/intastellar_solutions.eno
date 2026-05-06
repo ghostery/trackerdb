@@ -1,0 +1,14 @@
+name: Intastellar Consents
+category: consent
+tags: passive-statistics
+website_url: https://www.intastellarsolutions.com/
+organization: intastellar_solutions
+
+--- domains
+intastellarsolutions.com
+--- domains
+
+--- filters
+||analytics.intastellarsolutions.com/tr^$3p
+||analytics.intastellarsolutions.com/collect^$3p
+--- filters
