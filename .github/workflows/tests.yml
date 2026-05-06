@@ -36,6 +36,9 @@ jobs:
       - name: Lint
         run: npm run lint
 
+      - name: Lint patterns
+        run: npm run lint-patterns
+
       - name: Test
         run: npm test
 
