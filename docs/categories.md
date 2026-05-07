@@ -1,5 +1,13 @@
 # Category overview
 
+When two categories could plausibly apply, pick the more specific. A few edge cases:
+
+- **AI personalization / recommendation**: `advertising` if monetized through sponsored placements, otherwise `customer_interaction`.
+- **Identity / CDP**: `advertising` when pitched at advertisers, otherwise `utilities`.
+- **A vendor that does both ads and analytics**: pick the dominant function *for this domain*.
+- **Categorize by behaviour at the domain, not by parent company.** `play.google.com` is `hosting`, not `advertising`.
+- **Don't pick `misc` to dodge a hard call.** Re-read the company's own description first.
+
 ## Advertising
 
 Advertising services that utilize data collection, behavioral analysis, and user retargeting.
