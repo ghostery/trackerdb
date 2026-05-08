@@ -8,6 +8,7 @@ dpclk.com
 mobsmith.com
 nearbyad.com
 rubiconproject.com
+tremorhub.com
 --- domains
 
 --- filters
@@ -15,4 +16,5 @@ rubiconproject.com
 ||mobsmith.com^$3p
 ||nearbyad.com^$3p
 ||rubiconproject.com^$3p
+||tremorhub.com^$3p
 --- filters
