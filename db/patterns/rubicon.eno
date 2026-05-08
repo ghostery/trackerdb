@@ -9,6 +9,9 @@ mobsmith.com
 nearbyad.com
 rubiconproject.com
 tremorhub.com
+cdn.springserve.com
+nai-edge.ccgateway.net
+freeskreen.com
 --- domains
 
 --- filters
@@ -17,4 +20,7 @@ tremorhub.com
 ||nearbyad.com^$3p
 ||rubiconproject.com^$3p
 ||tremorhub.com^$3p
+||springserve.com^$3p
+||ccgateway.net^$3p
+||freeskreen.com^$3p
 --- filters
