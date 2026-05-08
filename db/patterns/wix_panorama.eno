@@ -1,8 +1,13 @@
 name: Wix Panorama
 category: site_analytics
+tags: cross-sites
 website_url: https://www.wix.com/
 organization: wix
 
 --- domains
 panorama.wixapps.net
 --- domains
+
+--- filters
+||panorama.wixapps.net/api/v1/bulklog^$3p
+--- filters

@@ -1,0 +1,9 @@
+name: Wix Thunderbolt
+category: utilities
+website_url: https://www.wix.com/
+organization: wix
+alias: wix.com
+
+--- filters
+||static.parastorage.com/services/wix-thunderbolt^
+--- filters
