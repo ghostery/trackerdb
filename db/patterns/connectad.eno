@@ -11,6 +11,6 @@ sync.connectad.io
 
 --- filters
 ||connected-by.connectad.io/adview.php
-||i.connectad.io^
-||sync.connectad.io^
+||i.connectad.io
+||sync.connectad.io
 --- filters
