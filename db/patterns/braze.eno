@@ -5,8 +5,10 @@ organization: braze_inc
 
 --- domains
 appboycdn.com
+braze.com
 --- domains
 
 --- filters
 ||dev.appboy.com^$3p
+||braze.com^$3p
 --- filters
