@@ -1,0 +1,12 @@
+name: Adobe Developer
+category: utilities
+website_url: https://developer.adobe.com/
+organization: adobe
+
+--- domains
+adobe.io
+--- domains
+
+--- filters
+||adobe.io^$3p
+--- filters
