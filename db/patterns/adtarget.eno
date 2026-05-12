@@ -1,0 +1,12 @@
+name: Adtarget
+category: advertising
+website_url: https://adtarget.com.tr
+organization: adtarget
+
+--- domains
+adtarget.com.tr
+--- domains
+
+--- filters
+||adtarget.com.tr^$3p
+--- filters
