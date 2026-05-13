@@ -1,0 +1,12 @@
+name: Termly
+category: consent
+website_url: https://termly.io/
+organization: termly
+
+--- domains
+termly.io
+--- domains
+
+--- filters
+||termly.io^$3p
+--- filters
