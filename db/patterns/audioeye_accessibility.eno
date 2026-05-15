@@ -1,0 +1,14 @@
+name: AudioEye accessibility
+category: utilities
+website_url: https://www.audioeye.com/domain-change-update/
+organization: audioeye
+
+--- domains
+audioeye-services.com
+portal.prod-audioeye.com
+--- domains
+
+--- filters
+||audioeye-services.com^$3p
+||portal.prod-audioeye.com^$3p
+--- filters
