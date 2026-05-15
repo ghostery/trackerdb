@@ -1,0 +1,12 @@
+name: Upsales
+category: advertising
+website_url: https://www.upsales.com/
+organization: upsales
+
+--- domains
+upsales.com
+--- domains
+
+--- filters
+||upsales.com^$3p
+--- filters
