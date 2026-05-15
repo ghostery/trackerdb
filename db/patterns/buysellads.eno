@@ -6,8 +6,10 @@ organization: buysellads.com
 --- domains
 buysellads.com
 servedby-buysellads.com
+buysellads.net
 --- domains
 
 --- filters
 ||buysellads.com^$3p
+||buysellads.net^$3p
 --- filters
