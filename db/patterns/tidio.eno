@@ -6,6 +6,7 @@ organization: tidio_chat
 --- domains
 code.tidio.co
 widget-v4.tidiochat.com
+metrics-collector.tidio.co
 --- domains
 
 --- filters
