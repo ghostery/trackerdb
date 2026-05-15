@@ -1,0 +1,10 @@
+name: Bluesky
+category: social_media
+tags: cross-site
+website_url: https://bsky.app/
+organization: bluesky
+
+--- domains
+bsky.app
+bsky.social
+--- domains
