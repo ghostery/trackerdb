@@ -8,3 +8,7 @@ stape.at
 stape.be
 stape.de
 --- domains
+
+--- filters
+/^https?:\/\/([a-z0-9-]+\.)*stape\.[a-z]+([/?]|$)/$3p
+--- filters
