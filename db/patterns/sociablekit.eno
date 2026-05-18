@@ -1,0 +1,12 @@
+name: sociableKIT
+category: social_media
+website_url: https://www.sociablekit.com/
+organization: sociablekit
+
+--- domains
+sociablekit.com
+--- domains
+
+--- filters
+||sociablekit.com^$3p
+--- filters
