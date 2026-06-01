@@ -1,0 +1,10 @@
+name: Google Tag (telemetry)
+category: utilities
+website_url: https://marketingplatform.google.com/about/tag-manager/
+organization: google
+alias: google_tag
+
+--- filters
+/^https:\/\/www\.googletagmanager\.com\/a\?(?:.+&)?gtm=/$3p
+/^https:\/\/www\.googletagmanager\.com\/td\?(?:.+&)?id=GTM-/$3p
+--- filters
