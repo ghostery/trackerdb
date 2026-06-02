@@ -45,7 +45,7 @@
     "node": ">=20.0"
   },
   "dependencies": {
-    "@ghostery/adblocker": "^2.14.1",
+    "@ghostery/adblocker": "2.17.3",
     "enolib": "^0.8.2",
     "iso-3166-1-alpha-2": "^1.0.2",
     "tldts-experimental": "^7.0.23"
