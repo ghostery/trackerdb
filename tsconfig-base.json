@@ -3,6 +3,7 @@
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "baseUrl": "src",
+    "ignoreDeprecations": "6.0",
     "declaration": true,
     "esModuleInterop": true,
     "inlineSourceMap": false,
