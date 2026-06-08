@@ -1,7 +1,7 @@
 name: Opta
 category: site_analytics
-website_url: http://www.optasports.de/
-organization: opta_sports
+website_url: https://www.statsperform.com/products/opta-data/
+organization: stats_perform
 
 --- domains
 opta.net
