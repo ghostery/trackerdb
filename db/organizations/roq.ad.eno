@@ -1,9 +1,9 @@
-name: Roq.ad GmbH
+name: Roqad
 website_url: https://www.roq.ad/
-privacy_policy_url: https://www.roq.ad/privacy-policy
-privacy_contact: 
-country: 
-description: 
+privacy_policy_url: https://www.roq.ad/privacy-policy-roqad/
+privacy_contact: privacy@roq.ad
+country: US
+description: Roqad operates identity infrastructure software designed to enable privacy-preserving personalization, measurement, and attribution for data-driven marketing. The company's platform offers a cross-device identity graph built on deterministic and probabilistic signals, first-party data activation capabilities and privacy compliance features, enabling enterprises to support AI-driven marketing activities while maintaining compliance across privacy regulations.
 
 --- notes
 --- notes
