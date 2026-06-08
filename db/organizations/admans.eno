@@ -1,10 +1,9 @@
-name: Admans
-website_url: http://admans.de/de.html
-privacy_policy_url: http://www.admans.de/datenschutz/
-privacy_contact: 
-country: 
-description: Die AdManS GmbH wurde 2014 gegründet und hat ihren Hauptsitz in München.
-| Kundenservice ist bei uns nicht einfach eine Floskel. Die Qualität unseres Service & die damit verbundene Zufriedenheit sehen wir durch unsere langfristigen Geschäftsbeziehungen bestätigt.
+name: AdManS
+website_url: https://admans.de/
+privacy_policy_url: https://www.admans.de/datenschutz/
+privacy_contact: info@admans.de
+country: DE
+description: Provision of services related to the management of digital advertising campaigns and campaign evaluation, as well as operation of a data management platform.
 
 --- notes
 --- notes
