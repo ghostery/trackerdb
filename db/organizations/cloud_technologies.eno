@@ -1,11 +1,9 @@
-name: Cloud Technologies S.A.
+name: Cloud Technologies
 website_url: https://www.cloudtechnologies.pl/
-privacy_policy_url: http://onaudience.com/privacy-policy
-privacy_contact: 
-country: 
-description: OnAudience.com provides Big Data tools and services for on-line marketing on over 40 markets in Europe and North America. The company has one of the largest 3rd party data sets in the World that consist of over 3 billion user profiles.
-| 
-| OnAudience.com integrates data management, including DMP and Data Exchange with programmatic buying, including DSP and Mailing Exchange. It is a tailor made solution for performance marketing focused on prospecting customers and e-commerce platforms.
+privacy_policy_url: https://www.cloudtechnologies.pl/en/internet-advertising-privacy-policy
+privacy_contact: privacy@cloudtechnologies.pl
+country: PL
+description: Cloud Technologies S.A. is a global Data Tech company headquartered in Warsaw, Poland. It specializes in Big Data marketing, audience data monetization, and developing proprietary Data Management Platforms (DMP). The company aggregates digital information from over 200 global markets to help brands precisely target online advertising campaigns.
 
 --- notes
 --- notes
