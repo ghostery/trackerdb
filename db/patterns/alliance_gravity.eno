@@ -1,10 +1,11 @@
 name: Alliance Gravity
-category: site_analytics
+category: advertising
 website_url: https://www.alliancegravity.com/
 organization: alliance_gravity
 
 --- domains
 tag.agrvt.com
+events.agrvt.com
 --- domains
 
 --- filters
