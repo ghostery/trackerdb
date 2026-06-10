@@ -1,0 +1,11 @@
+name: G2
+category: site_analytics
+website_url: https://www.g2.com/
+organization: g2
+
+--- domains
+tracking-api.g2.com
+--- domains
+
+--- filters
+--- filters
