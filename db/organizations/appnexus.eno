@@ -6,7 +6,9 @@ country: US
 description: AppNexus operates an online advertising exchange. Their core technology platform enables ad networks and agencies real-time media buying capabilities and a gateway to multiple inventory aggregators.  Their platform is supported by cloud computing technology. In 2018, AppNexus was bought by AT&T.
 
 --- notes
-AppNexus acquired by Xandr (AT&T, 2018), acquired by Microsoft (2021). https://en.wikipedia.org/wiki/AppNexus
+AppNexus acquired by Xandr (part of AT&T) in 2018 (source: https://en.wikipedia.org/wiki/AppNexus)
+
+On December 21, 2021 AT&T announced to sell Xandr to Microsoft. The acquisition was completed in June 2022 (source: https://searchengineland.com/microsoft-atts-xandr-acquisition-complete-385631)
 --- notes
 
 ghostery_id: 17
