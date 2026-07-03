@@ -1,0 +1,12 @@
+name: Adtelligent
+category: advertising
+website_url: https://adtelligent.com/
+organization: adtelligent
+
+--- domains
+adtelligent.com
+--- domains
+
+--- filters
+||adtelligent.com^$3p
+--- filters
