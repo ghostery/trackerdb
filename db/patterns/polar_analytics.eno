@@ -1,0 +1,13 @@
+name: Polar Analytics
+category: site_analytics
+website_url: https://www.polaranalytics.com/
+organization: thegrowthteam
+
+--- domains
+api-production.polaranalytics.com
+cdn-production.polaranalytics.com
+pixel-api.polaranalytics.com
+--- domains
+
+--- filters
+--- filters
