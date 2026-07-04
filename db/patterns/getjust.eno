@@ -1,0 +1,12 @@
+name: Getjust
+category: customer_interaction
+website_url: https://getjust.eu/
+organization: just
+
+--- domains
+api-analytics.getjust.eu
+checkout-form.getjust.eu
+--- domains
+
+--- filters
+--- filters
