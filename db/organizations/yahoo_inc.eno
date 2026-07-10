@@ -1,0 +1,14 @@
+name: Yahoo Inc.
+website_url: https://www.yahooinc.com/
+privacy_policy_url: https://legal.yahoo.com/us/en/yahoo/privacy/index.html
+country: US
+description: Yahoo Inc. is an American media and technology company whose brands include Yahoo, AOL, and Yahoo Advertising (formerly Oath / Verizon Media). Trackers previously filed under the Verizon organization are re-attributed here.
+
+--- notes
+Yahoo and AOL were combined as Oath Inc. in 2017 after Verizon acquired Yahoo; Oath was renamed Verizon Media in 2019. In 2021 Verizon sold 90% of the media business to funds managed by Apollo Global Management and it was renamed Yahoo Inc. The Yahoo, AOL and Oath brand patterns and their acquisitions are therefore re-attributed from the `verizon` organization to Yahoo Inc.
+
+Sources:
+* https://en.wikipedia.org/wiki/Yahoo_Inc._(2017%E2%80%93present)
+* https://en.wikipedia.org/wiki/Verizon_Media
+* https://www.apolloglobal.com/news/details/2021/Apollo-Funds-Complete-Acquisition-of-Verizon-Media/
+--- notes
