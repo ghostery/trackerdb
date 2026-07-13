@@ -1,7 +1,7 @@
 name: Tumblr Analytics
 category: site_analytics
 website_url: 
-organization: verizon
+organization: automattic
 
 --- domains
 sre-perim.com
