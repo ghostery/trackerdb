@@ -1,7 +1,7 @@
 name: AOL Images CDN
 category: hosting
 website_url: 
-organization: yahoo
+organization: bending_spoons
 alias: aol_cdn
 
 --- filters
