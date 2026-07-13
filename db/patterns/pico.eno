@@ -1,0 +1,12 @@
+name: Pico
+category: site_analytics
+website_url: https://www.bendingspoons.com/
+organization: bending_spoons
+
+--- domains
+picox.bendingspoons.com
+--- domains
+
+--- filters
+||api.picox.bendingspoons.com/v1/events
+--- filters
