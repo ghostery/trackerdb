@@ -1,7 +1,9 @@
 name: Quora
-category: social_media
-website_url: https://quora.com/
+category: advertising
+website_url: https://quoraadsupport.zendesk.com/hc/en-us/articles/115010466208-How-do-I-install-the-Quora-pixel
+organization: quora
 
 --- domains
-quora.com
+a.quora.com
+q.quora.com
 --- domains
