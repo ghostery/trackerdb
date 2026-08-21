@@ -6,7 +6,8 @@ type FromRawDetailsParams = Parameters<typeof Request.fromRawDetails>;
 type DeserializeParams = Parameters<typeof FiltersEngine.deserialize>;
 
 // The parsed trackerdb.json — needed for matchCookie/matchHeader, which are not part of the
-// (URL-oriented) adblocker engine binary.
+// (URL-oriented) adblocker engine binary. Its cookie/header indexes are pre-bucketed at export
+// time so a match is a single hash probe (wildcards: a short trie walk) with no per-load rebuild.
 export interface TrackerDBData {
   categories: Record<
     string,
@@ -19,17 +20,23 @@ export interface TrackerDBData {
       name: string;
       category: string;
       organization: string | null;
-      cookies?: string[];
-      headers?: string[];
       [key: string]: unknown;
     }
   >;
+  cookies?: Record<string, string>;
+  cookiePrefixes?: Record<string, string>;
+  headers?: Record<string, Array<{ value: string | null; id: string }>>;
 }
 
 export interface PatternMatch {
   pattern: Record<string, unknown>;
   category: Record<string, unknown> | null;
   organization: Record<string, unknown> | null;
+}
+
+interface CookieTrieNode {
+  id?: string;
+  next: Map<string, CookieTrieNode>;
 }
 
 // eslint-disable-next-line @typescript-eslint/require-await
@@ -39,42 +46,21 @@ export default async function loadTrackerDBEngine(
 ) {
   const engine = FiltersEngine.deserialize(engineBytes);
 
-  // Cookie/header lookups are built from the JSON (optional). A cookie name may come from a
-  // request `Cookie`, a response `Set-Cookie`, or the jar — the matcher does not care which.
-  const exactCookies = new Map<string, string>();
-  const prefixCookies: Array<{ prefix: string; id: string }> = [];
-  const headerMatchers: Array<{
-    name: string;
-    value: string | null;
-    id: string;
-  }> = [];
-
-  if (db) {
-    for (const id of Object.keys(db.patterns)) {
-      const p = db.patterns[id];
-      for (const c of p.cookies ?? []) {
-        if (c.endsWith('*')) prefixCookies.push({ prefix: c.slice(0, -1), id });
-        else exactCookies.set(c, id);
-      }
-      for (const h of p.headers ?? []) {
-        const idx = h.indexOf(':');
-        if (idx === -1) {
-          headerMatchers.push({
-            name: h.trim().toLowerCase(),
-            value: null,
-            id,
-          });
-        } else {
-          headerMatchers.push({
-            name: h.slice(0, idx).trim().toLowerCase(),
-            value: h
-              .slice(idx + 1)
-              .trim()
-              .toLowerCase(),
-            id,
-          });
+  // The only load-time build is a small trie over wildcard cookie prefixes; exact cookies and
+  // header buckets are used straight from the export.
+  const cookieTrie: CookieTrieNode = { next: new Map() };
+  if (db && db.cookiePrefixes) {
+    for (const [prefix, id] of Object.entries(db.cookiePrefixes)) {
+      let node = cookieTrie;
+      for (const ch of prefix) {
+        let child = node.next.get(ch);
+        if (!child) {
+          child = { next: new Map() };
+          node.next.set(ch, child);
         }
+        node = child;
       }
+      node.id = id;
     }
   }
 
@@ -93,12 +79,17 @@ export default async function loadTrackerDBEngine(
   }
 
   function cookiePatternId(name: string): string | null {
-    const hit = exactCookies.get(name);
-    if (hit) return hit;
-    for (const { prefix, id } of prefixCookies) {
-      if (name.startsWith(prefix)) return id;
+    const exact = db && db.cookies ? db.cookies[name] : undefined;
+    if (exact) return exact;
+    // Shortest registered prefix wins.
+    let node: CookieTrieNode = cookieTrie;
+    for (const ch of name) {
+      const child = node.next.get(ch);
+      if (!child) return null;
+      if (child.id !== undefined) return child.id;
+      node = child;
     }
-    return null;
+    return node.id ?? null;
   }
 
   return {
@@ -125,6 +116,7 @@ export default async function loadTrackerDBEngine(
       return engine.metadata.fromDomain(domain);
     },
 
+    // A cookie name may come from a request `Cookie`, a response `Set-Cookie`, or the jar.
     matchCookie(name: string): PatternMatch[] {
       const id = cookiePatternId(name);
       const m = id ? resolve(id) : null;
@@ -132,13 +124,15 @@ export default async function loadTrackerDBEngine(
     },
 
     matchHeader(name: string, value?: string): PatternMatch[] {
-      const n = name.toLowerCase();
+      const bucket =
+        db && db.headers ? db.headers[name.toLowerCase()] : undefined;
+      if (!bucket) return [];
       const v = value === undefined ? null : String(value).toLowerCase();
       const out: PatternMatch[] = [];
-      for (const hm of headerMatchers) {
-        if (hm.name !== n) continue;
-        if (hm.value !== null && (v === null || !v.includes(hm.value)))
+      for (const hm of bucket) {
+        if (hm.value !== null && (v === null || !v.includes(hm.value))) {
           continue;
+        }
         const m = resolve(hm.id);
         if (m) out.push(m);
       }

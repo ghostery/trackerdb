@@ -18,6 +18,7 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
     domains: {},
     filters: {},
     cookies: {},
+    cookiePrefixes: {},
     headers: {},
   };
 
@@ -97,8 +98,12 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
     if (cookies) {
       for (const line of cookies.split(/[\r\n]+/g)) {
         const trimmed = line.trim();
-        if (trimmed) {
-          db.patterns[id].cookies.push(trimmed);
+        if (!trimmed) continue;
+        db.patterns[id].cookies.push(trimmed);
+        // Split exact names from `prefix*` wildcards so the SDK can hash / trie them directly.
+        if (trimmed.endsWith('*')) {
+          db.cookiePrefixes[trimmed.slice(0, -1)] = id;
+        } else {
           db.cookies[trimmed] = id;
         }
       }
@@ -108,10 +113,22 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
     if (headers) {
       for (const line of headers.split(/[\r\n]+/g)) {
         const trimmed = line.trim();
-        if (trimmed) {
-          db.patterns[id].headers.push(trimmed);
-          db.headers[trimmed.toLowerCase()] = id;
-        }
+        if (!trimmed) continue;
+        db.patterns[id].headers.push(trimmed);
+        // Bucket by (lowercased) header name so matchHeader is a single map probe.
+        const idx = trimmed.indexOf(':');
+        const name = (idx === -1 ? trimmed : trimmed.slice(0, idx))
+          .trim()
+          .toLowerCase();
+        const value =
+          idx === -1
+            ? null
+            : trimmed
+                .slice(idx + 1)
+                .trim()
+                .toLowerCase();
+        if (!db.headers[name]) db.headers[name] = [];
+        db.headers[name].push({ value, id });
       }
     }
   }
@@ -122,7 +139,11 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
   console.log('Exported domains:', Object.keys(db.domains).length);
   console.log('Exported filters:', Object.keys(db.filters).length);
   console.log('Exported cookies:', Object.keys(db.cookies).length);
-  console.log('Exported headers:', Object.keys(db.headers).length);
+  console.log(
+    'Exported cookie prefixes:',
+    Object.keys(db.cookiePrefixes).length,
+  );
+  console.log('Exported header names:', Object.keys(db.headers).length);
 
   writeFileSync(outputPath, JSON.stringify(db, null, 2));
 })();
