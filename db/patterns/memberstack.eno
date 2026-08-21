@@ -1,0 +1,15 @@
+name: Memberstack
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.memberstack.com
+organization: memberstack
+
+--- domains
+memberstack.com
+memberstack.io
+--- domains
+
+--- filters
+||memberstack.com^$3p
+||memberstack.io^$3p
+--- filters

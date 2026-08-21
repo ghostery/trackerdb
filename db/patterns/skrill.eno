@@ -1,0 +1,13 @@
+name: Skrill
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.skrill.com
+organization: skrill
+
+--- domains
+skrill.com
+--- domains
+
+--- filters
+||skrill.com^$3p
+--- filters

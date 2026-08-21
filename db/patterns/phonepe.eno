@@ -1,0 +1,13 @@
+name: PhonePe
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.phonepe.com
+organization: phonepe
+
+--- domains
+phonepe.com
+--- domains
+
+--- filters
+||phonepe.com^$3p
+--- filters

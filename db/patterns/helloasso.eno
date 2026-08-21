@@ -1,0 +1,13 @@
+name: HelloAsso
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.helloasso.com
+organization: helloasso
+
+--- domains
+helloasso.com
+--- domains
+
+--- filters
+||helloasso.com^$3p
+--- filters

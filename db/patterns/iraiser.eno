@@ -1,0 +1,13 @@
+name: iRaiser
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.iraiser.com
+organization: iraiser
+
+--- domains
+iraiser.com
+--- domains
+
+--- filters
+||iraiser.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Thinkific
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://www.thinkific.com
+organization: thinkific
+
+--- domains
+thinkific.com
+--- domains
+
+--- filters
+||thinkific.com^$3p
+--- filters

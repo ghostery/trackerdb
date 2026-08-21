@@ -1,0 +1,17 @@
+name: TUNE
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://www.tune.com
+organization: tune
+
+--- domains
+hasoffers.com
+go2cloud.org
+tune.com
+--- domains
+
+--- filters
+||hasoffers.com^$3p
+||go2cloud.org^$3p
+||tune.com^$3p
+--- filters

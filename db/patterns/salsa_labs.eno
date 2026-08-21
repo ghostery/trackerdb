@@ -1,0 +1,15 @@
+name: Salsa Labs
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.salsalabs.com
+organization: salsa_labs
+
+--- domains
+salsalabs.com
+salsalabs.org
+--- domains
+
+--- filters
+||salsalabs.com^$3p
+||salsalabs.org^$3p
+--- filters

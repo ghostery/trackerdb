@@ -1,0 +1,13 @@
+name: Liberapay
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://liberapay.com
+organization: liberapay
+
+--- domains
+liberapay.com
+--- domains
+
+--- filters
+||liberapay.com^$3p
+--- filters

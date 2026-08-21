@@ -1,0 +1,13 @@
+name: Mercado Pago
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.mercadopago.com
+organization: mercadopago
+
+--- domains
+mercadopago.com
+--- domains
+
+--- filters
+||mercadopago.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Network for Good
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.networkforgood.com
+organization: network_for_good
+
+--- domains
+networkforgood.com
+--- domains
+
+--- filters
+||networkforgood.com^$3p
+--- filters

@@ -1,0 +1,15 @@
+name: Foxy.io
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://www.foxy.io
+organization: foxy
+
+--- domains
+foxy.io
+foxycart.com
+--- domains
+
+--- filters
+||foxy.io^$3p
+||foxycart.com^$3p
+--- filters

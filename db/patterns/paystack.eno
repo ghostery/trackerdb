@@ -1,0 +1,13 @@
+name: Paystack
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://paystack.com
+organization: paystack
+
+--- domains
+paystack.com
+--- domains
+
+--- filters
+||paystack.com^$3p
+--- filters

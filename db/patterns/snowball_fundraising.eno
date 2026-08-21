@@ -1,0 +1,13 @@
+name: Snowball Fundraising
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://snowballfundraising.com
+organization: snowball_fundraising
+
+--- domains
+snowballfundraising.com
+--- domains
+
+--- filters
+||snowballfundraising.com^$3p
+--- filters

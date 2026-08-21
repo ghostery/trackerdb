@@ -1,0 +1,13 @@
+name: Pledge
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.pledge.to
+organization: pledge
+
+--- domains
+pledge.to
+--- domains
+
+--- filters
+||pledge.to^$3p
+--- filters

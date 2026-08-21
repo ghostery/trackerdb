@@ -1,0 +1,15 @@
+name: Partnerize
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://partnerize.com
+organization: partnerize
+
+--- domains
+partnerize.com
+prf.hn
+--- domains
+
+--- filters
+||partnerize.com^$3p
+||prf.hn^$3p
+--- filters

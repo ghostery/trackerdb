@@ -1,0 +1,13 @@
+name: Crowdfunder
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.crowdfunder.co.uk
+organization: crowdfunder
+
+--- domains
+crowdfunder.co.uk
+--- domains
+
+--- filters
+||crowdfunder.co.uk^$3p
+--- filters

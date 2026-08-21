@@ -1,0 +1,13 @@
+name: WinRed
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.winred.com
+organization: winred
+
+--- domains
+winred.com
+--- domains
+
+--- filters
+||winred.com^$3p
+--- filters

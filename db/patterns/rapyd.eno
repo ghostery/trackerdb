@@ -1,0 +1,13 @@
+name: Rapyd
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.rapyd.net
+organization: rapyd
+
+--- domains
+rapyd.net
+--- domains
+
+--- filters
+||rapyd.net^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Teachable
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://teachable.com
+organization: teachable
+
+--- domains
+teachable.com
+--- domains
+
+--- filters
+||teachable.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Stamped
+category: customer_interaction
+tags: revenue::product-reviews
+website_url: https://stamped.io
+organization: stamped
+
+--- domains
+stamped.io
+--- domains
+
+--- filters
+||stamped.io^$3p
+--- filters

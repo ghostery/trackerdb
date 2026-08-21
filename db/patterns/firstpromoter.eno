@@ -1,0 +1,13 @@
+name: FirstPromoter
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://firstpromoter.com
+organization: firstpromoter
+
+--- domains
+firstpromoter.com
+--- domains
+
+--- filters
+||firstpromoter.com^$3p
+--- filters

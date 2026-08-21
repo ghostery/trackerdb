@@ -1,0 +1,13 @@
+name: MemberSpace
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.memberspace.com
+organization: memberspace
+
+--- domains
+memberspace.com
+--- domains
+
+--- filters
+||memberspace.com^$3p
+--- filters

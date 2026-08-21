@@ -1,0 +1,13 @@
+name: Podia
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://www.podia.com
+organization: podia
+
+--- domains
+podia.com
+--- domains
+
+--- filters
+||podia.com^$3p
+--- filters

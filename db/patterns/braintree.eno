@@ -1,0 +1,15 @@
+name: Braintree
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.braintreepayments.com/
+organization: braintree
+
+--- domains
+braintreegateway.com
+braintree-api.com
+--- domains
+
+--- filters
+||braintreegateway.com^$3p
+||braintree-api.com^$3p
+--- filters

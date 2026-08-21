@@ -1,0 +1,13 @@
+name: Junip
+category: customer_interaction
+tags: revenue::product-reviews
+website_url: https://junip.co
+organization: junip
+
+--- domains
+junip.co
+--- domains
+
+--- filters
+||junip.co^$3p
+--- filters

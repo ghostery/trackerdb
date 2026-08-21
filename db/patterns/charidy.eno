@@ -1,0 +1,13 @@
+name: Charidy
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.charidy.com
+organization: charidy
+
+--- domains
+charidy.com
+--- domains
+
+--- filters
+||charidy.com^$3p
+--- filters

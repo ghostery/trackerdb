@@ -1,0 +1,13 @@
+name: Flutterwave
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.flutterwave.com
+organization: flutterwave
+
+--- domains
+flutterwave.com
+--- domains
+
+--- filters
+||flutterwave.com^$3p
+--- filters

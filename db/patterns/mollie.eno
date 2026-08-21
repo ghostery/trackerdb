@@ -1,0 +1,13 @@
+name: Mollie
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.mollie.com/
+organization: mollie
+
+--- domains
+mollie.com
+--- domains
+
+--- filters
+||mollie.com^$3p
+--- filters

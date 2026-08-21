@@ -1,0 +1,13 @@
+name: BlueSnap
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.bluesnap.com
+organization: bluesnap
+
+--- domains
+bluesnap.com
+--- domains
+
+--- filters
+||bluesnap.com^$3p
+--- filters

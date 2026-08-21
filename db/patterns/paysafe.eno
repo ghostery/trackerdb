@@ -1,0 +1,15 @@
+name: Paysafe
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.paysafe.com
+organization: paysafe
+
+--- domains
+paysafe.com
+paysafecard.com
+--- domains
+
+--- filters
+||paysafe.com^$3p
+||paysafecard.com^$3p
+--- filters

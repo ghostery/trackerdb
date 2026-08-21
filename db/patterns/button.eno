@@ -1,0 +1,13 @@
+name: Button
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://www.usebutton.com
+organization: button
+
+--- domains
+usebutton.com
+--- domains
+
+--- filters
+||usebutton.com^$3p
+--- filters

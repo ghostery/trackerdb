@@ -1,0 +1,13 @@
+name: ActBlue
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.actblue.com
+organization: actblue
+
+--- domains
+actblue.com
+--- domains
+
+--- filters
+||actblue.com^$3p
+--- filters

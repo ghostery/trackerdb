@@ -1,5 +1,6 @@
 name: Walley
 category: utilities
+tags: revenue::payment-processor
 website_url: https://www.walleypay.com/
 organization: norion_bank
 

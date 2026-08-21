@@ -1,0 +1,13 @@
+name: RallyUp
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.rallyup.com
+organization: rallyup
+
+--- domains
+rallyup.com
+--- domains
+
+--- filters
+||rallyup.com^$3p
+--- filters

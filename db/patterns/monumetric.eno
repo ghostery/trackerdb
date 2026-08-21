@@ -1,0 +1,13 @@
+name: Monumetric
+category: advertising
+tags: revenue::ad-network
+website_url: https://www.monumetric.com
+organization: monumetric
+
+--- domains
+monumetric.com
+--- domains
+
+--- filters
+||monumetric.com^$3p
+--- filters

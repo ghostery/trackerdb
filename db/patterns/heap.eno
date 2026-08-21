@@ -1,5 +1,6 @@
 name: Heap
 category: site_analytics
+tags: revenue::product-ops
 website_url: https://www.heap.io
 organization: content_square
 

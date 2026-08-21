@@ -1,0 +1,13 @@
+name: giropay
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.giropay.de
+organization: giropay
+
+--- domains
+giropay.de
+--- domains
+
+--- filters
+||giropay.de^$3p
+--- filters

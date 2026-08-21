@@ -1,0 +1,13 @@
+name: Outseta
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.outseta.com
+organization: outseta
+
+--- domains
+outseta.com
+--- domains
+
+--- filters
+||outseta.com^$3p
+--- filters

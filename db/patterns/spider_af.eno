@@ -1,0 +1,13 @@
+name: Spider AF
+category: advertising
+tags: revenue::ad-verification
+website_url: https://spideraf.com
+organization: spider_af
+
+--- domains
+spideraf.com
+--- domains
+
+--- filters
+||spideraf.com^$3p
+--- filters

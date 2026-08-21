@@ -1,0 +1,13 @@
+name: Fawry
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.fawry.com
+organization: fawry
+
+--- domains
+fawry.com
+--- domains
+
+--- filters
+||fawry.com^$3p
+--- filters

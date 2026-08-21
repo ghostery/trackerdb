@@ -1,0 +1,13 @@
+name: Trackier
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://trackier.com
+organization: trackier
+
+--- domains
+trackier.com
+--- domains
+
+--- filters
+||trackier.com^$3p
+--- filters

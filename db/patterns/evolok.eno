@@ -1,0 +1,13 @@
+name: Evolok
+category: customer_interaction
+tags: revenue::paywall
+website_url: https://www.evolok.com
+organization: evolok
+
+--- domains
+evolok.com
+--- domains
+
+--- filters
+||evolok.com^$3p
+--- filters

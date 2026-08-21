@@ -1,0 +1,13 @@
+name: Freestar
+category: advertising
+tags: revenue::ad-network
+website_url: https://freestar.com
+organization: freestar
+
+--- domains
+freestar.io
+--- domains
+
+--- filters
+||freestar.io^$3p
+--- filters

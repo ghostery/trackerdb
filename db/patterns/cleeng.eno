@@ -1,0 +1,13 @@
+name: Cleeng
+category: customer_interaction
+tags: revenue::paywall
+website_url: https://cleeng.com
+organization: cleeng
+
+--- domains
+cleeng.com
+--- domains
+
+--- filters
+||cleeng.com^$3p
+--- filters

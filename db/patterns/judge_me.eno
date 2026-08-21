@@ -1,0 +1,13 @@
+name: Judge.me
+category: customer_interaction
+tags: revenue::product-reviews
+website_url: https://judge.me
+organization: judge_me
+
+--- domains
+judge.me
+--- domains
+
+--- filters
+||judge.me^$3p
+--- filters

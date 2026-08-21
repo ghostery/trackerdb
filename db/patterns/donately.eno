@@ -1,0 +1,13 @@
+name: Donately
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://donately.com
+organization: donately
+
+--- domains
+donately.com
+--- domains
+
+--- filters
+||donately.com^$3p
+--- filters

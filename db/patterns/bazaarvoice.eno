@@ -1,5 +1,6 @@
 name: Bazaarvoice
 category: customer_interaction
+tags: revenue::product-reviews
 website_url: https://www.bazaarvoice.com/
 organization: bazaarvoice
 

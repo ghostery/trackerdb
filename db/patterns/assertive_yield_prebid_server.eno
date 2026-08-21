@@ -1,5 +1,6 @@
 name: AY Prebid Server
 category: site_analytics
+tags: revenue::header-bidding
 website_url: https://www.assertiveyield.com/ay_prebidserver/
 organization: assertive_yield
 alias: assertive_yield

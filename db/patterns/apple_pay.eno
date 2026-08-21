@@ -1,5 +1,6 @@
 name: Apple Pay
 category: utilities
+tags: revenue::payment-processor
 website_url: https://www.apple.com/apple-pay/
 organization: apple
 

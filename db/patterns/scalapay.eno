@@ -1,0 +1,13 @@
+name: Scalapay
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.scalapay.com
+organization: scalapay
+
+--- domains
+scalapay.com
+--- domains
+
+--- filters
+||scalapay.com^$3p
+--- filters

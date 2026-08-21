@@ -1,0 +1,13 @@
+name: Virtuous
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.virtuous.org
+organization: virtuous
+
+--- domains
+virtuous.org
+--- domains
+
+--- filters
+||virtuous.org^$3p
+--- filters

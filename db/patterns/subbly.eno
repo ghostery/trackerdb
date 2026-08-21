@@ -1,0 +1,13 @@
+name: Subbly
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.subbly.co
+organization: subbly
+
+--- domains
+subbly.co
+--- domains
+
+--- filters
+||subbly.co^$3p
+--- filters

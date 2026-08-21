@@ -1,5 +1,6 @@
 name: Shopify App
 category: customer_interaction
+tags: revenue::payment-processor, revenue::ecommerce-platform
 website_url: https://shop.app/
 organization: shopify
 

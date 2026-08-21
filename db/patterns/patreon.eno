@@ -1,0 +1,13 @@
+name: Patreon
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.patreon.com/
+organization: patreon
+
+--- domains
+patreon.com
+--- domains
+
+--- filters
+||patreon.com^$3p
+--- filters

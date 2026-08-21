@@ -1,0 +1,13 @@
+name: Venmo
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://venmo.com
+organization: venmo
+
+--- domains
+venmo.com
+--- domains
+
+--- filters
+||venmo.com^$3p
+--- filters

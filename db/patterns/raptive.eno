@@ -1,0 +1,17 @@
+name: Raptive
+category: advertising
+tags: revenue::ad-network
+website_url: https://raptive.com
+organization: raptive
+
+--- domains
+raptive.com
+adthrive.com
+cafemedia.com
+--- domains
+
+--- filters
+||raptive.com^$3p
+||adthrive.com^$3p
+||cafemedia.com^$3p
+--- filters

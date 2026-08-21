@@ -1,0 +1,13 @@
+name: Przelewy24
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.przelewy24.pl
+organization: przelewy24
+
+--- domains
+przelewy24.pl
+--- domains
+
+--- filters
+||przelewy24.pl^$3p
+--- filters

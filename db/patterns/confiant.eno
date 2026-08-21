@@ -1,0 +1,13 @@
+name: Confiant
+category: advertising
+tags: revenue::ad-verification
+website_url: https://www.confiant.com
+organization: confiant
+
+--- domains
+confiant.com
+--- domains
+
+--- filters
+||confiant.com^$3p
+--- filters

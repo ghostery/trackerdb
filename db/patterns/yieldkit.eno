@@ -1,0 +1,13 @@
+name: YieldKit
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://www.yieldkit.com
+organization: yieldkit
+
+--- domains
+yieldkit.com
+--- domains
+
+--- filters
+||yieldkit.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Altruja
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.altruja.de
+organization: altruja
+
+--- domains
+altruja.de
+--- domains
+
+--- filters
+||altruja.de^$3p
+--- filters

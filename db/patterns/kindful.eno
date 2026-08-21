@@ -1,0 +1,13 @@
+name: Kindful
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://kindful.com
+organization: kindful
+
+--- domains
+kindful.com
+--- domains
+
+--- filters
+||kindful.com^$3p
+--- filters

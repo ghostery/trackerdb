@@ -1,5 +1,6 @@
 name: Segment
 category: site_analytics
+tags: revenue::product-ops
 website_url: https://segment.io/
 organization: twilio
 

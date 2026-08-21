@@ -1,0 +1,13 @@
+name: Donorbox
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://donorbox.org/
+organization: donorbox
+
+--- domains
+donorbox.org
+--- domains
+
+--- filters
+||donorbox.org^$3p
+--- filters

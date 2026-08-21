@@ -1,0 +1,13 @@
+name: Indoleads
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://indoleads.com
+organization: indoleads
+
+--- domains
+indoleads.com
+--- domains
+
+--- filters
+||indoleads.com^$3p
+--- filters

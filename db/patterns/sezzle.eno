@@ -1,0 +1,13 @@
+name: Sezzle
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://sezzle.com
+organization: sezzle
+
+--- domains
+sezzle.com
+--- domains
+
+--- filters
+||sezzle.com^$3p
+--- filters

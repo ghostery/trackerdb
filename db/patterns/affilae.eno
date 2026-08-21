@@ -1,0 +1,13 @@
+name: Affilae
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://www.affilae.com
+organization: affilae
+
+--- domains
+affilae.com
+--- domains
+
+--- filters
+||affilae.com^$3p
+--- filters

@@ -1,5 +1,6 @@
 name: AB Tasty
 category: site_analytics
+tags: revenue::product-ops
 website_url: https://en.abtasty.com
 organization: ab_tasty
 

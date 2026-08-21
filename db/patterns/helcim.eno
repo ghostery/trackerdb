@@ -1,0 +1,13 @@
+name: Helcim
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.helcim.com
+organization: helcim
+
+--- domains
+helcim.com
+--- domains
+
+--- filters
+||helcim.com^$3p
+--- filters

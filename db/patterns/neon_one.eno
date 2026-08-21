@@ -1,0 +1,15 @@
+name: Neon One
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://neonone.com
+organization: neon_one
+
+--- domains
+neonone.com
+neoncrm.com
+--- domains
+
+--- filters
+||neonone.com^$3p
+||neoncrm.com^$3p
+--- filters

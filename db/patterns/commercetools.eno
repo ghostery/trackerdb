@@ -1,0 +1,13 @@
+name: commercetools
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://commercetools.com
+organization: commercetools
+
+--- domains
+commercetools.com
+--- domains
+
+--- filters
+||commercetools.com^$3p
+--- filters

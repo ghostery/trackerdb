@@ -1,0 +1,13 @@
+name: Indiegogo
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.indiegogo.com
+organization: indiegogo
+
+--- domains
+indiegogo.com
+--- domains
+
+--- filters
+||indiegogo.com^$3p
+--- filters

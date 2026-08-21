@@ -1,0 +1,13 @@
+name: Funraise
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.funraise.org
+organization: funraise
+
+--- domains
+funraise.org
+--- domains
+
+--- filters
+||funraise.org^$3p
+--- filters

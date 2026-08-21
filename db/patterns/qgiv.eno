@@ -1,0 +1,13 @@
+name: Qgiv
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.qgiv.com
+organization: qgiv
+
+--- domains
+qgiv.com
+--- domains
+
+--- filters
+||qgiv.com^$3p
+--- filters

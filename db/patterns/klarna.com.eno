@@ -1,5 +1,6 @@
 name: Klarna
 category: utilities
+tags: revenue::payment-processor
 website_url: https://www.klarna.com/
 organization: klarna
 

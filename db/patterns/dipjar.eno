@@ -1,0 +1,13 @@
+name: DipJar
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.dipjar.com
+organization: dipjar
+
+--- domains
+dipjar.com
+--- domains
+
+--- filters
+||dipjar.com^$3p
+--- filters

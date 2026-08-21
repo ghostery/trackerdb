@@ -1,0 +1,13 @@
+name: Tabby
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://tabby.ai
+organization: tabby
+
+--- domains
+tabby.ai
+--- domains
+
+--- filters
+||tabby.ai^$3p
+--- filters

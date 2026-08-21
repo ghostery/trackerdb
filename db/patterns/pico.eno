@@ -1,0 +1,13 @@
+name: Pico
+category: customer_interaction
+tags: revenue::paywall
+website_url: https://www.trypico.com
+organization: pico
+
+--- domains
+trypico.com
+--- domains
+
+--- filters
+||trypico.com^$3p
+--- filters

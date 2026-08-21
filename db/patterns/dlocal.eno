@@ -1,0 +1,13 @@
+name: dLocal
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.dlocal.com
+organization: dlocal
+
+--- domains
+dlocal.com
+--- domains
+
+--- filters
+||dlocal.com^$3p
+--- filters

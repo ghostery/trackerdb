@@ -1,0 +1,13 @@
+name: Square
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://squareup.com/
+organization: square
+
+--- domains
+squareup.com
+--- domains
+
+--- filters
+||squareup.com^$3p
+--- filters

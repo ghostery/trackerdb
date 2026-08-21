@@ -1,0 +1,15 @@
+name: LaterPay
+category: customer_interaction
+tags: revenue::paywall
+website_url: https://laterpay.net
+organization: laterpay
+
+--- domains
+laterpay.net
+laterpay.com
+--- domains
+
+--- filters
+||laterpay.net^$3p
+||laterpay.com^$3p
+--- filters

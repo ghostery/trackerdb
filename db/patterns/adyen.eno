@@ -1,0 +1,13 @@
+name: Adyen
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.adyen.com/
+organization: adyen
+
+--- domains
+adyen.com
+--- domains
+
+--- filters
+||adyen.com^$3p
+--- filters

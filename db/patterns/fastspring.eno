@@ -1,0 +1,15 @@
+name: FastSpring
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.fastspring.com
+organization: fastspring
+
+--- domains
+fastspring.com
+onfastspring.com
+--- domains
+
+--- filters
+||fastspring.com^$3p
+||onfastspring.com^$3p
+--- filters

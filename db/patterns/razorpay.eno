@@ -1,0 +1,13 @@
+name: Razorpay
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://razorpay.com/
+organization: razorpay
+
+--- domains
+razorpay.com
+--- domains
+
+--- filters
+||razorpay.com^$3p
+--- filters

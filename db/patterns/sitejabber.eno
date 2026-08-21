@@ -1,0 +1,13 @@
+name: Sitejabber
+category: customer_interaction
+tags: revenue::product-reviews
+website_url: https://www.sitejabber.com
+organization: sitejabber
+
+--- domains
+sitejabber.com
+--- domains
+
+--- filters
+||sitejabber.com^$3p
+--- filters

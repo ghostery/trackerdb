@@ -1,0 +1,13 @@
+name: Tap Payments
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.tap.company
+organization: tap_payments
+
+--- domains
+tap.company
+--- domains
+
+--- filters
+||tap.company^$3p
+--- filters

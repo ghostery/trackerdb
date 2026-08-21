@@ -1,0 +1,13 @@
+name: Bolt
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.bolt.com
+organization: bolt_payments
+
+--- domains
+bolt.com
+--- domains
+
+--- filters
+||bolt.com^$3p
+--- filters

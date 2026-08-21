@@ -1,0 +1,13 @@
+name: Givebutter
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://givebutter.com/
+organization: givebutter
+
+--- domains
+givebutter.com
+--- domains
+
+--- filters
+||givebutter.com^$3p
+--- filters

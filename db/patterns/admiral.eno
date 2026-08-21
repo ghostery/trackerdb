@@ -1,0 +1,13 @@
+name: Admiral
+category: customer_interaction
+tags: revenue::paywall
+website_url: https://getadmiral.com
+organization: admiral
+
+--- domains
+getadmiral.com
+--- domains
+
+--- filters
+||getadmiral.com^$3p
+--- filters

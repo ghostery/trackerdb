@@ -1,0 +1,13 @@
+name: Wallkit
+category: customer_interaction
+tags: revenue::paywall
+website_url: https://www.wallkit.net
+organization: wallkit
+
+--- domains
+wallkit.net
+--- domains
+
+--- filters
+||wallkit.net^$3p
+--- filters

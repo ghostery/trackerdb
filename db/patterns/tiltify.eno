@@ -1,0 +1,13 @@
+name: Tiltify
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://tiltify.com
+organization: tiltify
+
+--- domains
+tiltify.com
+--- domains
+
+--- filters
+||tiltify.com^$3p
+--- filters

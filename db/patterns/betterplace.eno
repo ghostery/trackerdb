@@ -1,0 +1,13 @@
+name: betterplace.org
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.betterplace.org
+organization: betterplace
+
+--- domains
+betterplace.org
+--- domains
+
+--- filters
+||betterplace.org^$3p
+--- filters

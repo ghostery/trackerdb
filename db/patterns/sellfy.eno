@@ -1,0 +1,13 @@
+name: Sellfy
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://sellfy.com
+organization: sellfy
+
+--- domains
+sellfy.com
+--- domains
+
+--- filters
+||sellfy.com^$3p
+--- filters

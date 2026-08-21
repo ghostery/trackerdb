@@ -1,0 +1,13 @@
+name: ResellerRatings
+category: customer_interaction
+tags: revenue::product-reviews
+website_url: https://www.resellerratings.com
+organization: resellerratings
+
+--- domains
+resellerratings.com
+--- domains
+
+--- filters
+||resellerratings.com^$3p
+--- filters

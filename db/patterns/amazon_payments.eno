@@ -1,5 +1,6 @@
 name: Amazon Payments
 category: customer_interaction
+tags: revenue::payment-processor
 website_url: https://pay.amazon.com/
 organization: amazon_associates
 

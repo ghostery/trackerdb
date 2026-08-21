@@ -1,0 +1,13 @@
+name: Fundraise Up
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://fundraiseup.com
+organization: fundraise_up
+
+--- domains
+fundraiseup.com
+--- domains
+
+--- filters
+||fundraiseup.com^$3p
+--- filters

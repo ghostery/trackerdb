@@ -1,0 +1,13 @@
+name: GlobalGiving
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.globalgiving.org
+organization: globalgiving
+
+--- domains
+globalgiving.org
+--- domains
+
+--- filters
+||globalgiving.org^$3p
+--- filters

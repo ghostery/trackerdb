@@ -1,0 +1,13 @@
+name: Splitit
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.splitit.com
+organization: splitit
+
+--- domains
+splitit.com
+--- domains
+
+--- filters
+||splitit.com^$3p
+--- filters

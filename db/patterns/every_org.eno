@@ -1,0 +1,13 @@
+name: every.org
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.every.org
+organization: every_org
+
+--- domains
+every.org
+--- domains
+
+--- filters
+||every.org^$3p
+--- filters

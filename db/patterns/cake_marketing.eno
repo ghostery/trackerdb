@@ -1,0 +1,15 @@
+name: CAKE
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://getcake.com
+organization: cake_marketing
+
+--- domains
+getcake.com
+cakemarketing.com
+--- domains
+
+--- filters
+||getcake.com^$3p
+||cakemarketing.com^$3p
+--- filters

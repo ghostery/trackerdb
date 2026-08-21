@@ -1,0 +1,13 @@
+name: Everflow
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://www.everflow.io
+organization: everflow
+
+--- domains
+everflow.io
+--- domains
+
+--- filters
+||everflow.io^$3p
+--- filters

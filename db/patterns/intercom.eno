@@ -1,5 +1,6 @@
 name: Intercom
 category: customer_interaction
+tags: revenue::product-ops
 website_url: https://intercom.io/
 organization: intercom
 

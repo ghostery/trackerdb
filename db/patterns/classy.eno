@@ -1,0 +1,13 @@
+name: Classy
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.classy.org/
+organization: classy
+
+--- domains
+classy.org
+--- domains
+
+--- filters
+||classy.org^$3p
+--- filters

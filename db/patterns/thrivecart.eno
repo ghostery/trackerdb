@@ -1,0 +1,13 @@
+name: ThriveCart
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://thrivecart.com
+organization: thrivecart
+
+--- domains
+thrivecart.com
+--- domains
+
+--- filters
+||thrivecart.com^$3p
+--- filters

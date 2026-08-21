@@ -1,0 +1,13 @@
+name: Anedot
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.anedot.com
+organization: anedot
+
+--- domains
+anedot.com
+--- domains
+
+--- filters
+||anedot.com^$3p
+--- filters

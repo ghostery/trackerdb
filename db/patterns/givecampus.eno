@@ -1,0 +1,13 @@
+name: GiveCampus
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.givecampus.com
+organization: givecampus
+
+--- domains
+givecampus.com
+--- domains
+
+--- filters
+||givecampus.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Trustami
+category: customer_interaction
+tags: revenue::product-reviews
+website_url: https://www.trustami.com
+organization: trustami
+
+--- domains
+trustami.com
+--- domains
+
+--- filters
+||trustami.com^$3p
+--- filters

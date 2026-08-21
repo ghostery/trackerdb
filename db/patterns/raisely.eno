@@ -1,0 +1,13 @@
+name: Raisely
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.raisely.com
+organization: raisely
+
+--- domains
+raisely.com
+--- domains
+
+--- filters
+||raisely.com^$3p
+--- filters

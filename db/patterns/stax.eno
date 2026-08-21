@@ -1,0 +1,15 @@
+name: Stax
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://staxpayments.com
+organization: stax
+
+--- domains
+staxpayments.com
+fattmerchant.com
+--- domains
+
+--- filters
+||staxpayments.com^$3p
+||fattmerchant.com^$3p
+--- filters

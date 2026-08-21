@@ -1,5 +1,6 @@
 name: Zendesk CDN
 category: hosting
+tags: revenue::product-ops
 website_url: https://www.zendesk.com/
 organization: zendesk
 

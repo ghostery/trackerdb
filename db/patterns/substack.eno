@@ -1,0 +1,13 @@
+name: Substack
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://substack.com/
+organization: substack
+
+--- domains
+substack.com
+--- domains
+
+--- filters
+||substack.com^$3p
+--- filters

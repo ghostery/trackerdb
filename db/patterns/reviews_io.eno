@@ -1,0 +1,15 @@
+name: Reviews.io
+category: customer_interaction
+tags: revenue::product-reviews
+website_url: https://www.reviews.io
+organization: reviews_io
+
+--- domains
+reviews.io
+reviews.co.uk
+--- domains
+
+--- filters
+||reviews.io^$3p
+||reviews.co.uk^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: PartnerStack
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://partnerstack.com
+organization: partnerstack
+
+--- domains
+partnerstack.com
+--- domains
+
+--- filters
+||partnerstack.com^$3p
+--- filters

@@ -1,0 +1,15 @@
+name: Zip
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://zip.co
+organization: zip_pay
+
+--- domains
+zip.co
+quadpay.com
+--- domains
+
+--- filters
+||zip.co^$3p
+||quadpay.com^$3p
+--- filters

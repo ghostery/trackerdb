@@ -1,0 +1,13 @@
+name: DonorPerfect
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.donorperfect.com
+organization: donorperfect
+
+--- domains
+donorperfect.com
+--- domains
+
+--- filters
+||donorperfect.com^$3p
+--- filters

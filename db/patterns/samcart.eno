@@ -1,0 +1,13 @@
+name: SamCart
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://www.samcart.com
+organization: samcart
+
+--- domains
+samcart.com
+--- domains
+
+--- filters
+||samcart.com^$3p
+--- filters

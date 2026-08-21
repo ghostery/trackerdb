@@ -1,0 +1,13 @@
+name: Afterpay
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.afterpay.com/
+organization: afterpay
+
+--- domains
+afterpay.com
+--- domains
+
+--- filters
+||afterpay.com^$3p
+--- filters

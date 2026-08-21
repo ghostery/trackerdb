@@ -1,0 +1,13 @@
+name: FundRazr
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://fundrazr.com
+organization: fundrazr
+
+--- domains
+fundrazr.com
+--- domains
+
+--- filters
+||fundrazr.com^$3p
+--- filters

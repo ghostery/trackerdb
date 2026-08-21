@@ -1,0 +1,13 @@
+name: Affise
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://affise.com
+organization: affise
+
+--- domains
+affise.com
+--- domains
+
+--- filters
+||affise.com^$3p
+--- filters

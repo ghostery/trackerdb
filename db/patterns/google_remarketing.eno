@@ -1,5 +1,6 @@
 name: Google Dynamic Remarketing
 category: advertising
+tags: revenue::retargeting
 website_url: https://adwords.google.com/
 organization: google
 alias: doubleclick

@@ -1,0 +1,13 @@
+name: Scaleo
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://www.scaleo.io
+organization: scaleo
+
+--- domains
+scaleo.io
+--- domains
+
+--- filters
+||scaleo.io^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Tipeee
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.tipeee.com
+organization: tipeee
+
+--- domains
+tipeee.com
+--- domains
+
+--- filters
+||tipeee.com^$3p
+--- filters

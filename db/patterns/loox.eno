@@ -1,0 +1,13 @@
+name: Loox
+category: customer_interaction
+tags: revenue::product-reviews
+website_url: https://loox.io
+organization: loox
+
+--- domains
+loox.io
+--- domains
+
+--- filters
+||loox.io^$3p
+--- filters

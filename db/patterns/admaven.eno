@@ -1,0 +1,15 @@
+name: AdMaven
+category: advertising
+tags: revenue::ad-network
+website_url: https://ad-maven.com
+organization: admaven
+
+--- domains
+admaven.com
+ad-maven.com
+--- domains
+
+--- filters
+||admaven.com^$3p
+||ad-maven.com^$3p
+--- filters

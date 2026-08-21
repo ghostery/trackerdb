@@ -1,0 +1,13 @@
+name: Authorize.Net
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.authorize.net
+organization: authorize_net
+
+--- domains
+authorize.net
+--- domains
+
+--- filters
+||authorize.net^$3p
+--- filters

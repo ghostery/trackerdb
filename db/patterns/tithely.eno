@@ -1,0 +1,13 @@
+name: Tithe.ly
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.tithe.ly
+organization: tithely
+
+--- domains
+tithe.ly
+--- domains
+
+--- filters
+||tithe.ly^$3p
+--- filters

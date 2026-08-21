@@ -1,5 +1,6 @@
 name: Trustpilot
 category: customer_interaction
+tags: revenue::product-reviews
 website_url: 
 organization: trustpilot
 

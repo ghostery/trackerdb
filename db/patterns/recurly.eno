@@ -1,0 +1,13 @@
+name: Recurly
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://recurly.com/
+organization: recurly
+
+--- domains
+recurly.com
+--- domains
+
+--- filters
+||recurly.com^$3p
+--- filters

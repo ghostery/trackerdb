@@ -1,0 +1,13 @@
+name: Primis
+category: advertising
+tags: revenue::ad-network
+website_url: https://www.primis.tech
+organization: primis
+
+--- domains
+primis.tech
+--- domains
+
+--- filters
+||primis.tech^$3p
+--- filters

@@ -1,5 +1,6 @@
 name: VWO
 category: site_analytics
+tags: revenue::product-ops
 website_url: https://vwo.com/
 organization: wingify
 

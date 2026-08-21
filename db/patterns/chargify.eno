@@ -1,0 +1,15 @@
+name: Chargify
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.maxio.com
+organization: chargify
+
+--- domains
+chargify.com
+maxio.com
+--- domains
+
+--- filters
+||chargify.com^$3p
+||maxio.com^$3p
+--- filters

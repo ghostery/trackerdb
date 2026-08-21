@@ -1,0 +1,13 @@
+name: Protected Media
+category: advertising
+tags: revenue::ad-verification
+website_url: https://www.protected.media
+organization: protected_media
+
+--- domains
+protected.media
+--- domains
+
+--- filters
+||protected.media^$3p
+--- filters

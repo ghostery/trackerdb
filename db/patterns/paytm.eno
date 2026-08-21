@@ -1,0 +1,13 @@
+name: Paytm
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://paytm.com
+organization: paytm
+
+--- domains
+paytm.com
+--- domains
+
+--- filters
+||paytm.com^$3p
+--- filters

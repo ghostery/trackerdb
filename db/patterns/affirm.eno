@@ -1,0 +1,13 @@
+name: Affirm
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.affirm.com/
+organization: affirm
+
+--- domains
+affirm.com
+--- domains
+
+--- filters
+||affirm.com^$3p
+--- filters

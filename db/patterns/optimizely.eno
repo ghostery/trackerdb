@@ -1,5 +1,6 @@
 name: Optimizely
 category: utilities
+tags: revenue::product-ops
 website_url: https://www.optimizely.com/
 organization: optimizely
 

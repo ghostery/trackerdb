@@ -1,5 +1,6 @@
 name: BigCommerce
 category: site_analytics
+tags: revenue::ecommerce-platform
 website_url: https://www.bigcommerce.com/
 organization: bigcommerce
 

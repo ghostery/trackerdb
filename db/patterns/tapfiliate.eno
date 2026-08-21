@@ -1,0 +1,13 @@
+name: Tapfiliate
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://tapfiliate.com
+organization: tapfiliate
+
+--- domains
+tapfiliate.com
+--- domains
+
+--- filters
+||tapfiliate.com^$3p
+--- filters

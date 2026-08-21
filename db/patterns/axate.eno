@@ -1,0 +1,13 @@
+name: Axate
+category: customer_interaction
+tags: revenue::paywall
+website_url: https://axate.com
+organization: axate
+
+--- domains
+axate.com
+--- domains
+
+--- filters
+||axate.com^$3p
+--- filters

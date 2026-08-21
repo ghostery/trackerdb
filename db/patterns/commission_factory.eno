@@ -1,0 +1,15 @@
+name: Commission Factory
+category: advertising
+tags: revenue::affiliate-network
+website_url: https://www.commissionfactory.com
+organization: commission_factory
+
+--- domains
+commissionfactory.com
+cfjump.com
+--- domains
+
+--- filters
+||commissionfactory.com^$3p
+||cfjump.com^$3p
+--- filters

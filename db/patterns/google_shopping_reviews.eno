@@ -1,5 +1,6 @@
 name: Google Shopping Reviews
 category: customer_interaction
+tags: revenue::product-reviews
 website_url: 
 organization: google
 alias: google

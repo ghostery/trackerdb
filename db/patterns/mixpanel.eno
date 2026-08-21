@@ -1,5 +1,6 @@
 name: Mixpanel
 category: site_analytics
+tags: revenue::product-ops
 website_url: https://mixpanel.com/
 organization: mixpanel
 

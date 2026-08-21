@@ -1,5 +1,6 @@
 name: Amazon Advertising
 category: advertising
+tags: revenue::ad-exchange
 website_url: https://advertising.amazon.com/
 organization: amazon_associates
 

@@ -1,0 +1,15 @@
+name: Steady
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://steadyhq.com
+organization: steady
+
+--- domains
+steadyhq.com
+steady.page
+--- domains
+
+--- filters
+||steadyhq.com^$3p
+||steady.page^$3p
+--- filters

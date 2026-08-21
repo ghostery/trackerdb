@@ -1,5 +1,6 @@
 name: AdMob
 category: advertising
+tags: revenue::ad-network
 website_url: http://www.admob.com/
 organization: google
 

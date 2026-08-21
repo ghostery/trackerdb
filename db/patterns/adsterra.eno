@@ -1,0 +1,13 @@
+name: Adsterra
+category: advertising
+tags: revenue::ad-network
+website_url: https://adsterra.com
+organization: adsterra
+
+--- domains
+adsterra.com
+--- domains
+
+--- filters
+||adsterra.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Trustly
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.trustly.com
+organization: trustly
+
+--- domains
+trustly.com
+--- domains
+
+--- filters
+||trustly.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Buy Me a Coffee
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.buymeacoffee.com
+organization: buy_me_a_coffee
+
+--- domains
+buymeacoffee.com
+--- domains
+
+--- filters
+||buymeacoffee.com^$3p
+--- filters

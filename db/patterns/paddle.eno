@@ -1,0 +1,13 @@
+name: Paddle
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.paddle.com/
+organization: paddle
+
+--- domains
+paddle.com
+--- domains
+
+--- filters
+||paddle.com^$3p
+--- filters

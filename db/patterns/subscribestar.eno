@@ -1,0 +1,13 @@
+name: SubscribeStar
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.subscribestar.com
+organization: subscribestar
+
+--- domains
+subscribestar.com
+--- domains
+
+--- filters
+||subscribestar.com^$3p
+--- filters

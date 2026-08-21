@@ -1,0 +1,13 @@
+name: Nuvei
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.nuvei.com
+organization: nuvei
+
+--- domains
+nuvei.com
+--- domains
+
+--- filters
+||nuvei.com^$3p
+--- filters

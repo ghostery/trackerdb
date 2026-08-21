@@ -1,0 +1,13 @@
+name: JustGiving
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.justgiving.com/
+organization: justgiving
+
+--- domains
+justgiving.com
+--- domains
+
+--- filters
+||justgiving.com^$3p
+--- filters

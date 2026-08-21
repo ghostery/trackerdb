@@ -1,0 +1,13 @@
+name: Ecwid
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://www.ecwid.com
+organization: ecwid
+
+--- domains
+ecwid.com
+--- domains
+
+--- filters
+||ecwid.com^$3p
+--- filters

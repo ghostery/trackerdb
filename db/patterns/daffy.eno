@@ -1,0 +1,13 @@
+name: Daffy
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.daffy.org
+organization: daffy
+
+--- domains
+daffy.org
+--- domains
+
+--- filters
+||daffy.org^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Pelcro
+category: customer_interaction
+tags: revenue::paywall
+website_url: https://www.pelcro.com
+organization: pelcro
+
+--- domains
+pelcro.com
+--- domains
+
+--- filters
+||pelcro.com^$3p
+--- filters

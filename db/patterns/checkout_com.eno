@@ -1,0 +1,13 @@
+name: Checkout.com
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.checkout.com
+organization: checkout_com
+
+--- domains
+checkout.com
+--- domains
+
+--- filters
+||checkout.com^$3p
+--- filters

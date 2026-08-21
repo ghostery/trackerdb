@@ -1,0 +1,13 @@
+name: twingle
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.twingle.de
+organization: twingle
+
+--- domains
+twingle.de
+--- domains
+
+--- filters
+||twingle.de^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Tamara
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://tamara.co
+organization: tamara
+
+--- domains
+tamara.co
+--- domains
+
+--- filters
+||tamara.co^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Vungle
+category: advertising
+tags: revenue::ad-network
+website_url: https://vungle.com
+organization: vungle
+
+--- domains
+vungle.com
+--- domains
+
+--- filters
+||vungle.com^$3p
+--- filters

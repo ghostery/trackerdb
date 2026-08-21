@@ -1,0 +1,15 @@
+name: Verifone
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.verifone.com
+organization: verifone
+
+--- domains
+2checkout.com
+verifone.com
+--- domains
+
+--- filters
+||2checkout.com^$3p
+||verifone.com^$3p
+--- filters

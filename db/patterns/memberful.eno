@@ -1,0 +1,13 @@
+name: Memberful
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://memberful.com/
+organization: memberful
+
+--- domains
+memberful.com
+--- domains
+
+--- filters
+||memberful.com^$3p
+--- filters

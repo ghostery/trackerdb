@@ -1,0 +1,13 @@
+name: Kajabi
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://kajabi.com
+organization: kajabi
+
+--- domains
+kajabi.com
+--- domains
+
+--- filters
+||kajabi.com^$3p
+--- filters

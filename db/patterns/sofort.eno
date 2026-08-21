@@ -1,0 +1,13 @@
+name: SOFORT
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.sofort.com
+organization: sofort
+
+--- domains
+sofort.com
+--- domains
+
+--- filters
+||sofort.com^$3p
+--- filters

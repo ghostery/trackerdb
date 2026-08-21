@@ -1,5 +1,6 @@
 name: Google Adsense
 category: advertising
+tags: revenue::ad-network
 website_url: https://www.google.com/adsense/
 organization: google
 alias: google_syndication

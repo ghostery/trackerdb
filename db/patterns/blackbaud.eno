@@ -1,0 +1,17 @@
+name: Blackbaud
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.blackbaud.com
+organization: blackbaud
+
+--- domains
+blackbaud.com
+luminateonline.com
+convio.net
+--- domains
+
+--- filters
+||blackbaud.com^$3p
+||luminateonline.com^$3p
+||convio.net^$3p
+--- filters

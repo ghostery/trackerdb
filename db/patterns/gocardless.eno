@@ -1,0 +1,13 @@
+name: GoCardless
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://gocardless.com
+organization: gocardless
+
+--- domains
+gocardless.com
+--- domains
+
+--- filters
+||gocardless.com^$3p
+--- filters

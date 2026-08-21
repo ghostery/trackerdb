@@ -1,0 +1,13 @@
+name: Neteller
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://www.neteller.com
+organization: neteller
+
+--- domains
+neteller.com
+--- domains
+
+--- filters
+||neteller.com^$3p
+--- filters

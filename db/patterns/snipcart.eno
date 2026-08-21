@@ -1,0 +1,13 @@
+name: Snipcart
+category: customer_interaction
+tags: revenue::ecommerce-platform
+website_url: https://snipcart.com
+organization: snipcart
+
+--- domains
+snipcart.com
+--- domains
+
+--- filters
+||snipcart.com^$3p
+--- filters

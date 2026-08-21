@@ -1,0 +1,13 @@
+name: Mightycause
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.mightycause.com
+organization: mightycause
+
+--- domains
+mightycause.com
+--- domains
+
+--- filters
+||mightycause.com^$3p
+--- filters

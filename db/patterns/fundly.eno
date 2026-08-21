@@ -1,0 +1,13 @@
+name: Fundly
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://fundly.com
+organization: fundly
+
+--- domains
+fundly.com
+--- domains
+
+--- filters
+||fundly.com^$3p
+--- filters

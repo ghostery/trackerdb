@@ -1,0 +1,15 @@
+name: Ezoic
+category: advertising
+tags: revenue::ad-network
+website_url: https://www.ezoic.com
+organization: ezoic
+
+--- domains
+ezoic.com
+ezoic.net
+--- domains
+
+--- filters
+||ezoic.com^$3p
+||ezoic.net^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Open Collective
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://opencollective.com
+organization: open_collective
+
+--- domains
+opencollective.com
+--- domains
+
+--- filters
+||opencollective.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: Alma
+category: customer_interaction
+tags: revenue::payment-processor
+website_url: https://getalma.eu
+organization: alma
+
+--- domains
+getalma.eu
+--- domains
+
+--- filters
+||getalma.eu^$3p
+--- filters

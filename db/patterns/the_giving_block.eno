@@ -1,0 +1,13 @@
+name: The Giving Block
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://thegivingblock.com
+organization: the_giving_block
+
+--- domains
+thegivingblock.com
+--- domains
+
+--- filters
+||thegivingblock.com^$3p
+--- filters

@@ -1,0 +1,13 @@
+name: CharityEngine
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://charityengine.net
+organization: charityengine
+
+--- domains
+charityengine.net
+--- domains
+
+--- filters
+||charityengine.net^$3p
+--- filters

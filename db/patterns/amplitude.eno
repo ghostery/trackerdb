@@ -1,5 +1,6 @@
 name: Amplitude
 category: site_analytics
+tags: revenue::product-ops
 website_url: https://amplitude.com/
 organization: amplitude
 

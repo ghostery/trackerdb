@@ -1,5 +1,6 @@
 name: Stripe
 category: customer_interaction
+tags: revenue::payment-processor
 website_url: https://stripe.com/
 organization: stripe
 

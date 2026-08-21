@@ -1,0 +1,13 @@
+name: Chargebee
+category: customer_interaction
+tags: revenue::subscription-billing
+website_url: https://www.chargebee.com/
+organization: chargebee
+
+--- domains
+chargebee.com
+--- domains
+
+--- filters
+||chargebee.com^$3p
+--- filters

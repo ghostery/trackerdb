@@ -1,0 +1,13 @@
+name: Give Lively
+category: customer_interaction
+tags: revenue::donation-platform
+website_url: https://www.givelively.org
+organization: give_lively
+
+--- domains
+givelively.org
+--- domains
+
+--- filters
+||givelively.org^$3p
+--- filters
