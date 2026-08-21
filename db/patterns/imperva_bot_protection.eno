@@ -1,0 +1,22 @@
+name: Imperva Bot Protection
+category: utilities
+tags: anti-fraud
+website_url: https://www.imperva.com/products/advanced-bot-protection-management/
+organization: imperva
+
+--- domains
+imperva.com
+incapsula.com
+--- domains
+
+--- cookies
+incap_ses_*
+nlbi_*
+reese84
+visid_incap_*
+--- cookies
+
+--- headers
+x-cdn: Incapsula
+x-iinfo
+--- headers

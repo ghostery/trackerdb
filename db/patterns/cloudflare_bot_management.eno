@@ -1,0 +1,26 @@
+name: Cloudflare Bot Management
+category: utilities
+tags: anti-fraud
+website_url: https://www.cloudflare.com/application-services/products/bot-management/
+organization: cloudflare
+
+--- domains
+challenges.cloudflare.com
+--- domains
+
+--- filters
+||challenges.cloudflare.com/turnstile/v0/api.js
+--- filters
+
+--- cookies
+__cf_bm
+__cflb
+__cfruid
+_cfuvid
+cf_clearance
+--- cookies
+
+--- headers
+cf-ray
+server: cloudflare
+--- headers

@@ -20,6 +20,8 @@ const FIELDS_ALLOW_LIST = [
   'category',
   'domains',
   'filters',
+  'cookies',
+  'headers',
   'name',
   'notes',
   'organization',
@@ -28,6 +30,12 @@ const FIELDS_ALLOW_LIST = [
   'archived',
   'tags',
 ];
+
+// cookie-name matcher: RFC-6265-ish token, with an optional trailing '*' prefix-wildcard
+// (e.g. incap_ses_*, visid_incap_*, __ddg*).
+const COOKIE_RE = /^[A-Za-z0-9_.-]+\*?$/;
+// response/request header matcher: header-name, optionally 'name: value'.
+const HEADER_RE = /^[A-Za-z0-9-]+(:\s?.+)?$/;
 
 function parseSpecFile(specFile) {
   return enolib.parse(
@@ -114,10 +122,45 @@ test(RESOURCE_PATH, async (t) => {
         }
       });
 
-      await t.test('has at least one domain if not a alias', () => {
+      await t.test('has at least one matchable signal if not a alias', () => {
         const domains = spec.field('domains').optionalStringValue() || '';
+        const cookies = spec.field('cookies').optionalStringValue() || '';
+        const headers = spec.field('headers').optionalStringValue() || '';
         if (!spec.field('alias').optionalStringValue()) {
-          assert.ok(domains.length > 0, `${specFile} has no domains`);
+          assert.ok(
+            domains.length > 0 || cookies.length > 0 || headers.length > 0,
+            `${specFile} has no domains, cookies, or headers`,
+          );
+        }
+      });
+
+      await t.test('has valid cookies', () => {
+        const cookies = spec.field('cookies').optionalStringValue();
+        if (cookies) {
+          for (const line of cookies.split(/[\r\n]+/g)) {
+            const trimmed = line.trim();
+            if (trimmed) {
+              assert.ok(
+                COOKIE_RE.test(trimmed),
+                `Cookie '${trimmed}' is not a valid cookie-name matcher (letters, digits, _ . -, optional trailing *).`,
+              );
+            }
+          }
+        }
+      });
+
+      await t.test('has valid headers', () => {
+        const headers = spec.field('headers').optionalStringValue();
+        if (headers) {
+          for (const line of headers.split(/[\r\n]+/g)) {
+            const trimmed = line.trim();
+            if (trimmed) {
+              assert.ok(
+                HEADER_RE.test(trimmed),
+                `Header '${trimmed}' is not a valid header matcher ('name' or 'name: value').`,
+              );
+            }
+          }
         }
       });
 
@@ -179,6 +222,27 @@ test(RESOURCE_PATH, async (t) => {
             `Domain lists overlap between: "${domain}" is included both in "${conflict}" and "${specName}"`,
           );
           domainsSeen.set(domain, specName);
+        }
+      }
+    }
+  });
+
+  await t.test('has no overlapping cookies', () => {
+    const cookiesSeen = new Map();
+    for (const specFile of specFiles) {
+      const specName = path.basename(specFile, SPEC_FILE_EXTENSION);
+      const spec = parseSpecFile(specFile);
+      const cookies = spec.field('cookies').optionalStringValue();
+      if (cookies) {
+        for (const line of cookies.split(/[\r\n]+/g)) {
+          const cookie = line.trim();
+          if (!cookie) continue;
+          const conflict = cookiesSeen.get(cookie);
+          assert.ok(
+            !conflict,
+            `Cookie lists overlap: "${cookie}" is included both in "${conflict}" and "${specName}"`,
+          );
+          cookiesSeen.set(cookie, specName);
         }
       }
     }

@@ -26,3 +26,8 @@ cookiepro.com
 ###teconsent
 ||onetrust.com^$third-party
 --- filters
+
+--- cookies
+OptanonAlertBoxClosed
+OptanonConsent
+--- cookies

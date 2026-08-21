@@ -17,6 +17,8 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
     patterns: {},
     domains: {},
     filters: {},
+    cookies: {},
+    headers: {},
   };
 
   for (const [id, spec] of getSpecs('categories')) {
@@ -65,6 +67,8 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
           .filter((t) => t.length > 0) || [],
       domains: [],
       filters: [],
+      cookies: [],
+      headers: [],
     };
 
     const filters = spec.field('filters').optionalStringValue();
@@ -88,6 +92,28 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
         }
       }
     }
+
+    const cookies = spec.field('cookies').optionalStringValue();
+    if (cookies) {
+      for (const line of cookies.split(/[\r\n]+/g)) {
+        const trimmed = line.trim();
+        if (trimmed) {
+          db.patterns[id].cookies.push(trimmed);
+          db.cookies[trimmed] = id;
+        }
+      }
+    }
+
+    const headers = spec.field('headers').optionalStringValue();
+    if (headers) {
+      for (const line of headers.split(/[\r\n]+/g)) {
+        const trimmed = line.trim();
+        if (trimmed) {
+          db.patterns[id].headers.push(trimmed);
+          db.headers[trimmed.toLowerCase()] = id;
+        }
+      }
+    }
   }
 
   console.log('Exported categories:', Object.keys(db.categories).length);
@@ -95,6 +121,8 @@ import { prepareDistFolder, BASE_PATH, getSpecs } from '../helpers.js';
   console.log('Exported patterns:', Object.keys(db.patterns).length);
   console.log('Exported domains:', Object.keys(db.domains).length);
   console.log('Exported filters:', Object.keys(db.filters).length);
+  console.log('Exported cookies:', Object.keys(db.cookies).length);
+  console.log('Exported headers:', Object.keys(db.headers).length);
 
   writeFileSync(outputPath, JSON.stringify(db, null, 2));
 })();

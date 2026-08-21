@@ -1,0 +1,20 @@
+name: Akamai Bot Manager
+category: utilities
+tags: anti-fraud
+website_url: https://www.akamai.com/products/bot-manager
+organization: akamai
+
+--- cookies
+AKA_A2
+_abck
+ak_bmsc
+bm_mi
+bm_so
+bm_sv
+bm_sz
+--- cookies
+
+--- headers
+server: AkamaiGHost
+x-akamai-transformed
+--- headers
