@@ -1,0 +1,12 @@
+name: Screeb
+category: site_analytics
+website_url: https://screeb.app/
+organization: screeb
+
+--- domains
+screeb.app
+--- domains
+
+--- filters
+||screeb.app^$3p
+--- filters
