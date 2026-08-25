@@ -1,12 +1,13 @@
-name: sendinblue
+name: Brevo
 category: advertising
-website_url: 
-organization: sendinblue
+website_url: https://www.brevo.com/
+organization: brevo
 
 --- domains
 sibautomation.com
+in-automate.brevo.com
+cdn.brevo.com
 --- domains
 
 --- filters
-||sibautomation.com/sa.js
 --- filters
