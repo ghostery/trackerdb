@@ -12,5 +12,5 @@ analytics-ipv6.tiktokw.us
 --- filters
 ||analytics.tiktok.com^$3p
 ||mon.tiktokv.com^$3p
-||analytics-ipv6.tiktokw.us^3p
+||analytics-ipv6.tiktokw.us^$3p
 --- filters
