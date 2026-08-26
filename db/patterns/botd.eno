@@ -1,0 +1,10 @@
+name: BotD
+category: utilities
+tags: anti-fraud
+website_url: https://github.com/fingerprintjs/botd
+organization: fingerprint
+alias: fingerprint_cdn
+
+--- filters
+||openfpcdn.io/botd/$3p
+--- filters

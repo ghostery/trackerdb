@@ -1,0 +1,11 @@
+name: FingerprintJS
+category: utilities
+tags: anti-fraud, cross-site
+website_url: https://github.com/fingerprintjs/fingerprintjs
+organization: fingerprint
+alias: fingerprint_cdn
+
+--- filters
+||openfpcdn.io/fingerprintjs/$3p
+||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/$3p
+--- filters

@@ -1,0 +1,31 @@
+name: Fingerprint Pro
+category: utilities
+tags: anti-fraud, cross-site
+website_url: https://fingerprint.com/products/fingerprint-pro/
+organization: fingerprint
+
+--- domains
+api.fpjs.io
+fpjscdn.net
+fpnpmcdn.net
+fpcdn.io
+--- domains
+
+--- filters
+||api.fpjs.io^$3p
+||fpjscdn.net^$3p
+||fpnpmcdn.net^$3p
+||fpcdn.io^$3p
+||openfpcdn.io/fingerprintjs-pro-gtm/$3p
+||openfpcdn.io/gtm-adapter/$3p
+--- filters
+
+--- notes
+Warning: easy to confuse with the free FingerprintJS, for instance:
+
+/* Fingerprint v3.12.14 - Copyright (c) FingerprintJS, Inc, 2026 (https://fingerprint.com) */
+...
+var FingerprintJS=...
+
+Looks like FingerprintJS but is Fingerprint v3.12.14 (Pro version).
+--- notes

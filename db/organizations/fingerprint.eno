@@ -1,0 +1,12 @@
+name: Fingerprint
+website_url: https://fingerprint.com/
+privacy_policy_url: https://docs.fingerprint.com/docs/privacy-policy
+privacy_contact: support@fingerprint.com
+country: US
+description: FingerprintJS Inc., trading as Fingerprint, is an American device intelligence company headquartered in Chicago. It maintains the open source FingerprintJS browser fingerprinting library and the BotD bot detection agent, and sells Fingerprint Pro, a commercial visitor identification service marketed for fraud prevention.
+
+--- notes
+The company was founded as FingerprintJS and dropped the "JS" from its company name on May 31st, 2022: https://fingerprint.com/blog/fingerprintjs-is-now-fingerprint/
+
+"FingerprintJS" survives in the open source library, but also in Pro's npm package and JS global.
+--- notes
