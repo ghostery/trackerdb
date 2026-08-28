@@ -1,0 +1,11 @@
+name: Coralogix RUM
+category: statistics
+website_url: https://coralogix.com/platform/rum/
+organization: coralogix
+
+--- domains
+rum-ingress-coralogix.com
+--- domains
+
+--- filters
+--- filters
