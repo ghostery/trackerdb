@@ -6,7 +6,3 @@ organization: fingerprint
 --- domains
 openfpcdn.io
 --- domains
-
---- filters
-||openfpcdn.io^$3p
---- filters
