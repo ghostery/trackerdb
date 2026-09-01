@@ -60,7 +60,7 @@ body:
     id: company-description
     attributes:
       label: Describe the company
-      description: Tell us what you know about the company. Ensure descriptions are informative and impartial. Please fact check the information if using generative AI. Be prepared to cite sources, if necessary.
+      description: Tell us what you know about the company. Ensure descriptions are informative and impartial. Be prepared to cite sources for any non-obvious claim.
     validations:
       required: false
   - type: dropdown
