@@ -166,9 +166,11 @@ function* iterPatterns() {
     // Read domains
     const domains = extractSection(source, '\n--- domains\n');
     const filters = extractSection(source, '\n--- filters\n');
+    const cookies = extractSection(source, '\n--- cookies\n');
+    const headers = extractSection(source, '\n--- headers\n');
     const notes = extractSection(source, '\n--- notes\n');
 
-    yield { path, source, metadata, domains, filters, notes };
+    yield { path, source, metadata, domains, filters, cookies, headers, notes };
   }
 }
 
@@ -198,6 +200,26 @@ function formatFile(patterns) {
       out.push(line);
     }
     out.push('--- filters');
+    out.push('');
+  }
+
+  // Format cookies (sorted, so canonical order is alphabetical and `--check` enforces it)
+  if (patterns.cookies) {
+    out.push('--- cookies');
+    for (const line of [...new Set(splitlines(patterns.cookies[2]))].sort()) {
+      out.push(line);
+    }
+    out.push('--- cookies');
+    out.push('');
+  }
+
+  // Format headers (sorted, same enforcement as cookies)
+  if (patterns.headers) {
+    out.push('--- headers');
+    for (const line of [...new Set(splitlines(patterns.headers[2]))].sort()) {
+      out.push(line);
+    }
+    out.push('--- headers');
     out.push('');
   }
 
