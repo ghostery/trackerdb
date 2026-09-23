@@ -1,0 +1,13 @@
+name: Affirm
+category: utilities
+tags: anti-fraud 
+website_url: https://www.affirm.com
+organization: affirm
+
+--- domains
+affirm.com
+--- domains
+
+--- filters
+||affirm.com^$3p
+--- filters
