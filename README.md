@@ -96,6 +96,8 @@ Output:
 
 We encourage contributions from developers of all levels. If you come across any errors, such as typos, inaccuracies, or outdated information, please don't hesitate to open an issue, or, even better, send us a pull request. Your feedback is highly valued!
 
+See [docs/contributing.md](docs/contributing.md) for a walkthrough of adding a new tracker — file formats, category guidance, sourcing expectations, and how to verify your changes.
+
 If you are new to the project or want an easy starting point, check out our [Good First Issues](https://github.com/ghostery/trackerdb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). These are beginner-friendly tasks to help you get acquainted with our project. If you are unsure about an issue or have questions, feel free to ask in the issue comments.
 
 ### Data Partners
