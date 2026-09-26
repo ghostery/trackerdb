@@ -11,7 +11,7 @@ At Ghostery, we're committed to describing things exactly as they are.
 The structure of Ghostery Tracker Database is simple and consists of three main elements:
 * **categories** - [advertising, site analytics, consent management, etc.](docs/categories.md)
 * **organizations** - companies like [Google](db/organizations/google.eno) or [Meta](db/organizations/facebook.eno), but also open source software like [Matomo](db/organizations/matomo.eno)
-* **patterns** - that express various behaviors performed by organizations. For example, a pattern for [Google Analytics](db/patterns/google_analytics.eno) is categorized as [site analytics](docs/categories.md#site-analytics), but a pattern for [Google Tag Manager](db/patterns/google_tag_manager.eno) is categorized as [utilities](docs/categories.md#utilities).
+* **patterns** - that express various behaviors performed by organizations. For example, a pattern for [Google Analytics](db/patterns/google_analytics.eno) is categorized as [site analytics](docs/categories.md#site-analytics), but a pattern for [Google Tag Manager](db/patterns/google_tag_manager.eno) is categorized as [utilities](docs/categories.md#utilities). Patterns can also declare [cookie and header signals](docs/response-signals.md) to attribute requests a URL can't reveal (e.g. CNAME-cloaked vendors).
 
 ## Where is it used?
 
@@ -39,6 +39,15 @@ const urlMatches = await trackerDB.matchUrl({
 }, {
     getDomainMetadata: true,
 });
+```
+
+Pass the parsed `trackerdb.json` as a second argument to also match [cookies and headers](docs/response-signals.md) on the same matcher:
+
+```js
+const trackerDB = await loadTrackerDB(engine, trackerDBJson);
+
+trackerDB.matchCookie('datadome');
+trackerDB.matchHeader('cf-ray');
 ```
 
 ## CLI
