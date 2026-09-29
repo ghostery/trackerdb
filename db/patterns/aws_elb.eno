@@ -1,0 +1,8 @@
+name: AWS Elastic Load Balancing
+category: hosting
+website_url: https://aws.amazon.com/elasticloadbalancing/
+organization: amazon_associates
+
+--- cookies
+AWSALB*
+--- cookies

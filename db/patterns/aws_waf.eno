@@ -1,0 +1,17 @@
+name: AWS WAF
+category: utilities
+tags: anti-fraud
+website_url: https://aws.amazon.com/waf/
+organization: amazon_associates
+
+--- domains
+token.awswaf.com
+--- domains
+
+--- filters
+||token.awswaf.com^$3p
+--- filters
+
+--- cookies
+aws-waf-token
+--- cookies

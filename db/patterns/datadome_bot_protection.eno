@@ -1,0 +1,22 @@
+name: DataDome Bot Protection
+category: utilities
+tags: anti-fraud
+website_url: https://datadome.co/products/bot-protection/
+organization: datadome
+
+--- domains
+captcha-delivery.com
+--- domains
+
+--- filters
+||captcha-delivery.com^$3p
+--- filters
+
+--- cookies
+__ddg*
+datadome
+--- cookies
+
+--- headers
+x-datadome
+--- headers
