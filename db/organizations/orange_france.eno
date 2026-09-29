@@ -1,9 +1,9 @@
 name: Orange France
 website_url: https://www.orange.fr/
-privacy_policy_url: https://c.orange.fr/donnees-personnelles.html
-privacy_contact: 
-country: 
-description: 
+privacy_policy_url: https://www.orange.fr/donnees-personnelles
+privacy_contact: group-dpo.donnees-personnelles@orange.com
+country: FR
+description: Orange France is the French arm of Orange S.A. (formerly France Télécom), the French multinational telecommunications corporation headquartered in Issy-les-Moulineaux near Paris. It provides mobile, broadband, TV and fixed-line services in France and operates the orange.fr web portal.
 
 --- notes
 --- notes
