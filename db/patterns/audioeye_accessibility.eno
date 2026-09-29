@@ -6,9 +6,11 @@ organization: audioeye
 --- domains
 audioeye-services.com
 portal.prod-audioeye.com
+wsv3cdn.audioeye.com
 --- domains
 
 --- filters
 ||audioeye-services.com^$3p
 ||portal.prod-audioeye.com^$3p
+||wsv3cdn.audioeye.com^$3p
 --- filters
