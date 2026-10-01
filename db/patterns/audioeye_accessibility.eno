@@ -1,16 +1,18 @@
 name: AudioEye accessibility
 category: utilities
-website_url: https://www.audioeye.com/domain-change-update/
+website_url: https://www.audioeye.com/solution/digital-accessibility-platform/
 organization: audioeye
 
 --- domains
 audioeye-services.com
 portal.prod-audioeye.com
+wsmcdn.audioeye.com
 wsv3cdn.audioeye.com
 --- domains
 
 --- filters
 ||audioeye-services.com^$3p
 ||portal.prod-audioeye.com^$3p
+||wsmcdn.audioeye.com^$3p
 ||wsv3cdn.audioeye.com^$3p
 --- filters
