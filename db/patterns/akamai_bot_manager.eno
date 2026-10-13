@@ -1,0 +1,17 @@
+name: Akamai Bot Manager
+category: utilities
+tags: anti-fraud
+website_url: https://www.akamai.com/products/bot-manager
+organization: akamai
+alias: akamai_technologies
+
+--- filters
+/akam/*/pixel_
+/akam/10/*
+/akam/11/*
+/akam/13/*
+--- filters
+
+--- notes
+See https://github.com/easylist/easylist/issues/14805
+--- notes
