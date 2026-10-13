@@ -1,0 +1,14 @@
+name: Kasada
+category: utilities
+tags: anti-fraud
+website_url: https://www.kasada.io/
+organization: kasada
+
+--- domains
+kasada.io
+--- domains
+
+--- cookies
+KP_UIDz
+KP_UIDz-ssn
+--- cookies

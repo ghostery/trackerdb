@@ -1,0 +1,10 @@
+name: IAB TCF Consent
+category: consent
+website_url: https://iabeurope.eu/transparency-consent-framework/
+organization: iab
+
+--- cookies
+addtl_consent
+euconsent-v2
+eupubconsent-v2
+--- cookies
