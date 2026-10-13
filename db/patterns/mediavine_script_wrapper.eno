@@ -1,0 +1,12 @@
+name: Mediavine Script Wrapper
+category: advertising
+website_url: https://help.mediavine.com/script-wrapper-overview
+organization: mediavine_inc
+
+--- domains
+scriptwrapper.com
+--- domains
+
+--- filters
+||scriptwrapper.com^$3p
+--- filters
