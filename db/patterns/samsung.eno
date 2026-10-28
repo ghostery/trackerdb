@@ -1,0 +1,12 @@
+name: samsung.com
+category: site_analytics
+website_url: https://samsung.com/
+organization: samsung
+
+--- domains
+samsung.com
+--- domains
+
+--- filters
+||samsung.com/chat/api/livechat/prompt/browse/event
+--- filters
