@@ -1,0 +1,13 @@
+name: Reddit Ads Pixel
+category: advertising
+website_url: https://business.reddithelp.com/s/article/reddit-pixel
+organization: reddit
+
+--- domains
+alb.reddit.com
+redditstatic.com
+--- domains
+
+--- filters
+||redditstatic.com/ads/pixel.js^$3p
+--- filters
