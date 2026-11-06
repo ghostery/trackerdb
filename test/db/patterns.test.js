@@ -121,6 +121,32 @@ test(RESOURCE_PATH, async (t) => {
         }
       });
 
+      await t.test('alias must reference a different existing pattern', () => {
+        const alias = spec.field('alias').optionalStringValue();
+        if (alias) {
+          assert.notStrictEqual(
+            alias,
+            specName,
+            `${specFile} has a self-referring alias; remove the alias line`,
+          );
+          assert.ok(
+            specFiles.includes(`${alias}.eno`),
+            `${specFile} aliases to '${alias}' but db/patterns/${alias}.eno does not exist`,
+          );
+        }
+      });
+
+      await t.test('has no domains if it is an alias', () => {
+        const alias = spec.field('alias').optionalStringValue();
+        const domains = spec.field('domains').optionalStringValue() || '';
+        if (alias) {
+          assert.ok(
+            domains.length === 0,
+            `${specFile} is an alias of '${alias}' but still defines domains: ${domains.replace(/\n/g, ', ')}. Move them to '${alias}.eno'.`,
+          );
+        }
+      });
+
       await t.test('has valid filters', () => {
         const filters = spec.field('filters').optionalStringValue();
         if (filters) {

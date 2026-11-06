@@ -2,7 +2,6 @@ name: Daum Search
 category: customer_interaction
 website_url: https://www.daum.net/
 organization: kakao
-alias: daum.net
 
 --- domains
 daum.net
