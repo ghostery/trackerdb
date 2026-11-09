@@ -1,0 +1,13 @@
+name: Batch
+category: customer_interaction
+tags: site-statistics
+website_url: https://batch.com/
+organization: batch
+
+--- domains
+batch.com
+--- domains
+
+--- filters
+||via.batch.com/v4/bootstrap.min.js^$3p
+--- filters
