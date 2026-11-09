@@ -10,4 +10,5 @@ batch.com
 
 --- filters
 ||via.batch.com/v4/bootstrap.min.js^$3p
+||via.batch.com/v5/bootstrap.min.js^$3p
 --- filters
