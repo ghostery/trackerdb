@@ -1,0 +1,12 @@
+name: Lime Forms
+category: customer_interaction
+website_url: https://www.lime-technologies.com/en/products/lime-crm/features/web-forms/
+organization: lime_technologies
+
+--- domains
+lime-forms.com
+--- domains
+
+--- filters
+||lime-forms.com^$3p
+--- filters
