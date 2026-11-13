@@ -1,0 +1,13 @@
+name: Start.io
+website_url: https://www.start.io/
+privacy_policy_url: https://www.start.io/policy/privacy-policy/
+privacy_contact: privacy@start.io
+country: US
+description: Start.io (formerly StartApp) is a mobile advertising and data company. It was launched in 2010 and has offices in New York, Tel Aviv and other locations. Its SDK is embedded in mobile apps to serve ads. It collects the advertising ID, IP address, last known location, name of the app, a query of installed apps, carrier, network connection and Wi-Fi data, and it may sell, license or share this data with advertisers and data partners.
+
+--- notes
+Country is not 100 % clear. In a Bloomberg article, it is referred to as an Israeli startup; but the legal entity seems to be in the US:
+Start.io Inc., 584 Broadway St., New York, NY 10012 (end user privacy policy, last update July 1, 2025).
+
+Data partners list: https://www.start.io/startio-data-partners-list
+--- notes
