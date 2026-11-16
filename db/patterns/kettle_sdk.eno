@@ -1,0 +1,10 @@
+name: Kettle SDK
+category: site_analytics
+website_url: https://developer.kogenta.com/docs/kettle/
+organization: kogenta
+
+--- domains
+kogenta.com
+pinch.services
+kettleartifacts.blob.core.windows.net
+--- domains
